@@ -3,37 +3,27 @@ import os
 import requests
 from datetime import datetime, timedelta
 from pathlib import Path
+from urllib.parse import urlparse
 from dateutil import parser as dateparser
 
 NEWS_API_KEY = os.environ.get("NEWS_API_KEY", "")
 NEWS_API_URL = "https://newsapi.org/v2/everything"
 
-KEYWORDS = [
-    "AI governance",
-    "artificial intelligence board directors",
-    "AI regulation enterprise",
-    "IA gouvernance entreprise",
-    "Anthropic",
-    "OpenAI strategy",
-    "AI responsibility executives",
-    "large language model enterprise",
-    "AI risk management board",
-    "DeepMind research",
-]
 
-DOMAINS = [
-    "anthropic.com",
-    "openai.com",
-    "deepmind.google",
-    "ycombinator.com",
-    "a16z.com",
-    "deeplearning.ai",
-    "hai.stanford.edu",
-    "hbr.org",
-    "ifa-asso.com",
-    "insead.edu",
-    "news.mit.edu",
-]
+def load_sources():
+    sources_path = Path(__file__).parent.parent / "sources.json"
+    with open(sources_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    domains = []
+    for s in data.get("sources", []):
+        if not s.get("active", True):
+            continue
+        url = s.get("url", "")
+        if url:
+            host = urlparse(url).netloc.lstrip("www.")
+            if host:
+                domains.append(host)
+    return domains
 
 
 def load_memory():
@@ -76,6 +66,7 @@ def fetch_articles(memory, days=7):
     processed_urls = set(memory.get("processed_urls", []))
     new_articles = []
     seen_urls = set()
+    allowed_domains = load_sources()
 
     to_date = datetime.now()
     from_date = to_date - timedelta(days=days)
@@ -87,14 +78,15 @@ def fetch_articles(memory, days=7):
         query="artificial intelligence",
         from_date=from_str,
         to_date=to_str,
-        domains=DOMAINS,
+        domains=allowed_domains,
     )
 
-    # Recherche 2 : gouvernance IA en entreprise (recherche large)
+    # Recherche 2 : gouvernance IA en entreprise
     governance_articles = fetch_from_newsapi(
         query="\"AI governance\" OR \"artificial intelligence governance\" OR \"AI board\" OR \"AI regulation\" enterprise",
         from_date=from_str,
         to_date=to_str,
+        domains=allowed_domains,
     )
 
     # Recherche 3 : responsabilité dirigeants face à l'IA
@@ -102,6 +94,7 @@ def fetch_articles(memory, days=7):
         query="\"AI risk\" OR \"AI strategy\" board directors CEO executives enterprise 2026",
         from_date=from_str,
         to_date=to_str,
+        domains=allowed_domains,
     )
 
     all_raw = domain_articles + governance_articles + leadership_articles
