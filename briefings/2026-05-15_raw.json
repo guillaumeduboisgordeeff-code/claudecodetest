@@ -1,38 +1,5 @@
 {
   "date": "2026-05-15",
-  "articles_count": 4,
-  "articles": [
-    {
-      "title": "Substrate (YC S24) Is Hiring a Technical Success Manager",
-      "url": "https://www.ycombinator.com/companies/substrate/jobs/T2fMBhD-technical-success-manager",
-      "summary": "About Substrate\n\nSubstrate (www.substrate.cc) is building the world’s first AI native BPO, starting with healthcare RCM. We’re focused on\nhelping healthcare enterprises like physician groups, EMR providers, and BPOs accelerate AR, and get reimbursed quickly\na…",
-      "published": "2026-05-13T12:00:30",
-      "source_name": "Hacker News",
-      "source_category": "news"
-    },
-    {
-      "title": "Microsoft’s Path to Adopting and Scaling AI Across its Sales Organization",
-      "url": "https://hbr.org/podcast/2026/05/microsofts-path-to-adopting-and-scaling-ai-across-its-sales-organization",
-      "summary": "A case study on why the standard deployment playbook didn’t work when the tech giant rolled out CoPilot to a key department – and how they adjusted course.",
-      "published": "2026-05-12T12:10:00",
-      "source_name": "Harvard Business Review",
-      "source_category": "news"
-    },
-    {
-      "title": "Claude for Small Business",
-      "url": "https://www.anthropic.com/news/claude-for-small-business",
-      "summary": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
-      "published": "2026-05-14T03:59:35",
-      "source_name": "Anthropic.com",
-      "source_category": "news"
-    },
-    {
-      "title": "LLMs Corrupt Your Documents When You Delegate",
-      "url": "https://arxiv.org/html/2604.15597v1",
-      "summary": "Discover how LLMs can subtly alter your documents and learn practical strategies to prevent data corruption. Safeguard your work with expert insights and actionable tools.",
-      "published": "2026-05-12T05:47:02",
-      "source_name": "Arxiv.org",
-      "source_category": "news"
-    }
-  ]
+  "articles_count": 0,
+  "articles": []
 }
