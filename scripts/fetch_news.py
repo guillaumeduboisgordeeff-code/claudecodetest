@@ -1,13 +1,40 @@
 import json
-import feedparser
+import os
+import requests
 from datetime import datetime, timedelta
 from pathlib import Path
 from dateutil import parser as dateparser
 
+NEWS_API_KEY = os.environ.get("NEWS_API_KEY", "")
+NEWS_API_URL = "https://newsapi.org/v2/everything"
 
-def load_sources():
-    with open("sources.json", "r", encoding="utf-8") as f:
-        return json.load(f)
+KEYWORDS = [
+    "AI governance",
+    "artificial intelligence board directors",
+    "AI regulation enterprise",
+    "IA gouvernance entreprise",
+    "Anthropic",
+    "OpenAI strategy",
+    "AI responsibility executives",
+    "large language model enterprise",
+    "AI risk management board",
+    "DeepMind research",
+]
+
+DOMAINS = [
+    "anthropic.com",
+    "openai.com",
+    "deepmind.google",
+    "ycombinator.com",
+    "a16z.com",
+    "deeplearning.ai",
+    "hai.stanford.edu",
+    "hbr.org",
+    "ifa-asso.com",
+    "insead.edu",
+    "news.mit.edu",
+    "arxiv.org",
+]
 
 
 def load_memory():
@@ -23,67 +50,91 @@ def save_memory(memory):
         json.dump(memory, f, ensure_ascii=False, indent=2)
 
 
-def parse_date(entry):
-    for attr in ("published_parsed", "updated_parsed"):
-        val = getattr(entry, attr, None)
-        if val:
-            try:
-                return datetime(*val[:6])
-            except Exception:
-                pass
-    for attr in ("published", "updated"):
-        val = getattr(entry, attr, None)
-        if val:
-            try:
-                return dateparser.parse(val, ignoretz=True)
-            except Exception:
-                pass
-    return None
+def fetch_from_newsapi(query, from_date, to_date, domains=None):
+    params = {
+        "apiKey": NEWS_API_KEY,
+        "q": query,
+        "from": from_date,
+        "to": to_date,
+        "language": "en",
+        "sortBy": "relevancy",
+        "pageSize": 30,
+    }
+    if domains:
+        params["domains"] = ",".join(domains)
+
+    try:
+        response = requests.get(NEWS_API_URL, params=params, timeout=10)
+        response.raise_for_status()
+        data = response.json()
+        return data.get("articles", [])
+    except Exception as e:
+        print(f"⚠ Erreur NewsAPI (query='{query}'): {e}")
+        return []
 
 
-def fetch_articles(sources, memory, days=7):
-    cutoff = datetime.now() - timedelta(days=days)
-    new_articles = []
+def fetch_articles(memory, days=7):
     processed_urls = set(memory.get("processed_urls", []))
+    new_articles = []
+    seen_urls = set()
 
-    for source in sources:
-        if not source.get("active") or not source.get("rss"):
+    to_date = datetime.now()
+    from_date = to_date - timedelta(days=days)
+    from_str = from_date.strftime("%Y-%m-%dT%H:%M:%S")
+    to_str = to_date.strftime("%Y-%m-%dT%H:%M:%S")
+
+    # Recherche 1 : articles sur les domaines clés avec thème gouvernance IA
+    domain_articles = fetch_from_newsapi(
+        query="artificial intelligence OR AI governance OR board OR regulation",
+        from_date=from_str,
+        to_date=to_str,
+        domains=DOMAINS,
+    )
+
+    # Recherche 2 : recherche large par mots-clés gouvernance IA
+    keyword_articles = fetch_from_newsapi(
+        query="AI governance board directors enterprise risk responsibility",
+        from_date=from_str,
+        to_date=to_str,
+    )
+
+    all_raw = domain_articles + keyword_articles
+
+    for item in all_raw:
+        url = (item.get("url") or "").strip()
+        if not url or url in processed_urls or url in seen_urls:
             continue
-        try:
-            feed = feedparser.parse(source["rss"])
-            for entry in feed.entries:
-                url = entry.get("link", "").strip()
-                if not url or url in processed_urls:
-                    continue
+        seen_urls.add(url)
 
-                published = parse_date(entry)
-                if published and published < cutoff:
-                    continue
+        published = None
+        raw_date = item.get("publishedAt")
+        if raw_date:
+            try:
+                published = dateparser.parse(raw_date, ignoretz=True)
+            except Exception:
+                pass
 
-                summary = entry.get("summary", "") or entry.get("description", "")
-                summary = summary[:600].strip()
+        source_name = (item.get("source") or {}).get("name", "Source inconnue")
 
-                new_articles.append({
-                    "title": entry.get("title", "").strip(),
-                    "url": url,
-                    "summary": summary,
-                    "published": published.isoformat() if published else None,
-                    "source_name": source["name"],
-                    "source_category": source["category"],
-                })
-                processed_urls.add(url)
+        new_articles.append({
+            "title": (item.get("title") or "").strip(),
+            "url": url,
+            "summary": (item.get("description") or item.get("content") or "")[:600].strip(),
+            "published": published.isoformat() if published else None,
+            "source_name": source_name,
+            "source_category": "news",
+        })
 
-        except Exception as e:
-            print(f"⚠ Erreur source '{source['name']}': {e}")
-
-    return new_articles, processed_urls
+    return new_articles, seen_urls | processed_urls
 
 
 def main():
-    sources_data = load_sources()
-    memory = load_memory()
+    if not NEWS_API_KEY:
+        print("⚠ Variable d'environnement NEWS_API_KEY manquante.")
+        return
 
-    articles, all_processed_urls = fetch_articles(sources_data["sources"], memory)
+    memory = load_memory()
+    articles, all_processed_urls = fetch_articles(memory)
 
     date_str = datetime.now().strftime("%Y-%m-%d")
     briefings_dir = Path("briefings")

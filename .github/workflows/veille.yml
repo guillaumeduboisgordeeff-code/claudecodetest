@@ -27,6 +27,8 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Collecter les articles de la semaine
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
         run: python scripts/fetch_news.py
 
       - name: Sauvegarder les résultats dans le dépôt
