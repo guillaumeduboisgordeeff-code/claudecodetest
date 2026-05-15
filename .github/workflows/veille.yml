@@ -32,9 +32,12 @@ jobs:
         run: python scripts/fetch_news.py
 
       - name: Sauvegarder les résultats dans le dépôt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "Veille Bot"
           git config user.email "bot@veille"
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/guillaumeduboisgordeeff-code/claudecodetest.git
           git add briefings/ memory.json
           git diff --staged --quiet || git commit -m "Veille du $(date +'%Y-%m-%d')"
           git push
