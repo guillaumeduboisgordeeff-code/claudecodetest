@@ -1,8 +1,8 @@
-name: Collecte hebdomadaire des articles
+name: Collecte quotidienne des articles
 
 on:
   schedule:
-    - cron: "0 6 * * 1"  # Chaque lundi à 6h UTC
+    - cron: "0 5 * * *"  # Chaque jour à 7h Paris (UTC+2 été / UTC+1 hiver — conservatif)
   workflow_dispatch:      # Déclenchement manuel possible
 
 jobs:
