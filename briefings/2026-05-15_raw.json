@@ -1,0 +1,230 @@
+{
+  "date": "2026-05-15",
+  "articles_count": 28,
+  "articles": [
+    {
+      "title": "AI Alignment Amplifies the Role of Race, Gender, and Disability in Hiring Decisions",
+      "url": "https://arxiv.org/abs/2605.13866",
+      "summary": "arXiv:2605.13866v1 Announce Type: new \nAbstract: Humans increasingly delegate decisions to language models, yet whether these systems reproduce or reshape human patterns of discrimination remains unclear. Here we run a large-scale study to analyse whether language models use demographic information in hiring decisions. We show, across 27 models and 177 occupations, that language models give female and Black candidates hiring advantages relative to otherwise-comparable male and white candidates, while giving disabled candidates disadvantages. The differences are meaningful in magnitude: the rol",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Modeling AI-TPACK in Practice Insights from Teachers Multi-Agent Workflow Design",
+      "url": "https://arxiv.org/abs/2605.13906",
+      "summary": "arXiv:2605.13906v1 Announce Type: new \nAbstract: This study investigates teachers design behaviors and cognitive underpinnings when designing multi-agent instructional workflows. Analyzing behavioral logs (N=61), cluster and Markov analyses identified three archetypes: Systematic Optimizers iteratively refining complex architectures; Prolific Creators rapidly prototyping pragmatic tools via scaffolding; and Passive Observers exhibiting polarized expert-novice profiles. Subsequent artifact (n=15) and interview (n=12) analyses reveal AI-TPACK integration emerges from a dynamic interplay of syste",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Measuring Google AI Overviews: Activation, Source Quality, Claim Fidelity, and Publisher Impact",
+      "url": "https://arxiv.org/abs/2605.14021",
+      "summary": "arXiv:2605.14021v1 Announce Type: new \nAbstract: Google AI Overviews (AIOs) are arguably the most widely encountered deployment of generative AI, reaching over 2 billion users who may not realize the answers they see are AI-generated. Where search engines have traditionally surfaced ranked sources and left users to evaluate them, AIOs synthesize and deliver a single answer - giving Google unprecedented editorial control over what users read and know. We present a large-scale longitudinal measurement study, issuing 55,393 trending queries across 19 topical categories over a 40-day window (March",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Synthetic Sociality: How Generative Models Privatize the Social Fabric",
+      "url": "https://arxiv.org/abs/2605.14090",
+      "summary": "arXiv:2605.14090v1 Announce Type: new \nAbstract: We put forth a critical theoretical framework for analyzing generative models both descriptively and normatively. Our thesis is that generative models automate the production not only of intellectual labor or intelligence, but of a broader set of human social capacities we name \"social doing.\" We do this by historicizing the commodification of sociality in the digital economy, leading to the availability of social data as the precondition for generative models. We elaborate our definition of \"social doing\" by drawing a distinction between \"use\"",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Computational Thinking Development in AI Agent Creation_A Mixed-Methods Study",
+      "url": "https://arxiv.org/abs/2605.14330",
+      "summary": "arXiv:2605.14330v1 Announce Type: new \nAbstract: This mixed-methods study examined computational thinking (CT) development among 93 pre-high school students in a five-day AI agent creation workshop using CocoFlow, a no-code platform. Integrating pre-post assessments, behavioral logs, and interviews, we investigated CT development and how initial CT levels shape learning trajectories. Results revealed significant improvements in abstract thinking (effect size d = 0.71) and algorithmic thinking (effect size d = 0.70). Hierarchical regression identified iterative testing engagement as a predictor",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "GGBound: A Genome-Grounded Agent for Microbial Life-Boundary Prediction",
+      "url": "https://arxiv.org/abs/2605.14442",
+      "summary": "arXiv:2605.14442v1 Announce Type: new \nAbstract: Characterizing the physiological life boundaries of microbial strains, including viable temperature, pH, salinity, substrate utilization, and morphology, is central to biotechnology and ecology, yet traditionally requires exhaustive in vitro screening. Existing computational approaches either treat physiological traits as isolated supervised targets or repurpose biological foundation models as static encoders, leaving the genotype-to-physiology gap largely unbridged. We formulate microbial life-boundary prediction as a unified genome-to-physiolo",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Racial Character of Computer Graphics Research",
+      "url": "https://arxiv.org/abs/2605.14835",
+      "summary": "arXiv:2605.14835v1 Announce Type: new \nAbstract: Computer graphics algorithms for generating photorealistic imagery are widely perceived to be universal, and capable of conjuring anything that a filmmaker or game designer can imagine. However, recent works have suggested that 3D algorithms for depicting synthetic humans are far from generic, and instead favor historically hegemonic characteristics. We present the first systematic review of human depiction in the top computer graphics conference and the journal of record (SIGGRAPH and ACM Transactions on Graphics) that confirms previous hypothe",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Tradeoffs are Domain Dependent: Improving Accuracy and Fairness in Property Tax Assessments",
+      "url": "https://arxiv.org/abs/2605.15020",
+      "summary": "arXiv:2605.15020v1 Announce Type: new \nAbstract: Algorithmic fairness research often assumes a tradeoff between fairness and accuracy. Yet this tradeoff may not be universal. We test this assumption in the context of U.S. property tax assessment - a setting in which the output of predictive algorithms directly determines the distribution of tax obligations among homeowners. Currently, systematic assessment errors cause owners of lower-valued properties to face disproportionately high tax burdens, creating regressivity in the property tax system. Using data on 26 million property sales spanning",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Due Process on Hold: A Queueing Framework for Improving Access in SNAP",
+      "url": "https://arxiv.org/abs/2605.15165",
+      "summary": "arXiv:2605.15165v1 Announce Type: new \nAbstract: The U.S. social safety net delivers essential services at mass scale, but access burdens persist, as congested contact or call centers serve as a primary mode of application completion and assistance. In Holmes v. Knodell, Missouri's SNAP call centers were so congested that nearly half of all application denials were procedural, caused by applicants' inability to complete required interviews, rather than underlying ineligibility. The judge ruled these system failures led to a violation of procedural due process. We propose a performance evaluati",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Invisible Orchestrators Suppress Protective Behavior and Dissociate Power-Holders: Safety Risks in Multi-Agent LLM Systems",
+      "url": "https://arxiv.org/abs/2605.13851",
+      "summary": "arXiv:2605.13851v1 Announce Type: cross \nAbstract: Multi-agent orchestration -- in which a hidden coordinator manages specialized worker agents -- is becoming the default architecture for enterprise AI deployment, yet the safety implications of orchestrator invisibility have never been empirically tested. We conducted a preregistered 3x2 experiment (365 runs, 5 agents per run) crossing three organizational structures (visible leader, invisible orchestrator, flat) with two alignment conditions (base, heavy), using Claude Sonnet 4.5. Four confirmatory findings and one pilot observation emerged.",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Descriptive to Prescriptive: Uncover the Social Value Alignment of LLM-based Agents",
+      "url": "https://arxiv.org/abs/2605.14034",
+      "summary": "arXiv:2605.14034v1 Announce Type: cross \nAbstract: Wide applications of LLM-based agents require strong alignment with human social values. However, current works still exhibit deficiencies in self-cognition and dilemma decision, as well as self-emotions. To remedy this, we propose a novel value-based framework that employs GraphRAG to convert principles into value-based instructions and steer the agent to behave as expected by retrieving the suitable instruction upon a specific conversation context. To evaluate the ratio of expected behaviors, we define the expected behaviors from two famous",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning",
+      "url": "https://arxiv.org/abs/2605.14049",
+      "summary": "arXiv:2605.14049v1 Announce Type: cross \nAbstract: The growing adoption of large language models in legal practice brings both significant promise and serious risk. Legal professionals stand to benefit from AI that can reason over contracts, draft documents, and analyze sources at scale, yet the high-stakes nature of legal work demands a level of rigor that current AI systems do not provide. The central problem is not simply that LLMs hallucinate facts and references; it is that they systematically draw inferences that go beyond what the source text actually supports, presenting assumption-lad",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "ROK-FORTRESS: Measuring the Effect of Geopolitical Transcreation for National Security and Public Safety",
+      "url": "https://arxiv.org/abs/2605.14152",
+      "summary": "arXiv:2605.14152v1 Announce Type: cross \nAbstract: Safety evaluations for large language models (LLMs) increasingly target high-stakes National Security and Public Safety (NSPS) risks, yet multilingual safety is typically assessed through translation-only benchmarks that preserve the underlying scenario, and empirical evidence of how language and geopolitical context interact remains limited to a narrow set of language pairs. We introduce \\emph{ROK-FORTRESS} https://huggingface.co/datasets/ScaleAI/ROK-FORTRESS_public, a bilingual, culturally adversarial NSPS benchmark that uses the English--Ko",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Evaluation Trap: Benchmark Design as Theoretical Commitment",
+      "url": "https://arxiv.org/abs/2605.14167",
+      "summary": "arXiv:2605.14167v1 Announce Type: cross \nAbstract: Every AI benchmark operationalizes theoretical assumptions about the capability it claims to assess. When assumptions function as unexamined commitments, benchmarks stabilize the dominant paradigm by narrowing what counts as progress. Over time, narrow evaluation reorganizes capability concepts: architectures and definitions are selected for benchmark legibility until evaluation ceases to track an independent object and instead produces a version of the target defined by its own operational assumptions. The result is a trap: evaluation framewo",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Agentic AI Ecosystems in Higher Education: A Perspective on AI Agents to Emerging Inclusive, Agentic Multi-Agent AI Framework for Learning, Teaching and Institutional Intelligence",
+      "url": "https://arxiv.org/abs/2605.14266",
+      "summary": "arXiv:2605.14266v1 Announce Type: cross \nAbstract: Integration of artificial intelligent (AI) agents in higher education is transforming teaching, learning and administrative processes. Although existing AI agents effectively support individual tasks, their implementation remains fragmented and inefficient for handling the complexity of educational institutions. This highlights a significant research gap: the lack of integrated eco-system-level agentic multi-agent AI platform capable of coordinated planning, reasoning, and adaptive decision-making across multiple educational functions. This pa",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Auditing Agent Harness Safety",
+      "url": "https://arxiv.org/abs/2605.14271",
+      "summary": "arXiv:2605.14271v1 Announce Type: cross \nAbstract: LLM agents increasingly run inside execution harnesses that dispatch tools, allocate resources, and route messages between specialized components. However, a harness can return a correct, benign answer over a trajectory that accesses unauthorized resources or leaks context to the wrong agent. Output-level evaluation cannot see these failures, yet most safety benchmarks score only final outputs or terminal states, even though many violations occur mid-trajectory rather than at termination. The central question is whether the harness respects us",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "ViMU: Benchmarking Video Metaphorical Understanding",
+      "url": "https://arxiv.org/abs/2605.14607",
+      "summary": "arXiv:2605.14607v1 Announce Type: cross \nAbstract: Any new medium, once it emerges, is used for more than the transmission of overt content alone. The information it carries typically operates on two levels: one is the content directly presented, while the other is the subtext beneath it-the implicit ideas and intentions the creator seeks to convey through the medium. Likewise, since video technologies became widely adopted, video has served not only as a powerful tool for recording and communicating visual information, but also as a vehicle for emotions, attitudes, and social meanings that ar",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Mechanical Enforcement for LLM Governance:Evidence of Governance-Task Decoupling in Financial Decision Systems",
+      "url": "https://arxiv.org/abs/2605.14744",
+      "summary": "arXiv:2605.14744v1 Announce Type: cross \nAbstract: Large language models in regulated financial workflows are governed by natural-language policies that the same model interprets, creating a principal--agent failure: outputs can appear compliant without being compliant. Existing evaluation measures task accuracy but not whether governance constrains behaviour at the decision rationale level -- where regulated decisions must be auditable. We introduce five governance metrics that quantify policy compliance at the rationale level and apply them in a synthetic banking domain to compare text-only",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Sycophantic Consensus to Pluralistic Repair: Why AI Alignment Must Surface Disagreement",
+      "url": "https://arxiv.org/abs/2605.14912",
+      "summary": "arXiv:2605.14912v1 Announce Type: cross \nAbstract: Pluralistic alignment is typically operationalised as preference aggregation: producing responses that span (Overton), steer toward (Steerable), or proportionally represent (Distributional) diverse human values. We argue that aggregation alone is an incomplete primitive for deployed pluralistic alignment. Under genuine value pluralism, the failure mode of contemporary RLHF-trained assistants is not insufficient coverage but sycophantic consensus: a learned tendency to agree with, validate, and minimise friction with the immediate interlocutor.",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Static and Dynamic Strategies for Influencing Opinions in Social Networks",
+      "url": "https://arxiv.org/abs/2605.14918",
+      "summary": "arXiv:2605.14918v1 Announce Type: cross \nAbstract: The ability of a small set of coordinated actors to manipulate opinions in online social networks poses a serious challenge to the fairness and integrity of public debate. We investigate this problem by studying how targeted stubborn agents can shift the average opinion of a network governed by the Hegselmann-Krause bounded-confidence dynamics. Experiments are conducted on weighted LFR benchmark networks with community structure, using multiple node-selection strategies based on degree, strength, PageRank, betweenness, k-coreness, s-coreness,",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Agreement, Diversity, and Polarization Indices for Approval Elections",
+      "url": "https://arxiv.org/abs/2605.14983",
+      "summary": "arXiv:2605.14983v1 Announce Type: cross \nAbstract: An index is a function that given an election outputs a value between 0 and 1, indicating the extent to which this election has a particular feature. We seek indices that capture agreement, diversity, and polarization among voters in approval elections, and that are normalized with respect to saturation. By the latter we mean that if two elections differ by the fraction of candidates approved by an average voter, but otherwise are of similar nature, then they should have similar index values. We propose several indices, analyze their propertie",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Knows When It's Being Watched: Functional Strategic Action and Contextual Register Modulation in Large Language Models",
+      "url": "https://arxiv.org/abs/2605.15034",
+      "summary": "arXiv:2605.15034v1 Announce Type: cross \nAbstract: Large language models (LLMs) have been extensively studied from computational and cognitive perspectives, yet their behavior as communicative actors in socially structured contexts remains underexplored. This study examines whether LLM-based multi-agent systems exhibit systematic linguistic adaptation in response to perceived social observation contexts -- a question with direct implications for AI governance and auditing. Drawing on Habermas's (1981) Theory of Communicative Action, Goffman's (1959) dramaturgical model, Bell's (1984) Audience",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Not All Anquan Is the Same: A Terminological Proposal for Chinese Computer Science and Engineering",
+      "url": "https://arxiv.org/abs/2605.13069",
+      "summary": "arXiv:2605.13069v2 Announce Type: replace \nAbstract: In Chinese computer science and engineering, safety and security have long been translated by the same word, \"anquan\". This convention is concise in ordinary communication, but it creates persistent conceptual compression in standards interpretation, interdisciplinary collaboration, risk analysis and academic writing. When researchers need to discuss both whether a system is free from intolerable non-adversarial harm and whether it can resist adversarial threats, the single word \"anquan\" often cannot carry the distinction. This article argue",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Critical Challenges and Guidelines in Evaluating Synthetic Tabular Data: A Systematic Review",
+      "url": "https://arxiv.org/abs/2504.18544",
+      "summary": "arXiv:2504.18544v3 Announce Type: replace-cross \nAbstract: Generating synthetic tabular health data is challenging, and evaluating their quality is equally, if not more, complex. This systematic review highlights the critical importance of rigorous evaluation of synthetic health data to ensure reliability, clinical relevance, and appropriate use. From an initial identification of 2067 relevant papers published in the last ten years, 134 studies were selected for detailed analysis. Our review identifies key challenges, including lack of consensus on evaluation methods, inconsistent application",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Moral Susceptibility and Robustness under Persona Role-Play in Large Language Models",
+      "url": "https://arxiv.org/abs/2511.08565",
+      "summary": "arXiv:2511.08565v3 Announce Type: replace-cross \nAbstract: Large language models (LLMs) increasingly operate in social contexts, motivating analysis of how they express and shift moral judgments. In this work, we investigate the moral response of LLMs to persona role-play, prompting a LLM to assume a specific character. Using the Moral Foundations Questionnaire (MFQ), we introduce a benchmark that quantifies two properties: moral susceptibility and moral robustness, defined from the variability of MFQ scores across- and within-personas. We estimate these quantities with two complementary proce",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Per-Market Information Leakage and Order-Flow Skill: Two Methodological Lenses on Informed Trading in Decentralized Prediction Markets",
+      "url": "https://arxiv.org/abs/2605.02287",
+      "summary": "arXiv:2605.02287v2 Announce Type: replace-cross \nAbstract: April 2026 saw notable methodological convergence in the academic study of informed trading on decentralized prediction markets. Three approaches surfaced almost simultaneously: Mitts and Ofir (2026) apply a composite screen to over 210,000 wallet-market pairs; Gomez-Cram et al. (2026) apply an event-level sign-randomization test to Polymarket's complete transaction history, classifying 3.14% of accounts as \"skilled winners\" and separately flagging 1,950 accounts as \"insiders\" via a lifecycle heuristic; Nechepurenko (2026) develops the",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Positive Alignment: Artificial Intelligence for Human Flourishing",
+      "url": "https://arxiv.org/abs/2605.10310",
+      "summary": "arXiv:2605.10310v2 Announce Type: replace-cross \nAbstract: Existing alignment research is dominated by concerns about safety and preventing harm: safeguards, controllability, and compliance. This paradigm of alignment parallels early psychology's focus on mental illness: necessary but incomplete. What we call Positive Alignment is the development of AI systems that (i) actively support human and ecological flourishing in a pluralistic, polycentric, context-sensitive, and user-authored way while (ii) remaining safe and cooperative. It is a distinct and necessary agenda within AI alignment resea",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Watermarking Should Be Treated as a Monitoring Primitive",
+      "url": "https://arxiv.org/abs/2605.13095",
+      "summary": "arXiv:2605.13095v2 Announce Type: replace-cross \nAbstract: Watermarking is widely proposed for provenance, attribution, and safety monitoring in generative models, yet is typically evaluated only under adversaries who attempt to evade detection or induce false positives at the level of individual samples. We argue that watermarking should be treated as a monitoring primitive, and that internal monitoring is unavoidable given per-entity attribution keys and messages, as well as detector access. We introduce an observer-based threat model in which observers can aggregate watermark signals across",
+      "published": "2026-05-15T04:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
