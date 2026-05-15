@@ -1,7 +1,7 @@
 import json
 import re
 import xml.etree.ElementTree as ET
-from datetime import datetime, timedelta
+from datetime import datetime
 from pathlib import Path
 
 import requests
@@ -12,7 +12,7 @@ SOURCES_PATH = ROOT / "sources.json"
 MEMORY_PATH = ROOT / "memory.json"
 BRIEFINGS_DIR = ROOT / "briefings"
 
-LOOKBACK_DAYS = 7
+MAX_PER_SOURCE = 10
 TIMEOUT = 15
 USER_AGENT = "Mozilla/5.0 (compatible; VeilleIABot/1.0)"
 
@@ -138,17 +138,21 @@ def fetch_articles(memory):
     seen_urls = set()
     new_articles = []
 
-    cutoff = datetime.now() - timedelta(days=LOOKBACK_DAYS)
     sources = load_sources()
 
     for source in sources:
         entries = fetch_feed(source)
+        # Trier par date décroissante (entrées sans date à la fin)
+        entries.sort(
+            key=lambda e: e["published"] or datetime.min,
+            reverse=True,
+        )
         kept = 0
         for entry in entries:
+            if kept >= MAX_PER_SOURCE:
+                break
             url = entry["link"]
             if not url or url in processed_urls or url in seen_urls:
-                continue
-            if entry["published"] and entry["published"] < cutoff:
                 continue
             seen_urls.add(url)
             new_articles.append({
