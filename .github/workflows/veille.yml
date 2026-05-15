@@ -36,3 +36,27 @@ jobs:
           git add briefings/ memory.json
           git diff --staged --quiet || git commit -m "Veille du $(date +'%Y-%m-%d')"
           git push
+
+      - name: Envoyer la notification par email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.GMAIL_USER }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          to: guillaume.dubois.gordeeff@gmail.com
+          from: Veille IA <${{ secrets.GMAIL_USER }}>
+          subject: "Votre veille IA Gouvernance est prête"
+          body: |
+            Bonjour Guillaume,
+
+            Votre veille hebdomadaire sur la gouvernance de l'IA en entreprise est prête.
+
+            Ouvrez votre projet Claude Code et tapez :
+            "Génère mon briefing"
+
+            Claude analysera les articles collectés et rédigera votre briefing personnalisé
+            avec les 5 actualités classées par importance et vos 3 angles LinkedIn.
+
+            Bonne lecture,
+            Votre Veille IA
