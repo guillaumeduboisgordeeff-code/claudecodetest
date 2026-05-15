@@ -33,7 +33,6 @@ DOMAINS = [
     "ifa-asso.com",
     "insead.edu",
     "news.mit.edu",
-    "arxiv.org",
 ]
 
 
@@ -83,22 +82,29 @@ def fetch_articles(memory, days=7):
     from_str = from_date.strftime("%Y-%m-%dT%H:%M:%S")
     to_str = to_date.strftime("%Y-%m-%dT%H:%M:%S")
 
-    # Recherche 1 : articles sur les domaines clés avec thème gouvernance IA
+    # Recherche 1 : publications des acteurs majeurs IA
     domain_articles = fetch_from_newsapi(
-        query="artificial intelligence OR AI governance OR board OR regulation",
+        query="artificial intelligence",
         from_date=from_str,
         to_date=to_str,
         domains=DOMAINS,
     )
 
-    # Recherche 2 : recherche large par mots-clés gouvernance IA
-    keyword_articles = fetch_from_newsapi(
-        query="AI governance board directors enterprise risk responsibility",
+    # Recherche 2 : gouvernance IA en entreprise (recherche large)
+    governance_articles = fetch_from_newsapi(
+        query="\"AI governance\" OR \"artificial intelligence governance\" OR \"AI board\" OR \"AI regulation\" enterprise",
         from_date=from_str,
         to_date=to_str,
     )
 
-    all_raw = domain_articles + keyword_articles
+    # Recherche 3 : responsabilité dirigeants face à l'IA
+    leadership_articles = fetch_from_newsapi(
+        query="\"AI risk\" OR \"AI strategy\" board directors CEO executives enterprise 2026",
+        from_date=from_str,
+        to_date=to_str,
+    )
+
+    all_raw = domain_articles + governance_articles + leadership_articles
 
     for item in all_raw:
         url = (item.get("url") or "").strip()
