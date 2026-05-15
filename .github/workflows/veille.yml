@@ -1,0 +1,61 @@
+name: Veille IA Gouvernance – Collecte hebdomadaire
+
+on:
+  schedule:
+    # 6h15 UTC = 7h15 heure de Paris (hiver) / 8h15 (été)
+    - cron: "15 6 * * 6"
+  workflow_dispatch: # permet de lancer manuellement depuis GitHub
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configurer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installer les dépendances
+        run: pip install -r scripts/requirements.txt
+
+      - name: Collecter les articles de la semaine
+        run: python scripts/fetch_news.py
+
+      - name: Sauvegarder les résultats dans le dépôt
+        run: |
+          git config user.name "Veille Bot"
+          git config user.email "bot@veille"
+          git add briefings/ memory.json
+          git diff --staged --quiet || git commit -m "Veille du $(date +'%Y-%m-%d')"
+          git push
+
+      - name: Envoyer la notification par email
+        if: ${{ secrets.GMAIL_USER != '' }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 587
+          username: ${{ secrets.GMAIL_USER }}
+          password: ${{ secrets.GMAIL_APP_PASSWORD }}
+          to: guillaume.dubois.gordeeff@gmail.com
+          from: Veille IA <${{ secrets.GMAIL_USER }}>
+          subject: "Votre veille IA Gouvernance est prête – ${{ github.run_id }}"
+          body: |
+            Bonjour Guillaume,
+
+            Votre veille hebdomadaire sur la gouvernance de l'IA en entreprise est prête.
+
+            Ouvrez votre projet Claude Code et tapez :
+            "Génère mon briefing"
+
+            Claude analysera les articles collectés et rédigera votre briefing personnalisé
+            avec les 5 actualités classées par importance et vos angles LinkedIn.
+
+            Bonne lecture,
+            Votre Veille IA

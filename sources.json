@@ -1,0 +1,95 @@
+{
+  "sources": [
+    {
+      "name": "Institut Français des Administrateurs",
+      "url": "https://www.ifa-asso.com",
+      "rss": "https://www.ifa-asso.com/feed/",
+      "category": "gouvernance",
+      "active": true
+    },
+    {
+      "name": "INSEAD Corporate Governance Centre",
+      "url": "https://www.insead.edu/centres/corporate-governance",
+      "rss": "https://www.insead.edu/rss/news",
+      "category": "gouvernance",
+      "active": true
+    },
+    {
+      "name": "Anthropic Blog",
+      "url": "https://www.anthropic.com/news",
+      "rss": "https://www.anthropic.com/rss.xml",
+      "category": "ia-acteurs",
+      "active": true
+    },
+    {
+      "name": "OpenAI Blog",
+      "url": "https://openai.com/news",
+      "rss": "https://openai.com/news/rss/",
+      "category": "ia-acteurs",
+      "active": true
+    },
+    {
+      "name": "Google DeepMind Blog",
+      "url": "https://deepmind.google/discover/blog",
+      "rss": "https://deepmind.google/blog/rss/",
+      "category": "ia-acteurs",
+      "active": true
+    },
+    {
+      "name": "Y Combinator Blog",
+      "url": "https://www.ycombinator.com/blog",
+      "rss": "https://www.ycombinator.com/blog/rss",
+      "category": "ia-acteurs",
+      "active": true
+    },
+    {
+      "name": "a16z Newsletter",
+      "url": "https://a16z.com",
+      "rss": "https://a16z.com/feed/",
+      "category": "ia-acteurs",
+      "active": true
+    },
+    {
+      "name": "DeepLearning.AI – The Batch",
+      "url": "https://www.deeplearning.ai/the-batch",
+      "rss": "https://www.deeplearning.ai/the-batch/rss/",
+      "category": "ia-recherche",
+      "active": true
+    },
+    {
+      "name": "MIT News – Intelligence Artificielle",
+      "url": "https://news.mit.edu/topic/artificial-intelligence",
+      "rss": "https://news.mit.edu/topic/artificial-intelligence-rss",
+      "category": "ia-recherche",
+      "active": true
+    },
+    {
+      "name": "Stanford HAI",
+      "url": "https://hai.stanford.edu/news",
+      "rss": "https://hai.stanford.edu/news/feed",
+      "category": "ia-recherche",
+      "active": true
+    },
+    {
+      "name": "Harvard Business Review – IA",
+      "url": "https://hbr.org/topic/subject/ai-and-machine-learning",
+      "rss": "https://feeds.hbr.org/harvardbusiness",
+      "category": "gouvernance",
+      "active": true
+    },
+    {
+      "name": "Princeton – Center for Human Values & AI",
+      "url": "https://aiandhumanfutures.princeton.edu",
+      "rss": "https://csc.princeton.edu/news/rss",
+      "category": "ia-recherche",
+      "active": true
+    },
+    {
+      "name": "ArXiv – AI & Society",
+      "url": "https://arxiv.org/list/cs.AI/recent",
+      "rss": "https://arxiv.org/rss/cs.CY",
+      "category": "ia-recherche",
+      "active": true
+    }
+  ]
+}
