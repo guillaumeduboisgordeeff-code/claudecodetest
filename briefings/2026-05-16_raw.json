@@ -1,0 +1,46 @@
+{
+  "date": "2026-05-16",
+  "articles_count": 5,
+  "articles": [
+    {
+      "title": "Ankit Gupta Joins YC as General Partner, Bringing Deep ML Expertise",
+      "url": "https://www.ycombinator.com/blog/welcome-ankit/",
+      "summary": "We&#x2019;re thrilled to announce that Ankit Gupta is joining YC as our newest General Partner. Ankit has already worked with dozens of YC founders as a visiting partner in recent batches. He has a rare blend of deep machine learning expertise and firsthand startup experience that make him",
+      "published": "2025-09-12T16:00:00",
+      "source_name": "Y Combinator Blog",
+      "source_category": "ia-acteurs"
+    },
+    {
+      "title": "Dalton Caldwell’s Move to Partner Emeritus",
+      "url": "https://www.ycombinator.com/blog/dalton-caldwell-partner-emeritus/",
+      "summary": "After 12+ years, 25 batches, and working with more than a thousand startups, Dalton Caldwell is transitioning to Partner Emeritus at YC. Dalton joined YC in 2011 and has contributed in a number of roles over the years, most recently as a Managing Partner. During his time here, he worked",
+      "published": "2025-06-12T18:36:17",
+      "source_name": "Y Combinator Blog",
+      "source_category": "ia-acteurs"
+    },
+    {
+      "title": "Welcoming Jon Xu and Andrew Miklas as YC’s Newest General Partners",
+      "url": "https://www.ycombinator.com/blog/welcome-jon-and-andrew/",
+      "summary": "Over the last few batches, visiting partners Jon Xu and Andrew Miklas have become two of the most trusted voices in the YC community. They were both founders in YC’s Summer 2010 batch, and now, 15 years and two industry-shaping companies later, they’re back in a new role: General Partners at YC.",
+      "published": "2025-05-21T15:00:00",
+      "source_name": "Y Combinator Blog",
+      "source_category": "ia-acteurs"
+    },
+    {
+      "title": "Tyler Bosmeny built Clever into a $500M company–now he’s helping YC founders do the same as General Partner",
+      "url": "https://www.ycombinator.com/blog/welcome-tyler/",
+      "summary": "We’re thrilled to welcome Tyler Bosmeny back to YC, this time as a General Partner.",
+      "published": "2025-04-01T16:00:00",
+      "source_name": "Y Combinator Blog",
+      "source_category": "ia-acteurs"
+    },
+    {
+      "title": "Michael Seibel's Legacy Continues at YC: Transition to Partner Emeritus",
+      "url": "https://www.ycombinator.com/blog/michael-seibel-partner-emeritus/",
+      "summary": "If you&#x2019;ve been around YC, you know Michael Seibel has been a huge part of it for over a decade. He&#x2019;s done it all - YC Founder (w07, w12), Group Partner, and Managing Director/CEO of the YC accelerator. Along the way, he&#x2019;s helped",
+      "published": "2025-03-20T00:00:00",
+      "source_name": "Y Combinator Blog",
+      "source_category": "ia-acteurs"
+    }
+  ]
+}
