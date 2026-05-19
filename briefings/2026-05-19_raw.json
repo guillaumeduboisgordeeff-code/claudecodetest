@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-19",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "AI Slop or AI-enhancement? Student perceptions of AI-generated media for an English for Academic Purposes course",
+      "url": "https://arxiv.org/abs/2605.16275",
+      "summary": "arXiv:2605.16275v1 Announce Type: new Abstract: Artificial intelligence (AI) retrieval-augmented generation (RAG) tools now enable educators to transform course materials into diverse multimedia at scale. However, it remains unclear whether such AI-generated content functions as a pedagogical scaffold or AI slop: high volume, low quality material. This innovative practice paper reports on the development, implementation, and evaluation of teacher-prompted, AI-generated supplemental materials in an English for Academic Purposes (EAP) course at a Hong Kong Community College. Using primarily Goog",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Generative AI in K-12 Classrooms: A Midyear Implementation Report",
+      "url": "https://arxiv.org/abs/2605.16277",
+      "summary": "arXiv:2605.16277v1 Announce Type: new Abstract: This mid-year report summarizes teacher use of Colleague AI across 12 Washington State school districts from September 1 to December 31, 2025. Produced jointly by Colleague AI and AmplifyLearn.AI at the University of Washington, this report aggregates platform data and district-provided administrative records to provide an early look at how teachers engaged with AI during the first half of the 2025-26 school year. The districts vary in size from small districts with a few thousand students to large districts with up to thirty thousand students. T",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Keeping an Eye on AI: A Framework for Effective Human Oversight of AI Systems",
+      "url": "https://arxiv.org/abs/2605.16278",
+      "summary": "arXiv:2605.16278v1 Announce Type: new Abstract: The use of Artificial Intelligence (AI) in high-risk, decision-making scenarios presents technical, safety, and normative challenges; problems that may only be ameliorated by human oversight. However, notions of human oversight lack a common foundational understanding: oversight architectures are not well defined, the roles involved remain unclear, and implementation steps are opaque. Hence, researchers and practitioners struggle to determine how to design, implement, and evaluate systems that enable effective human oversight. This paper advances",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Generative AI and Two-Tiered Online Mental Health Communities",
+      "url": "https://arxiv.org/abs/2605.16279",
+      "summary": "arXiv:2605.16279v1 Announce Type: new Abstract: Online mental health communities (OMHCs) are tiered platforms that connect patients with licensed counselors through public Q&A forums and paid private consultations. Their two-tier structure creates a strategic dilemma for genAI integration. Conversational agents can provide scalable and timely responses to a broader set of patients, alleviating persistent supply shortages, but their large-scale presence may also reshape counselors' participation in providing nuanced expertise, emotionally sensitive support, and paid consultations, which are cen",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Beyond Imperfect Alternatives with Rulemapping: A Neuro-Symbolic Case Study on Online Hate Speech",
+      "url": "https://arxiv.org/abs/2605.16280",
+      "summary": "arXiv:2605.16280v1 Announce Type: new Abstract: Automating legal reasoning forces a choice between imperfect alternatives: symbolic systems offer transparency but struggle with ambiguity, whereas neural systems handle natural language flexibly but lack verifiability. This paper investigates whether a hybrid, neuro-symbolic approach can reconcile this trade-off. We evaluate this architecture in the domain of online content moderation, which serves as a proxy for high-volume legal decision-making such as mass administrative proceedings. In these settings, operators must assess thousands of cases",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Reactive to Proactive: A Multi-Regulatory Empirical Analysis of 480 AI Incidents and a Data-Driven Governance Compliance Framework",
+      "url": "https://arxiv.org/abs/2605.16281",
+      "summary": "arXiv:2605.16281v1 Announce Type: new Abstract: Artificial intelligence systems are increasingly deployed in high-stakes domains, yet it remains unclear whether existing governance frameworks ensure accountability after deployment. This study makes two contributions. First, it presents a cross-regulatory empirical analysis of 480 real-world AI incidents from the AI Incident Database (AIID), evaluating their alignment with post-deployment provisions in three major governance frameworks: the EU AI Act (Articles 72-73), the NIST AI Risk Management Framework (MANAGE and GOVERN functions), and the ",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Taxonomy and Consistency Analysis of Safety Benchmarks for AI Agents",
+      "url": "https://arxiv.org/abs/2605.16282",
+      "summary": "arXiv:2605.16282v1 Announce Type: new Abstract: The rapid deployment of LLM-based autonomous agents has introduced safety risks that extend far beyond traditional LLM concerns, prompting a proliferation of safety benchmarks since late 2023. However, these benchmarks have developed independently, with inconsistent threat models, incompatible metrics, and overlapping yet incomplete risk coverage. We present the first systematic analysis dedicated to agent safety benchmarks as evaluation instruments. We catalog 40 behavioral agent-safety benchmarks (2023-2026), plus 5 adjacent evaluator, defense,",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Recovery Mechanism: Technology, Education, and What Happens When the Pattern Breaks",
+      "url": "https://arxiv.org/abs/2605.16283",
+      "summary": "arXiv:2605.16283v1 Announce Type: new Abstract: For centuries, each new technology has automated some layer of cognitive work and been absorbed by education retreating upward to teach the skills machines could not yet reach. Generative AI may be the first technology to break that pattern, because it now operates at the top of the cognitive ladder, where education has always escaped to. The risk is not that AI replaces teachers but that it replaces the productive struggle through which understanding forms. Drawing on historical analysis, labor economics, and new large-scale data on how students",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Measuring Changes in Instructor Class Design and Student Learning After the Release of Large Language Models (LLMs)",
+      "url": "https://arxiv.org/abs/2605.16284",
+      "summary": "arXiv:2605.16284v1 Announce Type: new Abstract: Student use of Generative AI (GenAI) products in completing their classwork, with or without their professors' knowledge and/or approval, has resulted in substantial shifts in higher education. While GenAI use is widespread, its impact on student study methods, faculty course development, grade reporting, and overall learning is not well documented. This is a mixed-methods, multi-course study using retrospective quantitative analysis, instructor surveys, and anonymous student surveys at a university in the New England region of the United States.",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Homoglyph-based Adversarial Perturbation of Introductory Computer Science Theory Problems",
+      "url": "https://arxiv.org/abs/2605.16286",
+      "summary": "arXiv:2605.16286v1 Announce Type: new Abstract: Different AI tools such as ChatGPT, Gemini, and Claude are becoming very popular. Although they are helpful for many day-to-day tasks, they can be used in unexpected ways. For example, the learning objectives of a course may not be achieved if students use these tools to solve their homework problems. This paper proposes a simple method to address this issue in the lazy student model. The method uses homoglyph-based adversarial perturbation to first modify the question without changing the semantic meaning of the question. Then a few characters a",
+      "published": "2026-05-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
