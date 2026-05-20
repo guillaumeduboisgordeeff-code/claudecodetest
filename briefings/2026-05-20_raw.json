@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-20",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Automated Grading of Handwritten Mathematics Using Vision-Capable LLMs",
+      "url": "https://arxiv.org/abs/2605.19043",
+      "summary": "arXiv:2605.19043v1 Announce Type: new Abstract: Automated grading systems have enabled scalable assessment for many response types, but handwritten mathematics remains a barrier due to the complexity of multi-step solutions. Vision-capable large language models (LLMs) offer new opportunities here, yet their reliability in authentic instructional settings remains poorly understood. We present an empirical evaluation of an LLM-based grader for handwritten mathematical work using instructor-defined rubrics. Extending a prior pipeline for typed responses, we integrate transcription and rubric-base",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Beyond Nutrition Labels: How Analogical Reasoning Shapes Synthetic Media Disclosure Design",
+      "url": "https://arxiv.org/abs/2605.19045",
+      "summary": "arXiv:2605.19045v1 Announce Type: new Abstract: As synthetic media proliferates, AI policymakers and practitioners have increasingly turned to disclosures--signals describing how media has been created or modified by AI--to help audiences evaluate media credibility. While there is a growing body of research on user interpretations, the upstream decision-making processes that affect users remain underexplored. This study therefore examines how AI policymakers and practitioners design synthetic media disclosures under complex sociotechnical constraints. Drawing on 23 expert interviews and 13 cas",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Going PLACES: Participatory Localized Red Teaming for Text-to-Image Safety in the Global South",
+      "url": "https://arxiv.org/abs/2605.19190",
+      "summary": "arXiv:2605.19190v1 Announce Type: new Abstract: Despite the global deployment of text-to-image (T2I) models, their safety frameworks are largely calibrated to a Western-centric default, creating significant vulnerabilities for the rest of the world. To embrace cultural pluralism and bring historically under-represented perspectives in T2I safety, we conduct localised community-centered red teaming studies in the Global South. Our two-fold approach prioritizes localization and participation, by focusing on secondary urban centers in these regions, and conducting community engagement and trainin",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Bridging the Disciplinary Gap in Explainable AI: From Abstract Desiderata to Concrete Tasks",
+      "url": "https://arxiv.org/abs/2605.20081",
+      "summary": "arXiv:2605.20081v1 Announce Type: new Abstract: Explainable AI (XAI) is often criticized for failing to satisfy broad desiderata (e.g., fairness, accountability) and for limited practical value to stakeholders. This challenge partly arises because researchers across disciplines prioritize different sets of desiderata that remain underspecified and context-dependent, yet expect XAI to satisfy them simultaneously, resulting in fragmented and sometimes incompatible operationalizations. We argue that many desiderata are not independent, but instead form dependency structures in which higher-level ",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Decentralized autonomous organization and blockchain-based incentivization framework for community-based facilities management",
+      "url": "https://arxiv.org/abs/2605.18773",
+      "summary": "arXiv:2605.18773v1 Announce Type: cross Abstract: Traditional facility management often relies on centralized decision-making structures that limit stakeholder participation, leading to misalignment with occupant needs and reduced satisfaction. This paper proposes a novel blockchain- and Decentralized Autonomous Organization (DAO)-based framework for community-based facilities management in smart buildings. The framework comprises two key components: a decentralized governance platform that facilitates transparent collective decision-making through blockchain-based voting, and a maintenance ma",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Can LLMs Emulate Human Belief Dynamics?",
+      "url": "https://arxiv.org/abs/2605.18781",
+      "summary": "arXiv:2605.18781v1 Announce Type: cross Abstract: Can LLMs simulate how humans form and change beliefs in social networks? We put this to the test by replicating an established study on belief dynamics, evaluating 12 LLMs across multiple model families and parameter sizes. The answer is a clear no, and in systematic ways. LLMs fail to capture initial human belief distributions and tend to be overall more conformist than humans, shifting their responses to align with those around them. They also take a nuanced approach to emulating human homophilic tendencies within networks. Our findings carry",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A City-Scale Dataset of Traffic Flows, Travel Times, and Urban Context",
+      "url": "https://arxiv.org/abs/2605.18782",
+      "summary": "arXiv:2605.18782v1 Announce Type: cross Abstract: We present a multi-source traffic dataset derived from Automatic Vehicle Identification (AVI) recordings in Padua, Italy, spanning from February 2026 to April 2026. The dataset combines traffic volume time series, aggregated at 10-minute intervals, with time-varying trajectory-based flow statistics including transition probability matrices, average travel times, and flow residuals. To enrich the traffic measurements with urban contextual information, we integrate Points Of Interests (POIs), demographic data, meteorological variables, and road i",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Insurability Frontier of AI Risk: Mapping Threats to Affirmative Coverage, Silent Exposures, and Exclusions",
+      "url": "https://arxiv.org/abs/2605.18784",
+      "summary": "arXiv:2605.18784v1 Announce Type: cross Abstract: The rapid diffusion of agentic AI has created a new coverage problem for commercial insurance: some AI-mediated losses are now affirmatively insured, some create silent-AI exposure under legacy cyber, technology errors-and-omissions (E&O), directors-and-officers (D&O), employment practices liability (EPLI), crime, and media policies, and others are being actively excluded. This paper maps that emerging boundary by coding 55 AI threat classes against 26 insurance products, endorsements, and exclusion regimes using public carrier materials and OW",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Stop Drawing Scientific Claims from LLM Social Simulations Without Robustness Audits",
+      "url": "https://arxiv.org/abs/2605.18890",
+      "summary": "arXiv:2605.18890v1 Announce Type: cross Abstract: The scientific claims drawn from LLM social simulations should be no stronger than the robustness audits that support them. Generative agents bring new expressive power to agent-based modeling, enabling simulations of collective social processes like cooperation, polarization, and norm formation. Yet they also introduce complexity through additional architectural choices, such as agent specification, memory representation, interaction protocols, and environment design. Small perturbations that appear minor to researchers can cascade into macro-",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Towards Zero Trust Architecture: A Pilot Study on Information Systems Security Readiness amongst Small and Medium Enterprises",
+      "url": "https://arxiv.org/abs/2605.18901",
+      "summary": "arXiv:2605.18901v1 Announce Type: cross Abstract: Small and medium enterprises (SMEs) face growing cyber threats but often lack the resources and expertise needed to adopt Zero Trust Architecture (ZTA). This pilot study examines the drivers and barriers shaping SME perceptions of ZTA necessity and proposes an exploratory staged adoption path. Survey data from 64 IT and security professionals in the Asia-Pacific region show that ZTA familiarity and cloud-computing needs are the strongest positive correlates of perceived necessity, whereas accumulated barriers show only a weak negative associati",
+      "published": "2026-05-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
