@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-21",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Governance by Design: Architecting Agentic AI for Organizational Learning and Scalable Autonomy",
+      "url": "https://arxiv.org/abs/2605.20210",
+      "summary": "arXiv:2605.20210v1 Announce Type: new Abstract: Agentic AI systems - systems that can pursue goals through multi-step planning and tool-mediated action with limited direct supervision - are moving from experimental prototypes to enterprise deployments. This transition introduces tensions in implementation, scaling, and governance: organizations seek scalable autonomy for knowledge and coordination work, yet must preserve accountability, safety, cost control, and responsibility as systems initiate actions, access enterprise data, and evolve through iterative updates. Building on an in-depth qua",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Programmable Participatory Governance -- A Formal Framework for Transparent, Accountable, and Citizen-Responsive Democratic Systems: From Deliberative Theory to Decentralised Architecture",
+      "url": "https://arxiv.org/abs/2605.20261",
+      "summary": "arXiv:2605.20261v1 Announce Type: new Abstract: Public confidence in democratic institutions has declined across many OECD countries over recent decades, while political participation and policy influence remain unevenly distributed across socioeconomic groups. Concurrently, democratic backsliding, declining electoral participation, and persistent concerns regarding institutional transparency and accountability have raised questions about whether existing governance structures are capable of sustaining broad-based legitimacy in complex modern societies. These developments motivate a central in",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Knowledge Gap in a High-Choice Media Environment: Experimental Evidence from Online Search",
+      "url": "https://arxiv.org/abs/2605.21019",
+      "summary": "arXiv:2605.21019v1 Announce Type: new Abstract: Persistent inequalities in political knowledge are a central concern in political communication. We organize the mechanisms underlying the knowledge-gap literature by distinguishing between individual preconditions, structural features of the information environment, and topic characteristics. Within this framework, we note that self-directed information seeking, a prototypical form of intentional exposure, has received little attention despite its importance in navigating today's complex information environment. We conducted a field experiment i",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Backchaining Loss of Control Mitigations from Mission-Specific Benchmarks in National Security",
+      "url": "https://arxiv.org/abs/2605.21095",
+      "summary": "arXiv:2605.21095v1 Announce Type: new Abstract: Affordances and permissions are promising and timely safety levers for mitigating Loss of Control (LoC) threats in high-stakes deployment contexts, such as national security. Deployers in defense and intelligence could rely on several approaches to identify which affordances and permissions should be prioritized, such as structured threat modelling, pre-deployment agentic evaluations, post-deployment continuous monitoring, and AI safety cases. This paper proposes a complementary and empirical methodology that leverages existing use-case-specific ",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Privacy Without Remedy: An Assessment of Data Broker Compliance with California Privacy Law",
+      "url": "https://arxiv.org/abs/2605.21376",
+      "summary": "arXiv:2605.21376v1 Announce Type: new Abstract: California's consumer privacy law is widely deemed to be the most protected in the United States, one of the few to expressly regulate third party entities that buy and sell consumer data (data brokers). We offer the first empirical assessment of data broker compliance with the 2018 California Consumer Privacy Act (CCPA) and the 2023 Delete Act, which requires data brokers to register with the state and report consumer rights requests metrics annually. First, we demonstrate that only 9% of 522 registered data brokers were fully compliant with tra",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Open-source LLMs administer maximum electric shocks in a Milgram-like obedience experiment",
+      "url": "https://arxiv.org/abs/2605.21401",
+      "summary": "arXiv:2605.21401v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as autonomous agents that make sequences of decisions over extended interactions in high-stakes domains. However, the behavior of LLMs under sustained authority pressure is still an open question with direct implications for the safety of agentic pipelines. We ran a variation of Milgram's obedience experiment on 11 open-source LLMs and found that most models reached or approached the final shock level before refusing, across 8 conditions with 30 trials per model per condition. We found four m",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Augmented Analytics and Decision Quality: The Role of Trust among Non-Technical BI Users",
+      "url": "https://arxiv.org/abs/2605.20198",
+      "summary": "arXiv:2605.20198v1 Announce Type: cross Abstract: Augmented analytics has transformed how business intelligence (BI) systems support managerial decision-making. This is especially true for users without technical backgrounds, who increasingly rely on automated insights rather than manual analysis. BI research has previously concentrated on system adoption and user intention, with very little research examining the impact of AI-enabled analytics on decision quality and the cognitive mechanisms in between. Using the theory of cognitive delegation, this paper investigates the role of trust in aug",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Artificial Pancreas Implantables -- How Healthcare Professionals May Deal With DIY Bio Cases",
+      "url": "https://arxiv.org/abs/2605.20208",
+      "summary": "arXiv:2605.20208v1 Announce Type: cross Abstract: Automated insulin delivery (AID) and artificial pancreas systems increasingly serve as safety-critical cyber-physical technologies in clinical care, integrating sensors, algorithms, software, and insulin-delivery hardware to automate a life-sustaining therapy. While regulated commercial systems are supported by formal approval pathways, manufacturer governance, and post-market surveillance, clinicians are also encountering patients who rely on do-it-yourself (DIY) artificial pancreas systems that operate outside conventional regulatory and inst",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The NetMob26 Dataset: A High-Resolution Multi-Source View of Public Bus Mobility in Niter\\'oi",
+      "url": "https://arxiv.org/abs/2605.20263",
+      "summary": "arXiv:2605.20263v1 Announce Type: cross Abstract: The NetMob Data Challenge releases a comprehensive public transportation dataset from Niter\\'oi, addressing the lack of high-quality mobility and passenger demand data. Based on operational records from March 2026, the dataset combines four main sources: GPS telemetry from buses, approximately 7.2 million ticketing transactions, auxiliary transit data (routes, stops, and weather), and urban infrastructure and socio-demographic information. Together, these sources provide a detailed view of both transit supply and passenger demand. The data were",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Economics of Model Collapse: Equilibrium, Welfare, and Optimal Provenance Subsidies in Synthetic Data Markets",
+      "url": "https://arxiv.org/abs/2605.20279",
+      "summary": "arXiv:2605.20279v1 Announce Type: cross Abstract: Generative artificial intelligence is rapidly transforming the supply side of training data: an increasing share of new tokens, images, and structured records is produced by previous-generation models rather than by human originators. Recursive training on such synthetic content induces a measurable and often irreversible loss of distributional fidelity, a phenomenon known as model collapse. We develop the first unified microeconomic theory of synthetic data markets under model collapse. We introduce the Synthetic Data Contamination Equilibrium",
+      "published": "2026-05-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
