@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-18",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Beyond Performance Disparities: A Three-Level Audit of Representational Harm in CelebA",
+      "url": "https://arxiv.org/abs/2605.15312",
+      "summary": "arXiv:2605.15312v1 Announce Type: new Abstract: Large-scale facial datasets like CelebA are widely used in computer vision, yet the cultural biases embedded in their labels remain underexplored. Fairness research has distinguished representational from allocational harms, but audits of computer vision datasets have mostly examined categorical labels, leaving open how such harms appear in learned features and model attention. This paper examines CelebA at three levels: dataset structure, learned feature weights, and spatial attention, focusing on how gendered double standards of ageing and beau",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Validated Hypotheses as a Lens for Human-Likeness Evaluation in AI Agents",
+      "url": "https://arxiv.org/abs/2605.15473",
+      "summary": "arXiv:2605.15473v1 Announce Type: new Abstract: We propose using validated behavioral hypotheses as a lens for evaluating human-likeness in LLM-based agents. Our key idea is simple: If an agent is human-like, a population of such agents should reach the same inferential conclusion as the human population when run through the same experiment. Decades of social science have produced many such validated findings, each anchored to concrete experimental protocols and robustly established through independent replication. This yields an evaluation that is objective, decomposable, and scalable. We ope",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Access Timing as Scaffolding: A Reinforcement Learning Approach to GenAI in Education",
+      "url": "https://arxiv.org/abs/2605.15850",
+      "summary": "arXiv:2605.15850v1 Announce Type: new Abstract: In recent years, generative AI (GenAI) in educational settings has become ubiquitous in students' daily lives, despite its potential to induce over-reliance, metacognitive disengagement, and diminished learning when used unrestrictedly. While most prior research has thus focused on how to pedagogically scaffold its usage, the question of when to allow off-the-shelf GenAI remains understudied and lacks pedagogically grounded empirical investigation. We treat access timing itself as a form of implicit scaffolding and operationalize it through a rei",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Who, Why, and How: Disentangling the Effects of Moderation Source, Context, and Language on Post-Removal Behavior",
+      "url": "https://arxiv.org/abs/2605.16204",
+      "summary": "arXiv:2605.16204v1 Announce Type: new Abstract: Content moderation is a central mechanism through which platforms attempt to balance user engagement with community governance. Yet existing research has largely treated moderation as a uniform intervention, overlooking how moderator source, violation context, and linguistic style jointly shape user behavior. Drawing on the Human--AI Interaction Theory of Interactive Media Effects (HAII-TIME), this study examines how these three dimensions produce divergent post-moderation behavioral trajectories in a large-scale observational dataset of 11,795,0",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Inside Baseball: The Automated Ball-Strike System as an Object Lesson in Technological Rule Enforcement",
+      "url": "https://arxiv.org/abs/2605.16237",
+      "summary": "arXiv:2605.16237v1 Announce Type: new Abstract: Clearly-defined rules are often assumed to be straightforward to automate and evaluate. We challenge this assumption through an in-depth study of Major League Baseball's (MLB) seven-year experimentation with the Automated Ball-Strike System (ABS). ABS is envisioned to call balls and strikes accurately: a seemingly straightforward use of technology to objectively determine the distance between a pitch and the strike zone. Although the strike zone is an area clearly defined in the rulebook, it took MLB seven years to figure out how to automate call",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI-Mediated Communication Can Steer Collective Opinion",
+      "url": "https://arxiv.org/abs/2605.16245",
+      "summary": "arXiv:2605.16245v1 Announce Type: new Abstract: Generative artificial intelligence (AI) is increasingly integrated into the online platforms where humans exchange opinions; large language models (LLMs) now polish users' posts on LinkedIn and provide context for content shared on X. While prior work has shown that AI can express biased opinions and shape individuals' opinions during human-AI interactions, less attention has been paid to its influence on collective opinion formation when mediating human-to-human communication. We address this gap via a combination of empirical and theoretical an",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Fair outputs, Biased Internals: Causal Potency and Asymmetry of Latent Bias in LLMs for High-Stakes Decisions",
+      "url": "https://arxiv.org/abs/2605.15217",
+      "summary": "arXiv:2605.15217v1 Announce Type: cross Abstract: Instruction-tuned language models exhibit behavioural fairness in high-stakes decisions while retaining biased associations in their internal representations. However, whether these suppressed representations can affect model outputs - and whether such causal potency is symmetric across demographic groups - remains unknown. We investigate the use of open-weight models for mortgage underwriting using matched applications that differ only in racially-associated names and reveal a critical disconnect: models show no output-level bias, yet retain a",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "GESD: Beyond Outcome-Oriented Fairness",
+      "url": "https://arxiv.org/abs/2605.15295",
+      "summary": "arXiv:2605.15295v1 Announce Type: cross Abstract: Machine learning (ML) algorithms are increasingly deployed in high-stakes decision-making domains such as loan approvals, hiring, and recidivism predictions. While existing fairness metrics (e.g., statistical parity, equal opportunity) effectively quantify outcome-oriented disparities, they offer limited insight into the procedure or explanation behind biased decisions. To address this gap, we propose Group-level Explanation Stability Disparity (GESD), a \\textit{procedural-oriented} fairness metric that measures disparities in the stability, ro",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Adesua: Development and Feasibility Study of an AI WhatsApp Bot for Science Learning in West Africa",
+      "url": "https://arxiv.org/abs/2605.15376",
+      "summary": "arXiv:2605.15376v1 Announce Type: cross Abstract: Sub-Saharan Africa faces persistently high student-teacher ratios and shortages of qualified teachers, limiting students' access to personalized learning support and formative assessment. To address this challenge, we present Adesua, a WhatsApp-based AI Teaching Assistant for science education that extends the Kwame for Science platform. Adesua leverages WhatsApp's widespread adoption in Africa to provide accessible, curriculum-aligned learning support for Junior High School (JHS) and Senior High School (SHS) students across West Africa. The sy",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Eskwai for Students: Generative AI Assistant for Legal Education in Ghana",
+      "url": "https://arxiv.org/abs/2605.15380",
+      "summary": "arXiv:2605.15380v1 Announce Type: cross Abstract: Recent advances in generative AI have shown their potential to be leveraged for legal education. Yet, work on the development and deployment of such systems for legal education in the Global South is limited. In this work, we developed Eskwai for Students, a generative AI assistant to help law students with their legal education. Eskwai for Students is a retrieval augmented generation (RAG) system that provides answers to a wide range of legal questions for law students grounded in a curated database of over 12K case laws and 1.4K legislation i",
+      "published": "2026-05-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
