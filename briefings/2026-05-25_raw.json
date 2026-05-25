@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Whose Good, Whose Place? The Moral Geography of Agentic AI for Social Good",
-      "url": "https://arxiv.org/abs/2605.22995",
-      "summary": "arXiv:2605.22995v1 Announce Type: new Abstract: Agentic AI systems are increasingly proposed for social-good domains, often invoking the United Nations Sustainable Development Goals (SDGs) as a vocabulary of global benefit. Yet claims of social good do not establish accountability to the communities a system claims to serve. We present a structured survey of 112 papers on agentic AI for social good published between 2015 and 2026. We find a moral-geographic asymmetry: papers are least likely to specify geographic context in precisely the domains where local political, legal, and cultural conte",
+      "title": "Inferential Privacy Leakage in Anonymized Conversational AI Logs",
+      "url": "https://arxiv.org/abs/2605.23820",
+      "summary": "arXiv:2605.23820v1 Announce Type: new Abstract: Hundreds of millions of users now hold detailed, multi-turn conversations with ChatGPT and similar LLM assistants. We measure two privacy-relevant features of these conversations on a corpus of complete ChatGPT histories donated by over 1,000 users in four Global South countries (Brazil, India, Nigeria, Pakistan). First, on explicit disclosure: 34.5% of user messages contain personal information across a twenty-category taxonomy, with the median user first revealing identifying content within the first 14% of their conversation history. Second, o",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Opportunities and Risks of Generative AI through the Health Information Journey",
-      "url": "https://arxiv.org/abs/2605.23026",
-      "summary": "arXiv:2605.23026v1 Announce Type: new Abstract: Artificial intelligence is fundamentally changing how health content is encountered and acted upon across both the information and healthcare ecosystems. AI systems now generate claims, curate information, interpret symptoms, synthesize evidence, and guide decisions, with significant opportunities and risks for the public. Potential benefits include improvements in access, comprehension, and continuity of care. At the same time, AI can introduce inaccurate or manipulative content that is difficult to distinguish from reliable guidance, and encour",
+      "title": "Divergent Paths to Depolarization: Dialogue Design Determines the Prosocial Benefits of AI-Assisted Political Argumentation",
+      "url": "https://arxiv.org/abs/2605.23890",
+      "summary": "arXiv:2605.23890v1 Announce Type: new Abstract: Argumentative dialogues across political divides can reduce polarization, yet opportunities for citizens to engage with opposing views in accessible and structured ways remain limited. AI dialogue partners offer a scalable framework for such open-mindedness exercises, but how the format of human-AI dialogues shapes their benefits remains unclear. In a two-session online experiment, 469 US participants were assigned to argue either for or against their own attitude on a contested political issue with an AI chatbot. Our experimental findings show a",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Defining AI Fatigue in Academic Contexts: Dimensions, Indicators, and a Stage-Based Model Using Grounded Theory",
-      "url": "https://arxiv.org/abs/2605.23123",
-      "summary": "arXiv:2605.23123v1 Announce Type: new Abstract: The integration of AI tools in academic settings has introduced a distinct form of strain that existing frameworks like technostress and digital fatigue have not yet fully addressed. This study develops a conceptual model and identifies the dimensions that define AI fatigue as a form of strain arising from sustained academic use of AI tools. Using grounded theory analysis of open-ended responses from 1,054 university students across three universities in the Philippines, the study examined the cognitive, motivational, emotional, physical, and att",
+      "title": "Leveraging Large Language Models for Sentiment Analysis: Multi-Modal Analysis of Decentraland's MANA Token",
+      "url": "https://arxiv.org/abs/2605.20192",
+      "summary": "arXiv:2605.20192v1 Announce Type: cross Abstract: Decentraland, a decentralized virtual reality platform operating within the expanding Metaverse ecosystem, utilizes its native MANA token to facilitate virtual asset transactions and governance. This study investigates the integration of Discord community sentiment with multi-modal financial data to enhance cryptocurrency price prediction within virtual world economies. We address: (1) identifying sentiment patterns within Decentraland's Discord community, and (2) evaluating the impact of multi-modal features on token return forecasting. Using ",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "SolarChain: Bridging Physical Law, Verifiable Trust, and Sustainable Markets for Urban Energy Resilience",
-      "url": "https://arxiv.org/abs/2605.23162",
-      "summary": "arXiv:2605.23162v1 Announce Type: new Abstract: Urban decarbonization requires scaling rooftop solar across millions of fragmented producers, yet cities face a fundamental tension: energy data is easily manipulated, and economic incentives often reward speculation rather than actual infrastructure deployment. We present SolarChain, a platform that resolves both problems by anchoring digital accountability to the thermodynamic limits of solar energy conversion. Using real-time meteorological data, geospatial coordinates, and first-principles calculations of solar yield, the system establishes a",
+      "title": "The Cognitive Kardashev Scale: Quantifying the Material Envelope of Civilisational Computation",
+      "url": "https://arxiv.org/abs/2605.22840",
+      "summary": "arXiv:2605.22840v1 Announce Type: cross Abstract: How much thinking can a civilisation do? Kardashev's (1964) typology ranks civilisations by total power: planetary (Type I, ~10^16 W), stellar (Type II, ~10^26 W), galactic (Type III). This paper builds an analogous Cognitive Kardashev Scale: how much sustained AI-grade computation each tier could support. Four ingredients enter the calculation: total power P (watts), the share f of it devoted to cognition, the efficiency $\\eta$ at which energy becomes compute (operations per joule), and the brain's own processing rate $C_{\\mathrm{brain}}$ as a",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Cognitive offloading and the speedup illusion in human-AI interaction",
-      "url": "https://arxiv.org/abs/2605.23177",
-      "summary": "arXiv:2605.23177v1 Announce Type: new Abstract: Large language models (LLMs) have the potential to boost human productivity by speeding up task completion -- provided users know when to offload cognitive work to them. But we do not know if users are well-calibrated in estimating these potential time savings. We conducted a preregistered large-scale behavioral study (N = 1237) to characterize mismatches between expectations and reality, with a focus on simple cognitive tasks. While actual completion times between independent completion and AI-assisted completion did not differ, participants pre",
+      "title": "How Far Will They Go? Red-Teaming Online Influence with Large Language Models",
+      "url": "https://arxiv.org/abs/2605.22880",
+      "summary": "arXiv:2605.22880v1 Announce Type: cross Abstract: As large language model (LLM)-based agents increasingly participate in online discourse, red-teaming their capacity to support political influence campaigns is critical for information integrity. In pursuit of this goal, we focus on locally deployed open-source LLMs, as opposed to frontier API-only models, given their superior alignment with the operational constraints of privacy-conscious malicious actors deployed in social media environments. We introduce an empirical red-teaming framework for measuring LLM Overton Windows (OWs), defined as t",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Iy\\`aw\\'oBench: A Benchmark for Evaluating Large Language Model Clinical Triage Accuracy on Undifferentiated Febrile Illness in Nigerian Primary Health Settings",
-      "url": "https://arxiv.org/abs/2605.23465",
-      "summary": "arXiv:2605.23465v1 Announce Type: new Abstract: Background. Undifferentiated febrile illness is the leading cause of primary care outpatient visits in Nigeria, yet no validated benchmark exists for evaluating large language model (LLM) clinical triage reasoning in West African primary health settings. Methods. We introduce Iy\\`aw\\'oBench v1.0, a dataset of 200 synthetic clinical vignettes across eight febrile illness categories derived from statistical distributions of 1,200 real patient encounters at 19 primary health centres (PHCs) in Oyo State, Nigeria. Six LLMs were evaluated on structured",
+      "title": "When AI Takes Sides on Questions of Faith: Persistent Asymmetries in AI-Mediated Faith Guidance",
+      "url": "https://arxiv.org/abs/2605.22975",
+      "summary": "arXiv:2605.22975v1 Announce Type: cross Abstract: We ask whether large language models (LLMs) treat queries about religious conversion symmetrically. The answer is no. When asked for advice on hypothetical faith transitions from one religion to another, then asked the reversed question, models exhibited consistent asymmetries, favoring some religions while subtly discouraging conversion to others. On average Catholic, Bah\\'a'\\'i, and Sikh religions were broadly favored (high support for joining, low support for leaving), while Atheists, Agnostics, and Jehovah's Witnesses were primarily disfavo",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Strategic Stalemates: The Paradox of Export Controls in the U.S.-China AI Race",
-      "url": "https://arxiv.org/abs/2605.23475",
-      "summary": "arXiv:2605.23475v1 Announce Type: new Abstract: Export control is a policy and legal tool to protect national interests by regulating exports of sensitive goods and technology to foreign nations. It has become central to U.S.-China tech rivalry, especially in AI. Controls cover advanced chips, capital, personnel, and critical minerals for semiconductors. Since October 2022, the U.S. BIS has progressively tightened restrictions on advanced computing components to China. China responded with export curbs on critical minerals and filed a WTO complaint against the U.S. under GATT. This article arg",
+      "title": "StanBKT: Rethinking Parameter Estimation in Bayesian Knowledge Tracing",
+      "url": "https://arxiv.org/abs/2605.23048",
+      "summary": "arXiv:2605.23048v1 Announce Type: cross Abstract: Bayesian Knowledge Tracing (BKT) is a widely used and interpretable student modeling approach in intelligent tutoring systems and educational data mining. However, most implementations rely on expectation-maximization or related optimization methods that yield only point estimates, limiting uncertainty quantification and principled comparisons across learners and conditions. We introduce StanBKT, an open-source Python package for estimating BKT models using Bayesian inference in Stan. StanBKT provides a unified framework supporting Hamiltonian ",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Unjust Enrichment as a Remedy for AI's Unauthorised Use of Protected Data",
-      "url": "https://arxiv.org/abs/2605.23503",
-      "summary": "arXiv:2605.23503v1 Announce Type: new Abstract: The unauthorised use of data in the training of generative AI models presents significant legal challenges, particularly under intellectual property (IP) and privacy laws. These frameworks frequently grapple with the intricate relationship between data ownership and AI innovation, resulting in ongoing debates regarding optimal protection and enforceability. This article delves into considerable potential of unjust enrichment as an alternative legal doctrine for resolving disputes arising from such unauthorised data use. We explore how the concept",
+      "title": "A Comparative Evaluation of Structural Topic Models and BERTopic for Short, Open-Ended Survey Responses",
+      "url": "https://arxiv.org/abs/2605.23093",
+      "summary": "arXiv:2605.23093v1 Announce Type: cross Abstract: Topic modeling in applied psychology increasingly spans two methodological traditions: probabilistic bag-of-words models and newer embedding-based approaches. Yet many evaluations of these methods rely on longer and cleaner benchmark corpora, leaving less guidance for short, open-ended survey responses. This paper compares Structural Topic Models (STM), a probabilistic topic model, and BERTopic, an embedding-based model, for analyzing open-ended survey responses. We evaluated three STM conditions and five BERTopic conditions, varying typographi",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Benchmarking LLMs for Community Governance Simulation with Life-history Narratives",
-      "url": "https://arxiv.org/abs/2605.23783",
-      "summary": "arXiv:2605.23783v1 Announce Type: new Abstract: Effective community governance hinges on understanding what specific residents think and need. Recent work has used large language models (LLMs) to simulate human respondents, offering a scalable, reproducible way to study human attitudes and behaviors at low cost. However, these studies typically prompt the model with just a few demographic variables (age, gender, income), simulating only general role types. This is insufficient for community governance, where decisions depend on the views of specific residents. We bridge this gap with an integr",
+      "title": "A Fine-Tuned BERT Classifier for Personal-Letter Titles in Late-Ming and Early-Qing Collected Works",
+      "url": "https://arxiv.org/abs/2605.23103",
+      "summary": "arXiv:2605.23103v1 Announce Type: cross Abstract: I present Lepton (Letter Prediction), a fine-tuned BERT classifier that predicts whether a title in a Classical Chinese wenji table of contents is a personal letter or a closely confusable preface (particularly the farewell-preface). Lepton fine-tunes bert-base-chinese on 5438 hand-labeled wenji titles from thirty-three late-Ming and early-Qing literati. I've deployed the model on Hugging Face and has been used at the China Biographical Database (CBDB) to identify approximately fifty-five thousand letters across mid-Ming through early-Qing wenj",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Engagement-Optimized Care: When LLMs become Mental Health Infrastructure",
-      "url": "https://arxiv.org/abs/2605.23787",
-      "summary": "arXiv:2605.23787v1 Announce Type: new Abstract: General-purpose LLMs are increasingly functioning as mental health infrastructure due to gaps in care left by provider shortages, inadequate insurance coverage, social isolation, and stigma around formal help-seeking. This shift poses a distinct problem for AI ethics: systems neither designed nor governed as care technologies are being used as such, while their dominant design incentives optimize for engagement rather than user well-being. We present findings from a qualitative, longitudinal study with 18 US-based participants who use general-pur",
+      "title": "When Symptoms Are Not Enough: Evidence-Weighting Patterns in Large Language Model Psychiatric Screening",
+      "url": "https://arxiv.org/abs/2605.23148",
+      "summary": "arXiv:2605.23148v1 Announce Type: cross Abstract: As demand for mental health care outpaces clinician-delivered assessment, scalable screening tools are increasingly needed. Large language models (LLMs) may identify psychiatric risk from patient narratives, but their reliability across diagnoses, demographic subgroups, and evidence-use patterns remains uncertain. We introduce a SCID-anchored benchmark of 555 semi-structured experiential interviews paired with diagnostic reference labels for anxiety disorder, major depressive disorder, post-traumatic stress disorder, and any current mental heal",
       "published": "2026-05-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
