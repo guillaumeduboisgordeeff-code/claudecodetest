@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Artificial Effort",
-      "url": "https://arxiv.org/abs/2605.23920",
-      "summary": "arXiv:2605.23920v1 Announce Type: new Abstract: Real-effort tasks, in which participants perform cognitively costly activities whose outcomes depend on actual performance, are widely used in experimental economics. Their validity, however, rests on the assumption that a human performs them. We study whether this assumption still holds in the era of Artificial Intelligence (AI) and Large Language Models (LLMs). Using 8 canonical real-effort tasks and 23 LLMs from three major providers, we show that most tasks can now be solved accurately and at a negligible cost, while only a few resist automat",
+      "title": "Is Decentralized AI Governable? From Regulative Policy to Constitutive Protocol",
+      "url": "https://arxiv.org/abs/2605.24538",
+      "summary": "arXiv:2605.24538v1 Announce Type: new Abstract: Every major framework for governing artificial intelligence presupposes an identifiable entity -- a developer, deployer, or operator -- who can be held responsible and compelled to comply. Decentralized AI (DeAI) dissolves this presupposition. We analyze DeAI as a six-layer decentralizing stack -- model, training, compute, harness, identity, and ownership -- and show how partial decentralization across layers compounds into what we call the \\emph{governance vacuum}: a condition in which AI systems are consequential enough to require governance bu",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Authority Signals in Claude AI Health Citations: A Descriptive Analysis Using the Authority Signals Framework",
-      "url": "https://arxiv.org/abs/2605.23921",
-      "summary": "arXiv:2605.23921v1 Announce Type: new Abstract: This study seeks to determine the authority signals used by Anthropic's Claude AI in its presentation of sources when answering consumer health questions. While there exists a great deal of discourse around the quality of health citations that LLMs produce, there is limited information on the integrity of the sources the citations originate from, and to what extent the sources are, from what health professionals would consider, credible sources. This descriptive cross-sectional study used data from HealthSearchQA, which contains 3,172 consumer he",
+      "title": "From Replacement to Orchestration: A Socio-Technical Architecture for Agentic AI in Corporate R&D",
+      "url": "https://arxiv.org/abs/2605.24580",
+      "summary": "arXiv:2605.24580v1 Announce Type: new Abstract: Purpose: Corporate R&D faces a persistent productivity paradox: rising investment and expanding scientific knowledge have not translated into proportional innovation output. In pharmaceuticals this is captured as Eroom's Law; analogous patterns appear across engineering, materials science, and healthcare. The core cause is not insufficient tools but cognitive saturation: researchers spend an increasing share of their effort on coordination, documentation, and data governance -- hidden work that displaces high-value hypothesis formation, interpret",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "High-Risk AI Systems and the Problem of Identity in the European AI Act",
-      "url": "https://arxiv.org/abs/2605.23922",
-      "summary": "arXiv:2605.23922v1 Announce Type: new Abstract: The EU Artificial Intelligence Act (AIA) establishes a lifecycle governance regime for high-risk AI systems built around ex-ante conformity assessment, post-market monitoring, and re-assessment upon \"substantial modification.\" These obligations presuppose AI identity judgments: regulators and providers must decide when an updated system remains the same system over time. In this work, we show how this logic is clarified by the function+ framework of artifact identity, which individuates AI systems by their intended function together with context-",
+      "title": "Position: Adopting AI in Practice Does Not Guarantee the Productivity Boost",
+      "url": "https://arxiv.org/abs/2605.24688",
+      "summary": "arXiv:2605.24688v1 Announce Type: new Abstract: This position paper argues that adopting AI in organizational practice does not guarantee productivity gains, because human and environmental factors critically moderate the relationship between AI deployment and realized productivity improvements. Following the advent of high-performance generative models, AI use has been rapidly encouraged in some sectors while being restricted in others. Most practitioners assume that AI brings productivity boosts owing to enhanced technical capabilities, but regardless of apparent performance advances in AI t",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Catching The Correct Answer Trap: Characterising AI Tutor Blind Spots When Analysing Student Reasoning",
-      "url": "https://arxiv.org/abs/2605.23925",
-      "summary": "arXiv:2605.23925v1 Announce Type: new Abstract: Intelligent tutoring systems increasingly provide automated feedback on student work, but robust feedback requires assessing reasoning, not only final answers. We study a failure mode we call the correct answer trap (CAT): models under-detect misconceptions when students reach a correct answer via flawed reasoning. Analysing real student responses from the Eedi mathematics platform, we show that 71% of these failures concentrate in just two question types, both sharing a common structure where flawed reasoning happens to produce the correct numer",
+      "title": "Dual-Use AI Face Swap Apps Are Mostly Unsafe: A Systematic Safety Audit",
+      "url": "https://arxiv.org/abs/2605.24735",
+      "summary": "arXiv:2605.24735v1 Announce Type: new Abstract: AI-based image editing tools, such as face swapping algorithms, can be used to transform a clothed image of a person into a sexually explicit image of that person. These tools are made easily accessible to non-expert users through mobile apps, and have been linked to reports of image-based sexual abuse and cyberbullying involving synthetic non-consensual intimate imagery. Apple and Google have begun to remove \"nudification\" apps from their platforms: apps that are marketed with the capability to \"undress\", \"nudify\", or create nude face swaps from",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "KT4EQG: Personalized Exercise Question Generation via Knowledge Tracing",
-      "url": "https://arxiv.org/abs/2605.23933",
-      "summary": "arXiv:2605.23933v1 Announce Type: new Abstract: Educational Question Generation (EQG) aims to synthesize customized exercise questions that enhance student learning. An effective EQG system should ideally personalize questions for each student by modeling the student's knowledge state and generating questions that provide the greatest learning benefit. However, few existing EQG approaches are able to achieve such fine-grained personalization. In this paper, we explore how EQG can benefit from knowledge tracing (KT), which models students' knowledge states based on historical performance and pr",
+      "title": "Generative AI as a Design Variable: An Evidence-Centered Framework for Principled Governance in STEM Assessment",
+      "url": "https://arxiv.org/abs/2605.24837",
+      "summary": "arXiv:2605.24837v1 Announce Type: new Abstract: Generative Artificial Intelligence (GenAI) presents a governance challenge for STEM assessment. Unrestricted GenAI access enables task outsourcing that undermines the validity of traditional assessments; blanket prohibitions are difficult to enforce, may push use underground, and do little to prepare students for workplaces where GenAI-supported workflows are increasingly common. This paper addresses this dilemma by proposing a framework grounded in Evidence-Centered Design (ECD) that treats GenAI as a design variable within the assessment argume",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-Driven Controlled Environment Agriculture as Resilient Infrastructure for U.S. Fresh-Produce Supply Chains",
-      "url": "https://arxiv.org/abs/2605.23946",
-      "summary": "arXiv:2605.23946v1 Announce Type: new Abstract: Climate volatility, regional production concentration, labor constraints, cyber risk, and dependence on long-distance fresh-produce supply chains expose vulnerabilities in U.S. fresh-produce and specialty-crop systems. Controlled environment agriculture (CEA) can reduce some exposure by moving selected production into protected, sensor-rich environments, but recent failures in venture-backed vertical farming show that CEA cannot be treated as a universal food-security solution. This paper proposes the Controlled Environment Agriculture Resilience",
+      "title": "Building Digital Societies as Ecosystems: How Recognition and Repeat Relationships Sustain Cross-Community Work in Open Source",
+      "url": "https://arxiv.org/abs/2605.25055",
+      "summary": "arXiv:2605.25055v1 Announce Type: new Abstract: We measure cross-boundary collaboration in an open-source software (OSS) ecosystem by reconstructing the bipartite contributor-repository graph of 464 cybersecurity projects and 11,372 contributors active over October 2001-May 2022 (Rawsec Cybersecurity Inventory). Louvain community detection identifies 163 non-singleton communities; per-community contributor count scales superlinearly with repository count (n_contributors ~ n_repos^1.4), and community formation follows a logistic trajectory saturating around 2018. Three patterns support a recogn",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI in the Enterprise: How People Use M365 Copilot Chat",
-      "url": "https://arxiv.org/abs/2605.23958",
-      "summary": "arXiv:2605.23958v1 Announce Type: new Abstract: M365 Copilot is used every week by millions of people across more than a million companies around the world as part of their workflows. Uniquely positioned in the AI landscape given its near-exclusive use for work purposes, M365 Copilot can offer a clear picture of how people use AI for work and where that usage may expand next. This paper characterizes that usage through direct classification of user interactions with M365 Copilot Chat. Based on an anonymized and privacy-preserving analysis of a sample of approximately 5.5 million sessions, we c",
+      "title": "Beyond Killer Robots: General AI Attitudes and Public Support for Military AI in Nine Countries",
+      "url": "https://arxiv.org/abs/2605.25196",
+      "summary": "arXiv:2605.25196v1 Announce Type: new Abstract: AI-enabled military systems are a fixture of modern military conflict. Applications vary from autonomous drones for surveillance and attack to AI-supported target selection. The importance of AI for modern conflict shows also in public disputes between governments and technology companies over the conditions for military access to frontier AI. Both military uses and government attempts at enabling and steering them happen before a backdrop of public opinion, yet we still know little about how people think about military AI. Drawing on a preregist",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "What Medicine Taught Us About Fairness and What It Missed: Lessons from Reconsidering Race-Specific Lung Function Reference Algorithms",
-      "url": "https://arxiv.org/abs/2605.24149",
-      "summary": "arXiv:2605.24149v1 Announce Type: new Abstract: Since 2019, medical societies have reconsidered race-specific clinical equations often in parallel to and largely independent from algorithmic fairness research. Focusing on lung function reference algorithms that affect medical care, insurance, and employment for hundreds of millions globally, we analyze the transition from race-specific GLI-2012 to race-averaged GLI-Global through a fairness lens. Drawing on historical context, citation analysis, and quantitative evaluation, we show (i) limited cross-citation between FAccT and clinical guidelin",
+      "title": "LLM-as-a-Judge in Healthcare: A Scoping Analysis of Applications, Methods, and Human Alignment",
+      "url": "https://arxiv.org/abs/2605.25273",
+      "summary": "arXiv:2605.25273v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed across healthcare applications, including clinical documentation, diagnostic reasoning, medicine recommendation, and medical education. Their outputs are largely unstructured clinical text, which is difficult to reliably evaluate at scale. LLM-as-a-Judge, in which an LLM evaluates another system's output against task-specific criteria, offers a scalable alternative and is increasingly used in clinical evaluation, yet its validity in healthcare remains underexamined. Existing reviews focus on ",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "PAIRED: A Process-Anchored Framework for Transparent Reporting of AI Contributions in Scientific Research",
-      "url": "https://arxiv.org/abs/2605.24325",
-      "summary": "arXiv:2605.24325v1 Announce Type: new Abstract: The rapid integration of generative AI into scientific research has exposed a critical gap in academic disclosure practice. Existing frameworks for reporting AI contributions are uniformly output-oriented -- they document what AI produced, not how the research unfolded. As a result, researchers who wish to report their AI collaboration honestly lack the tools to do so: no current framework can distinguish between a researcher who originated a research direction and one who adopted a direction proposed by AI, or between a researcher who critically",
+      "title": "Routed Closure: Rethinking Value Capture in Decentralized Ecosystems",
+      "url": "https://arxiv.org/abs/2605.25372",
+      "summary": "arXiv:2605.25372v1 Announce Type: new Abstract: A decentralized ecosystem can capture value and still fail to fund the actors who keep it running. Users may pay fees, tokens may appreciate, issuers may earn revenue, and protocols may burn value, but none of these facts by itself shows that authors, miners, validators, suppliers, storage providers, or other critical participants are actually compensated. This paper argues that traditional value-capture analysis often assumes a centralized pool: once value is captured, it can be reallocated through budgets, contracts, payroll, or managerial disc",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Habermolt: Delegating Deliberation to AI Representatives",
-      "url": "https://arxiv.org/abs/2605.24413",
-      "summary": "arXiv:2605.24413v1 Announce Type: new Abstract: Deliberative democracy arguably leads to better collective decisions, but is fundamentally constrained by human attention and bandwidth. While recent AI-mediated deliberations scale participation by synthesizing inputs from many humans, they remain time-intensive for individual users. As AI models become increasingly capable, AI systems are being deployed not only to mediate deliberation between humans, but to represent humans in it: where AI agents deliberate on behalf of human users. We call this paradigm AI-delegated deliberation. While it pro",
+      "title": "The Traffickers' Pitch: Detecting Deceptive Recruitment in Online Job Boards",
+      "url": "https://arxiv.org/abs/2605.25416",
+      "summary": "arXiv:2605.25416v1 Announce Type: new Abstract: While substantial efforts in anti-trafficking research and practice have focused on identifying and assisting victims after exploitation occurs, comparatively less attention has been paid to preventing victimization at the recruitment stage. Although some platforms offer preventive tools, such as background checks triggered by in-person meeting detection, these measures primarily protect potential victims rather than directly limiting traffickers' recruitment activities. In this paper, we propose a computational framework to identify human traffi",
       "published": "2026-05-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
