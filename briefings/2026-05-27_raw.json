@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "The Environmental Costs of Surveillance Capitalism: A Case Study of Social Media Platforms",
-      "url": "https://arxiv.org/abs/2605.26314",
-      "summary": "arXiv:2605.26314v1 Announce Type: new Abstract: The business model of surveillance capitalism, premised on the extraction of behavioral data and its predictive potential for profit, relies on extensive material infrastructure. Such profit is typically driven by practices such as telemetry, user tracking, data analytics, secondary data uses, increased user engagement, and AI model training, as well as large-scale data storage systems that retain personal information for sale or reuse. This paper is motivated by the question: how much of the rising carbon impact of ICT can be attributed to this ",
+      "title": "Visual Matters: Connecting Aesthetic Appeal and Production Quality of Photos, Infographics and Data Visualizations to Credibility of Social Media Posts",
+      "url": "https://arxiv.org/abs/2605.26309",
+      "summary": "arXiv:2605.26309v1 Announce Type: cross Abstract: The rapid proliferation of visual content raises fundamental questions about how different visual formats and features shape perceived credibility. Drawing on processing fluency theory, this research examines how visuals shape credibility judgments. We focus on three popular formats-photos, infographics, and data visualizations-comparing them to text-only posts, and test how two visual features, aesthetic appeal and production quality, influence credibility through processing fluency as a mediating mechanism. Through a preregistered experiment ",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Examining the Challenges of Intellectual Property in AI-Generated Productions",
-      "url": "https://arxiv.org/abs/2605.26590",
-      "summary": "arXiv:2605.26590v1 Announce Type: new Abstract: With the advancement of artificial intelligence systems capable of autonomously generating artistic, literary, musical works, and even inventions without direct human intervention, the intellectual property (IP) regime faces unprecedented questions and challenges. The most critical issue concerns the ownership of moral and economic rights in the absence of a human creator, and how such outputs can be granted legal protection. This paper first reviews the theoretical foundations and existing literature in this domain, then comparatively examines I",
+      "title": "Grounding Text Embeddings in Stakeholder Associations",
+      "url": "https://arxiv.org/abs/2605.27168",
+      "summary": "arXiv:2605.27168v1 Announce Type: cross Abstract: Text embeddings are widely used to analyse large corpora of complex texts. However, it is unclear whether the embeddings capture the same semantic distances as the human experts using them. Ensuring alignment between embedding representations and human intentions is essential for valid analyses. We present the Stakeholder Grounding Exercise, a method for making expert associations explicit and grounding embedding model results in human understanding. In our primary case study on Danish policy issues, we find that neural text embeddings are subs",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Generative artificial intelligence and the marginalization of minoritized knowledges in higher education: the case of disability",
-      "url": "https://arxiv.org/abs/2605.26769",
-      "summary": "arXiv:2605.26769v1 Announce Type: new Abstract: Generative artificial intelligence redefines higher education by restructuring the processes through which scientific knowledge is produced and validated. These systems are not neutral; they actively contribute to the marginalization of non-hegemonic epistemologies. This research draws upon educational sciences, critical technology studies, and disability studies to demonstrate that training datasets, which remain predominantly Anglophone and Western-centric, reinforce epistemic coloniality. The situation of persons with disabilities provides a p",
+      "title": "An investigation of AI integration in sound designer workflows and experiences",
+      "url": "https://arxiv.org/abs/2605.27174",
+      "summary": "arXiv:2605.27174v1 Announce Type: cross Abstract: Artificial intelligence is increasingly being integrated into professional audio production workflows, yet a gap persists between the tools developers produce and the requirements of practising sound designers. This paper investigates this gap through a mixed-methods study comprising a survey of 76 practitioners and follow-up semi-structured interviews with 20 industry professionals. Results were analysed using descriptive statistical analysis and thematic analysis to identify patterns across both datasets. Five themes emerged from our analysis",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Implementation of Big Data Analytics for Diabetes Management: Needs Assessment in the Rwanda Healthcare System",
-      "url": "https://arxiv.org/abs/2605.26786",
-      "summary": "arXiv:2605.26786v1 Announce Type: new Abstract: Diabetes is a chronic metabolic disease that can lead to serious health problems if not diagnosed and managed early. Big Data Analytics (BDA) and machine learning offer practical tools for analyzing large health datasets and supporting early detection and better treatment decisions. However, their use in routine clinical practice is still limited. This study examines the readiness of Rwanda's healthcare system to adopt big data analytics for diabetes management. As the country continues to expand its use of electronic medical records and health i",
+      "title": "Modeling Agentic Technical Debt and Stochastic Tax: A Standalone Framework for Measurement, Simulation, and Dashboarding",
+      "url": "https://arxiv.org/abs/2605.27320",
+      "summary": "arXiv:2605.27320v1 Announce Type: cross Abstract: Agentic AI systems combine probabilistic reasoning with delegated action through tools, context, memory, orchestration, and external workflow integration. This note develops a formal and managerially usable model that distinguishes Agentic Technical Debt from Stochastic Tax. Agentic Technical Debt is a stock of accumulated design and governance liability. Stochastic Tax is a recurring flow of operating burden that arises when stochastic agents are used in business workflows. The two constructs are related, but they are not the same: debt can am",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "How Students (Mis)understand Conditionals and Loops -- A Taxonomy",
-      "url": "https://arxiv.org/abs/2605.26966",
-      "summary": "arXiv:2605.26966v1 Announce Type: new Abstract: Understanding student difficulties in programming is a complex challenge due to the wide range of topics and the abundant varieties of misconceptions and errors. This paper presents the design and development of a fine-grained taxonomy that categorizes novice programmers' difficulties specifically related to reading and understanding the control flow constructs selection and iteration. Building upon prior research and our own empirical data from quizzes and interviews with students, the taxonomy is constructed through the iterative methodology of",
+      "title": "Authorship Attribution in the Era of LLMs: Problems, Methodologies, and Challenges",
+      "url": "https://arxiv.org/abs/2408.08946",
+      "summary": "arXiv:2408.08946v3 Announce Type: replace Abstract: Accurate attribution of authorship is crucial for maintaining the integrity of digital content, improving forensic investigations, and mitigating the risks of misinformation and plagiarism. Addressing the imperative need for proper authorship attribution is essential to uphold the credibility and accountability of authentic authorship. The rapid advancements of Large Language Models (LLMs) have blurred the lines between human and machine authorship, posing significant challenges for traditional methods. We present a comprehensive literature r",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Building an Atlas of Social Experiments to Link Studies, Reconcile Conflicts, and Bridge Gaps",
-      "url": "https://arxiv.org/abs/2605.27153",
-      "summary": "arXiv:2605.27153v1 Announce Type: new Abstract: Social and behavioral science runs thousands of experiments each year, yet their findings rarely accumulate into a coherent map of what is known, what conflicts, and what remains missing. We introduce ExAtlas, a framework for turning an archive of experiments into an atlas: a structured map in which studies link, conflict, or leave bridgeable gaps. Given a target study, ExAtlas searches for prior studies that are locally close in treatment and outcome space and asks whether their observed effects can be composed to predict the target effect. This",
+      "title": "Intelligent Environmental Empathy (IEE): A new power and platform to fostering green obligation for climate peace and justice",
+      "url": "https://arxiv.org/abs/2410.21536",
+      "summary": "arXiv:2410.21536v4 Announce Type: replace Abstract: In this paper, we propose Intelligent Environmental Empathy (IEE) as a new driver for climate peace and justice, as an emerging issue in the age of big data. We first show that the authoritarian top-down intergovernmental cooperation, through international organizations (e.g., UNEP) for climate justice, could not overcome environmental issues and crevices so far. We elaborate on four grounds of climate injustice (i.e., teleological origin, axiological origin, formation cause, and social epistemic cause), and explain how the lack of empathy an",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Faults and Pitfalls in Implementing the Right to be Forgotten",
-      "url": "https://arxiv.org/abs/2605.27171",
-      "summary": "arXiv:2605.27171v1 Announce Type: new Abstract: Right to be Forgotten (RTBF) in one of the oldest and prominent of the legal data rights. While its legal intention is straight forward (for example, the GDPR describes it in just 417 words), the computing community has found it challenging to implement this in practice. For example, regulators have issued 205 RTBF violations in the first five years of GDPR i.e., an RTBF failure once every 9 days, on average. In this work, we identify the uncertainties and risks in supporting RTBF from a computing perspective. Then, to mitigate these challenges, ",
+      "title": "Fixed Points and Stochastic Meritocracies: A Long-Term Perspective",
+      "url": "https://arxiv.org/abs/2510.07478",
+      "summary": "arXiv:2510.07478v2 Announce Type: replace Abstract: We study group fairness in the context of feedback loops induced by meritocratic selection into programs that themselves confer additional advantage, like college admissions. We introduce a stylized, yet novel inter-generational model for the setting and analyze it in situations where there are no underlying differences between two populations. When the benefit of the program (or the harm of not getting into it) is completely symmetric, we show that disparities between the two populations will vanish on average in the long term, although in t",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Queue & AI: When Faster Tasks Slow Down the Workflow",
-      "url": "https://arxiv.org/abs/2605.27202",
-      "summary": "arXiv:2605.27202v1 Announce Type: new Abstract: Quantifying the workplace productivity effects of Generative Artificial Intelligence is now central to economics, management, and public policy. The deployment of AI tools in customer service, writing, software development, and consulting operations has been reported to generate large per-task productivity gains, typically measured as tasks completed per worker-hour or reductions in mean handle time. We argue that such mean-based metrics can misrepresent AI's effects in workflows where tasks accumulate and compete for scarce human attention. AI a",
+      "title": "A Technical Policy Blueprint for Trustworthy Decentralized AI",
+      "url": "https://arxiv.org/abs/2512.11878",
+      "summary": "arXiv:2512.11878v3 Announce Type: replace Abstract: Decentralized AI systems, such as federated learning, can play a critical role in further unlocking AI asset marketplaces (e.g., healthcare data marketplaces) thanks to increased asset privacy protection. Unlocking this big potential necessitates governance mechanisms that are transparent, scalable, and verifiable. However current governance approaches rely on bespoke, infrastructure-specific policies that hinder asset interoperability and trust among systems. We are proposing a Technical Policy Blueprint that encodes governance requirements ",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Algorithmic Monocultures in Hiring",
-      "url": "https://arxiv.org/abs/2605.27371",
-      "summary": "arXiv:2605.27371v1 Announce Type: new Abstract: Many employers screen job applicants with algorithms built by the same few algorithm vendors. We hypothesize that algorithmic monoculture leads to the same individuals and members of the same racial groups facing rejection. We acquire and analyze a novel dataset of 3 million applicants submitting 4 million applications where all the applications are screened by algorithms built by the same vendor. We find clear racial disparities in applicant outcomes. Of all applications submitted by Asian and Black applicants, 14.74% and 25.87% are submitted to",
+      "title": "Ethical Fairness without Demographics in Human-Centered AI",
+      "url": "https://arxiv.org/abs/2603.13373",
+      "summary": "arXiv:2603.13373v3 Announce Type: replace Abstract: In ubiquitous and mobile health systems, computational models infer human states from wearable, behavioral, and physiological sensing data. In these settings, high accuracy alone is insufficient; models must act ethically and equitably across diverse people, contexts, and devices. However, fairness methods that rely on demographic or heterogeneous attributes during training are difficult to enforce because such attributes are often unavailable, privacy-sensitive, regulated, or undesirable to collect. Conventional parity-based fairness can als",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AgentSociety: Incentivizing Agentic Social Intelligence",
-      "url": "https://arxiv.org/abs/2605.26203",
-      "summary": "arXiv:2605.26203v1 Announce Type: cross Abstract: The success of deployed agents relies on their ability to handle open-ended user requests using their inherent capabilities, not only in solving requests directly but also in effectively leveraging inter-agent communication channels and feedback signals over time. This requires a multi-agent environment where agents can operate autonomously, strategically communicate, behave collaboratively and be driven by economic incentives, much like humans in society. Towards this vision, we propose $\\mathtt{AgentSociety}$, a mechanism that enables decentr",
+      "title": "Auditing the Reliability of Multimodal Generative Search",
+      "url": "https://arxiv.org/abs/2604.00944",
+      "summary": "arXiv:2604.00944v2 Announce Type: replace Abstract: Multimodal Large Language Models (MLLMs) increasingly function as generative search systems that retrieve and synthesize answers from multimedia content, including YouTube videos. Although these systems project authority by citing specific videos as evidence, the extent to which these citations genuinely substantiate the generated claims remains underexplored. We present a large-scale audit of the Gemini 2.5 Pro multimodal search system, analyzing 11,943 claim-video pairs generated across Medical, Economic, and General domains. Through automa",
       "published": "2026-05-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
