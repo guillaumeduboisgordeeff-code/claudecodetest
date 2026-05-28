@@ -1,0 +1,86 @@
+{
+  "date": "2026-05-28",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Learning after COVID-19 and the ICT career aspirations: Are students entering the AI era with weaker skills?",
+      "url": "https://arxiv.org/abs/2605.27391",
+      "summary": "arXiv:2605.27391v1 Announce Type: new Abstract: This paper examines whether students are entering the generative AI era with sufficiently strong educational foundations, focusing on the relationship between learning environments and changes in ICT related career aspirations across countries. The analysis uses country-level data from PISA 2018 and 2022, combining indicators of student autonomy, digital skills and teacher support. A mixed-method approach is applied, including descriptive statistics, regression analysis, clustering, latent representation learning (using Variational Autoencoder-VA",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Human-AI Collaboration for Estimating Scientific Replicability",
+      "url": "https://arxiv.org/abs/2605.27394",
+      "summary": "arXiv:2605.27394v1 Announce Type: new Abstract: Determining whether published scientific findings can successfully be replicated is a long-standing challenge in the empirical sciences. Existing approaches for replicability assessment typically rely either on human judgment, i.e., creative assembly of human experts, or on machine learning models trained on paper content metadata. While both approaches have demonstrated value, each also has important limitations. Human forecasts can be influenced by cognitive biases and narrow exposure to the research literature, while automated assessments ofte",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Informing AI Policy Assessment using Large-Scale Simulation of Interventions",
+      "url": "https://arxiv.org/abs/2605.27395",
+      "summary": "arXiv:2605.27395v1 Announce Type: new Abstract: As the rapid proliferation of AI systems and harms spurs efforts in AI governance around the world, prioritizing among competing policy options has become increasingly challenging for policymakers and researchers. We introduce a methodology for identifying viable policy options to mitigate specified AI harms, helping policymakers and researchers target areas that warrant greater time and resource investment. This method combines participatory evaluation of policies, expert assessment of implementation costs, and an LLM-based assessment of perceiv",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Agentic Literacy Debt: A Structural Problem the AI Literacy Field Has Not Yet Named",
+      "url": "https://arxiv.org/abs/2605.27396",
+      "summary": "arXiv:2605.27396v1 Announce Type: new Abstract: Autonomous AI agents now plan, decide, and act on behalf of users across healthcare, financial services, and workplace contexts, often without step-by-step human approval. Existing AI literacy frameworks were built for a world in which humans evaluate AI outputs and decide whether to act; they have no vocabulary for the user who has delegated decision-making authority to an agent whose actions may not be observable, reversible, or controllable. This paper names the resulting problem agentic literacy debt: the accumulating societal deficit that gr",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Democratizing Generative AI for Sustainable Competitive Advantage",
+      "url": "https://arxiv.org/abs/2605.27398",
+      "summary": "arXiv:2605.27398v1 Announce Type: new Abstract: As generative artificial intelligence (GenAI) diffuses across industries and becomes broadly accessible, the locus of sustainable competitive advantage shifts from technology ownership toward the quality of employee-level adoption and use. This paper develops a cross-level conceptual framework linking firm-level GenAI investment and governance to individual-level AI democratization, defined as the extent to which employees meaningfully, responsibly, and effectively use GenAI in their daily work. We argue that individual-level AI democratization, ",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Short-Term Gain, Long-Term Fragility: AI Labor Substitution and the Erosion of Sustainable Capability",
+      "url": "https://arxiv.org/abs/2605.27399",
+      "summary": "arXiv:2605.27399v1 Announce Type: new Abstract: What looks like acceleration can be a quiet transfer of burden from the present to the future. Attempts to replace human labor with AI systems are often presented as rational responses to technological progress, but that view is often structurally short-sighted. Across software development and adjacent knowledge industries, AI is increasingly attractive because it appears to reduce labor costs, speed output, and improve short-term metrics. Yet those gains may be achieved by drawing down human capabilities that are slow to build and difficult to r",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Mathematical Modelling of Ethical AI Use in Higher Education: A Coordination Game Framework for Future-Facing Learning",
+      "url": "https://arxiv.org/abs/2605.27400",
+      "summary": "arXiv:2605.27400v1 Announce Type: new Abstract: The rapid uptake of generative artificial intelligence (AI) in higher education is reshaping assessment practices and intensifying concerns around academic integrity, fairness, and learning quality. While institutional responses increasingly emphasise policy guidance and ethical principles, there remains limited formal understanding of how collective norms of responsible or opportunistic AI use emerge and stabilise within student cohorts. This paper reframes student AI use in assessment as a coordination problem shaped by peer expectations and as",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Using Zero-Shot LLM-Generated Survey Data for Geographically Explicit Population Synthesis",
+      "url": "https://arxiv.org/abs/2605.27401",
+      "summary": "arXiv:2605.27401v1 Announce Type: new Abstract: There is a growing interest in utilizing synthetic populations for a diverse range of applications. At the same time, we are witnessing a tremendous growth in artificial intelligence in all walks of life. This paper evaluates whether zero-shot large language model (LLM)-generated health survey data can serve as inputs to a conventional iterative proportional fitting (IPF) workflow for geographically explicit population synthesis. Using the 2023 Behavioral Risk Factor Surveillance System (BRFSS), we generate synthetic survey records for the U.S. s",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "REC-CBM: Rubric-Aware Error-Correction Concept Bottleneck Models for Trustworthy Open-Ended Grading",
+      "url": "https://arxiv.org/abs/2605.27402",
+      "summary": "arXiv:2605.27402v1 Announce Type: new Abstract: Open-ended grading is central to equitable and personalized education, yet manual grading remains time-consuming and costly, underscoring the need for automated grading systems. Although recent neural and large language model (LLM) based systems have demonstrated superior performance, they are typically black-box models whose scoring processes and rationales are difficult for educators to verify and trust. Concept bottleneck models (CBMs) have emerged as a promising approach by routing predictions through human-interpretable concepts, providing a",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "LLM-assisted sentiment analysis for integrated computational and qualitative mixed methods education research: A case study of students' written reflection assignments",
+      "url": "https://arxiv.org/abs/2605.27403",
+      "summary": "arXiv:2605.27403v1 Announce Type: new Abstract: Written reflection assignments give students valuable opportunities for critical self-assessment, meaning making, and learning processing. Additionally, such reflections provide rich data for qualitative education research. However, qualitative data can be time-consuming to analyze. It is even more time-intensive to qualitatively compare findings between different groups of participants, usually limiting comparison to, at most, one variable (e.g., binary gender). Large language models (LLMs) have recently begun to be critically evaluated for use ",
+      "published": "2026-05-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
