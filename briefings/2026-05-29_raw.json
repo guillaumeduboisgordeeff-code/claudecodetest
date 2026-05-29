@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Political Neutrality as Balanced Approval: A Large-Scale Human Evaluation of AI Responses",
-      "url": "https://arxiv.org/abs/2605.28911",
-      "summary": "arXiv:2605.28911v1 Announce Type: new Abstract: As AI systems increasingly shape political views, defining and evaluating AI political neutrality is an urgent problem. Here, we propose a new definition of AI political neutrality and design a large-scale user study to test it, releasing a new dataset PARETO with 7,434 participants and 208,152 evaluations of AI responses. Our definition follows a simple principle grounded in political theory: when asked about a controversial issue, an AI model should generate responses that maximize approval across groups with opposing viewpoints, while balancin",
+      "title": "When Models Disagree: Rethinking LLM Evaluation for Public Comment Analysis",
+      "url": "https://arxiv.org/abs/2605.29025",
+      "summary": "arXiv:2605.29025v1 Announce Type: cross Abstract: Federal agencies are deploying large language models (LLMs) to categorize public comment corpora, where the model's organization of the record shapes what policymakers see and which arguments register. Standard evaluation, anchored on stance accuracy against a small validated set, cannot detect when different models produce materially different categorizations of the same public input. We propose an Interpretive Audit Pipeline that treats multi-model disagreement as diagnostic of interpretive complexity and directs human review toward genuinely",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Does Distributed Training Undermine Compute Governance?",
-      "url": "https://arxiv.org/abs/2605.29359",
-      "summary": "arXiv:2605.29359v1 Announce Type: new Abstract: Compute governance proposals often rely on the assumption that frontier AI training requires large, detectable computing clusters. However, recent advances in distributed training algorithms could allow developers to conduct frontier-scale training on distributed agglomerations of hardware, rather than needing large datacenter facilities. Developers who prefer not to be constrained by regulations may structure their hardware in a manner that evades the registration and monitoring requirements associated with compute governance. Therefore, regulat",
+      "title": "Governing Technical Debt in Agentic AI Systems",
+      "url": "https://arxiv.org/abs/2605.29129",
+      "summary": "arXiv:2605.29129v1 Announce Type: cross Abstract: Agentic AI systems are increasingly being explored as production infrastructure: they reason over multiple steps, call tools, act through workflows, and adapt through memory and feedback. These systems create governance challenges that are not fully captured by traditional software or predictive ML technical debt. We define Agentic Technical Debt as the accumulated liability created when prompts, memory, tool schemas, orchestration graphs, control policies, and observability routines are patched together faster than they can be validated, stand",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The New Pro Se: Generative AI and the Surge in Federal Civil Self-Representation",
-      "url": "https://arxiv.org/abs/2605.29493",
-      "summary": "arXiv:2605.29493v1 Announce Type: new Abstract: Since public access to generative AI tools became widespread, federal civil litigation has seen a marked increase in pro se (self-represented) plaintiffs. This paper analyzes that shift using ~2.8 million filings, asking whether the post-GenAI period is associated not only with more pro se filings, but also with detectable changes in complaint text, litigation outcomes, and the composition of pro se litigants. Using civil filing data from FY2008-2025, we find that the federal civil pro se plaintiff rate rose from 11.33% pre-GenAI to 16.94% post-G",
+      "title": "Wait! There's a Way Out: A Decision Mechanism for Forecasting Conversational Derailment",
+      "url": "https://arxiv.org/abs/2605.29243",
+      "summary": "arXiv:2605.29243v1 Announce Type: cross Abstract: Forecasting conversational derailment is the task of predicting, as the conversation unfolds, whether it will eventually derail into personal attacks. Since forecasting models operate in an online fashion, they must decide whether to \"trigger\" an alert after each utterance--for example, to notify participants or a moderator that the conversation is at risk of derailing. Existing approaches make this decision solely based on the estimated likelihood of derailment given the preceding utterances, implicitly assuming that the conversation's future ",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Information Security in Small-Scale Protests: Surveillance of Ugandan Anti-EACOP Protesters",
-      "url": "https://arxiv.org/abs/2605.29621",
-      "summary": "arXiv:2605.29621v1 Announce Type: new Abstract: We examine the information security practices of Ugandan climate activists protesting the development of the East African Crude Oil Pipeline (EACOP). We conducted five-week fieldwork in Kampala, Uganda, which included interviews with 13 anti-EACOP activists. Through an inductive analysis, we report on the complexities faced by small groups of predominantly student protesters as they covertly organise small-scale anti-EACOP protests within a context marked by state surveillance and repression. Our study points to a multi-layered adversarial landsc",
+      "title": "Attention Asymmetry in AI Layoff Discourse on X: A Computational Analysis of Capital vs Labour Amplification",
+      "url": "https://arxiv.org/abs/2605.29367",
+      "summary": "arXiv:2605.29367v1 Announce Type: cross Abstract: When workers lose jobs to AI-driven restructuring, two very different conversations happen on X (formerly Twitter) at the same time. Tech executives and AI researchers talk about productivity, transformation, and opportunity. Laid-off workers and labour critics talk about job loss, uncertainty, and fear. This paper asks a simple question: which conversation gets more reach? We report three studies using two collection methods and 763 tweets from 20 named public accounts. Study 1 used keyword-based collection (n=392) and found no significant dif",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When Should AI Read the Room? Public Perceptions of Social Intelligence in AI Agents",
-      "url": "https://arxiv.org/abs/2605.29938",
-      "summary": "arXiv:2605.29938v1 Announce Type: new Abstract: AI researchers have been advancing socially intelligent AI agents (Social-AI) across embodiments, from chatbots to physical robots. As Social-AI is increasingly deployed in everyday settings, decisions about the roles these agents should play will depend on how laypeople perceive them. However, public perceptions of social intelligence in AI agents and the acceptability of these agents remain largely understudied. We present a mixed-methods survey of adults in the United States (N=200) that examines social intelligence as a perceived construct in",
+      "title": "Offloading Score: Measuring AI Reliance Through Counterfactual Workflows",
+      "url": "https://arxiv.org/abs/2605.29392",
+      "summary": "arXiv:2605.29392v1 Announce Type: cross Abstract: AI tools are increasingly integrated into real-world workflows. However, existing measures of reliance on these tools focus on AI output adoption or on self-reported indicators, rather than how task effort is distributed between users and tools. Here, we introduce offloading score, a measure of reliance that quantifies the fraction of cognitive effort offloaded to an AI tool. Offloading Score is simulation-based -- we construct a counterfactual workflow by estimating how the user would have completed the task without the tool, and then computin",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Dissociative Identity: Language Model Agents Lack Grounding for Reputation Mechanisms",
-      "url": "https://arxiv.org/abs/2605.30169",
-      "summary": "arXiv:2605.30169v1 Announce Type: new Abstract: As autonomous language model agents proliferate, forming an emerging agentic web with real-world consequences, what credibility signals can you use to decide whether to trust an unfamiliar agent in the wild and delegate to it? A natural governance intuition is to extend human identity verification and reputation mechanisms, from ``Know Your Customer'' and credit scores to ``Know Your Agent'' regimes. However, we argue that this analogy is fundamentally incomplete. Reputation mechanisms function both as social signals and as corrective feedback th",
+      "title": "Explaining Rankings with Hidden Group Bonuses",
+      "url": "https://arxiv.org/abs/2605.29444",
+      "summary": "arXiv:2605.29444v1 Announce Type: cross Abstract: Determining a linear utility function that correlates with observed candidate rankings is a foundational problem with applications in domains such as admissions, hiring, and recommendation systems, e.g., [Storandt and Funke, AAAI'19, Zhang et al., KDD'23, Wang et al., ICDE'24 (best paper award), Chen and Wong, VLDB'24]. Traditionally, these models assume full visibility into the feature sets used to determine the utility score. However, real-world scenarios often involve sensitive attributes that are hidden or partially observed, yet may influe",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Generalizing a Highly Configurable Analytics Pipeline to Replicate and Support Educational Research Across Multiple Domains",
-      "url": "https://arxiv.org/abs/2605.30303",
-      "summary": "arXiv:2605.30303v1 Announce Type: new Abstract: Artificial intelligence assistants deployed in online learning environments create new opportunities to collect large volumes of learner interaction data and generate insights to improve student outcomes. Architecture for AI-Augmented Learning (A4L) is a modular data architecture that enables the collection, integration, and analysis of learner interaction data from educational AI systems, supporting the generation of instructional insights that facilitate personalized learning and reinforce the bidirectional feedback loop between instructors and",
+      "title": "Inform, Coach, Relate, Listen: Auditing LLM Caregiving Support Roles",
+      "url": "https://arxiv.org/abs/2605.29473",
+      "summary": "arXiv:2605.29473v1 Announce Type: cross Abstract: Language models are increasingly being deployed for conversational support in informal caregiving contexts, where interactions often extend beyond information-seeking: caregivers seek emotional reassurance, guidance, and help, while navigating uncertain, relationally complex care decisions. Yet most safety evaluations assess model behavior under generic prompts, leaving a critical question unexamined: does a model's safety profile change with its support role? We study this by operationalizing four expert-reviewed support roles grounded in soci",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Aryabhata 2: Scaling Reinforcement Learning for Advanced STEM Reasoning",
-      "url": "https://arxiv.org/abs/2605.28829",
-      "summary": "arXiv:2605.28829v1 Announce Type: cross Abstract: Competitive STEM examinations such as JEE and NEET require multi-step symbolic reasoning, precise numerical computation, and deep conceptual understanding across physics, chemistry, and mathematics. Recent large language models perform strongly on common reasoning benchmarks, yet they remain difficult to deploy at scale, where millions of student doubts demand domain-specific, consistently structured problem solving. We introduce Aryabhata 2, a reasoning-focused language model for competitive STEM examinations, trained via reinforcement-learnin",
+      "title": "Toward AI Systems That Understand Self and Others: A Multi-Phase Inference Framework for Human Cognitive Diversity and World-Model Alignment",
+      "url": "https://arxiv.org/abs/2605.29930",
+      "summary": "arXiv:2605.29930v1 Announce Type: cross Abstract: Mutual misunderstanding in contemporary society does not arise merely because people hold different opinions or values. Even under the same observations, different subjects may form different inferential targets, state representations, prediction errors, and update priorities. This paper proposes a multi-phase inference framework and defines its core internal mechanism as the Multi-Phase Inference Mechanism (MIM). MIM formalizes how heterogeneous world models arise through a phase-formation space, a foregrounding field, subject-specific profile",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Biosecurity Blind Spot: Systematic Dual-use Detection in Open Science Infrastructure",
-      "url": "https://arxiv.org/abs/2605.28843",
-      "summary": "arXiv:2605.28843v1 Announce Type: cross Abstract: AI is transforming life sciences research at unprecedented speed, accelerating discovery across protein structure prediction, genome modeling, and drug development (Jumper et al., 2021; Mak et al., 2024). Yet this rapid advancement, coupled with the open science movement, introduces significant dual-use research concerns that have received limited empirical scrutiny. Here we present the first systematic analysis of dual-use research of concern (DURC) content on open preprint servers. We screened ~52,000 bioRxiv preprints (2024-2025) using a hyb",
+      "title": "Who Am I? History-Aware Profiles for Student Simulation in Tutoring Dialogues",
+      "url": "https://arxiv.org/abs/2605.30051",
+      "summary": "arXiv:2605.30051v1 Announce Type: cross Abstract: A key part of developing large language model (LLM)-powered, automated tutoring tools is student simulation, i.e., using LLMs to role-play as students, which can facilitate tutor model evaluation and training. Existing work mostly focuses on within-dialogue simulation, which lacks context on student knowledge and behavior, partly due to not grounding in past student question-answering or dialogue interactions. In this work, we introduce the task of history-conditioned student simulation, where the goal is to accurately predict student dialogue ",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Who Does Your AI Work For? Designing Conversational Agents as Digital Fiduciaries",
-      "url": "https://arxiv.org/abs/2605.28908",
-      "summary": "arXiv:2605.28908v1 Announce Type: cross Abstract: Conversational agents are increasingly integrated into the most private and intimate aspects of users' lives, from discussions of mental health to financial decisions. As a result, these systems have access to reams of sensitive user data. Much of the literature on AI systems has focused on aligning users' goals with the agents that act on their behalf. While this work is vitally important, it may overlook the need to establish a new normative baseline. Conversational AI agents, designed to feel and interact anthropomorphically with human users",
+      "title": "Modularizing Educational LLM-Agency for Fostering Responsible Learning Assistance",
+      "url": "https://arxiv.org/abs/2605.30187",
+      "summary": "arXiv:2605.30187v1 Announce Type: cross Abstract: The widespread adoption of AI chatbots in education will drastically change learning, making responsible deployment a critical concern. While large language models (LLMs) might have access to sources discussing insights from educational sciences, they are not particularly inclined to adhere to pedagogical concepts, risking negative effects on the learning process, such as a loss of transfer capabilities, critical thinking, or creativity. In this paper, we introduce an agentic AI chatbot architecture assisting students with exercise solving, spe",
       "published": "2026-05-29T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
