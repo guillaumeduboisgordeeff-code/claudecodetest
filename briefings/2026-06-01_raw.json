@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-01",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "AI Loss of Control Incident Management: Response & Resilience",
+      "url": "https://arxiv.org/abs/2605.30406",
+      "summary": "arXiv:2605.30406v1 Announce Type: new Abstract: Recent research demonstrating AI systems exhibiting deception and shutdown resistance suggests that AI loss of control (LOC) is an urgent policy concern , yet current literature focuses almost exclusively on alignment and prevention. To address this gap, this paper introduces a foundational framework and taxonomy for managing catastrophic AI LOC incidents. The taxonomy's first level distinguishes between scenarios where regaining control is 'extremely costly' versus 'impossible'. While impossible scenarios demand immediate resilience investments ",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Overview over the first decade of LIMITS",
+      "url": "https://arxiv.org/abs/2605.30543",
+      "summary": "arXiv:2605.30543v1 Announce Type: new Abstract: Computing within limits is a promising field, that follows principles of a) questioning endless growth narrative, b) considering and preparing for models of scarcity and c) reducing energy and material consumption, while considering d) a global spatial scale and e) long time frames. With computing's environmental impact growing and ecological limits becoming increasingly pressing, the LIMITS workshop has served as a central venue for this community since its inception in 2015, but an overview of the research published there has yet to be describe",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Tutoring Effectiveness Index: Predicting LLM Math Tutor Quality from Four Conversation Signals",
+      "url": "https://arxiv.org/abs/2605.30666",
+      "summary": "arXiv:2605.30666v1 Announce Type: new Abstract: Aligning large language models (LLMs) as math tutors typically demands costly reinforcement-learning (RL) training and external LLM judges. We ask whether a frozen model's internal reasoning signals can replace both. We propose the Tutoring Effectiveness Index (TEI), a training-free, judge-free four-signal index that combines a Schoenfeld-Verify keyword ratio, a math-step density, an ends-question rate, and a deep-reasoning gate from the Deep-Thinking Ratio (DTR) probe. Selecting from $N$ candidates with TEI (the TEI@$N$ rule) raises the improvem",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Reinforcement Learning for Special Education: Aligning LLM Tutors to Diverse Learners through Disability-Adaptive Training",
+      "url": "https://arxiv.org/abs/2605.30670",
+      "summary": "arXiv:2605.30670v1 Announce Type: new Abstract: Large language models are increasingly deployed as intelligent tutors, yet research on aligning them for special education remains absent. Recent work has applied reinforcement learning to LLM tutors, but these methods target a generic learner in a single domain (mathematics) and do not address the cognitive and communicative diversity of learners with disabilities. We introduce \\emph{Special-R1}, a framework that extends pedagogical RL to special education through two components: (1) a two-dimensional adaptive system prompt that couples a diffic",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "How Early Adopters Used Generative AI Worldwide: Variation by Country Income and Language",
+      "url": "https://arxiv.org/abs/2605.30685",
+      "summary": "arXiv:2605.30685v1 Announce Type: new Abstract: AI is being used by people globally, but not everyone is using it in the same ways. Using a large-scale dataset of anonymized, de-identified, and privacy-scrubbed interactions with a widely available and free AI chatbot, we empirically characterize differences in early adopters' usage across countries. Schooling is the most common domain of use in most countries, particularly low-income countries, with a strong inverse association evident between schooling and country-level GDP. Leisure-related use, by contrast, is positively associated with coun",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Traceable by Design: An LLM Pipeline and Dashboard for EU Regulatory Consultation Analysis",
+      "url": "https://arxiv.org/abs/2605.30995",
+      "summary": "arXiv:2605.30995v1 Announce Type: new Abstract: Public consultations generate large volumes of data in the form of stakeholder submissions that are practically unfeasible to analyse manually. We present an end-to-end LLM-based pipeline and interactive dashboard for structured topic extraction from regulatory consultation submissions, demonstrated on the European Commission's Digital Fairness Act (DFA) public call for evidence as a case study. The system processes raw PDF attachments and web-form responses, extracts topic annotations, and grounds every extraction in a verbatim quote from the so",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Comparing LLM-Based Conversational and Graphical Interfaces for Industrial Decision Tasks: An Exploratory Mixed-Methods Study",
+      "url": "https://arxiv.org/abs/2605.31224",
+      "summary": "arXiv:2605.31224v1 Announce Type: new Abstract: The use of Generative AI Conversational User Interfaces (CUI) as a new way to access and analyze data is growing in all sectors, and the industrial one is no exception. There, large amounts of data produced by IoT devices are flowing through user interfaces and may require them a new adaptation to the new analyses needs of decision-makers. LLM-based CUIs are promising a new way to directly interact with those data through the directness of natural language and without the learning costs that every GUI design has. Moreover, the capabilities of LLM",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Neither Replacement nor Panacea: Comparing LLM-Based Conversational and Graphical Decision Support in Industrial Tasks",
+      "url": "https://arxiv.org/abs/2605.31287",
+      "summary": "arXiv:2605.31287v1 Announce Type: new Abstract: Managers in manufacturing settings rely on digital interfaces to interpret operational data for decision-making, but growing data volume and complexity can make relevant insights difficult to identify efficiently. While dashboards remain dominant in industrial contexts, Large Language Model (LLM)-based conversational agents (CAs), accessed through conversational user interfaces (CUIs), may provide more direct access to such data. However, their effectiveness may depend on the information-processing demands of the task. This study compares an LLM-",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Context-Conditioned Generative Models Enable Subnational Refinement of Sparse Humanitarian Surveys",
+      "url": "https://arxiv.org/abs/2605.31489",
+      "summary": "arXiv:2605.31489v1 Announce Type: new Abstract: Data scarcity limits inference in many scientific and policy domains. Survey data are essential for decision-making, but sparse samples often fail to capture fine spatial granularities. We evaluate normalizing flows, a generative model that learns complex data distributions and can be conditioned on exogenous contextual features, in controlled data scarcity scenarios. Across eight household survey datasets spanning six low-income or middle-income countries in the humanitarian domain, we show that context-conditioned generative models can refine s",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Toxic HallucinAItions: Perturbing Prompts and Tracing LLM Circuits",
+      "url": "https://arxiv.org/abs/2605.30913",
+      "summary": "arXiv:2605.30913v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly deployed in conversational settings where user tone ranges from polite to adversarial or toxic, yet less is known about whether toxic language in otherwise semantically equivalent prompts can degrade factual reliability. We study how lexical and tone-based prompt perturbations affect the factual reliability of LLMs. Using controlled prompt variations across polite, random, and three toxicity levels, we evaluate five LLMs on ARC-Easy, GSM8K, and MMLU. We find that toxic lexical perturbations consiste",
+      "published": "2026-06-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
