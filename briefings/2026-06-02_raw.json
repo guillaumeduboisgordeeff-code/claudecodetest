@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-02",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Learning from Mistakes: Can LLM Self-Recover after Misalignment?",
+      "url": "https://arxiv.org/abs/2606.00003",
+      "summary": "arXiv:2606.00003v1 Announce Type: new Abstract: Responsible AI initiatives place great emphasis on the safety of Large Language Model (LLM)-based systems. In particular, it has become standard practice to subject these models to an alignment procedure aimed at preventing harmful outputs. However, once aligned, a model is not guaranteed to maintain this alignment throughout its lifecycle. Moreover, the likelihood of misalignment increases as malicious actors may deliberately employ jailbreaking techniques to compromise LLM safety. To counter this, much research has focused on improving alignmen",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A phenomenon of AI-conformity: how algorithms change human moral decision-making",
+      "url": "https://arxiv.org/abs/2606.00013",
+      "summary": "arXiv:2606.00013v1 Announce Type: new Abstract: Social conformity is a well-documented phenomenon in which individuals shift their opinions towards those of a social majority. As artificial intelligence (AI) becomes increasingly integrated into everyday life it may also create a novel source of influence giving rise to algorithmic conformity, mechanisms of which are poorly understood. The present study examined whether AI judgements affect moral decision-making in humans (n=165) adapting the classical Asch paradigm. Participants completed a series of moral dilemmas under three different condit",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Parliamentary Rhetoric to Enacted Law: An NLP Pipeline for Semantic Auditing of the Greek Legislative Process",
+      "url": "https://arxiv.org/abs/2606.00030",
+      "summary": "arXiv:2606.00030v1 Announce Type: new Abstract: The Greek legislative framework is characterized by intricate cross-referencing, frequent amendments, and limited machine-readable access, hindering transparency and civic engagement. Traditional bulk-archiving approaches are computationally expensive and fail to capture political relevance. We present a multimodal computational pipeline that bridges parliamentary discourse with enacted legislation. Applying Natural Language Processing (NLP) to 2025 Hellenic Parliament transcripts, we extracted 534 unique law citations and used debate frequency a",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Metaverse in Smart Cities: Transforming Urban Life and Governance",
+      "url": "https://arxiv.org/abs/2606.00032",
+      "summary": "arXiv:2606.00032v1 Announce Type: new Abstract: The integration of metaverse technologies within Smart Cities is transforming urban governance and citizen engagement. Despite the increasing academic and industry interest, research on the practical applications of the metaverse in SCs remains fragmented. This study addresses this gap through a systematic literature review on how metaverse-driven solutions impact economic transformation, governance, mobility, sustainability, and social interactions in urban environments. The study synthesizes findings from existing applications and case studies,",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Make Mechanistic Interpretability Auditable: A Call to Develop Guidelines via Continuous Collaborative Reviewing",
+      "url": "https://arxiv.org/abs/2606.00033",
+      "summary": "arXiv:2606.00033v1 Announce Type: new Abstract: While mechanistic interpretability (MI) has produced important insights into neural network internals, the field has yet to establish a standardized system to audit experiments. As such, many of its findings remain underutilized in safety-critical applications such as medical AI and autonomous systems, as stakeholders cannot certify their validity. Recent work demonstrates this concretely: two papers found conflicting conclusions for the same behavior, and a third study revealed that both were partially correct but incomparable due to methodologi",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Artificial intelligence as a real game to enlighten science education for disabled students in rural New Mexico",
+      "url": "https://arxiv.org/abs/2606.00034",
+      "summary": "arXiv:2606.00034v1 Announce Type: new Abstract: Artificial Intelligence AI has emerged as a transformative innovation in inclusive science education for disabled learners in rural New Mexico. Using a mixed method design that combined multiple linear regression and an Artificial Neural Network ANN model, this study examined 120 students in grades 6 to 10 and 15 instructors across four rural schools. The AI-based learning intervention predicted student performance with high accuracy R2 equals 0.92, and p less than 0.05. Experimental results showed a 32 percent improvement in science concept rete",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Understanding the Role of Algorithm Registers in AI Governance Through Comparative Analysis of China and the UK",
+      "url": "https://arxiv.org/abs/2606.00035",
+      "summary": "arXiv:2606.00035v1 Announce Type: new Abstract: Algorithm registers are increasingly being both considered and deployed as instruments in AI governance. They are often expected to deliver transparency; however, in practice their design, scope, and implementation vary substantially. Currently, we lack a holistic understanding of the potential roles that registers might play in AI governance, and how different design choices both shape and reflect those roles. This paper therefore asks how do algorithm registers differ across jurisdictions, and what do these differences reveal about their roles ",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Integrity: Defending Against Backdoors and Secret Loyalties",
+      "url": "https://arxiv.org/abs/2606.00036",
+      "summary": "arXiv:2606.00036v1 Announce Type: new Abstract: AI integrity means ensuring AI systems are free from secret or unauthorized modifications that could compromise their behavior. Integrity represents one pillar of the confidentiality, integrity, and availability (CIA) triad in information security: confidentiality preserves secrecy of sensitive information, integrity ensures data remain authentic and uncorrupted, and availability keeps systems operational when needed. While confidentiality receives some attention through efforts like RAND's Securing AI Model Weights report, and availability is na",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Update Opacity: Epistemic Accessibility and Governance Under AI System Change",
+      "url": "https://arxiv.org/abs/2606.00037",
+      "summary": "arXiv:2606.00037v1 Announce Type: new Abstract: Machine learning models embedded in deployed AI systems are routinely updated to maintain correct functioning over time. Yet such updates can generate update opacity: users may not be able to understand why the same input now yields a different output. We argue that update opacity is best understood as a diachronic failure of epistemic accessibility: the problem is that materially relevant changes may fail to remain accessible to human users in forms that support understanding, calibrated reliance, and appropriate action under real role- and time",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Beyond Tool Adoption: A Practical Five-Stage Developmental Continuum for AI Literacy in Higher Education",
+      "url": "https://arxiv.org/abs/2606.00038",
+      "summary": "arXiv:2606.00038v1 Announce Type: new Abstract: Artificial intelligence (AI) literacy is increasingly recognized as a foundational competency for all university graduates. Yet students' engagement with AI tools often clusters at two problematic extremes: avoidance driven by fear, mistrust, ethical concern, or lack of access, and uncritical reliance that produces fluent output while masking misunderstanding. Existing AI literacy frameworks provide valuable competency definitions, but most offer limited guidance for diagnosing where learners begin and how they progress toward responsible, critic",
+      "published": "2026-06-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
