@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-03",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Fairness Definitions and Metrics in Deep Reinforcement Learning for Drug Discovery in Healthcare: A Rapid Evidence Review",
+      "url": "https://arxiv.org/abs/2606.02902",
+      "summary": "arXiv:2606.02902v1 Announce Type: new Abstract: Deep reinforcement learning (DRL) is increasingly applied to de novo molecular design, but choices in data, rewards, and evaluation can yield uneven performance across disease areas and chemotypes. Despite this, there is no concise synthesis of how fairness is defined, measured, and tested in DRL-based drug discovery. In this rapid evidence review, we synthesize fairness definitions and metrics for DRL-driven molecule generation in healthcare. We focus on three questions: (i) how dataset composition and split strategies, especially scaffold versu",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Fair Lending Model: How the Longest-Running Algorithmic Fairness Programs Work in Practice",
+      "url": "https://arxiv.org/abs/2606.02957",
+      "summary": "arXiv:2606.02957v1 Announce Type: new Abstract: U.S. financial institutions subject to fair lending laws have been running algorithmic fairness programs for decades. Despite this long history, remarkably little is known about how these requirements operate in practice. In this paper, we offer the first empirical account of how financial institutions test for and mitigate algorithmic discrimination on the ground. In doing so, we shed light on how the regulatory design of fair lending law and regulation have shaped the policies, processes, and practices of fair lending programs. Drawing on 35 se",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Reproducibility is the New Copyleft: Defining AGI-oriented Reproducible Builds",
+      "url": "https://arxiv.org/abs/2606.03019",
+      "summary": "arXiv:2606.03019v1 Announce Type: new Abstract: Copyleft, as implemented in licenses such as the GNU General Public License, was a legal hack that used copyright to guarantee user freedom by tying the availability of source code to every act of distribution. Its normative force rested on an implicit technical premise: that source code and object code stand in a well-defined, humanly auditable, and reproducible relationship. Large language models and, prospectively, Artificial General Intelligence (AGI) systems systematically violate this premise. The artifacts jointly required to reconstruct a",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Auditing Engagement Incentives in the Kidfluencer Ecosystem: A Multimodal Weak Supervision Approach",
+      "url": "https://arxiv.org/abs/2606.03173",
+      "summary": "arXiv:2606.03173v1 Announce Type: new Abstract: The rise of `kidfluencers' on YouTube has raised ethical concerns about child digital labor and exploitation. While emerging legislation attempts to regulate this ecosystem, empirical evidence linking exploitation to engagement remains scarce, given the difficulty of operationalizing exploitation at scale. This study presents a multimodal AI audit of 5,051 videos across 79 kidfluencer channels, using weak supervision to detect exploitation signals without large-scale manual labels. We aggregate noisy labeling functions -- including LLM-based clas",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI-Generated Traces for Novice Programmers: Learning Effects and Learner Differences in a Multi-Institutional Study",
+      "url": "https://arxiv.org/abs/2606.03288",
+      "summary": "arXiv:2606.03288v1 Announce Type: new Abstract: Introductory programming (CS1) courses often struggle to support students' understanding of program execution. While visualizations can make execution processes explicit, their effectiveness depends on design and context, and empirical evidence for AI-generated visualizations remains limited. We propose Generated Animated Traces (GATs), AI-generated, analogy-based, narrated animations that coordinate source code, execution state, and conceptual analogies. We conduct a study at two institutions in CS1 courses (Python, N=961; Java N=151) comparing ",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Pushing the Limits: A Framework to Reform Institutional Ethics Review of Environmentally-Impactful Computing Research",
+      "url": "https://arxiv.org/abs/2606.03547",
+      "summary": "arXiv:2606.03547v1 Announce Type: new Abstract: Computationally-intensive research (CIR) takes place on a wide variety of topics including AI. Its environmental impact is potentially significant yet it does not always fall clearly within the scope of organisational ethics review policy on its own merits. Many academic institutions have ethics oversight bodies (e.g. Research Ethics Committees or Institutional Review Boards) that occupy a potentially powerful position to encourage recognition of these issues and seek reflexive practice in researchers. However, policies are often poorly-defined i",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Designing a Hardware Reverse Engineering Course: Lessons from Eight Years in a Rapidly Evolving Tech Domain",
+      "url": "https://arxiv.org/abs/2606.03697",
+      "summary": "arXiv:2606.03697v1 Announce Type: new Abstract: Integrated Circuits (ICs) are omnipresent, yet their globalized manufacturing process remains vulnerable to supply chain threats. Hardware Reverse Engineering (HRE) is essential for detecting such threats and re-establishing trust; however domain experts remain scarce due to a lack of educational programs. To contribute educational insights in this critical and rapidly evolving technology domain, we present our HRE course focusing on digital circuit analysis and digital circuit extraction from ICs. The course targets junior-level undergraduates a",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Position: Prioritize Identifying Structure, Not Complex Models, for Scientific Discovery",
+      "url": "https://arxiv.org/abs/2606.02632",
+      "summary": "arXiv:2606.02632v1 Announce Type: cross Abstract: Modern Machine Learning (ML) and Artificial Intelligence (AI) models, especially large language models (LLMs), are increasingly used to generate scientific hypotheses and mechanistic explanations from observational data. This position paper argues that in the high-dimensional proxy regimes where modern ML excels, mechanistic learning is generically underdetermined: many incompatible mechanisms induce essentially the same observational relationships on the support of the data, so predictive success and coherent explanations are insufficient evid",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Greener Than Humans? Environmental Attitudes in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.02741",
+      "summary": "arXiv:2606.02741v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used in sustainability-related decision support, reporting, and public communication, yet little systematic evidence exists on the environmental attitudes embedded in their outputs. This paper develops a benchmark for evaluating environmental cognition, affect, and behavioural recommendations in LLMs and applies it to 31 widely used proprietary and open-weight models. Drawing on questions from established environmental awareness surveys and additional sustainability-related behavioural measures, we ",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Human Factors in Cybersecurity in Icelandic Small and Medium-sized Enterprises",
+      "url": "https://arxiv.org/abs/2606.02839",
+      "summary": "arXiv:2606.02839v1 Announce Type: cross Abstract: Cybersecurity threats are increasing in all aspects of society due to the integration of digital systems into modern-day life and a volatile geo-political landscape. Technical factors are an ongoing arms race; however, the threat surface from human and social factors is still present, often providing malicious actors the means to bypass complex technical security controls. Understanding human factors in light of technical evolution is essential to ensure security controls remain effective. This study presents the results of a survey on cybersec",
+      "published": "2026-06-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
