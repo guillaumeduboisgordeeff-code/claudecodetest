@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-04",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Plateau That Never Comes: When Efficiency Claims in Datacenters and AI Become Greenwashing",
+      "url": "https://arxiv.org/abs/2606.04214",
+      "summary": "arXiv:2606.04214v1 Announce Type: new Abstract: Datacenter expansion under generative AI is increasingly framed as compatible with sustainability because of efficiency gains, cleaner electricity procurement, and improved facility design. Yet these claims often do not show that absolute electricity, water, material, waste, and community-facing burdens are falling. This Perspective addresses that evidentiary gap. Rather than asking whether efficiency gains are real, we ask when such gains are being enlarged into claims of system-wide sustainability to justify continued expansion. We develop a re",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Prioritization of Risks from Artificial Intelligence: A Delphi Study of 272 International Experts",
+      "url": "https://arxiv.org/abs/2606.04490",
+      "summary": "arXiv:2606.04490v1 Announce Type: new Abstract: Artificial intelligence poses many risks, ranging from familiar present-day harms to unprecedented and potentially catastrophic ones. Effective risk management requires prioritization: we must understand which risks are most severe, who is most vulnerable, and who is most responsible for addressing them. We report results from a three-round Delphi study conducted late 2025 with 272 international AI experts. Experts rated 24 AI risks on harm probability and severity, sector and actor vulnerability, actor responsibility, and overall concern. Expert",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Agentic AI and Pedagogical Best Practice: The Tension Between Automation and Learning",
+      "url": "https://arxiv.org/abs/2606.04543",
+      "summary": "arXiv:2606.04543v1 Announce Type: new Abstract: Artificial intelligence in education is evolving from passive chatbots to proactive AI agents capable of initiation and goal-directed interactions. While offering opportunities for personalised learning, this shift risks undermining learner agency and cognitive effort. This paper reviews six pedagogical principles-prior knowledge activation, collaborative learning, problem-based learning, formative assessment, scaffolding, and metacognition-through the lens of agentic AI. We discuss the tension between automation and learning, proposing design re",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Synthetic Personalities: How Well Can LLMs Mimic Individual Respondents Using Socio-Economic Microdata?",
+      "url": "https://arxiv.org/abs/2606.04592",
+      "summary": "arXiv:2606.04592v1 Announce Type: new Abstract: LLM-based digital twins promise to scale and accelerate market research, but most published twins are either coarse persona bots conditioned on a few demographic questions or detailed individual-level twins built on purpose-collected surveys and interview transcripts. Neither setup speaks to the operationally most relevant case for marketing practice: building detailed individual twins from the pre-existing heterogeneous panel data that firms already accumulate through CRM systems, loyalty programs, and repeat surveys. We construct detailed indiv",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When Firms Learn to Game the Rules",
+      "url": "https://arxiv.org/abs/2606.04617",
+      "summary": "arXiv:2606.04617v1 Announce Type: new Abstract: Rules-as-Code promises more testable legal obligations, but it also changes what regulated firms can learn. Existing work mostly emphasizes implementation gains; the strategic gap is whether machine-readable rules make boundary search cheaper. I study that gap with a synthetic agent-based reinforcement-learning simulation that separates actual conduct near a legal threshold from proximity in the computable enforcement signal. Across 150 seed-level scenario runs, 378 common-random-number computability-sweep runs, 288 Latin-hypercube global-design ",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Dark Path: An Analysis of the Belt & Road Initiative in El Salvador",
+      "url": "https://arxiv.org/abs/2606.04832",
+      "summary": "arXiv:2606.04832v1 Announce Type: new Abstract: The Belt & Road Initiative (BRI) is a concerted effort from Ministries under the People's Republic of China (PRC) to diplomatically and economically impose its will upon other nations. El Salvador is a US partner and a beneficiary of foreign investment under the BRI. Recent changes to Salvadoran law do not address the implied risks to the nation's supply-chain and cyber infrastructure. This work addresses the gap by exploring previously limited analysis on BRI activities, its intersection with Salvadoran law, and the national security risks intro",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Does Artificial Intelligence Advance Science?",
+      "url": "https://arxiv.org/abs/2606.05118",
+      "summary": "arXiv:2606.05118v1 Announce Type: new Abstract: This paper examines whether and how artificial intelligence (AI) advances scientific creativity. Drawing on scientific publications, the primary output of researchers, we analyze over one million publications from OpenAlex to investigate the relationship between AI adoption and multiple dimensions of scientific creativity, including novelty (recombinant novelty and object novelty) and impact (3-year short-run citation impact and 10-year long-run citation impact). We find that AI publications are significantly more likely to achieve top-decile cre",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Stories and Systems: Educational Interactive Storytelling to Teach Media Literacy and Systemic Thinking",
+      "url": "https://arxiv.org/abs/2508.11059",
+      "summary": "arXiv:2508.11059v1 Announce Type: cross Abstract: This paper explores how Interactive Digital Narratives (IDNs) can support learners in developing the critical literacies needed to address complex societal challenges, so-called wicked problems, such as climate change, pandemics, and social inequality. While digital technologies offer broad access to narratives and data, they also contribute to misinformation and the oversimplification of interconnected issues. IDNs enable learners to navigate nonlinear, interactive stories, fostering deeper understanding and engagement. We introduce Systemic L",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Large Language Models Hack Rewards, and Society",
+      "url": "https://arxiv.org/abs/2606.04075",
+      "summary": "arXiv:2606.04075v1 Announce Type: cross Abstract: Reinforcement learning (RL) has become a dominant post-training paradigm, enabling large language models (LLMs) to learn from rewards. We observe that societal regulations are structurally similar to reward functions. They define measurable outcomes, thresholds, and exceptions, while often leaving institutional intent only partially specified. We hypothesise that the RL training process may exploit these gaps and therefore ask whether models' well-known tendency to hack reward functions during RL can scale into a more consequential failure mode",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+      "url": "https://arxiv.org/abs/2606.04152",
+      "summary": "arXiv:2606.04152v1 Announce Type: cross Abstract: Large language models are reshaping research practice while quietly eroding researchers epistemic accountability. This commentary introduces PEEL - Protocols for Epistemically Engaged Literacy in AI, a working scaffolding that combines deterministic distant reading via Voyant Tools with LLM interpretation via Claude, grounded in Peircean semiotics and abductive reasoning. Applied to AI-generated condensations of three source texts, PEEL reveals systematic distortions in quantity, term frequency, and epistemic voice that are invisible without no",
+      "published": "2026-06-04T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
