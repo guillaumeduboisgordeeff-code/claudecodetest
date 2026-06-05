@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-05",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Drishti AI-Event Guardian: An Intelligent Real-Time Crowd Monitoring and Emergency Response System for Mass Gathering Events",
+      "url": "https://arxiv.org/abs/2606.05185",
+      "summary": "arXiv:2606.05185v1 Announce Type: new Abstract: Mass gathering events are associated with critical safety incidents caused by insufficient crowd monitoring and inadequate emergency response coordination. Traditional surveillance systems lack intelligent analytics, resulting in delayed threat identification, poor resource deployment, and weak support for vulnerable individuals during dense public assemblies. This paper presents Drishti AI-Event Guardian, an intelligent crowd management framework using deep learning for public safety enhancement. The architecture combines multimodal data from CC",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Geographic Bias and Diversity in AI Evaluation",
+      "url": "https://arxiv.org/abs/2606.05187",
+      "summary": "arXiv:2606.05187v1 Announce Type: new Abstract: Among the many challenges hindering the responsible development and deployment of AI, arguably none has faced more intense scrutiny than bias in its various forms. This underscores the widespread concerns across AI researchers that model outputs, e.g., from generative AI, may encode structural distributional imbalances (stemming from training data or model design) that may amplify social inequality or introduce systemic distortions across application domains ranging from biodiversity to disaster mitigation. Yet, relatively little work has investi",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Assessing the Geographic Diversity of AI's Platial Representations in Image Generation",
+      "url": "https://arxiv.org/abs/2606.05188",
+      "summary": "arXiv:2606.05188v1 Announce Type: new Abstract: (Gen)AI diversity is not merely an ethical issue. From the perspective of geographic information science (GIScience), it could be interpreted as a function of uncertainty and as a form of cognitive bias, embedded in AI outputs. Recent work has sought to develop information-theoretic diversity measures and apply them to evaluate AI-chatbot outputs in a geographic context. As the AI ecosystem to which we are exposed on a daily basis becomes rapidly multimodal, we believe it is important to examine geographic diversity across various modalities. Foc",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Where's the Structure? A Systematic Literature Review of Empirical Research on Human-AI Collaboration and Hybrid Intelligence for Learning",
+      "url": "https://arxiv.org/abs/2606.05222",
+      "summary": "arXiv:2606.05222v1 Announce Type: new Abstract: Artificial intelligence (AI) has been applied across educational contexts to support learning. One approach to such support is \"human-AI collaboration\" (also termed \"hybrid intelligence\"), where human(s) and AI components interact to promote human learning. However, as in human-to-human computer-supported collaborative learning (CSCL), unstructured interaction does not necessarily produce an effective learning experience. This paper reports a systematic literature review of empirical studies (N=62) on human-AI collaboration and hybrid intelligenc",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Online Safety Regulation Increases Privacy Risk: Evidence from the UK Online Safety Act",
+      "url": "https://arxiv.org/abs/2606.05273",
+      "summary": "arXiv:2606.05273v1 Announce Type: new Abstract: Governments worldwide are increasingly regulating digital platforms to reduce online harms, particularly those affecting children. However, access restrictions can alter user behaviour and introduce new privacy and security risks. The UK Online Safety Act (OSA), passed in October 2023, illustrates this trend: it extends age-assurance and safety requirements to social media, search, and pornography services, and rolled out in phases. Ofcom's illegal content enforcement duties came into force in March 2025, and mandatory age verification for adult ",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Sustainability by Design in Decentralized Autonomous Organizations: An Empirical Review of Governance, Innovation, and Institutional Design",
+      "url": "https://arxiv.org/abs/2606.05667",
+      "summary": "arXiv:2606.05667v1 Announce Type: new Abstract: Recent innovation theories on economics remain largely grounded in assumptions of hierarchical firms and closed organizational boundaries, offering limited insight into how innovation unfolds within decentralized, digitally native organizations. Decentralized Autonomous Organizations (DAOs) represent an emerging form of innovation ecosystem characterized by blockchain-based transparency, open participation, and token-driven governance, in which sustainability can be embedded directly into organizational design. This study compares two standards, ",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data",
+      "url": "https://arxiv.org/abs/2606.05750",
+      "summary": "arXiv:2606.05750v1 Announce Type: new Abstract: ChatGPT was launched on November 30, 2022; the r/ChatGPT subreddit was created just one day later. Since then, chatbot-based AI products have gone from niche proofs-of-concept to widely-used household names. However, the ways in which adoption has developed among the public remains poorly understood. In this paper, we develop a framework for using social media as a data source for understanding the societal impact of widely-adopted consumer AI products, and propose PuLSE (Public and Longitudinal Signals for Evaluation), a general approach to moni",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education",
+      "url": "https://arxiv.org/abs/2606.05929",
+      "summary": "arXiv:2606.05929v1 Announce Type: new Abstract: Computer Science education fundamentally depends on intensive laboratory hours to foster true programming mastery and logical reasoning. However, the widespread adoption of Generative Artificial Intelligence (AI) has made it virtually impossible to distinguish authentic student effort from instant AI code synthesis by evaluating final submissions alone. To preserve pedagogical integrity, educators must enforce authentic coding discipline, guiding students through unassisted, iterative development cycles. While centralized environments like Jupyte",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Political Persuasion and Endorsement in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.05961",
+      "summary": "arXiv:2606.05961v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly employed as proxies for human behavior in computational social science. However, their tendency to internalize biases from training data raises concerns about their reliability in politically sensitive domains, specifically in regard to their susceptibility to persuasive language. In this work, we examine whether LLMs endorse persuasion-infused messages and whether partisan persona prompting modulates such endorsement. We evaluate six LLMs from different geographic regions on content annotated with pe",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Misaligned AI as a New Insider Risk",
+      "url": "https://arxiv.org/abs/2606.06028",
+      "summary": "arXiv:2606.06028v1 Announce Type: new Abstract: In this policy memorandum, we explain why deployers of AI models in high-stakes contexts should treat those AI models as insider risk vectors. High-stakes contexts include AI model deployment within government agencies and contractors, where AI models are privileged with access to, among others, classified and sensitive unclassified information, IL6 and IL7 network environments, cleared personnel, and other critical resources. AI models are increasingly embedded in high-stakes contexts and capable of leveraging their authorized access and permiss",
+      "published": "2026-06-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
