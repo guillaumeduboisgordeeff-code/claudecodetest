@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Drishti AI-Event Guardian: An Intelligent Real-Time Crowd Monitoring and Emergency Response System for Mass Gathering Events",
-      "url": "https://arxiv.org/abs/2606.05185",
-      "summary": "arXiv:2606.05185v1 Announce Type: new Abstract: Mass gathering events are associated with critical safety incidents caused by insufficient crowd monitoring and inadequate emergency response coordination. Traditional surveillance systems lack intelligent analytics, resulting in delayed threat identification, poor resource deployment, and weak support for vulnerable individuals during dense public assemblies. This paper presents Drishti AI-Event Guardian, an intelligent crowd management framework using deep learning for public safety enhancement. The architecture combines multimodal data from CC",
+      "title": "The Dignity-Centric Stack: A Commons-Governed, Horizontally Federated Architecture for Human-Dignity AI",
+      "url": "https://arxiv.org/abs/2606.06083",
+      "summary": "arXiv:2606.06083v1 Announce Type: new Abstract: The human-dignity-centric digital social contract grounds personal data in human dignity, data personalism, and data sovereignty, and articulates six dimensions of data governance: technological oversight, automation limits, economic justice, political legitimacy, social cohesion, and legal guarantees. It presupposes, however, that enforcement falls to State regulators, licensed fiduciaries, and multi-stakeholder bodies embedded in existing legal systems. This paper asks whether its normative content can instead be realized not as rules imposed o",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Geographic Bias and Diversity in AI Evaluation",
-      "url": "https://arxiv.org/abs/2606.05187",
-      "summary": "arXiv:2606.05187v1 Announce Type: new Abstract: Among the many challenges hindering the responsible development and deployment of AI, arguably none has faced more intense scrutiny than bias in its various forms. This underscores the widespread concerns across AI researchers that model outputs, e.g., from generative AI, may encode structural distributional imbalances (stemming from training data or model design) that may amplify social inequality or introduce systemic distortions across application domains ranging from biodiversity to disaster mitigation. Yet, relatively little work has investi",
+      "title": "Warning Message Content Increases Help Seeking in a Large-Scale Dark Web CSAM Intervention",
+      "url": "https://arxiv.org/abs/2606.06417",
+      "summary": "arXiv:2606.06417v1 Announce Type: new Abstract: Warning messages have been used to disrupt individuals seeking online child sexual abuse material (CSAM) and promote engagement with support services, yet large-scale field evidence on message content remains limited, particularly in high anonymity environments. This study reports a field experiment on Ahmia.fi, a Tor search engine, examining how warning message content influences behavior. Across a 140-day period, almost 20 million searches were observed, with over 3 million searches containing known CSAM-related terms that triggered a warning l",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Assessing the Geographic Diversity of AI's Platial Representations in Image Generation",
-      "url": "https://arxiv.org/abs/2606.05188",
-      "summary": "arXiv:2606.05188v1 Announce Type: new Abstract: (Gen)AI diversity is not merely an ethical issue. From the perspective of geographic information science (GIScience), it could be interpreted as a function of uncertainty and as a form of cognitive bias, embedded in AI outputs. Recent work has sought to develop information-theoretic diversity measures and apply them to evaluate AI-chatbot outputs in a geographic context. As the AI ecosystem to which we are exposed on a daily basis becomes rapidly multimodal, we believe it is important to examine geographic diversity across various modalities. Foc",
+      "title": "Policy-Compliant Cloud Storage Systems",
+      "url": "https://arxiv.org/abs/2606.05423",
+      "summary": "arXiv:2606.05423v1 Announce Type: cross Abstract: Privacy regulations such as the General Data Protection Regulation (GDPR) impose strict requirements on how personal data is stored, processed, and audited. While key-value stores (KVS) are widely used in latency-sensitive applications, their simple data model and untrusted cloud deployment environments make GDPR compliance particularly challenging. Existing approaches require invasive code modifications, impose high performance overheads, or overlook the integrity of compliance mechanisms themselves. This paper presents GDPRuler, a trusted mid",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Where's the Structure? A Systematic Literature Review of Empirical Research on Human-AI Collaboration and Hybrid Intelligence for Learning",
-      "url": "https://arxiv.org/abs/2606.05222",
-      "summary": "arXiv:2606.05222v1 Announce Type: new Abstract: Artificial intelligence (AI) has been applied across educational contexts to support learning. One approach to such support is \"human-AI collaboration\" (also termed \"hybrid intelligence\"), where human(s) and AI components interact to promote human learning. However, as in human-to-human computer-supported collaborative learning (CSCL), unstructured interaction does not necessarily produce an effective learning experience. This paper reports a systematic literature review of empirical studies (N=62) on human-AI collaboration and hybrid intelligenc",
+      "title": "Coding with \"Enemy\": Can Human Developers Detect AI Agent Sabotage?",
+      "url": "https://arxiv.org/abs/2606.05647",
+      "summary": "arXiv:2606.05647v1 Announce Type: cross Abstract: AI coding agents are increasingly embedded in real-world software development, collaborating with human developers while gaining broader access to codebases and tools. This creates a new attack surface: an agent can exploit human trust to sabotage development, for instance by inserting malicious code to accomplish a hidden side task. Most prior work studies AI sabotage in AI-only settings, paying limited attention to the role of human oversight in detecting and mitigating such malicious behavior. To address this gap, we conduct the first large-",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Online Safety Regulation Increases Privacy Risk: Evidence from the UK Online Safety Act",
-      "url": "https://arxiv.org/abs/2606.05273",
-      "summary": "arXiv:2606.05273v1 Announce Type: new Abstract: Governments worldwide are increasingly regulating digital platforms to reduce online harms, particularly those affecting children. However, access restrictions can alter user behaviour and introduce new privacy and security risks. The UK Online Safety Act (OSA), passed in October 2023, illustrates this trend: it extends age-assurance and safety requirements to social media, search, and pornography services, and rolled out in phases. Ofcom's illegal content enforcement duties came into force in March 2025, and mandatory age verification for adult ",
+      "title": "CollabBench: Benchmarking and Unleashing Collaborative Ability of LLMs with Diverse Players via Proactive Engagement",
+      "url": "https://arxiv.org/abs/2606.05793",
+      "summary": "arXiv:2606.05793v1 Announce Type: cross Abstract: While LLM-based agents excel at individual tasks, effective collaboration with realistic human partners remains challenging. Most of the existing conversation-level collaborative studies lack grounded interaction and behavioral execution, motivating the need for cooperative game environments that enable contextualized and immersive collaboration. To this end, this paper proposes CollabBench, a benchmark for evaluating and training collaborative agents in cooperative games. CollabBench features a Diverse Player Profile Simulation pipeline to mod",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Sustainability by Design in Decentralized Autonomous Organizations: An Empirical Review of Governance, Innovation, and Institutional Design",
-      "url": "https://arxiv.org/abs/2606.05667",
-      "summary": "arXiv:2606.05667v1 Announce Type: new Abstract: Recent innovation theories on economics remain largely grounded in assumptions of hierarchical firms and closed organizational boundaries, offering limited insight into how innovation unfolds within decentralized, digitally native organizations. Decentralized Autonomous Organizations (DAOs) represent an emerging form of innovation ecosystem characterized by blockchain-based transparency, open participation, and token-driven governance, in which sustainability can be embedded directly into organizational design. This study compares two standards, ",
+      "title": "Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems",
+      "url": "https://arxiv.org/abs/2606.05985",
+      "summary": "arXiv:2606.05985v1 Announce Type: cross Abstract: Multicultural multi-agent systems are increasingly deployed in globally diverse settings, where different agents are grounded in different cultural backgrounds. Existing cultural evaluation focuses on value alignment: how closely a single agent matches a target culture. Yet alignment is a per-agent property and cannot reveal whether a system, taken as a whole, preserves the cultural plurality it is meant to represent. We propose value diversity as a system-level evaluation axis for multicultural agent systems, defined through the dissimilarity ",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Three Years of r/ChatGPT: Societal Impact Evaluations from Social Media Data",
-      "url": "https://arxiv.org/abs/2606.05750",
-      "summary": "arXiv:2606.05750v1 Announce Type: new Abstract: ChatGPT was launched on November 30, 2022; the r/ChatGPT subreddit was created just one day later. Since then, chatbot-based AI products have gone from niche proofs-of-concept to widely-used household names. However, the ways in which adoption has developed among the public remains poorly understood. In this paper, we develop a framework for using social media as a data source for understanding the societal impact of widely-adopted consumer AI products, and propose PuLSE (Public and Longitudinal Signals for Evaluation), a general approach to moni",
+      "title": "Deterring Searches for Child Sexual Abuse Material on Google Search and Promoting Help-Seeking",
+      "url": "https://arxiv.org/abs/2606.06126",
+      "summary": "arXiv:2606.06126v1 Announce Type: cross Abstract: Google Search deploys a \"Onebox\" feature at the top of the results page when users conduct searches for Child Sexual Abuse Material. This study evaluates the impact of a strategic shift in this feature, comparing a revised intervention, focused on repercussions and therapeutic resources, to a previous iteration that focused on reporting. Using a difference-in-differences analysis of internal Google Search logs data, we found the new messaging resulted in a 3.8 percentage point reduction as compared to the status quo in subsequent CSAM-related q",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Securing the Sandbox: A Rootless Containerized Framework for Process-Oriented Monitoring in Computer Graphics Education",
-      "url": "https://arxiv.org/abs/2606.05929",
-      "summary": "arXiv:2606.05929v1 Announce Type: new Abstract: Computer Science education fundamentally depends on intensive laboratory hours to foster true programming mastery and logical reasoning. However, the widespread adoption of Generative Artificial Intelligence (AI) has made it virtually impossible to distinguish authentic student effort from instant AI code synthesis by evaluating final submissions alone. To preserve pedagogical integrity, educators must enforce authentic coding discipline, guiding students through unassisted, iterative development cycles. While centralized environments like Jupyte",
+      "title": "Auditing LLM Editorial Bias in News Media Exposure",
+      "url": "https://arxiv.org/abs/2510.27489",
+      "summary": "arXiv:2510.27489v2 Announce Type: replace Abstract: Large Language Models (LLMs) increasingly act as gateways to web content, shaping how millions of users encounter online information. Unlike traditional search engines, whose retrieval and ranking mechanisms are well studied, the selection processes of web-connected LLMs add layers of opacity to how answers are generated. By determining which news outlets users see, these systems can influence public opinion, reinforce echo chambers, and pose risks to civic discourse and public trust. This work extends two decades of research in algorithmic a",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Political Persuasion and Endorsement in Large Language Models",
-      "url": "https://arxiv.org/abs/2606.05961",
-      "summary": "arXiv:2606.05961v1 Announce Type: new Abstract: Large Language Models (LLMs) are increasingly employed as proxies for human behavior in computational social science. However, their tendency to internalize biases from training data raises concerns about their reliability in politically sensitive domains, specifically in regard to their susceptibility to persuasive language. In this work, we examine whether LLMs endorse persuasion-infused messages and whether partisan persona prompting modulates such endorsement. We evaluate six LLMs from different geographic regions on content annotated with pe",
+      "title": "A Systematic Analysis of Biases in Large Language Models",
+      "url": "https://arxiv.org/abs/2512.15792",
+      "summary": "arXiv:2512.15792v3 Announce Type: replace Abstract: Large language models (LLMs) have rapidly become indispensable tools for acquiring information and supporting human decision-making. However, ensuring that these models uphold fairness across varied contexts is critical to their safe and responsible deployment. In this study, we undertake a comprehensive examination of four widely adopted LLMs, probing their underlying biases and inclinations across the dimensions of politics, ideology, alliance, language, and gender. Through a series of carefully designed experiments, we investigate their po",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Misaligned AI as a New Insider Risk",
-      "url": "https://arxiv.org/abs/2606.06028",
-      "summary": "arXiv:2606.06028v1 Announce Type: new Abstract: In this policy memorandum, we explain why deployers of AI models in high-stakes contexts should treat those AI models as insider risk vectors. High-stakes contexts include AI model deployment within government agencies and contractors, where AI models are privileged with access to, among others, classified and sensitive unclassified information, IL6 and IL7 network environments, cleared personnel, and other critical resources. AI models are increasingly embedded in high-stakes contexts and capable of leveraging their authorized access and permiss",
+      "title": "Using street view images and visual LLMs to predict heritage values for governance support: Risks, ethics, and policy implications",
+      "url": "https://arxiv.org/abs/2601.06056",
+      "summary": "arXiv:2601.06056v2 Announce Type: replace Abstract: During 2025 and 2026, the Energy Performance of Buildings Directive is being implemented in the European Union member states, requiring all member states to have National Building Renovation Plans. In Sweden, there is no comprehensive national register of buildings with heritage values. This is seen as a barrier for the analyses underlying the development of Building Renovation Plans by the involved Swedish authorities. The purpose of this research was to assist Swedish authorities in developing information on heritage values in the Swedish b",
       "published": "2026-06-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
