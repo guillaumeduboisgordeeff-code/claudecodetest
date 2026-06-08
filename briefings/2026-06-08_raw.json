@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-08",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Learning Fair Demand Models",
+      "url": "https://arxiv.org/abs/2606.06830",
+      "summary": "arXiv:2606.06830v1 Announce Type: new Abstract: Data-driven pricing is increasingly prevalent in sectors such as airlines, lending, insurance, and retail. By learning demand models from customer features and setting prices accordingly, these systems may generate discriminatory outcomes that raise fairness concerns. This leads to fundamental questions - how and where should systems incorporate fairness considerations in the pricing pipeline, and how does it ultimately affect societal outcomes? To answer these, we study a stylized model where a seller has a two-stage decision pipeline comprising",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data, Inference, and Normativity",
+      "url": "https://arxiv.org/abs/2606.06851",
+      "summary": "arXiv:2606.06851v1 Announce Type: new Abstract: The Learning Analytics (LA) community has undergone rapid development over the 15 years since the first LAK conference was held. However, while epistemological and ethical debates regarding the philosophical foundations of LA have been vigorous, metaphysical discussions have been sparse, signifying a lack of effort to derive the identity of LA from its internal principles. In this paper, we attempt to establish a metaphysics of LA by addressing the ontological question of ``What is LA?'' We do so by tracing back to LA's own definitions and princi",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Sovereignty: A Qualitative Model of Strategic Competition as AI Becomes an Instrument of National Power",
+      "url": "https://arxiv.org/abs/2606.07245",
+      "summary": "arXiv:2606.07245v1 Announce Type: new Abstract: AI sovereignty is the extent to which a nation independently controls its artificial intelligence (AI) technologies. The race toward ever-more-sophisticated frontier AI models is of increasing strategic importance, with nations considering how AI might improve their economic situations, competitive advantage, and overall national power. However, the costs of AI sovereignty are enormous, and we lack definitions and conceptual models to navigate evolving AI sovereignty dynamics. We address this gap with definitions relevant to AI sovereignty, along",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Two-Phase Simulated Annealing for Equitable Team Formation: Eliminating Complaints in Large Engineering Cohorts",
+      "url": "https://arxiv.org/abs/2606.07270",
+      "summary": "arXiv:2606.07270v1 Announce Type: new Abstract: Contribution: This paper presents a novel two-phase algorithmic approach that decouples preference satisfaction from fairness optimization in student team formation, achieving both objectives without compromise. The method applies simulated annealing -- a core materials science technique -- to an educational challenge, demonstrating pedagogical integration of administrative processes. Background: Forming effective teams in large engineering cohorts (100+ students) requires balancing student preferences, academic fairness, and demographic diversit",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Generative Models Erode Human Temporal Learning Through Market Selection",
+      "url": "https://arxiv.org/abs/2606.06572",
+      "summary": "arXiv:2606.06572v1 Announce Type: cross Abstract: We argue that modern generative models create structural risks for knowledge and cultural production at current, sub-AGI capability levels. We define Human Temporal Learning (HTL) as path-dependent knowledge accumulation through sustained engagement with problems over time. Generative outputs increasingly resemble HTL-intensive work in surface features, so verifying whether a given output reflects genuine human learning grows costly relative to its expected benefit. Once verification loses economic justification, evaluators reward outputs regar",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "What Do People Actually Want From AI? Mapping Preference Plurality",
+      "url": "https://arxiv.org/abs/2606.06674",
+      "summary": "arXiv:2606.06674v1 Announce Type: cross Abstract: Large Language Models (LLMs) are often fine-tuned through Reinforcement Learning from Human Feedback (RLHF) to align with people's preferences and values. However, this method has known limitations: it aggregates conflicting preferences, often relies on unrepresentative samples, and uses only binary comparisons. Analysing 1,500 open-ended responses from the PRISM dataset across 75 countries, we examine what people actually want from AI systems and reveal concrete failures of current methods. We find that different people want different things: ",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "HKJudge: A Legal Discourse-Annotated Corpus for Interpreting What Courts Find, How They Reason, and What They Rule",
+      "url": "https://arxiv.org/abs/2606.06679",
+      "summary": "arXiv:2606.06679v1 Announce Type: cross Abstract: Court judgments are central to legal practice and jurisprudence, yet discourse analysis of Hong Kong judgments has received limited attention, owing largely to the absence of expert-annotated corpora. We introduce the Hong Kong Judgment Discourse Dataset (HKJudge), the first sentence-level expert-annotated legal discourse corpus. HKJudge includes criminal judgments across all five levels of HK's court hierarchy, comprising $\\sim$290k sentences and $\\sim$6.5 million tokens, fully annotated by legal linguistics experts. We design a two-tier disco",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Geography of Algorithmic Judgment: LLM Intermediaries, Place Identity, and Racial Steering in Housing Search",
+      "url": "https://arxiv.org/abs/2606.06694",
+      "summary": "arXiv:2606.06694v1 Announce Type: cross Abstract: Large language models (LLMs) are rapidly assuming an intermediary role in housing search through the integration of listing platforms within conversational interfaces, mediating access to information, search, and recommendations within urban settings. We expand on prior work on racial steering in LLMs by conducting a behavioral audit of seven open-weight and closed-source LLMs across four U.S. cities, testing location recommendations across three iterative prompting conditions that progressively add lifestyle preference context and reflect fair",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "What Your Posts Reveal: A Benchmark and Agentic Framework for User-Level Privacy Leakage on Social Media",
+      "url": "https://arxiv.org/abs/2606.06784",
+      "summary": "arXiv:2606.06784v1 Announce Type: cross Abstract: Public social media posts can reveal private information through weak cues scattered across text, images, or metadata. Such leakage is often cumulative and cross-post: cues that appear harmless in isolation may jointly expose a user's home, workplace, or routine. However, current research lacks a unified benchmark for user-level multimodal privacy leakage and an evaluation metric that captures exposure severity beyond binary accuracy. To address these gaps, we propose SopriBench, a synthetic benchmark guided by leakage patterns abstracted from ",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "mmPISA-bench: Do LLMs Reason Equally Well Across 43 Languages?",
+      "url": "https://arxiv.org/abs/2606.07069",
+      "summary": "arXiv:2606.07069v1 Announce Type: cross Abstract: We introduce mmPISA-bench, a compact high-quality multilingual reasoning benchmark derived from the OECD Programme for International Student Assessment (PISA). The benchmark consists of 25 multiple-choice questions that require reasoning in order to be answered correctly. Each question is provided in official human translations to 43 languages and complemented with machine-translated counterparts (i.e., 2,150 data points in total). We evaluate two mainstream proprietary LLMs across languages, reasoning effort levels, and translation types in te",
+      "published": "2026-06-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
