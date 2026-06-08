@@ -1,83 +1,75 @@
 {
   "date": "2026-06-08",
-  "articles_count": 10,
+  "articles_count": 9,
   "articles": [
     {
-      "title": "Learning Fair Demand Models",
-      "url": "https://arxiv.org/abs/2606.06830",
-      "summary": "arXiv:2606.06830v1 Announce Type: new Abstract: Data-driven pricing is increasingly prevalent in sectors such as airlines, lending, insurance, and retail. By learning demand models from customer features and setting prices accordingly, these systems may generate discriminatory outcomes that raise fairness concerns. This leads to fundamental questions - how and where should systems incorporate fairness considerations in the pricing pipeline, and how does it ultimately affect societal outcomes? To answer these, we study a stylized model where a seller has a two-stage decision pipeline comprising",
+      "title": "Detective scaffolding for within-session reasoning development: a three-phase framework evaluated in polymer engineering and pre-university outreach",
+      "url": "https://arxiv.org/abs/2606.07279",
+      "summary": "arXiv:2606.07279v1 Announce Type: cross Abstract: This paper presents a detective scaffolding framework -- a three-phase instructional sequence (Hypothesis Activation -> Evidence Structuring -> Causal Integration) in which engineering students investigate a realistic industrial defect scenario using staged in-class polls as designed evidence probes. Unlike conventional uses of student response systems for engagement, the framework positions each poll as an Evidence-Centred Design instrument targeting a specific reasoning capability. In the primary implementation, 80 Year~3 polymer engineering ",
       "published": "2026-06-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Toward a Metaphysics of Learning Analytics: Ontological Positioning of Data, Inference, and Normativity",
-      "url": "https://arxiv.org/abs/2606.06851",
-      "summary": "arXiv:2606.06851v1 Announce Type: new Abstract: The Learning Analytics (LA) community has undergone rapid development over the 15 years since the first LAK conference was held. However, while epistemological and ethical debates regarding the philosophical foundations of LA have been vigorous, metaphysical discussions have been sparse, signifying a lack of effort to derive the identity of LA from its internal principles. In this paper, we attempt to establish a metaphysics of LA by addressing the ontological question of ``What is LA?'' We do so by tracing back to LA's own definitions and princi",
+      "title": "Measuring Agents in Production",
+      "url": "https://arxiv.org/abs/2512.04123",
+      "summary": "arXiv:2512.04123v4 Announce Type: replace Abstract: LLM-based agents already operate in production across many industries, yet we lack an understanding of what technical methods make deployments successful. We present the first systematic study of Measuring Agents in Production, MAP, using first-hand data from agent developers. We conducted 20 case studies via in-depth interviews and surveyed 86 deployed systems practitioners across 26 domains. We investigate why organizations build agents, how they build them, how they evaluate them, and their top development challenges. Our study finds that ",
       "published": "2026-06-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Sovereignty: A Qualitative Model of Strategic Competition as AI Becomes an Instrument of National Power",
-      "url": "https://arxiv.org/abs/2606.07245",
-      "summary": "arXiv:2606.07245v1 Announce Type: new Abstract: AI sovereignty is the extent to which a nation independently controls its artificial intelligence (AI) technologies. The race toward ever-more-sophisticated frontier AI models is of increasing strategic importance, with nations considering how AI might improve their economic situations, competitive advantage, and overall national power. However, the costs of AI sovereignty are enormous, and we lack definitions and conceptual models to navigate evolving AI sovereignty dynamics. We address this gap with definitions relevant to AI sovereignty, along",
+      "title": "Training for Technology: Adoption and Productive Use of Generative AI in Legal Analysis",
+      "url": "https://arxiv.org/abs/2603.04982",
+      "summary": "arXiv:2603.04982v3 Announce Type: replace Abstract: Can targeted user training unlock the productive potential of generative artificial intelligence in professional settings? We study this question using a randomized experiment in which 164 law students completed an issue-spotting examination under one of three conditions: no GenAI access, optional access to a large language model (LLM), or LLM access with a brief training intervention. Untrained LLM access proved counterproductive: relative to participants without any LLM access, untrained users wrote significantly shorter answers, committed ",
       "published": "2026-06-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Two-Phase Simulated Annealing for Equitable Team Formation: Eliminating Complaints in Large Engineering Cohorts",
-      "url": "https://arxiv.org/abs/2606.07270",
-      "summary": "arXiv:2606.07270v1 Announce Type: new Abstract: Contribution: This paper presents a novel two-phase algorithmic approach that decouples preference satisfaction from fairness optimization in student team formation, achieving both objectives without compromise. The method applies simulated annealing -- a core materials science technique -- to an educational challenge, demonstrating pedagogical integration of administrative processes. Background: Forming effective teams in large engineering cohorts (100+ students) requires balancing student preferences, academic fairness, and demographic diversit",
+      "title": "Toward Agentic Governance: What Shapes LLM-Agent Intervention in Public Forums?",
+      "url": "https://arxiv.org/abs/2606.00603",
+      "summary": "arXiv:2606.00603v2 Announce Type: replace Abstract: LLM agents are increasingly used in moderation-relevant public forum workflows, where their choices to answer, acknowledge, repair, or decline are routinely challenged by users, platforms, and regulators. The same agent often returns different responses on identical content, so any defense based on the agent's behavior cannot be reliably reproduced. The variation is structural. Four deployment choices typically invisible to the operator each shift the agent's response rate, and their combinations can produce substantially different interventi",
       "published": "2026-06-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Generative Models Erode Human Temporal Learning Through Market Selection",
-      "url": "https://arxiv.org/abs/2606.06572",
-      "summary": "arXiv:2606.06572v1 Announce Type: cross Abstract: We argue that modern generative models create structural risks for knowledge and cultural production at current, sub-AGI capability levels. We define Human Temporal Learning (HTL) as path-dependent knowledge accumulation through sustained engagement with problems over time. Generative outputs increasingly resemble HTL-intensive work in surface features, so verifying whether a given output reflects genuine human learning grows costly relative to its expected benefit. Once verification loses economic justification, evaluators reward outputs regar",
+      "title": "Feasible Action Space Reduction for Quantifying Causal Responsibility in Continuous Spatial Interactions",
+      "url": "https://arxiv.org/abs/2505.17739",
+      "summary": "arXiv:2505.17739v2 Announce Type: replace-cross Abstract: Understanding the causal influence of one agent on another agent is crucial for safely deploying artificially intelligent systems such as automated vehicles and mobile robots into human-inhabited environments. Existing models of causal responsibility deal with simplified abstractions of scenarios with discrete actions, thus, limiting real-world use when understanding responsibility in spatial interactions. Based on the assumption that spatially interacting agents are embedded in a scene and must follow an action at each instant, Feasibl",
       "published": "2026-06-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "What Do People Actually Want From AI? Mapping Preference Plurality",
-      "url": "https://arxiv.org/abs/2606.06674",
-      "summary": "arXiv:2606.06674v1 Announce Type: cross Abstract: Large Language Models (LLMs) are often fine-tuned through Reinforcement Learning from Human Feedback (RLHF) to align with people's preferences and values. However, this method has known limitations: it aggregates conflicting preferences, often relies on unrepresentative samples, and uses only binary comparisons. Analysing 1,500 open-ended responses from the PRISM dataset across 75 countries, we examine what people actually want from AI systems and reveal concrete failures of current methods. We find that different people want different things: ",
+      "title": "What Causes COVID-19 Fear? General Drivers of Fear During a Health Crisis",
+      "url": "https://arxiv.org/abs/2508.20146",
+      "summary": "arXiv:2508.20146v3 Announce Type: replace-cross Abstract: The COVID-19 pandemic triggered not only a global health crisis but also an infodemic, where exposure to heterogeneous information sources influenced public emotional responses. In this work, we investigate the determinants of self-reported fear of infection using data from the Delphi US CTIS survey. In particular, we analyze how demographic variables, epidemiological conditions, and exposure to different information sources shape fear levels. We introduce a Probabilistic Causal Model to estimate causal relationship strengths, identifyi",
       "published": "2026-06-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "HKJudge: A Legal Discourse-Annotated Corpus for Interpreting What Courts Find, How They Reason, and What They Rule",
-      "url": "https://arxiv.org/abs/2606.06679",
-      "summary": "arXiv:2606.06679v1 Announce Type: cross Abstract: Court judgments are central to legal practice and jurisprudence, yet discourse analysis of Hong Kong judgments has received limited attention, owing largely to the absence of expert-annotated corpora. We introduce the Hong Kong Judgment Discourse Dataset (HKJudge), the first sentence-level expert-annotated legal discourse corpus. HKJudge includes criminal judgments across all five levels of HK's court hierarchy, comprising $\\sim$290k sentences and $\\sim$6.5 million tokens, fully annotated by legal linguistics experts. We design a two-tier disco",
+      "title": "AIDEN: Design and Pilot Study of an AI Assistant for the Visually Impaired",
+      "url": "https://arxiv.org/abs/2511.06080",
+      "summary": "arXiv:2511.06080v4 Announce Type: replace-cross Abstract: This paper presents AIDEN, an artificial intelligence-based assistant designed to enhance the autonomy and daily quality of life of visually impaired individuals, who often struggle with object identification, text reading, and navigation in unfamiliar environments. Existing solutions such as screen readers or audio-based assistants facilitate access to information but frequently lead to auditory overload and raise privacy concerns in open environments. AIDEN addresses these limitations with a hybrid architecture that integrates You Onl",
       "published": "2026-06-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Geography of Algorithmic Judgment: LLM Intermediaries, Place Identity, and Racial Steering in Housing Search",
-      "url": "https://arxiv.org/abs/2606.06694",
-      "summary": "arXiv:2606.06694v1 Announce Type: cross Abstract: Large language models (LLMs) are rapidly assuming an intermediary role in housing search through the integration of listing platforms within conversational interfaces, mediating access to information, search, and recommendations within urban settings. We expand on prior work on racial steering in LLMs by conducting a behavioral audit of seven open-weight and closed-source LLMs across four U.S. cities, testing location recommendations across three iterative prompting conditions that progressively add lifestyle preference context and reflect fair",
+      "title": "Using Feasible Action-Space Reduction by Groups to fill Causal Responsibility Gaps in Spatial Interactions",
+      "url": "https://arxiv.org/abs/2602.22041",
+      "summary": "arXiv:2602.22041v2 Announce Type: replace-cross Abstract: Heralding the advent of autonomous vehicles and mobile robots that interact with humans, responsibility in spatial interaction is burgeoning as a research topic. Even though metrics of responsibility tailored to spatial interactions have been proposed, they are mostly focused on the responsibility of individual agents. Metrics of causal responsibility focusing on individuals fail in cases of causal overdeterminism - when many actors simultaneously cause an outcome. To fill the gaps in causal responsibility left by individual-focused met",
       "published": "2026-06-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "What Your Posts Reveal: A Benchmark and Agentic Framework for User-Level Privacy Leakage on Social Media",
-      "url": "https://arxiv.org/abs/2606.06784",
-      "summary": "arXiv:2606.06784v1 Announce Type: cross Abstract: Public social media posts can reveal private information through weak cues scattered across text, images, or metadata. Such leakage is often cumulative and cross-post: cues that appear harmless in isolation may jointly expose a user's home, workplace, or routine. However, current research lacks a unified benchmark for user-level multimodal privacy leakage and an evaluation metric that captures exposure severity beyond binary accuracy. To address these gaps, we propose SopriBench, a synthetic benchmark guided by leakage patterns abstracted from ",
-      "published": "2026-06-08T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "mmPISA-bench: Do LLMs Reason Equally Well Across 43 Languages?",
-      "url": "https://arxiv.org/abs/2606.07069",
-      "summary": "arXiv:2606.07069v1 Announce Type: cross Abstract: We introduce mmPISA-bench, a compact high-quality multilingual reasoning benchmark derived from the OECD Programme for International Student Assessment (PISA). The benchmark consists of 25 multiple-choice questions that require reasoning in order to be answered correctly. Each question is provided in official human translations to 43 languages and complemented with machine-translated counterparts (i.e., 2,150 data points in total). We evaluate two mainstream proprietary LLMs across languages, reasoning effort levels, and translation types in te",
+      "title": "Twitch Third-Party Developers' Support Seeking and Provision Practices on Discord",
+      "url": "https://arxiv.org/abs/2604.07732",
+      "summary": "arXiv:2604.07732v2 Announce Type: replace-cross Abstract: Third-party developers (TPDs) often turn to online communities for support when they can't get immediate responses from the platform. Twitch, as a leading live streaming platform, attracted many TPDs and formed an online support community on Discord. This study explores TPDs' support practices via mixed method (a topic modeling to identify topics related to support seeking and provision first and a follow-up in-depth qualitative analysis with these topics) and found that: (1) TPDs' support-seeking practices around social, technical, and",
       "published": "2026-06-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
