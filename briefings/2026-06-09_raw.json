@@ -1,91 +1,83 @@
 {
   "date": "2026-06-09",
-  "articles_count": 11,
+  "articles_count": 10,
   "articles": [
     {
-      "title": "Communiqué de Presse : Denis Terrien reconduit à la Présidence de l’IFA. Le Conseil d’administration se renforce avec l’arrivée de trois nouveaux membres.",
-      "url": "https://www.ifa-asso.com/communique-de-presse-denis-terrien-reconduit-a-la-presidence-de-lifa-le-conseil-dadministration-se-renforce-avec-larrivee-de-trois-nouveaux-membres/",
-      "summary": "Paris, le 4 juin 2026 &#8211; Lors de son Assemblée générale, l’Institut Français des Administrateurs (IFA) a reconduit Denis Terrien &#8230;",
-      "published": "2026-06-08T12:34:26",
-      "source_name": "Institut Français des Administrateurs",
-      "source_category": "gouvernance"
-    },
-    {
-      "title": "Beware of GeeksBearing Gifts: Building True EU Frontier AI Sovereignty",
-      "url": "https://arxiv.org/abs/2606.07536",
-      "summary": "arXiv:2606.07536v1 Announce Type: new Abstract: Frontier artificial intelligence is reshaping all aspects of society, from economic output or military capability to democratic institutions. The EU is entering this transformation from a position of structural dependence: frontier models originate almost exclusively from the United States or China, the US holds approximately sixteen times the EU's AI supercomputing capacity, and only 15% of global hyperscale data centre capacity resides within EU borders. Although the European Commission has accelerated its policy response, existing initiatives ",
+      "title": "Memetic Capture: A Pluralistic Policy Framework for Governing AI-Driven Cultural Disempowerment",
+      "url": "https://arxiv.org/abs/2606.07802",
+      "summary": "arXiv:2606.07802v1 Announce Type: new Abstract: Culture is the most insidious vector of gradual human disempowerment by AI: unlike economic or political displacement, cultural displacement attacks the very preferences and values through which humans recognise and resist disempowerment itself. We argue that existing AI governance frameworks suffer from a critical blind spot by treating cultural impact as secondary to economic and safety concerns. This paper develops \\emph{memetic capture} as a unifying concept for AI-driven cultural disempowerment, and proposes the \\textbf{Cultural Pluralistic ",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Prompt Governance? On Governing Technologies Governed by Natural Language",
-      "url": "https://arxiv.org/abs/2606.07539",
-      "summary": "arXiv:2606.07539v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) is increasingly operated by natural language instructions (prompts). Across the pipeline, stakeholders designate various forms, e.g. end-user guidelines, developer specifications, or system prompts, as prompt governance instruments. These textual artifacts are intended to shape model behaviour by specifying constraints, priorities, and compliance rules. Policymakers and regulators have begun to treat system-level instructions as accessible prompt-based GenAI intervention points, assuming they function (d",
+      "title": "Stable Geometry, Reversing Poles: The Bipolar Structure of AI Occupational Substitutability and Its Decade-Scale Inversion",
+      "url": "https://arxiv.org/abs/2606.07939",
+      "summary": "arXiv:2606.07939v1 Announce Type: new Abstract: Empirical research on the labor-market impact of artificial intelligence has converged, since Frey and Osborne (2017), on a continuous-gradient representation in which each occupation is assigned a real-valued exposure score on [0,1] obtained by linear aggregation across capability dimensions. This continuity is rarely articulated as an assumption and has not been tested at the micro-action level where substitution actually occurs. We decompose 1,961 O*NET Detailed Work Activities into 15,817 micro-actions using a multi-agent LLM pipeline with 31",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home",
-      "url": "https://arxiv.org/abs/2606.07542",
-      "summary": "arXiv:2606.07542v1 Announce Type: new Abstract: Generative AI is reshaping healthcare, yet most existing advances rely on hospital-grade devices, which limits their accessibility and potential for health management outside clinical settings. With the proliferation of portable devices and telemedicine, healthcare is shifting toward home-based Diagnosis-It-Yourself (DIY) care. Despite this promise, several distinctive challenges remain: (i) home-collected data are heterogeneous, exacerbated by the absence of standardized large-scale datasets; (ii) models require adaptation to variable task deman",
+      "title": "Contemporary AI lacks the imagination to diverge or negate in science",
+      "url": "https://arxiv.org/abs/2606.08251",
+      "summary": "arXiv:2606.08251v1 Announce Type: new Abstract: Bold projections that artificial intelligence will accelerate scientific discovery have raced ahead of evidence from working scientists, and the field still lacks large-scale, scientist-in-the-loop tests of these claims. Here we mount the largest such evaluation to date and map what AI cannot yet do for science. We invited authors of 121,640 recent preprints across biology, medicine, chemistry, and the social sciences to judge follow-up ideas that large language models (LLMs) generated from the context and puzzles of their own papers. 6,749 scien",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment",
-      "url": "https://arxiv.org/abs/2606.07543",
-      "summary": "arXiv:2606.07543v1 Announce Type: new Abstract: Generative AI (GenAI) is transforming workplaces at a rapid pace. This disproportionately affects vulnerable communities, including older workers (OWs) who re-enter the workforce through bridge employment prior to final retirement. Through in-depth semi-structured interviews with 21 professionals, we examine how OWs navigate GenAI-driven disruptions while pursuing bridge roles, focusing on their concerns about GenAI integration and their responses to these changes. Our findings show that OWs experienced both temporal and structural disruptions ac",
+      "title": "Risk-Aware Planning for Transit Desert Remediation Under Demand Uncertainty",
+      "url": "https://arxiv.org/abs/2606.08371",
+      "summary": "arXiv:2606.08371v1 Announce Type: new Abstract: Transit deserts are areas where public transportation is inadequate despite evidence of travel demand, a condition that affects tens of millions of residents across the Americas. Planning for these areas is difficult because the usual demand signal is missing: ridership cannot be observed before service exists. To address that setting, we formulate risk-aware transit desert remediation as a partially observable Markov decision process with Conditional Value-at-Risk constraints for financial tail risk. The model uses demographic, land-use, and emp",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond",
-      "url": "https://arxiv.org/abs/2606.07544",
-      "summary": "arXiv:2606.07544v1 Announce Type: new Abstract: Middle school is a key window for building core academic skills and the learning routines students carry into later grades, yet many students still fall behind because help is often limited and comes too late, after they have already been stuck for a while. Learning Management Systems (LMSs) are now standard infrastructure for distributing materials, collecting work, assessing students' tasks, and recording grades, but in most deployments they still behave more like workflow tools than instructional supports. The result is the usual bottleneck: s",
+      "title": "Beyond Prediction: Longitudinal Reasoning in EHR-Integrated Clinical AI",
+      "url": "https://arxiv.org/abs/2606.08413",
+      "summary": "arXiv:2606.08413v1 Announce Type: new Abstract: We present a structured analysis of how contemporary clinical AI systems integrate electronic health record (EHR) data and the extent to which they support longitudinal clinical reasoning. Drawing on a curated corpus of clinical natural language processing (NLP) and EHR-integrated systems, we develop a coding framework that captures both technical integration strategies and reasoning-relevant representational features, such as trajectory modeling, cross-encounter synthesis, longitudinal analysis, and absence reasoning. We also elicited the experi",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Reshaping Undergraduate Computer Science Education in the Generative AI Era",
-      "url": "https://arxiv.org/abs/2606.07545",
-      "summary": "arXiv:2606.07545v1 Announce Type: new Abstract: Generative AI represents a turning point for Computer Science (CS) education. In recent decades, post-secondary CS education has largely focused on what has been seen as practical software engineering skills: implementation-level programming, debugging, testing, and software design, analysis, and documentation. However, this framing is becoming less tenable as generative AI automates many of these tasks, challenging their centrality in CS education. To keep pace with advances in AI technology, CS curricula should consider a shift toward understan",
+      "title": "Clinical Reasoning in the Age of AI: Longitudinal Cognition and Human-AI Collaboration",
+      "url": "https://arxiv.org/abs/2606.08442",
+      "summary": "arXiv:2606.08442v1 Announce Type: new Abstract: As physicians turn to AI-powered systems to help meet the dual demands of speed and care quality, they are met with hallucinations and sycophancy. Understanding how doctors reason through clinical problems in real-world settings is critical for design of effective AI reasoning systems. While recent advances in medical AI have emphasized performance benchmarks and diagnostic accuracy, comparatively little attention has been paid to the structure of clinicians' reasoning processes as they unfold over time, e.g., how they interact with electronic he",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Astro, I'm Home! Investigating Factors that Influence the Acceptance of Home Robots Using Supervised Machine Learning",
-      "url": "https://arxiv.org/abs/2606.07551",
-      "summary": "arXiv:2606.07551v1 Announce Type: new Abstract: The use of social robots in home environments is on the rise. This exploratory study applies regularization techniques (e.g., Lasso and Ridge regression) to investigate variables and identify new models of technology acceptance in the context of social robots. Within the original UTAUT2 framework, performance expectancy, social influence, and hedonic motivation emerged as the strongest and most consistent predictors of intention to use the technology. In addition, usability, trust, and competence were identified as promising variables in a model ",
+      "title": "Friend or Foe? Language as an ideological switch in open-weight LLMs under Russian disinformation stress",
+      "url": "https://arxiv.org/abs/2606.08512",
+      "summary": "arXiv:2606.08512v1 Announce Type: new Abstract: As Russia's war against Ukraine extends into generative AI, large language models (LLMs) adapted for local post-Soviet languages are deployed in contested information environments. Policy and industry discourse assumes that culturally aligned adaptation encodes the political orientation of the target community: a Ukrainian-oriented model will resist Russian narratives, a Russian-oriented one will reinforce them. Does it? This article systematically disconfirms that assumption. We run a controlled audit of four openly available LLMs sharing a comm",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Position: Anthropomorphic Misalignment Research Needs Stronger Evidence",
-      "url": "https://arxiv.org/abs/2606.07612",
-      "summary": "arXiv:2606.07612v1 Announce Type: new Abstract: We argue that many Anthropomorphic Misalignment Research (AMR) studies need stronger evidence to ensure that they can provide a robust foundation for critical safety decisions, such as model deployment and regulation. By evaluating failure modes across different misalignment concepts, such as deception, emergent misalignment, and sycophancy, we show how conceptual ambiguity, non-robust datasets, experimental design, and insufficient causal interventions can lead to overinterpretation of model behaviors. This position paper aims to offer guidance ",
+      "title": "Regulating the AI Tutor: Intentions, Help-Seeking, and Self-Regulated Learning in Adolescent GenAI Use",
+      "url": "https://arxiv.org/abs/2606.08568",
+      "summary": "arXiv:2606.08568v1 Announce Type: new Abstract: Generative AI (GenAI) tools are now common learning companions for adolescents, yet how they regulate their use during authentic learning tasks remains poorly understood. Self-regulated learning (SRL) and high-level help-seeking (HS) are commonly proposed as safeguards against passive or shortcut-oriented use, but most empirical studies focus on aggregate learning outcomes rather than these moment-to-moment processes during AI-supported learning. This work-in-progress examines open-ended conversational data from 98 Grade-9 students across three G",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Frankenstein in the Pipeline: Computational Epistemicide in Facial Recognition",
-      "url": "https://arxiv.org/abs/2606.07628",
-      "summary": "arXiv:2606.07628v1 Announce Type: new Abstract: While the eugenic roots of computer vision are well-documented in critical technology studies, less attention has been paid to the operational mechanisms through which this violence is enacted at the level of the pipeline. This paper employs Mary Shelley's Frankenstein not as a metaphor for unintended consequences, but as a diagnostic framework for method: disassembly, reconstruction, and the production of a creature whose legitimacy is asserted by the procedure that made it. I argue that embedding-based facial recognition enacts what I call comp",
+      "title": "A Classroom Study of LLM-Generated Feedback Intervention in Introductory Programming",
+      "url": "https://arxiv.org/abs/2606.08807",
+      "summary": "arXiv:2606.08807v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used to provide automated feedback in introductory programming courses, yet empirical evidence from authentic classroom deployments comparing different feedback modalities remains limited. In this work, we present a large-scale classroom study in which AI-generated feedback was deployed through a randomized protocol in an introductory Python programming course. Students received one of three feedback conditions on incorrect submissions: natural language hints, AI-generated failing test cases, or no AI",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Reimagining Open Source and Openness in AI: Co-Creating Responsible Technological Futures",
-      "url": "https://arxiv.org/abs/2606.07764",
-      "summary": "arXiv:2606.07764v1 Announce Type: new Abstract: Debates over open source and openness in artificial intelligence have intensified as policymakers, researchers, and practitioners grapple with how foundation models should be developed and governed to balance innovation, accountability, and public interest. However, there has been limited empirical work examining how diverse stakeholders collectively understand and negotiate responsible openness in AI, particularly through participatory processes that extend beyond industry-led definitions and frameworks. This paper presents findings from a multi",
+      "title": "Culturally-Aware AI for Cross-Boundary Community Learning: Undergraduate Innovation at the Intersection of Computation and Design",
+      "url": "https://arxiv.org/abs/2606.09041",
+      "summary": "arXiv:2606.09041v1 Announce Type: new Abstract: Research on artificial intelligence in education (AIED) is rapidly expanding, yet technical progress often lacks human-centered grounding and adequate attention to cultural context. Community-Based Learning, a pedagogy rooted in social work, remains underrepresented in AIED research, particularly within Asia-Pacific contexts. This paper reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. We examine how community-engaged computi",
       "published": "2026-06-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
