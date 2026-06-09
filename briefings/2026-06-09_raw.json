@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-09",
+  "articles_count": 11,
+  "articles": [
+    {
+      "title": "Communiqué de Presse : Denis Terrien reconduit à la Présidence de l’IFA. Le Conseil d’administration se renforce avec l’arrivée de trois nouveaux membres.",
+      "url": "https://www.ifa-asso.com/communique-de-presse-denis-terrien-reconduit-a-la-presidence-de-lifa-le-conseil-dadministration-se-renforce-avec-larrivee-de-trois-nouveaux-membres/",
+      "summary": "Paris, le 4 juin 2026 &#8211; Lors de son Assemblée générale, l’Institut Français des Administrateurs (IFA) a reconduit Denis Terrien &#8230;",
+      "published": "2026-06-08T12:34:26",
+      "source_name": "Institut Français des Administrateurs",
+      "source_category": "gouvernance"
+    },
+    {
+      "title": "Beware of GeeksBearing Gifts: Building True EU Frontier AI Sovereignty",
+      "url": "https://arxiv.org/abs/2606.07536",
+      "summary": "arXiv:2606.07536v1 Announce Type: new Abstract: Frontier artificial intelligence is reshaping all aspects of society, from economic output or military capability to democratic institutions. The EU is entering this transformation from a position of structural dependence: frontier models originate almost exclusively from the United States or China, the US holds approximately sixteen times the EU's AI supercomputing capacity, and only 15% of global hyperscale data centre capacity resides within EU borders. Although the European Commission has accelerated its policy response, existing initiatives ",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Prompt Governance? On Governing Technologies Governed by Natural Language",
+      "url": "https://arxiv.org/abs/2606.07539",
+      "summary": "arXiv:2606.07539v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) is increasingly operated by natural language instructions (prompts). Across the pipeline, stakeholders designate various forms, e.g. end-user guidelines, developer specifications, or system prompts, as prompt governance instruments. These textual artifacts are intended to shape model behaviour by specifying constraints, priorities, and compliance rules. Policymakers and regulators have begun to treat system-level instructions as accessible prompt-based GenAI intervention points, assuming they function (d",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "DIYHealth Suite: Dataset, Model, and Benchmark for Health Management at Home",
+      "url": "https://arxiv.org/abs/2606.07542",
+      "summary": "arXiv:2606.07542v1 Announce Type: new Abstract: Generative AI is reshaping healthcare, yet most existing advances rely on hospital-grade devices, which limits their accessibility and potential for health management outside clinical settings. With the proliferation of portable devices and telemedicine, healthcare is shifting toward home-based Diagnosis-It-Yourself (DIY) care. Despite this promise, several distinctive challenges remain: (i) home-collected data are heterogeneous, exacerbated by the absence of standardized large-scale datasets; (ii) models require adaptation to variable task deman",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Concerns and Strategic Responses of Older Workers Navigating Generative AI in Bridge Employment",
+      "url": "https://arxiv.org/abs/2606.07543",
+      "summary": "arXiv:2606.07543v1 Announce Type: new Abstract: Generative AI (GenAI) is transforming workplaces at a rapid pace. This disproportionately affects vulnerable communities, including older workers (OWs) who re-enter the workforce through bridge employment prior to final retirement. Through in-depth semi-structured interviews with 21 professionals, we examine how OWs navigate GenAI-driven disruptions while pursuing bridge roles, focusing on their concerns about GenAI integration and their responses to these changes. Our findings show that OWs experienced both temporal and structural disruptions ac",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI-Integrated Learning Management System for Middle School: A Longitudinal Study of Learning Outcomes Through High School and Beyond",
+      "url": "https://arxiv.org/abs/2606.07544",
+      "summary": "arXiv:2606.07544v1 Announce Type: new Abstract: Middle school is a key window for building core academic skills and the learning routines students carry into later grades, yet many students still fall behind because help is often limited and comes too late, after they have already been stuck for a while. Learning Management Systems (LMSs) are now standard infrastructure for distributing materials, collecting work, assessing students' tasks, and recording grades, but in most deployments they still behave more like workflow tools than instructional supports. The result is the usual bottleneck: s",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Reshaping Undergraduate Computer Science Education in the Generative AI Era",
+      "url": "https://arxiv.org/abs/2606.07545",
+      "summary": "arXiv:2606.07545v1 Announce Type: new Abstract: Generative AI represents a turning point for Computer Science (CS) education. In recent decades, post-secondary CS education has largely focused on what has been seen as practical software engineering skills: implementation-level programming, debugging, testing, and software design, analysis, and documentation. However, this framing is becoming less tenable as generative AI automates many of these tasks, challenging their centrality in CS education. To keep pace with advances in AI technology, CS curricula should consider a shift toward understan",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Astro, I'm Home! Investigating Factors that Influence the Acceptance of Home Robots Using Supervised Machine Learning",
+      "url": "https://arxiv.org/abs/2606.07551",
+      "summary": "arXiv:2606.07551v1 Announce Type: new Abstract: The use of social robots in home environments is on the rise. This exploratory study applies regularization techniques (e.g., Lasso and Ridge regression) to investigate variables and identify new models of technology acceptance in the context of social robots. Within the original UTAUT2 framework, performance expectancy, social influence, and hedonic motivation emerged as the strongest and most consistent predictors of intention to use the technology. In addition, usability, trust, and competence were identified as promising variables in a model ",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Position: Anthropomorphic Misalignment Research Needs Stronger Evidence",
+      "url": "https://arxiv.org/abs/2606.07612",
+      "summary": "arXiv:2606.07612v1 Announce Type: new Abstract: We argue that many Anthropomorphic Misalignment Research (AMR) studies need stronger evidence to ensure that they can provide a robust foundation for critical safety decisions, such as model deployment and regulation. By evaluating failure modes across different misalignment concepts, such as deception, emergent misalignment, and sycophancy, we show how conceptual ambiguity, non-robust datasets, experimental design, and insufficient causal interventions can lead to overinterpretation of model behaviors. This position paper aims to offer guidance ",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Frankenstein in the Pipeline: Computational Epistemicide in Facial Recognition",
+      "url": "https://arxiv.org/abs/2606.07628",
+      "summary": "arXiv:2606.07628v1 Announce Type: new Abstract: While the eugenic roots of computer vision are well-documented in critical technology studies, less attention has been paid to the operational mechanisms through which this violence is enacted at the level of the pipeline. This paper employs Mary Shelley's Frankenstein not as a metaphor for unintended consequences, but as a diagnostic framework for method: disassembly, reconstruction, and the production of a creature whose legitimacy is asserted by the procedure that made it. I argue that embedding-based facial recognition enacts what I call comp",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Reimagining Open Source and Openness in AI: Co-Creating Responsible Technological Futures",
+      "url": "https://arxiv.org/abs/2606.07764",
+      "summary": "arXiv:2606.07764v1 Announce Type: new Abstract: Debates over open source and openness in artificial intelligence have intensified as policymakers, researchers, and practitioners grapple with how foundation models should be developed and governed to balance innovation, accountability, and public interest. However, there has been limited empirical work examining how diverse stakeholders collectively understand and negotiate responsible openness in AI, particularly through participatory processes that extend beyond industry-led definitions and frameworks. This paper presents findings from a multi",
+      "published": "2026-06-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
