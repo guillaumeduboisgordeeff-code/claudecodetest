@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-10",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills",
+      "url": "https://arxiv.org/abs/2606.10051",
+      "summary": "arXiv:2606.10051v1 Announce Type: new Abstract: Simulated patients offer a scalable way to train psychotherapy micro-skills such as empathic responding and exploratory probing, but current systems either follow fixed scripts or rely on LLMs that drift unpredictably over long sessions. We present the Adaptive Virtual Patient (AVP), which adapts its disclosure behavior -- from guarded, through moderate openness, to full disclosure -- in response to trainee skill. The AVP is grounded in a structural equation model fit to nearly 2{,}000 hours of real-world psychotherapy transcripts, which quantifi",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "\"Where is this coming from?\" Uncovering Trustworthiness Ideals in AI-powered Peripartum Information Seeking",
+      "url": "https://arxiv.org/abs/2606.10158",
+      "summary": "arXiv:2606.10158v1 Announce Type: new Abstract: AI-powered tools increasingly promise to fill information gaps in health, especially in domains like maternal and reproductive health that demand timely, accurate, and actionable information. This is extremely important, as the United States leads peer nations in preventable deaths, with stark racial disparities. However, current AI and NLP-powered systems aim to improve access to vetted maternal health information by routing user queries to a factual response while under-specifying the socio-technical governance structures that shape trust, use,",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AnnotateThis: Analyzing a human-LLM system for annotating social media data with the concept of climate change mitigation pessimism",
+      "url": "https://arxiv.org/abs/2606.10210",
+      "summary": "arXiv:2606.10210v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being integrated into research workflows. However, LLMs have been shown to struggle with difficult and nuanced concepts such as those found in computational social science (CSS) research. Within the CSS community, there has been a call for new systems to be developed which center humans in LLM-supported scientific workflows. We develop AnnotateThis, a human-centered system for inspecting and improving LLM annotations, a process we refer to as LLM grounding for a target concept. AnnotateThis is develop",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Accounting for AI Inference in Corporate GHG Inventories: A Four-Tier Methodology for Scope 3 Category 1 Reporting",
+      "url": "https://arxiv.org/abs/2606.10660",
+      "summary": "arXiv:2606.10660v1 Announce Type: new Abstract: AI inference services -- API subscriptions, enterprise chat tools, and SaaS products with embedded AI features -- fall unambiguously within Scope 3 Category 1 under the Corporate Sustainability Reporting Directive (CSRD), which requires disclosure for fiscal years starting January 2024. Yet no standardised methodology exists for including them in corporate GHG inventories. Current practice either omits the category entirely or applies a generic economic input-output (EEIO) factor calibrated to the ICT sector as a whole, overestimating AI inferenc",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Agentic Web Requires New Normative Infrastructure",
+      "url": "https://arxiv.org/abs/2606.10711",
+      "summary": "arXiv:2606.10711v1 Announce Type: new Abstract: The agentic web, in which users interact with the internet largely through agents acting on their behalf, is now technically feasible. However, many of the consumer and social benefits that could be realized by online AI agents acting scrupulously in their principals' interest are currently obstructed by outdated laws, terms of service, and other less formal practices which allow online platforms to block and degrade agent access, often in secret. No distinction is currently drawn between \"malicious bots\" and AI agents acting with the express del",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Gender-based discrepancies in the algorithmic delivery of political ads on social media",
+      "url": "https://arxiv.org/abs/2606.10834",
+      "summary": "arXiv:2606.10834v1 Announce Type: new Abstract: Social media has become a key channel for political advertising during election campaigns. However, algorithmic biases in the delivery of these ads may distort the public's exposure to political messaging. This can hinder citizens' ability to make informed choices and undermine equal access to political discourse, raising concerns about the integrity of electoral processes. In this study, we examine gender-based discrimination in the delivery of political ads during the 2024 European Parliament elections. Using a large-scale dataset of over 11000",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Prompt to Purchase: How AI Brand Recommendations Move Consumers on the Open Web",
+      "url": "https://arxiv.org/abs/2606.10907",
+      "summary": "arXiv:2606.10907v1 Announce Type: new Abstract: When a conversational assistant recommends a brand to a user with no recent observed engagement, that user's same-name Google search rises +4.3 percentage points (pp) [3.1, 5.5], visits to the brand's own site +2.4 pp [1.4, 3.5], and brand-specific retailer-page visits +1.0 pp [0.3, 1.7] over matched backward placebos. Recovering that estimate is the work. The mention creates a brand exposure no web log attributes to the assistant, and the naive all-mention funnel that seems to measure it is confounded: many mentions are incidental references to ",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Dismantle and Dissolve, (Re)build, Remix: A Research-creation Inquiry into the Political Economy of Graphics Cards",
+      "url": "https://arxiv.org/abs/2606.10958",
+      "summary": "arXiv:2606.10958v1 Announce Type: new Abstract: This contribution follows a four-year investigation (2022--2026) into the political economy of graphics card miniaturization. It begins from the premise that rethinking our relationship to artificial intelligence and its sociotechnical entanglements requires demystifying and opening the black box of this technical object. Within our algorithmic culture, the graphics card (GPU) enables the massive, parallel processing of large datasets, making possible the training of the models that underpin our intelligent systems. GPU miniaturization is equally",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Designed by Journalists, but Is It for Readers? Rethinking AI Disclosures and Transparency in News",
+      "url": "https://arxiv.org/abs/2606.11116",
+      "summary": "arXiv:2606.11116v1 Announce Type: new Abstract: As newsrooms integrate generative AI, journalists face a disclosure challenge: how to communicate AI involvement in ways that maintain reader trust. Current practice offers two approaches: brief one-line labels or detailed disclosures specifying human oversight, editorial accountability, and error reporting mechanisms. Neither achieves journalists' goal of building trust through transparency. An existing controlled experiment with 34 news readers show that detailed disclosures trigger a \\textit{transparency dilemma}, reducing trust rather than in",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Full Disclosure, Less Trust? How the Level of Detail about AI Use in News Writing Affects Readers' Trust",
+      "url": "https://arxiv.org/abs/2601.09620",
+      "summary": "arXiv:2601.09620v1 Announce Type: cross Abstract: As artificial intelligence (AI) is increasingly integrated into news production, calls for transparency about the use of AI have gained considerable traction. Recent studies suggest that AI disclosures can lead to a ``transparency dilemma'', where disclosure reduces readers' trust. However, little is known about how the \\textit{level of detail} in AI disclosures influences trust and contributes to this dilemma within the news context. In this 3$\\times$2$\\times$2 mixed factorial study with 40 participants, we investigate how three levels of AI d",
+      "published": "2026-06-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
