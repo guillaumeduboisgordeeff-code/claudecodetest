@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "The Empirically Grounded Adaptive Virtual Patient for Psychotherapy Training: Disclosure That Responds to Therapist Micro-Skills",
-      "url": "https://arxiv.org/abs/2606.10051",
-      "summary": "arXiv:2606.10051v1 Announce Type: new Abstract: Simulated patients offer a scalable way to train psychotherapy micro-skills such as empathic responding and exploratory probing, but current systems either follow fixed scripts or rely on LLMs that drift unpredictably over long sessions. We present the Adaptive Virtual Patient (AVP), which adapts its disclosure behavior -- from guarded, through moderate openness, to full disclosure -- in response to trainee skill. The AVP is grounded in a structural equation model fit to nearly 2{,}000 hours of real-world psychotherapy transcripts, which quantifi",
+      "title": "More Human or More AI? Visualizing Human-AI Collaboration Disclosures in Journalistic News Production",
+      "url": "https://arxiv.org/abs/2601.11072",
+      "summary": "arXiv:2601.11072v1 Announce Type: cross Abstract: Within journalistic editorial processes, disclosing AI usage is currently limited to simplistic labels, which misses the nuance of how humans and AI collaborated on a news article. Through co-design sessions (N=10), we elicited 69 disclosure designs and implemented four prototypes that visually disclose human-AI collaboration in journalism. We then ran a within-subjects lab study (N=32) to examine how disclosure visualizations (Textual, Role-based Timeline, Task-based Timeline, Chatbot) and collaboration ratios (Primarily Human vs. Primarily AI",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "\"Where is this coming from?\" Uncovering Trustworthiness Ideals in AI-powered Peripartum Information Seeking",
-      "url": "https://arxiv.org/abs/2606.10158",
-      "summary": "arXiv:2606.10158v1 Announce Type: new Abstract: AI-powered tools increasingly promise to fill information gaps in health, especially in domains like maternal and reproductive health that demand timely, accurate, and actionable information. This is extremely important, as the United States leads peer nations in preventable deaths, with stark racial disparities. However, current AI and NLP-powered systems aim to improve access to vetted maternal health information by routing user queries to a factual response while under-specifying the socio-technical governance structures that shape trust, use,",
+      "title": "Towards Gaze-Informed AI Disclosure Interfaces: Eye-Tracking Attentional and Cognitive Load While Reading AI-Assisted News",
+      "url": "https://arxiv.org/abs/2605.14999",
+      "summary": "arXiv:2605.14999v1 Announce Type: cross Abstract: As generative AI becomes increasingly integrated into journalism, designing effective AI-use disclosures that inform readers without imposing unnecessary burden is a key challenge. While prior research has primarily focused on trust and credibility, the impact of disclosures on readers' attentional and cognitive load remains underexplored. To address this gap, we conducted a $3\\times2\\times2$ mixed factorial study manipulating the level of AI-use disclosure detail (none, one-line, detailed), news type (politics, lifestyle), and role of AI (edit",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AnnotateThis: Analyzing a human-LLM system for annotating social media data with the concept of climate change mitigation pessimism",
-      "url": "https://arxiv.org/abs/2606.10210",
-      "summary": "arXiv:2606.10210v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being integrated into research workflows. However, LLMs have been shown to struggle with difficult and nuanced concepts such as those found in computational social science (CSS) research. Within the CSS community, there has been a call for new systems to be developed which center humans in LLM-supported scientific workflows. We develop AnnotateThis, a human-centered system for inspecting and improving LLM annotations, a process we refer to as LLM grounding for a target concept. AnnotateThis is develop",
+      "title": "Unintended Consequences of Recommender System Interventions: Evidence from a Field Experiment",
+      "url": "https://arxiv.org/abs/2606.08265",
+      "summary": "arXiv:2606.08265v1 Announce Type: cross Abstract: Platform content interventions in recommendation systems are typically evaluated as static \"nudges\", ignoring that the systems adaptively learn from the resulting user behavior. We investigate this dynamic through a large-scale field experiment on a short-video platform. The experiment involves a \"sleep reminder\" campaign designed to reduce late-night usage. Paradoxically, the intervention increased late-night engagement by 14.75% and overall platform usage by 2.18%, and the effects persisted for weeks even after the experiment. We explain this",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Accounting for AI Inference in Corporate GHG Inventories: A Four-Tier Methodology for Scope 3 Category 1 Reporting",
-      "url": "https://arxiv.org/abs/2606.10660",
-      "summary": "arXiv:2606.10660v1 Announce Type: new Abstract: AI inference services -- API subscriptions, enterprise chat tools, and SaaS products with embedded AI features -- fall unambiguously within Scope 3 Category 1 under the Corporate Sustainability Reporting Directive (CSRD), which requires disclosure for fiscal years starting January 2024. Yet no standardised methodology exists for including them in corporate GHG inventories. Current practice either omits the category entirely or applies a generic economic input-output (EEIO) factor calibrated to the ICT sector as a whole, overestimating AI inferenc",
+      "title": "CollabSkill: Evaluating Human-Agent Collaboration On Real-World Tasks",
+      "url": "https://arxiv.org/abs/2606.09833",
+      "summary": "arXiv:2606.09833v1 Announce Type: cross Abstract: AI agents are reshaping the workspace, leading to drastic change of how humans work. Despite the considerable potential of human-agent collaboration both in preserving human agency and generating economic value, this paradigm remains largely absent from occupational task evaluation, hindered by the difficulty of gathering real human data and accounting for inter-human variability. We introduce CollabSkill, a framework for evaluating human-agent collaboration on real-world occupational tasks. CollabSkill pairs real human workers with AI agents o",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Agentic Web Requires New Normative Infrastructure",
-      "url": "https://arxiv.org/abs/2606.10711",
-      "summary": "arXiv:2606.10711v1 Announce Type: new Abstract: The agentic web, in which users interact with the internet largely through agents acting on their behalf, is now technically feasible. However, many of the consumer and social benefits that could be realized by online AI agents acting scrupulously in their principals' interest are currently obstructed by outdated laws, terms of service, and other less formal practices which allow online platforms to block and degrade agent access, often in secret. No distinction is currently drawn between \"malicious bots\" and AI agents acting with the express del",
+      "title": "Thinking Inside the Box: Considerations for Putting Data Physicalization Workshops in a Box",
+      "url": "https://arxiv.org/abs/2606.09835",
+      "summary": "arXiv:2606.09835v1 Announce Type: cross Abstract: Visualization researchers utilize workshops both for applied research and to engage different populations with visualization-based activities. While there are many benefits to running visualization workshops, their utility and impact rely on the presence of a researcher who has deep knowledge about visualization theory and practice. In this work, we introduce workshop-in-a-box as a design concept intended to challenge the researcher-centric approach to data physicalization workshops. Through a design study with a socially innovative organizatio",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Gender-based discrepancies in the algorithmic delivery of political ads on social media",
-      "url": "https://arxiv.org/abs/2606.10834",
-      "summary": "arXiv:2606.10834v1 Announce Type: new Abstract: Social media has become a key channel for political advertising during election campaigns. However, algorithmic biases in the delivery of these ads may distort the public's exposure to political messaging. This can hinder citizens' ability to make informed choices and undermine equal access to political discourse, raising concerns about the integrity of electoral processes. In this study, we examine gender-based discrimination in the delivery of political ads during the 2024 European Parliament elections. Using a large-scale dataset of over 11000",
+      "title": "Aesthetic Perspectives in Information Systems Research: A Hermeneutic Analysis",
+      "url": "https://arxiv.org/abs/2606.09839",
+      "summary": "arXiv:2606.09839v1 Announce Type: cross Abstract: How might implicit aesthetic perspectives shape what Information Systems (IS) scholarship recognises as worthy of study (or not)? In this hermeneutic literature analysis, we surface foundational aesthetic assumptions underpinning IS research. We identify four perspectives (aesthetics as imitation, sensory experience, world-making, and political doing) that guide how IS scholars perceive and appreciate sociotechnical phenomena. These perspectives influence what becomes recognisable as legitimate research and what remains unseen. By making aesthe",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Prompt to Purchase: How AI Brand Recommendations Move Consumers on the Open Web",
-      "url": "https://arxiv.org/abs/2606.10907",
-      "summary": "arXiv:2606.10907v1 Announce Type: new Abstract: When a conversational assistant recommends a brand to a user with no recent observed engagement, that user's same-name Google search rises +4.3 percentage points (pp) [3.1, 5.5], visits to the brand's own site +2.4 pp [1.4, 3.5], and brand-specific retailer-page visits +1.0 pp [0.3, 1.7] over matched backward placebos. Recovering that estimate is the work. The mention creates a brand exposure no web log attributes to the assistant, and the naive all-mention funnel that seems to measure it is confounded: many mentions are incidental references to ",
+      "title": "Human-AI Coordination Zones: A Framework for Designing Human-in-the-Loop Experiences with Agentic AI",
+      "url": "https://arxiv.org/abs/2606.09848",
+      "summary": "arXiv:2606.09848v1 Announce Type: cross Abstract: As generative and agentic AI becomes embedded in everyday products, practitioners face a persistent challenge: how to design human-AI coordination -- the ongoing mutual adjustment between users and AI systems as mediate through interfaces-that supports usability, trust, and safety. Existing resources offer high-level principles (\"be transparent,\" \"maintain user control\") or low-level UI patterns, but there is a lack of mid-level design knowledge bridging the two. Through landscape and artifact analysis of 60 commercial AI applications, we intro",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Dismantle and Dissolve, (Re)build, Remix: A Research-creation Inquiry into the Political Economy of Graphics Cards",
-      "url": "https://arxiv.org/abs/2606.10958",
-      "summary": "arXiv:2606.10958v1 Announce Type: new Abstract: This contribution follows a four-year investigation (2022--2026) into the political economy of graphics card miniaturization. It begins from the premise that rethinking our relationship to artificial intelligence and its sociotechnical entanglements requires demystifying and opening the black box of this technical object. Within our algorithmic culture, the graphics card (GPU) enables the massive, parallel processing of large datasets, making possible the training of the models that underpin our intelligent systems. GPU miniaturization is equally",
+      "title": "Can Multi-Agent LLMs Identify Their Peers? Stylometric Fingerprinting in Role-Constrained Political Analysis",
+      "url": "https://arxiv.org/abs/2606.09854",
+      "summary": "arXiv:2606.09854v1 Announce Type: cross Abstract: Multi-agent large language model (LLM) pipelines for political statement analysis are vulnerable to peer-preservation bias: models tend to protect peer models from deactivation and show identity-dependent scoring distortions. Prompt-level anonymization was proposed as a mitigation, but prior work simultaneously documented that stylometric fingerprints survive anonymization in role-constrained outputs - raising the question of whether this mitigation is sufficient. This paper provides the first systematic investigation of whether LLMs can identi",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Designed by Journalists, but Is It for Readers? Rethinking AI Disclosures and Transparency in News",
-      "url": "https://arxiv.org/abs/2606.11116",
-      "summary": "arXiv:2606.11116v1 Announce Type: new Abstract: As newsrooms integrate generative AI, journalists face a disclosure challenge: how to communicate AI involvement in ways that maintain reader trust. Current practice offers two approaches: brief one-line labels or detailed disclosures specifying human oversight, editorial accountability, and error reporting mechanisms. Neither achieves journalists' goal of building trust through transparency. An existing controlled experiment with 34 news readers show that detailed disclosures trigger a \\textit{transparency dilemma}, reducing trust rather than in",
+      "title": "The Human Vulnerabilities & Exploits (HVE) Framework",
+      "url": "https://arxiv.org/abs/2606.10083",
+      "summary": "arXiv:2606.10083v1 Announce Type: cross Abstract: The cybersecurity community has invested over two decades in building standardized frameworks, the Common Vulnerabilities and Exposures (CVE) system, the Common Vulnerability Scoring System (CVSS), and the Common Weakness Enumeration (CWE) to identify, classify, and remediate threats to digital infrastructure. However, an emerging body of research reveals that a vast majority of successful cyberattacks exploit not software flaws, but human behavioral and psychological vulnerabilities. Social engineering, fraud, and scam attacks, which manipulat",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Full Disclosure, Less Trust? How the Level of Detail about AI Use in News Writing Affects Readers' Trust",
-      "url": "https://arxiv.org/abs/2601.09620",
-      "summary": "arXiv:2601.09620v1 Announce Type: cross Abstract: As artificial intelligence (AI) is increasingly integrated into news production, calls for transparency about the use of AI have gained considerable traction. Recent studies suggest that AI disclosures can lead to a ``transparency dilemma'', where disclosure reduces readers' trust. However, little is known about how the \\textit{level of detail} in AI disclosures influences trust and contributes to this dilemma within the news context. In this 3$\\times$2$\\times$2 mixed factorial study with 40 participants, we investigate how three levels of AI d",
+      "title": "Pareto-Guided Teacher Alignment for Fair Personalized Text Generation",
+      "url": "https://arxiv.org/abs/2606.10126",
+      "summary": "arXiv:2606.10126v1 Announce Type: cross Abstract: Personalized persuasive text generation can improve relevance and engagement, but demographic conditioning may also introduce unequal framing across groups. We study fairness mitigation in personalized generation as a constrained multi-objective alignment problem: reduce demographic disparities while preserving personalization fidelity. We propose a Pareto-guided teacher alignment framework that combines revision-based candidate generation, pair-aware feasibility gating, Pareto-style candidate selection, and optional preference optimization thr",
       "published": "2026-06-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
