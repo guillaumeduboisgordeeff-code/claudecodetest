@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-11",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "From Consumption to Reflection: Designing Human-AI Relations for Stable Reasoning",
+      "url": "https://arxiv.org/abs/2606.11195",
+      "summary": "arXiv:2606.11195v1 Announce Type: new Abstract: Large language models (LLMs) have transformed how humans access information, but not how we reason with it. Their fluency accelerates consumption while bypassing the slow, reflective processes that underpin sound judgment. This paper introduces Relational Reflective Intelligence (RRI), an inference-time governance layer that operationalizes reflection through auditable reasoning loops. RRI operates not inside the model but around it, providing a practical structure for stable, auditable reasoning between humans and LLMs. The core premise is that ",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Awareness to Action: Understanding and Overcoming the Research-Practice Gap in Algorithmic Fairness for Public Health",
+      "url": "https://arxiv.org/abs/2606.11214",
+      "summary": "arXiv:2606.11214v1 Announce Type: new Abstract: Algorithmic fairness is essential for responsible ML-driven public health research, yet its practical implementation remains limited. To investigate this awareness-action gap, we conducted a sequential mixed-methods study comprising expert interviews, an online survey, and systematic mapping. The expert interviews informed the design of the survey, which in turn revealed fragmented definitions of fairness, limited training and guidance, reliance on external sources, and rare use of formal assessment, mitigation, or monitoring. These findings were",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Environmental Cost of LLMs in AIED: Reporting and Practices",
+      "url": "https://arxiv.org/abs/2606.11215",
+      "summary": "arXiv:2606.11215v1 Announce Type: new Abstract: Large Language Model (LLM) usage in recent years has become increasingly widespread in the Artificial Intelligence in Education (AIED) community. While LLMs offer unique avenues for learners and educators, using LLMs comes with computational and environmental costs. These costs are mostly hidden due to a lack of standardised procedures to measure and report these impacts. To address this gap, we first conducted a literature review of all papers published as part of the AIED 2025 conference proceedings, determining if and how computational or envi",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Great Disappearance Acts Generative Search and Shadow Banning",
+      "url": "https://arxiv.org/abs/2606.11216",
+      "summary": "arXiv:2606.11216v1 Announce Type: new Abstract: The internet, once celebrated as a decentralized public sphere, is increasingly undermined by practices such as generative search and shadow banning, which divert traffic and suppress visibility. Generative search, powered by Retrieval Augmented Generation RAG, synthesizes content into direct answers, bypassing websites and depriving them of traffic and revenue. This threatens the sustainability of independent content creators, small enterprises, and the open web ecosystem. Shadow banning, a practice that intentionally reduces the visibility of s",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Preregistration for Experiments with AI Agents",
+      "url": "https://arxiv.org/abs/2606.11217",
+      "summary": "arXiv:2606.11217v1 Announce Type: new Abstract: The proliferation of large language models (LLMs) and autonomous AI agents has given rise to a rapidly growing methodological paradigm: \"in silico\" behavioral experiments. Originally conceived as a way to use AI agents as proxies for human participants in studies of cognition, decision-making, and social dynamics, this approach has taken on new significance -- as AI agents increasingly negotiate, transact, and make consequential decisions on behalf of people and organizations, understanding their behavior has become a research priority in its own",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "An Ethical eValuation Agent (EeVA): Results of a Proof-of-Concept Test on a Prototype Agentic-like Workflow to Assist Ethical Deliberations",
+      "url": "https://arxiv.org/abs/2606.11218",
+      "summary": "arXiv:2606.11218v1 Announce Type: new Abstract: Ethical deliberation is often misunderstood as a search for single right or wrong answers, creating difficulties for non-ethically trained personnel who must address ethically laden challenges. We developed EeVA, an agentic-like LLM-based workflow designed to support comparative ethical reflection rather than deliver definitive ethical answers. EeVA was programmed in n8n using three interconnected workflows: starter, worker, and emitter. It evaluated uploaded use cases against 10 ethical frameworks through evaluator and synthesis prompts. Proof-o",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Investigating Gender Bias in Touch Biometrics",
+      "url": "https://arxiv.org/abs/2606.11457",
+      "summary": "arXiv:2606.11457v1 Announce Type: new Abstract: Behavioral biometrics offer a promising approach for continuous authentication, but their fairness across demographic groups remains largely unexplored. This paper investigates gender bias in swipe-based authentication using the BBMAS (117 users) and ANTAL (71 users) datasets and evaluates XGBoost and DenseNet classifiers through False Acceptance Rate (FAR) and False Rejection Rate (FRR). XGBoost achieved authentication accuracies of 92% and 94% on the BBMAS and ANTAL datasets, respectively, while statistical tests (Kolmogorov-Smirnov, Mann-Whitn",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Researchers Must Help Lead Arms Control to Mitigate Military AI Risks",
+      "url": "https://arxiv.org/abs/2606.11533",
+      "summary": "arXiv:2606.11533v1 Announce Type: new Abstract: The advancement of AI capabilities compels researchers and the public to be more aware of its potential worldwide impact. A pressing near-term concern is the regulation of military AI applications. Armament manufacturers and defense contractors are increasingly investing in AI capabilities and forging partnerships with AI companies, creating a burgeoning coalition that demands military leaders, arms control diplomacy experts, and AI researchers collaborate to ensure a safer future. While AI researchers often focus on the long-term implications of",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Are LLMs Bad at Moral Reasoning?",
+      "url": "https://arxiv.org/abs/2606.11635",
+      "summary": "arXiv:2606.11635v1 Announce Type: new Abstract: For highly capable AI systems to operate safely in dynamic, open-ended environments, they must be able to identify, understand, and respond to moral reasons for action, and constrain their behaviour accordingly. A growing body of research aims to evaluate this capacity -- moral competence -- in today's most capable AI systems, recently reaching broadly pessimistic conclusions. One of the most ambitious such papers collects gold-standard human-authored rubrics for evaluating moral reasoning in 1,000 cases, and benchmarks frontier AI models against",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Evaluation of Alternative-Based Information Systems for Deliberative Polling using an Agentic Simulator",
+      "url": "https://arxiv.org/abs/2606.11692",
+      "summary": "arXiv:2606.11692v1 Announce Type: new Abstract: Deliberative polling promises to improve collective decision-making by exposing shareholders to a broad range of arguments before they vote. Yet ensuring that every voter encounters a representative sample of the reason space, the coverage problem, remains an open challenge, particularly at scale and in adversarial or strategically motivated electorates. This paper introduces a way of evaluating solutions using the LLM-based Agentic Bipolar Argumentation Simulator, grounded in a framework which formalises a poll as a six-tuple of endorsing and op",
+      "published": "2026-06-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
