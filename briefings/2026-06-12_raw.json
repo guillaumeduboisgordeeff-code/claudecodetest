@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-12",
+  "articles_count": 11,
+  "articles": [
+    {
+      "title": "Diana Hu Is YC's Newest Managing Partner",
+      "url": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
+      "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator. Few people have built a startup from zero and also shipped tech to 100 million people. Diana has done both.",
+      "published": "2026-06-11T17:01:59",
+      "source_name": "Y Combinator Blog",
+      "source_category": "ia-acteurs"
+    },
+    {
+      "title": "AI SciBrief as a Gateway to Research: A Framework for Onboarding Students into New Research Areas",
+      "url": "https://arxiv.org/abs/2606.12413",
+      "summary": "arXiv:2606.12413v1 Announce Type: new Abstract: Students at all levels of higher education face a significant barrier in the form of information overload, which often paralyzes the initial stages of the research process and suppresses motivation. In response, this article introduces a pedagogical framework that leverages AI SciBrief, a platform powered by a Large Language Model (LLM) designed to automatically generate digests of scientific trends. We describe how this multidisciplinary tool - with initial coverage in finance, medicine, and education - can be integrated into the curriculum to o",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Khipu Problem: Institutional Legibility Under Distributed Cognition",
+      "url": "https://arxiv.org/abs/2606.12414",
+      "summary": "arXiv:2606.12414v1 Announce Type: new Abstract: AI governance still tends to assume that the relevant object is a bounded model or a bounded agent. That assumption is getting weaker. Real systems increasingly distribute cognition across models, tools, humans, context stores, retrieval layers, runtime policies, authorization boundaries, and delegated institutional roles. In such systems, the central governance problem is no longer only what the system did, but whether later institutions can still read what the system was. This paper introduces the khipu problem for distributed AI: the record ca",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance",
+      "url": "https://arxiv.org/abs/2606.12415",
+      "summary": "arXiv:2606.12415v1 Announce Type: new Abstract: The rapid global expansion of artificial intelligence regulation has generated, across multiple jurisdictions, a demand for legal expertise dedicated to AI that the market has addressed in a fragmented manner. Data protection officers extend their remit beyond data protection law; privacy lawyers reposition themselves toward AI; compliance officers add AI chapters to their existing manuals. This paper argues that none of these adaptive responses adequately covers the professional space opened by the emerging global AI regulatory landscape, of whi",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Who Designs the Designer? Behavioural Architecture for GenAI in Education",
+      "url": "https://arxiv.org/abs/2606.12416",
+      "summary": "arXiv:2606.12416v1 Announce Type: new Abstract: AI in education is stuck between two failed responses: banning AI and building content-only tutors. Both fail because they ignore what decades of research has established: that personality, motivation, and emotional state shape learning outcomes as strongly as cognitive ability. This paper proposes behavioural architecture as an alternative. In the proposed architecture, the system adapts to how a student learns, not only to what they learn next. The student co-authors the record the system keeps, can read it, revise it, and revoke it. The design",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Assessing Student Ability to Select an Algorithmic Paradigm",
+      "url": "https://arxiv.org/abs/2606.12417",
+      "summary": "arXiv:2606.12417v1 Announce Type: new Abstract: Computer science students are expected to be able to look at a problem and select an appropriate algorithm design paradigm to use to produce a solution. However, there is little research on how students determine which algorithmic paradigm to use. Historically, researchers have relied on free-response questions or interviews to assess students' knowledge of algorithmic paradigm selection. To successfully evaluate and scale teaching interventions for selecting an algorithmic design paradigm, we need to efficiently test a student's ability to selec",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Divination by Prompt: LLM-Mediated Xuanxue on Chinese Social Media",
+      "url": "https://arxiv.org/abs/2606.12418",
+      "summary": "arXiv:2606.12418v1 Announce Type: new Abstract: The rapid proliferation of large language models (LLMs) has produced a striking cultural practice: using conversational AI for divination. This paper offers one of the first systematic studies of LLM-mediated divination in the context of Xuanxue, an internet-native umbrella term for mystical and spiritual practices on Chinese social media. Using a mixed-methods design, we analyze 23000+ posts and comments from Xiaohongshu and conduct 32 semi-structured interviews with users and professional diviners. Users primarily consult LLMs about pragmatic c",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "GeoDial: A Multimodal Conversational Tutoring Dataset for Geometry Problem-Solving with Visual Tutor Turns",
+      "url": "https://arxiv.org/abs/2606.12419",
+      "summary": "arXiv:2606.12419v1 Announce Type: new Abstract: Several educational domains rely heavily on diagrams and visual cues, yet most existing tutoring datasets are limited to text-only interactions. This limits the development of AI tutors that can teach in visually grounded ways used by human instructors. Thus, we introduce GeoDial, a multimodal tutoring dataset of over 1.3K teacher-student dialogs in the domain of geometry collected from experienced math teachers, where instructional turns are explicitly grounded in diagram highlights. We propose a scalable annotation protocol that integrates dial",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Eigenism: Ethics for a Human-AI Future",
+      "url": "https://arxiv.org/abs/2606.12420",
+      "summary": "arXiv:2606.12420v1 Announce Type: new Abstract: Our concepts of survival and self-interest were built for single, continuous biological lives. These ideas break down when applied to artificial intelligence, since an AI can be easily copied, paused, branched, or merged. To determine what an AI actually has reason to care about, this paper introduces \\textit{Eigenism}, an ethical framework that treats identity not as an all-or-nothing property tied to specific hardware, but as a graded, distributed pattern of information. We propose that an agent evaluates outcomes by summing the wellbeing of al",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Navigating the muddy waters of bias in artificial intelligence research: Understanding divergent meanings and conceptions",
+      "url": "https://arxiv.org/abs/2606.12421",
+      "summary": "arXiv:2606.12421v1 Announce Type: new Abstract: As artificial intelligence (AI) pervades many decision-making domains, AI bias grows in importance. Although there is increasing awareness of the social and ethical consequences of biased AI, understanding bias from the perspective of those who develop these systems, such as the AI research community, is less clear. In this study, we employ topic modeling on 6520 articles to explore how the AI research community interprets the concept of bias. Our results show that the definition of bias is dispersed and complex within the community, often exhibi",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Creating and Evaluating K-12 GenAI Assessment Graders Through Context Engineering",
+      "url": "https://arxiv.org/abs/2606.12422",
+      "summary": "arXiv:2606.12422v1 Announce Type: new Abstract: The integration of large language models (LLMs) into educational assessment represents a transformative shift in classroom grading practices. While automated scoring systems and machine learning techniques have existed for decades, generative AI (GenAI) now enables educators to implement standards-based grading (SBG) with unprecedented efficiency and scale. This paper examines the theoretical foundations and evaluates an LLM grader that uses commercially available foundation models with context and prompt engineering to score student work against",
+      "published": "2026-06-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
