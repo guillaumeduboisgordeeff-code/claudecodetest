@@ -1,91 +1,83 @@
 {
   "date": "2026-06-12",
-  "articles_count": 11,
+  "articles_count": 10,
   "articles": [
     {
-      "title": "Diana Hu Is YC's Newest Managing Partner",
-      "url": "https://www.ycombinator.com/blog/diana-hu-managing-partner/",
-      "summary": "We're thrilled to announce that Diana Hu has been promoted to Managing Partner at Y Combinator. Few people have built a startup from zero and also shipped tech to 100 million people. Diana has done both.",
-      "published": "2026-06-11T17:01:59",
-      "source_name": "Y Combinator Blog",
-      "source_category": "ia-acteurs"
-    },
-    {
-      "title": "AI SciBrief as a Gateway to Research: A Framework for Onboarding Students into New Research Areas",
-      "url": "https://arxiv.org/abs/2606.12413",
-      "summary": "arXiv:2606.12413v1 Announce Type: new Abstract: Students at all levels of higher education face a significant barrier in the form of information overload, which often paralyzes the initial stages of the research process and suppresses motivation. In response, this article introduces a pedagogical framework that leverages AI SciBrief, a platform powered by a Large Language Model (LLM) designed to automatically generate digests of scientific trends. We describe how this multidisciplinary tool - with initial coverage in finance, medicine, and education - can be integrated into the curriculum to o",
+      "title": "The Challenges of Balancing AI Compliance and Technological Innovations in Critical Sectors: A Systematic Literature Review",
+      "url": "https://arxiv.org/abs/2606.12423",
+      "summary": "arXiv:2606.12423v1 Announce Type: new Abstract: The rapid integration of artificial intelligence (AI) into critical infrastructure including healthcare, finance, energy, and defense, offers transformative benefits but also conflicts with evolving regulatory and governance frameworks. This paper presents a systematic literature review (SLR) to examine the challenges of balancing AI compliance and technological innovation across critical infrastructure sectors. The review follows established SLR guidelines to extract and synthesize insights from peer-reviewed articles, report, and institutional ",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Khipu Problem: Institutional Legibility Under Distributed Cognition",
-      "url": "https://arxiv.org/abs/2606.12414",
-      "summary": "arXiv:2606.12414v1 Announce Type: new Abstract: AI governance still tends to assume that the relevant object is a bounded model or a bounded agent. That assumption is getting weaker. Real systems increasingly distribute cognition across models, tools, humans, context stores, retrieval layers, runtime policies, authorization boundaries, and delegated institutional roles. In such systems, the central governance problem is no longer only what the system did, but whether later institutions can still read what the system was. This paper introduces the khipu problem for distributed AI: the record ca",
+      "title": "AI-Automation Tooling in Computer Engineering Education: Mixed-Methods TAM/UTAUT Evidence for a General Acceptance Attitude",
+      "url": "https://arxiv.org/abs/2606.12424",
+      "summary": "arXiv:2606.12424v1 Announce Type: new Abstract: As generative AI and low-code workflow platforms become routine in software practice, a key educational question is whether the next generation of computer engineers will accept these tools as useful, usable, and worthy of sustained engagement. This paper reports a mixed-methods, cross-sectional study of undergraduate computer engineering students' acceptance of AI automation tooling, instantiated through the open-source platform n8n across three identically scripted workshops in Thailand (n = 103). A 12-item, five-point Likert instrument mapped ",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The AI Legal Specialist: A Juridically Autonomous Professional Profile for AI Governance",
-      "url": "https://arxiv.org/abs/2606.12415",
-      "summary": "arXiv:2606.12415v1 Announce Type: new Abstract: The rapid global expansion of artificial intelligence regulation has generated, across multiple jurisdictions, a demand for legal expertise dedicated to AI that the market has addressed in a fragmented manner. Data protection officers extend their remit beyond data protection law; privacy lawyers reposition themselves toward AI; compliance officers add AI chapters to their existing manuals. This paper argues that none of these adaptive responses adequately covers the professional space opened by the emerging global AI regulatory landscape, of whi",
+      "title": "An Explainable AI Assistant for Introductory Programming Education: Improving Feedback Reliability with Instructor-AI Collaboration",
+      "url": "https://arxiv.org/abs/2606.12425",
+      "summary": "arXiv:2606.12425v1 Announce Type: new Abstract: Active learning is widely recognized as an effective approach for improving learning outcomes in introductory programming courses. However, insufficient instructional support often limits students' access to timely, personalized feedback, which is crucial for mastering foundational programming concepts. Although recent advances in AI, particularly large language models, offer scalable opportunities for feedback, concerns about explainability and reliability remain. In this paper, we present an AI-driven classroom assistant that leverages an expla",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Who Designs the Designer? Behavioural Architecture for GenAI in Education",
-      "url": "https://arxiv.org/abs/2606.12416",
-      "summary": "arXiv:2606.12416v1 Announce Type: new Abstract: AI in education is stuck between two failed responses: banning AI and building content-only tutors. Both fail because they ignore what decades of research has established: that personality, motivation, and emotional state shape learning outcomes as strongly as cognitive ability. This paper proposes behavioural architecture as an alternative. In the proposed architecture, the system adapts to how a student learns, not only to what they learn next. The student co-authors the record the system keeps, can read it, revise it, and revoke it. The design",
+      "title": "Two Wrongs, No Right: Auditing Social-Desirability Bias in LLM Annotators for Computational Social Science",
+      "url": "https://arxiv.org/abs/2606.12426",
+      "summary": "arXiv:2606.12426v1 Announce Type: new Abstract: LLM annotators are increasingly used in computational social science (CSS), but it is unclear whether their alignment-shaped errors preserve the empirical conclusions a researcher would report. We audit three open-source 7B instruction-tuned models (Zephyr, Mistral-Instruct, Qwen2.5-Instruct) across six TweetEval tasks under four prompt conditions (72 cells) and find that social-desirability failures do not run in a single direction. Zephyr exhibits leniency bias, systematically under-applying harmful labels (offensive language: false benign rate",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Assessing Student Ability to Select an Algorithmic Paradigm",
-      "url": "https://arxiv.org/abs/2606.12417",
-      "summary": "arXiv:2606.12417v1 Announce Type: new Abstract: Computer science students are expected to be able to look at a problem and select an appropriate algorithm design paradigm to use to produce a solution. However, there is little research on how students determine which algorithmic paradigm to use. Historically, researchers have relied on free-response questions or interviews to assess students' knowledge of algorithmic paradigm selection. To successfully evaluate and scale teaching interventions for selecting an algorithmic design paradigm, we need to efficiently test a student's ability to selec",
+      "title": "Planning on Paper: Problem Decomposition with Diagrams in Introductory Computing",
+      "url": "https://arxiv.org/abs/2606.12427",
+      "summary": "arXiv:2606.12427v1 Announce Type: new Abstract: Background and Context. Problem decomposition is a core concern of computing education. It has also become increasingly relevant: in response to GenAI, many CS1 educators are advocating for shifting instructional emphasis away from code writing and towards decomposition and higher-level planning. Currently, there is a lack of knowledge in how novices do decomposition in large, multifunction tasks. Objectives. In this study, we describe how students represent solutions to a decomposition task, and characterize common issues that arise in those rep",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Divination by Prompt: LLM-Mediated Xuanxue on Chinese Social Media",
-      "url": "https://arxiv.org/abs/2606.12418",
-      "summary": "arXiv:2606.12418v1 Announce Type: new Abstract: The rapid proliferation of large language models (LLMs) has produced a striking cultural practice: using conversational AI for divination. This paper offers one of the first systematic studies of LLM-mediated divination in the context of Xuanxue, an internet-native umbrella term for mystical and spiritual practices on Chinese social media. Using a mixed-methods design, we analyze 23000+ posts and comments from Xiaohongshu and conduct 32 semi-structured interviews with users and professional diviners. Users primarily consult LLMs about pragmatic c",
+      "title": "Mapping AI Programs in the U.S: A Status Report from Early 2026 and an Analysis of AI Majors and Minors",
+      "url": "https://arxiv.org/abs/2606.12428",
+      "summary": "arXiv:2606.12428v1 Announce Type: new Abstract: We present a report on the status of undergraduate Artificial Intelligence (AI) programs in the United States in Spring 2026. In so doing, we 1) describe our scraping and mapping tools, which dynamically update to track the state of AI education in the U.S., and 2) create a historic record at a time of great upheaval. The tool we developed, available at https://cicmap.ai, detects, scrapes, and displays data from more than 350 undergraduate AI programs--majors, minors, concentrations, and certificates--at 4-year universities. Our tool searched ove",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "GeoDial: A Multimodal Conversational Tutoring Dataset for Geometry Problem-Solving with Visual Tutor Turns",
-      "url": "https://arxiv.org/abs/2606.12419",
-      "summary": "arXiv:2606.12419v1 Announce Type: new Abstract: Several educational domains rely heavily on diagrams and visual cues, yet most existing tutoring datasets are limited to text-only interactions. This limits the development of AI tutors that can teach in visually grounded ways used by human instructors. Thus, we introduce GeoDial, a multimodal tutoring dataset of over 1.3K teacher-student dialogs in the domain of geometry collected from experienced math teachers, where instructional turns are explicitly grounded in diagram highlights. We propose a scalable annotation protocol that integrates dial",
+      "title": "Muse Spark Safety & Preparedness Report",
+      "url": "https://arxiv.org/abs/2606.12429",
+      "summary": "arXiv:2606.12429v1 Announce Type: new Abstract: Muse Spark is the latest large language model developed by Meta. In this report, we first present evaluations for catastrophic risk domains under Meta's Advanced AI Scaling Framework, along with the evidence that informed our launch decision. We then discuss additional considerations, such as Muse Spark's broader content safety and behavioral profile, that are relevant to overall safety but fall outside the catastrophic risk domains governed by the Framework. Our preparedness results covering Chemical and Biological, Cybersecurity, and Loss of Co",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Eigenism: Ethics for a Human-AI Future",
-      "url": "https://arxiv.org/abs/2606.12420",
-      "summary": "arXiv:2606.12420v1 Announce Type: new Abstract: Our concepts of survival and self-interest were built for single, continuous biological lives. These ideas break down when applied to artificial intelligence, since an AI can be easily copied, paused, branched, or merged. To determine what an AI actually has reason to care about, this paper introduces \\textit{Eigenism}, an ethical framework that treats identity not as an all-or-nothing property tied to specific hardware, but as a graded, distributed pattern of information. We propose that an agent evaluates outcomes by summing the wellbeing of al",
+      "title": "Will AI Agents Free Us From Meaningless Work? A Human-Centered Analysis",
+      "url": "https://arxiv.org/abs/2606.12430",
+      "summary": "arXiv:2606.12430v1 Announce Type: new Abstract: Some claim that AI agents will free workers from the boring parts of their jobs, yet little is known about how workers themselves identify which tasks should be automated. Prior research focuses on occupations, overlooking that workers experience varying levels of meaning across tasks within the same role. We address this gap with a task-level analysis grounded in Graeber's theory of bullshit jobs. Using ratings from 202 workers on 171 workplace tasks, we (1) validate a five-item scale of perceived bullshitness, (2) show that perceived bullshitne",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Navigating the muddy waters of bias in artificial intelligence research: Understanding divergent meanings and conceptions",
-      "url": "https://arxiv.org/abs/2606.12421",
-      "summary": "arXiv:2606.12421v1 Announce Type: new Abstract: As artificial intelligence (AI) pervades many decision-making domains, AI bias grows in importance. Although there is increasing awareness of the social and ethical consequences of biased AI, understanding bias from the perspective of those who develop these systems, such as the AI research community, is less clear. In this study, we employ topic modeling on 6520 articles to explore how the AI research community interprets the concept of bias. Our results show that the definition of bias is dispersed and complex within the community, often exhibi",
+      "title": "AI Debris: Residual Risk and the Afterlife of Failed AI Systems",
+      "url": "https://arxiv.org/abs/2606.12432",
+      "summary": "arXiv:2606.12432v1 Announce Type: new Abstract: AI governance frameworks primarily focus on risks during the development and deployment phases, implicitly treating system withdrawal as a technical shutdown. This paper argues that decommissioned AI systems generate residual risk, termed AI debris, that persists after model removal and continues to shape institutional behaviour, accountability, and trust. AI debris is defined as the post-withdrawal socio-technical residue of AI systems, including workflow dependency, data contamination, capability displacement (deskilling), legitimacy erosion, a",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Creating and Evaluating K-12 GenAI Assessment Graders Through Context Engineering",
-      "url": "https://arxiv.org/abs/2606.12422",
-      "summary": "arXiv:2606.12422v1 Announce Type: new Abstract: The integration of large language models (LLMs) into educational assessment represents a transformative shift in classroom grading practices. While automated scoring systems and machine learning techniques have existed for decades, generative AI (GenAI) now enables educators to implement standards-based grading (SBG) with unprecedented efficiency and scale. This paper examines the theoretical foundations and evaluates an LLM grader that uses commercially available foundation models with context and prompt engineering to score student work against",
+      "title": "Marginal Alignment Does Not Guarantee Joint-Distribution Fidelity: An Official-Reference Audit of Nemotron-Personas-Korea with Cross-Locale Replication",
+      "url": "https://arxiv.org/abs/2606.12433",
+      "summary": "arXiv:2606.12433v1 Announce Type: new Abstract: Synthetic persona datasets cite alignment with official demographics as a basis for trust, yet downstream users consume them as joint structures across age, sex, region, occupation, education, name, and institutional status. Marginal alignment does not imply that these joints are preserved. We propose the Independence-Assumption Footprint (IAF), an audit primitive that operates on the attribute combinations a dataset card itself documents as treated independently. For each such combination, IAF compares the synthetic joint against an external off",
       "published": "2026-06-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
