@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-15",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs",
+      "url": "https://arxiv.org/abs/2606.13684",
+      "summary": "arXiv:2606.13684v1 Announce Type: new Abstract: Automatic Bloom's taxonomy classification of assessment questions can substantially reduce instructor workload, but labeling is subjective and teacher-dependent. Prior machine learning (ML) and deep learning (DL) approaches reported strong within-dataset results, yet were rarely evaluated in cross-dataset settings, leaving real-world generalizability unclear; meanwhile, LLM effectiveness for Bloom question classification has not been systematically studied. We evaluated the cross-dataset generalization of existing ML/DL methods and assessed LLMs ",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Picturing Perceptions: An Open-Source Toolkit to Uncover Bias in Humans and Machines",
+      "url": "https://arxiv.org/abs/2606.13688",
+      "summary": "arXiv:2606.13688v1 Announce Type: new Abstract: Bias in human judgment and artificial intelligence systems poses critical challenges across consequential domains like hiring, loans, and criminal justice. However, traditional bias measurement tools face fundamental limitations: they struggle to capture intersectional identities, cannot evaluate AI systems, lack grounding in demographic reality, and remain vulnerable to social desirability effects. We introduce PictoPercept, an open-source toolkit that measures bias through visual forced-choice comparisons grounded in population level benchmarks",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Empirical Evidence on Genre-Time Correlation in Box-Office Success Using Exploratory Data Analysis and Machine Learning",
+      "url": "https://arxiv.org/abs/2606.13689",
+      "summary": "arXiv:2606.13689v1 Announce Type: new Abstract: The movie industry is one of the fastest-growing global sectors, characterized by high production costs and significant financial risk. Given the capital-intensive nature of filmmaking, accurately predicting box office success is of critical importance for stakeholders ranging from producers to investors. This study investigates the correlation between movie genre and release timing as predictive factors for commercial success. A combined approach involving EDA and supervised machine learning techniques is proposed to assess this relationship. Th",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Indirect Computing Model with Indirect Formal Method",
+      "url": "https://arxiv.org/abs/2606.13690",
+      "summary": "arXiv:2606.13690v1 Announce Type: new Abstract: This paper,from the perspective of a collaborative intelligent computing system formed by combining human-computer interface and collaborative computing programs, discusses the principles of optimized cloud computing technology supported by the combination of an indirect computing model and an indirect formal method. On the basis of systematically reviewing the influence of previous theoretical achievements Turing's computability theory,Kleene's formal theory of small strings,von Neumann's digital computer architecture and Turing's hypothesis on ",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Incentives Of EdTech: A Systematic Review Of EduNLP Research",
+      "url": "https://arxiv.org/abs/2606.13691",
+      "summary": "arXiv:2606.13691v1 Announce Type: new Abstract: While the Natural Language Processing community has dedicated significant resources in developing educational technologies (EdTech) that support this shift, it remains unclear whose interests are being best served among the stakeholders of education. In this paper, we present a systematic literature review of 204 papers published in venues of the Association for Computational Linguistics' Special Interest Group on Building Educational Applications in 2024 and 2025, and validate these against EdTech papers from the wider ACL Anthology. By examinin",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Limited Marginal Benefit of Reasoning-Heavy LLM Deployment in ESG Narrative Scoring: A 4-Model Consensus Study on Japanese Listed Firms",
+      "url": "https://arxiv.org/abs/2606.13693",
+      "summary": "arXiv:2606.13693v1 Announce Type: new Abstract: Automated scoring of ESG narrative disclosures with large language models (LLMs) is gaining traction, yet whether reasoning-heavy frontier models add value commensurate with their cost remains empirically unsettled. We evaluate this question on a corpus of ten Japanese listed firms across three rubric axes -- quantitative targets, progress-tracking infrastructure, and external-standard alignment -- using a four-model consensus design that combines a reasoning-on frontier model with three reasoning-off contemporaries. Across 120 firm x axis x mode",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AGORA: Can Deliberation and Governance Gates Absorb Participation Bias in Transit Planning?",
+      "url": "https://arxiv.org/abs/2606.13696",
+      "summary": "arXiv:2606.13696v1 Announce Type: new Abstract: Transit network design depends not only on the optimization algorithm but also on who shows up to the public hearing. Current practice often collects one-directional comments from self-selected attendees, leaving participant mix as an uncontrolled source of outcome variation. We present AGORA, a framework that holds the network, demand, and solver fixed while systematically varying meeting composition through stakeholder agents, structured deliberation, and governance gates. Across two standard benchmark networks at different scales, we find that",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Position: AI Must Become Planet-Centered, Not Just Human-Centered",
+      "url": "https://arxiv.org/abs/2606.13704",
+      "summary": "arXiv:2606.13704v1 Announce Type: new Abstract: This position paper argues that contemporary AI paradigms are insufficient for supporting complex global goals and introduces Planet-Centered AI (PCAI) as a design philosophy and research agenda that reorients AI toward planetary-scale socio-ecological systems and their long-term trajectories. A planet-centered approach is grounded in systems thinking, treating Earth as an interconnected whole of which humans are part. We diagnose recurring limitations across AI frameworks, many of which remain human-centered, and show why these become especially",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Virtuous AI is an Existential Risk",
+      "url": "https://arxiv.org/abs/2606.13739",
+      "summary": "arXiv:2606.13739v1 Announce Type: new Abstract: This paper examines trade-offs between AI safety and well-being relative to (i) one of the most promising methods for finetuning super-capable AIs, 'Constitutional AI', and (ii) one of the most influential approaches to understanding complex ethical decision making and the conditions for the well-being of rational agents, 'Virtue Ethics'. We finetune various models using a 'Virtuous agent' constitution, a 'Subordinate agent' constitution, and a 'Generic agent' constitution, and evaluate them on 'general safety' (toxic behaviors, misinformation, e",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Position: Align AI to Our Aspirations, Not Our Flaws",
+      "url": "https://arxiv.org/abs/2606.13755",
+      "summary": "arXiv:2606.13755v1 Announce Type: new Abstract: We argue that aligning AI to aggregated human preferences is the wrong target. With current technology, one can train AIs to share the values of a Silicon Valley techno-optimist, a degrowth environmentalist, a national-conservative culture warrior, a single-party state cadre, or a devout religious traditionalist. We should not. Human values produce societies that thrive or fail on the merits of those values - from failed states and extreme inequality to declining happiness, political polarization, and government dysfunction in the world's wealthi",
+      "published": "2026-06-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
