@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Cross-Dataset Bloom Question Classification: Supervised Models and Prompted LLMs",
-      "url": "https://arxiv.org/abs/2606.13684",
-      "summary": "arXiv:2606.13684v1 Announce Type: new Abstract: Automatic Bloom's taxonomy classification of assessment questions can substantially reduce instructor workload, but labeling is subjective and teacher-dependent. Prior machine learning (ML) and deep learning (DL) approaches reported strong within-dataset results, yet were rarely evaluated in cross-dataset settings, leaving real-world generalizability unclear; meanwhile, LLM effectiveness for Bloom question classification has not been systematically studied. We evaluated the cross-dataset generalization of existing ML/DL methods and assessed LLMs ",
+      "title": "Stability and Political Orientation of International LLMs: An Exploratory Multi-Run Study Conducted in French",
+      "url": "https://arxiv.org/abs/2606.13760",
+      "summary": "arXiv:2606.13760v1 Announce Type: new Abstract: This study explores the stability and ideological orientation of political responses produced by various large language models (LLMs) in French. We designed a standardised experimental protocol based on a questionnaire inspired by the Political Compass, aimed at measuring the economic and socio-cultural positions of each model across 62 political statements. Eleven models from various organisations and countries were tested, each subjected to twenty independent runs to assess intra-model variability. The analysis focuses on response consistency, ",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Picturing Perceptions: An Open-Source Toolkit to Uncover Bias in Humans and Machines",
-      "url": "https://arxiv.org/abs/2606.13688",
-      "summary": "arXiv:2606.13688v1 Announce Type: new Abstract: Bias in human judgment and artificial intelligence systems poses critical challenges across consequential domains like hiring, loans, and criminal justice. However, traditional bias measurement tools face fundamental limitations: they struggle to capture intersectional identities, cannot evaluate AI systems, lack grounding in demographic reality, and remain vulnerable to social desirability effects. We introduce PictoPercept, an open-source toolkit that measures bias through visual forced-choice comparisons grounded in population level benchmarks",
+      "title": "Time Without Death: Finitude, Social Order, and What Machines Lack",
+      "url": "https://arxiv.org/abs/2606.13988",
+      "summary": "arXiv:2606.13988v1 Announce Type: new Abstract: Machine collectives increasingly coordinate, reciprocate, and form shared conventions on their own, tempting us to call them societies like ours. We argue that this conflates two registers of social order and misses what the human one is for. Human sociality is the way a finite, natal, generational form of life organises its own finitude: members die with their tacit knowledge, newcomers start ignorant, and cohorts must hand on what they cannot keep. Kinship, inheritance, teaching, and much of obligation and trust are the forms this takes, and ma",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Empirical Evidence on Genre-Time Correlation in Box-Office Success Using Exploratory Data Analysis and Machine Learning",
-      "url": "https://arxiv.org/abs/2606.13689",
-      "summary": "arXiv:2606.13689v1 Announce Type: new Abstract: The movie industry is one of the fastest-growing global sectors, characterized by high production costs and significant financial risk. Given the capital-intensive nature of filmmaking, accurately predicting box office success is of critical importance for stakeholders ranging from producers to investors. This study investigates the correlation between movie genre and release timing as predictive factors for commercial success. A combined approach involving EDA and supervised machine learning techniques is proposed to assess this relationship. Th",
+      "title": "Minimal Effort to Consensus (MEC) polarization measure",
+      "url": "https://arxiv.org/abs/2606.13997",
+      "summary": "arXiv:2606.13997v1 Announce Type: new Abstract: We introduce the Minimum Effort to Consensus (MEC), a measure that quantifies polarization as resistance to consensus: a population is highly polarized when much effort is needed to bring its members to a common position, and weakly polarized when little is needed. Given an opinion distribution, MEC is the minimum effort required to turn it into a consensus distribution, taken over all consensus points, and it returns both a scalar value and an endogenous optimal consensus point. In the basic case MEC equals the 1-Wasserstein distance (Earth Move",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Indirect Computing Model with Indirect Formal Method",
-      "url": "https://arxiv.org/abs/2606.13690",
-      "summary": "arXiv:2606.13690v1 Announce Type: new Abstract: This paper,from the perspective of a collaborative intelligent computing system formed by combining human-computer interface and collaborative computing programs, discusses the principles of optimized cloud computing technology supported by the combination of an indirect computing model and an indirect formal method. On the basis of systematically reviewing the influence of previous theoretical achievements Turing's computability theory,Kleene's formal theory of small strings,von Neumann's digital computer architecture and Turing's hypothesis on ",
+      "title": "'AI Alignment' Encompasses Competing Technical Priorities",
+      "url": "https://arxiv.org/abs/2606.14315",
+      "summary": "arXiv:2606.14315v1 Announce Type: new Abstract: The ML literature contains many distinct concepts falling under the heading of 'AI alignment'. After noting three concepts of AI alignment in the context of their corresponding research programs, we claim that realistic interventions may promote 'AI alignment' under one conception while being actively counterproductive from the perspective of others. We suggest that tensions between alignment ideals emerge due to differences in background threat-models, alongside differences in normative orientations. In light of our analysis, researchers aiming ",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Incentives Of EdTech: A Systematic Review Of EduNLP Research",
-      "url": "https://arxiv.org/abs/2606.13691",
-      "summary": "arXiv:2606.13691v1 Announce Type: new Abstract: While the Natural Language Processing community has dedicated significant resources in developing educational technologies (EdTech) that support this shift, it remains unclear whose interests are being best served among the stakeholders of education. In this paper, we present a systematic literature review of 204 papers published in venues of the Association for Computational Linguistics' Special Interest Group on Building Educational Applications in 2024 and 2025, and validate these against EdTech papers from the wider ACL Anthology. By examinin",
+      "title": "Observing Teachers' Instrumental Pedagogical Orchestration in Synchronous Online Learning: A Multimodal Grid Based on Videoconferencing Traces",
+      "url": "https://arxiv.org/abs/2606.14358",
+      "summary": "arXiv:2606.14358v1 Announce Type: new Abstract: Synchronous online teaching environments pose specific challenges for the analysis of pedagogical activity as teaching takes place via videoconferencing platforms and interactions are multimodal. While pedagogical orchestration has been extensively studied in the context of face-to-face courses and at the level of instructional design, the analysis of teaching in videoconferencing environments remains under-explored and insufficiently instrumented in terms of methodology. This article proposes a multimodal observation grid designed to analyze the",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Limited Marginal Benefit of Reasoning-Heavy LLM Deployment in ESG Narrative Scoring: A 4-Model Consensus Study on Japanese Listed Firms",
-      "url": "https://arxiv.org/abs/2606.13693",
-      "summary": "arXiv:2606.13693v1 Announce Type: new Abstract: Automated scoring of ESG narrative disclosures with large language models (LLMs) is gaining traction, yet whether reasoning-heavy frontier models add value commensurate with their cost remains empirically unsettled. We evaluate this question on a corpus of ten Japanese listed firms across three rubric axes -- quantitative targets, progress-tracking infrastructure, and external-standard alignment -- using a four-model consensus design that combines a reasoning-on frontier model with three reasoning-off contemporaries. Across 120 firm x axis x mode",
+      "title": "Shadows of Transparency: Signaling Transparency-Impeding Behavior Using Public Data",
+      "url": "https://arxiv.org/abs/2606.14377",
+      "summary": "arXiv:2606.14377v1 Announce Type: new Abstract: Freedom of Information (FOI) laws aim to increase government transparency, yet existing assessments focus mainly on legal compliance and procedural outcomes, leaving organizational behavior underexamined. As FOI processes are increasingly mediated through digital information systems, public response data offer traces of how organizations handle requests and disclosures in practice. This paper develops and evaluates a pattern-based approach that uses such data to signal transparency-impeding behavior across government agencies and over time. Drawi",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AGORA: Can Deliberation and Governance Gates Absorb Participation Bias in Transit Planning?",
-      "url": "https://arxiv.org/abs/2606.13696",
-      "summary": "arXiv:2606.13696v1 Announce Type: new Abstract: Transit network design depends not only on the optimization algorithm but also on who shows up to the public hearing. Current practice often collects one-directional comments from self-selected attendees, leaving participant mix as an uncontrolled source of outcome variation. We present AGORA, a framework that holds the network, demand, and solver fixed while systematically varying meeting composition through stakeholder agents, structured deliberation, and governance gates. Across two standard benchmark networks at different scales, we find that",
+      "title": "Redistricting from the Bottom Up: Sampling Communities of Interest with Differential Privacy",
+      "url": "https://arxiv.org/abs/2606.14453",
+      "summary": "arXiv:2606.14453v1 Announce Type: new Abstract: Independent Redistricting Commissions (IRCs) are a promising tool for bottom-up redistricting, but their public testimony processes are vulnerable to adversarial manipulation. We propose using differential privacy to draw redistricting plans that incorporate community of interest (COI) testimonies while remaining robust to adversarial input. Treating individual testimonies as data points, we use the marked edge walk to sample from differentially private distributions of redistricting plans via the exponential mechanism. We introduce two score fun",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Position: AI Must Become Planet-Centered, Not Just Human-Centered",
-      "url": "https://arxiv.org/abs/2606.13704",
-      "summary": "arXiv:2606.13704v1 Announce Type: new Abstract: This position paper argues that contemporary AI paradigms are insufficient for supporting complex global goals and introduces Planet-Centered AI (PCAI) as a design philosophy and research agenda that reorients AI toward planetary-scale socio-ecological systems and their long-term trajectories. A planet-centered approach is grounded in systems thinking, treating Earth as an interconnected whole of which humans are part. We diagnose recurring limitations across AI frameworks, many of which remain human-centered, and show why these become especially",
+      "title": "Demographic Patterns in Cybersecurity Culture: Insights from a Global Organisation Supporting Safety-Critical and Critical Infrastructure Sectors",
+      "url": "https://arxiv.org/abs/2606.14462",
+      "summary": "arXiv:2606.14462v1 Announce Type: new Abstract: This study investigates demographic differences in cybersecurity culture in a large global organisation supporting safety critical and critical infrastructure sectors to target CSC improvement. A global survey was administered to all internal and external employees of a total of 21148 employees, with 6502 responses. The questionnaire evaluates nine CSC dimensions such as Password Management, Governance, Email Use. Anonymous survey responses were analysed using Kruskal-Wallis tests and Dunns post hoc comparisons to identify differences across demo",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Virtuous AI is an Existential Risk",
-      "url": "https://arxiv.org/abs/2606.13739",
-      "summary": "arXiv:2606.13739v1 Announce Type: new Abstract: This paper examines trade-offs between AI safety and well-being relative to (i) one of the most promising methods for finetuning super-capable AIs, 'Constitutional AI', and (ii) one of the most influential approaches to understanding complex ethical decision making and the conditions for the well-being of rational agents, 'Virtue Ethics'. We finetune various models using a 'Virtuous agent' constitution, a 'Subordinate agent' constitution, and a 'Generic agent' constitution, and evaluate them on 'general safety' (toxic behaviors, misinformation, e",
+      "title": "Benchmarking Web Agent Safety under E-commerce Deceptive Interfaces",
+      "url": "https://arxiv.org/abs/2606.13686",
+      "summary": "arXiv:2606.13686v1 Announce Type: cross Abstract: As autonomous web agents are increasingly deployed to perform real-world tasks, ensuring their safety has become a critical concern. In this work, we study web agent behavior under realistic deceptive interfaces in the e-commerce domain. We introduce WebDecept, a lightweight and configurable plugin framework that enables controlled injection of deceptive interface patterns into existing web environments. Using WebDecept, we instantiate seven deceptive patterns commonly observed on the open web, including targeted advertisements, domain redirect",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Position: Align AI to Our Aspirations, Not Our Flaws",
-      "url": "https://arxiv.org/abs/2606.13755",
-      "summary": "arXiv:2606.13755v1 Announce Type: new Abstract: We argue that aligning AI to aggregated human preferences is the wrong target. With current technology, one can train AIs to share the values of a Silicon Valley techno-optimist, a degrowth environmentalist, a national-conservative culture warrior, a single-party state cadre, or a devout religious traditionalist. We should not. Human values produce societies that thrive or fail on the merits of those values - from failed states and extreme inequality to declining happiness, political polarization, and government dysfunction in the world's wealthi",
+      "title": "Choric Masking in Ambient Release Systems: A Finite Certificate Calculus for Trace Indistinguishability under Bounded Audiences",
+      "url": "https://arxiv.org/abs/2606.13967",
+      "summary": "arXiv:2606.13967v1 Announce Type: cross Abstract: This paper develops a finite certificate calculus for ambient release systems, staged probabilistic environments in which a protected coordinate is not observed directly but can remain statistically readable through visible roles, timing, repeated movement, bounded attention, linked rooms, and post-release state. The security notion, choric masking, requires the trace law induced by a protected locus to lie inside or near the convex hull of admissible cover traces under the tests available to a specified audience. For finite horizons, trace law",
       "published": "2026-06-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
