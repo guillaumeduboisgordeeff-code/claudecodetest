@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Visibility Without Guidance: Measuring the Actionability of Public Crisis Communication in Lebanon",
-      "url": "https://arxiv.org/abs/2606.14714",
-      "summary": "arXiv:2606.14714v1 Announce Type: new Abstract: Public crisis communication is most valuable when it enables protective action: when it tells affected populations not only what is happening, but where, what to do, how to access help, and whom the guidance applies to. This study examines whether institutional crisis communication in Lebanon during an active conflict escalation met that standard. It presents a systematic actionability audit of 182 public-facing communication items issued by nine Lebanese state institutions, emergency responders, and United Nations humanitarian agencies between A",
+      "title": "From Distorted Mirrors to Sovereign Reflections: Resisting the Grotesque Depiction of Our Digital Selves",
+      "url": "https://arxiv.org/abs/2606.15728",
+      "summary": "arXiv:2606.15728v1 Announce Type: new Abstract: As Ambient Intelligence weaves computing into everyday life, human existence has become inextricably linked to ubiquitous digital infrastructures, triggering a crisis of personal data sovereignty. Driven by extractivism and data colonialism, platforms exploit human experience as a terra nullius, enclosing proprietary user models within isolated silos. We argue that legal frameworks like the EU Digital Rights and GDPR fail to counter this power asymmetry because they regulate inert raw data while leaving monopolies over algorithmic inferences unch",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Gender Differences in AI Literacy Workshop Outcomes and Deepfake Engagement",
-      "url": "https://arxiv.org/abs/2606.14718",
-      "summary": "arXiv:2606.14718v1 Announce Type: new Abstract: As Artificial Intelligence (AI) literacy initiatives expand in K-12 settings, understanding how gender shapes student baseline perceptions, tool-use, and responsiveness to interventions is essential for equitable curriculum design. This study examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian secondary students (Years 7, 8, and 10; N(pre) = 199, n(post) = 136) from two co-educational government schools who participated in a one-day AI literacy workshop. Using statistical regression methods c",
+      "title": "Classifying by Proxy: Explainable and Reproducible Ensemble of Proxy Tasks for Child Sexual Abuse Imagery Classification",
+      "url": "https://arxiv.org/abs/2606.15993",
+      "summary": "arXiv:2606.15993v1 Announce Type: new Abstract: Child Sexual Abuse Imagery (CSAI) classification systems are needed solutions for lessening the psychological impacts often felt by law enforcement agents responsible for evaluating these materials and for efficient removal of these materials from the web. However, due to the nature of the task, researching and developing such systems is not a trivial endeavor. The images are highly sensitive, and the related datasets are under restrictive access regimes, which means most studies in the area are not reproducible or distributable and are therefore",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Grand Challenges for the Convergence of Computational and Citizen Science Research Workshop Report",
-      "url": "https://arxiv.org/abs/2606.14719",
-      "summary": "arXiv:2606.14719v1 Announce Type: new Abstract: This report is an outcome of a Computing Community Consortium (CCC) visioning workshop on Grand Challenges for the Convergence of Computational and Citizen Science Research conducted on April 8-9, 2025, in Washington, D.C. as well as through several precursor virtual input-gathering sessions. These events brought together experts across relevant disciplines to develop a research agenda that brings to fruition the above vision on how humans and machines may team up to solve some of the world's most pressing scientific problems. Citizen science del",
+      "title": "How to Detect and Measure the AI Dangers to Democracy",
+      "url": "https://arxiv.org/abs/2606.16054",
+      "summary": "arXiv:2606.16054v1 Announce Type: new Abstract: Research on artificial intelligence and democracy has grown quickly over the last decade. A shared conclusion in this literature is that AI does not create new democratic problems so much as it makes old ones worse. We now see this across information ecosystems, in elections, and in public administration. However, despite growing evidence, we lack a clear way to prioritize risks in this area, compare them across domains, and identify where democratic control is most likely to break down. So, our problem is: How can we systematize the problems tha",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "\"Stuck in a Spiral\": Shame and Guilt as Social Regulators of AI Use in Computing Education",
-      "url": "https://arxiv.org/abs/2606.14920",
-      "summary": "arXiv:2606.14920v1 Announce Type: new Abstract: While prior work has examined patterns of adoption and social norms around AI use, less is known about how emotional factors, such as shame and guilt, shape students use of AI tools. We present an interview study with 19 computing students through a functionalist perspective of shame and guilt, which interprets emotions as social signals that regulate behavior. Our findings show that these emotions regulate when and how students make their use visible, as they engage in hiding behaviors and selective disclosure. Students described shaming themsel",
+      "title": "AI systems out-persuade expert humans",
+      "url": "https://arxiv.org/abs/2606.16475",
+      "summary": "arXiv:2606.16475v1 Announce Type: new Abstract: Many societal decisions are settled by contests of persuasion. Conversational AI is a powerful new entrant in these contests, but whether it can out-persuade skilled and highly incentivized humans has remained unclear. Here, in a series of four preregistered experiments (n = 18,978 conversations from 6,923 people), we pitted AI systems against a range of human persuaders, including laypeople, winners of a separately preregistered four-round online persuasion tournament, professional canvassers, and world championship debaters. We found that AI sy",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "LearnOpt: Recovering the Latent Cognitive Structure of Standardized Examinations via Knowledge Graphs and Constrained Optimization",
-      "url": "https://arxiv.org/abs/2606.15349",
-      "summary": "arXiv:2606.15349v1 Announce Type: new Abstract: Standardized examinations are typically treated as uniform syllabus coverage problems. We argue they are better understood as adversarial systems with stable latent cognitive structures diverging systematically from official syllabi. We introduce LearnOpt, which recovers this structure from historical question papers and generates personalized, time-bounded study plans. Applied to nine years of NEET questions (2016-2024, n=1,496), LearnOpt builds an exam knowledge graph from LLM-tagged questions, extracts a five-category latent skill distribution",
+      "title": "Optimising Temporary Accommodation Placement Across London with AI-Powered SaaS in E-Governance Systems",
+      "url": "https://arxiv.org/abs/2606.16652",
+      "summary": "arXiv:2606.16652v1 Announce Type: new Abstract: Temporary accommodation has become a major fiscal and administrative pressure for English local authorities, particularly in London, where demand and costs have risen sharply. This paper documents the creation and use of DOMUS, a cloud-based, AI-enabled decision-support system built from scratch at the University of East London and customised for the needs of London Borough of Newham to support statutory Temporary accommodation placement. DOMUS integrates household case records, policy-constrained affordability and suitability rules, and live pri",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Commons-Governed Artificial Intelligence: A Taxonomy of Collective Governance",
-      "url": "https://arxiv.org/abs/2606.15466",
-      "summary": "arXiv:2606.15466v1 Announce Type: new Abstract: The governance of artificial intelligence is overwhelmingly theorized through two institutional frames. In the market frame, the data, models, and compute that constitute the AI stack are private goods exchanged under property and contract; in the state frame, a regulator imposes rules from above. A third possibility, the collective and self-organized stewardship of AI-relevant resources by the communities that produce and depend on them, remains comparatively under-theorized, even as it proliferates in practice through data trusts and cooperativ",
+      "title": "From Newtonian to Relativistic IAM: The Autonomous Principal as Reference Frame for Digital Identity",
+      "url": "https://arxiv.org/abs/2606.17002",
+      "summary": "arXiv:2606.17002v1 Announce Type: new Abstract: The 2023 paper \\emph{Distributed Governance: a Principal-Agent Approach to Data Governance} arXiv:2308.07280 introduced the autonomous principal as the locus of transactional sovereignty in digital ecosystems. This follow-up, Part 2, advances a structural argument for why that model is not a normative preference but a consequence of taking causality seriously in distributed information systems. Drawing an analogy with the transition from Newtonian to relativistic physics, we show that custodial identity management rests on an implicit assumption ",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Perils of Agency: How Developers Perceive, Prioritize, and Address Risks in Agentic AI Products",
-      "url": "https://arxiv.org/abs/2606.15485",
-      "summary": "arXiv:2606.15485v1 Announce Type: new Abstract: Agentic AI systems act autonomously, use tools, adapt to context, and operate in complex real-world environments. However, these same characteristics can create or exacerbate product risks. We studied how industry developers (n=35) perceive, prioritize, and address the risks in their agentic AI products. We found that developers' perceptions of risk were closely tied to the qualities that made the product agentic, such as autonomy, tool use, and usage in a real-world context. Developers prioritized product and business risks before considering do",
+      "title": "Green AI Carbon Optimizer: Carbon-Efficient Training Location Recommendation and Global AI Energy Demand Forecasting",
+      "url": "https://arxiv.org/abs/2606.14707",
+      "summary": "arXiv:2606.14707v1 Announce Type: cross Abstract: AI training and deployment consume substantial electricity, but carbon outcomes remain weakly integrated into routine model development decisions. This paper presents Green AI Carbon Optimizer with two primary contributions: (i) a carbon aware cloud region recommendation method for training workloads, and (ii) a power law forecasting pipeline for global AI energy demand. For location recommendation, we combine regional grid carbon intensity, renewable share, and data center Power Usage Effectiveness (PUE) into a unified scoring model across 100",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Nationwide Benchmark for Wildfire Initial Attack Failure Prediction with Public Environmental Data",
-      "url": "https://arxiv.org/abs/2606.15529",
-      "summary": "arXiv:2606.15529v1 Announce Type: new Abstract: Initial attack (IA) is the first wildfire suppression phase, when agencies must quickly decide which fires may escape early control. Existing IA failure prediction studies often use non-public response records or regional settings, so it remains unclear how well public data available at fire discovery time can support IA failure prediction at national scale. We present WILDFIREIA, the first U.S. national-scale benchmark for IA failure prediction from environmental and contextual data available at fire discovery time. WILDFIREIA aligns 38,128 natu",
+      "title": "Trust Between AI Agents: Measuring Formation, Breakage, and Recovery, with Implications for Governing Multi-Agent Systems",
+      "url": "https://arxiv.org/abs/2606.14923",
+      "summary": "arXiv:2606.14923v1 Announce Type: cross Abstract: As language-model agents increasingly work in teams, each agent must decide how much to trust its teammates. Yet we lack a standard way to measure trust between AI agents. We propose a behavioral measure based on costly verification. In a cooperative survival game, checking a teammate's work consumes resources, while trusting a wrong answer can be fatal. Relative to a memoryless version of the same model, reduced verification provides an observable measure of trust. Using this framework, we study trust formation, breakage, and recovery across s",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Improving Capstone Team Outcomes through Dynamic Skill Matching and Preference Alignment",
-      "url": "https://arxiv.org/abs/2606.15572",
-      "summary": "arXiv:2606.15572v1 Announce Type: new Abstract: Team-based projects are a cornerstone of engineering and computing courses, but unstructured team formation often leads to poor project outcomes due to misaligned student interests and inadequate skill coverage. This paper introduces a novel, three-stage methodology for creating effective student teams by integrating student preferences with project skill requirements. In the first stage, students complete a survey to report their project interests and self-assessed skills. Next, a Large Language Model (LLM) analyzes project descriptions to extra",
+      "title": "Leveraging Physiological Signals to Predict Exam Outcomes with Machine Learning",
+      "url": "https://arxiv.org/abs/2606.14960",
+      "summary": "arXiv:2606.14960v1 Announce Type: cross Abstract: This study investigates the application of machine learning models to predict exam outcomes using physiological data collected during examination sessions. Physiological stress indicators, including electrodermal activity, heart rate, and skin temperature, were analyzed to uncover their association with academic performance. A variety of machine learning approaches were employed, ranging from standard models like logistic regression, random forest, and support vector machines to more advanced architectures, including transformers, long short-te",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Digital Omnibus on AI, Legislative Legitimacy and the Dynamics of AI Regulation",
-      "url": "https://arxiv.org/abs/2606.15662",
-      "summary": "arXiv:2606.15662v1 Announce Type: new Abstract: Driving the Digital Omnibus on AI are growing concerns within the European Union about economic growth, competitiveness, innovation and regulatory simplification. What is particularly striking about the Digital Omnibus on AI is that it seeks to amend the AI Act that entered into force less than two years ago in August 2024. This raises the question of how we can understand both the need and urgency with which the European institutions have sought amend a centrepiece of EU legislation that is still in its infancy. In addressing this question, we e",
+      "title": "Cloze: An Open Research Platform for Studying Human-AI Conversations in Mental Health Contexts",
+      "url": "https://arxiv.org/abs/2606.15033",
+      "summary": "arXiv:2606.15033v1 Announce Type: cross Abstract: Cloze is an open-source web platform for conducting controlled, monitored studies of human-AI conversation in mental health research contexts. Consumer large language model (LLM) products such as ChatGPT, Claude, and Gemini are built for individual productivity, and offer researchers little experimental control, inconsistent data export, and no shared safety scaffolding that holds across providers. Cloze gives research teams a single environment in which they configure which models participants converse with, how the AI is instructed, how conve",
       "published": "2026-06-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
