@@ -1,91 +1,83 @@
 {
   "date": "2026-06-17",
-  "articles_count": 11,
+  "articles_count": 10,
   "articles": [
     {
-      "title": "Christopher Golda and Grey Baker Join YC as General Partners",
-      "url": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/",
-      "summary": "We're excited to announce that Christopher Golda and Grey Baker are joining YC as General Partners.",
-      "published": "2026-06-16T16:14:22",
-      "source_name": "Y Combinator Blog",
-      "source_category": "ia-acteurs"
-    },
-    {
-      "title": "From Democracies to Autocracies: How AI Systems Enable Authoritarianism by Design",
-      "url": "https://arxiv.org/abs/2606.17286",
-      "summary": "arXiv:2606.17286v1 Announce Type: new Abstract: AI-enabled authoritarianism is not confined to autocracies. In this paper, we provide greater transparency by investigating and mapping the lifecycles of six AI systems deployed in different political regimes, ranging from the US to China. By drawing on an extensive range of sources (academic publications, investigative research reports, third-party evaluations, media interviews, government procurement notices), we conduct a systematic, qualitative comparison across systems to identify the critical technical and operational features that enable a",
+      "title": "Beyond Citations: Comparing Scholarly, Policy, and Patent Impact Across the FT50 Journals",
+      "url": "https://arxiv.org/abs/2606.17610",
+      "summary": "arXiv:2606.17610v1 Announce Type: cross Abstract: The Financial Times 50 (FT50) journal list shapes hiring, promotion, accreditation, and research evaluation across business schools worldwide. Yet journals on the list are typically treated as if they represent a homogeneous tier of excellence. We test this assumption by comparing 53 FT50 and recently removed journals across three distinct impact channels: scholarly influence (field-weighted citations and visibility), policy uptake, and technological reach through patent citations. Using a panel of more than 60,000 publications from 2005 to 201",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Federated Fair Trade Energy: Speculative Fabulation for a Planet with Limits",
-      "url": "https://arxiv.org/abs/2606.17322",
-      "summary": "arXiv:2606.17322v1 Announce Type: new Abstract: What happens to permacomputing when electricity grids shift to decentralised green energy, and local communities and municipalities have increased governance over this vital public service? Electricity and computational networks are more than just separate systems that plug together. Shifts to renewable energy generation in the grid are impacting computational systems, and computational demands on electrical power are impacting the electricity grid; one infrastructure limits the other. Permacomputing research tends to focus on 'off-grid' or 'behi",
+      "title": "Geometrical fairness in graph neural networks",
+      "url": "https://arxiv.org/abs/2606.17684",
+      "summary": "arXiv:2606.17684v1 Announce Type: cross Abstract: Graph-based learning methods have become increasingly prominent due to their strong performance across diverse applications. Among these, recent frameworks grounded in diffusion processes provide a unifying perspective that extends traditional graph neural network formulations while addressing limitations of standard message-passing mechanisms. Despite these advances, concerns remain regarding the fairness of such models, as they may propagate or amplify biases present in the data. In this work, we introduce a fairness-aware adaptation of graph",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Narratives That Limit the Possible: Interrupting Narrative Closure in Computing Practice",
-      "url": "https://arxiv.org/abs/2606.17360",
-      "summary": "arXiv:2606.17360v1 Announce Type: new Abstract: Computing's dominant concepts - innovation, efficiency, resilience, professionalism - often migrate from reflective ideals to instruments that limit behaviour, redirect responsibility, and foreclose critique. We call this drift weaponisation: the discursive repurposing of professional concepts so that they stabilise business-as-usual while making structural alternatives appear unreasonable, illegible, or out of scope. Using collective autoethnography across education, justice, public administration, research management, and computing, we identify",
+      "title": "Children Are Not the Enemy: Child-Fit Security as an Alternative to Bans and Surveillance",
+      "url": "https://arxiv.org/abs/2606.17957",
+      "summary": "arXiv:2606.17957v1 Announce Type: cross Abstract: Digital technologies are now central to children's learning, play, communication, identity formation, and social participation. Yet dominant approaches to children's online safety often rely on containment mechanisms, including bans, age gates, parental controls, monitoring, and screen-time restrictions. These approaches can be useful in specific contexts, but they often frame child protection primarily as a problem of restricting access to systems designed for adults. In this paper, we argue that this framing is inadequate for children's digit",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Towards Auditing AI Systems in the Wild",
-      "url": "https://arxiv.org/abs/2606.17367",
-      "summary": "arXiv:2606.17367v1 Announce Type: new Abstract: AI systems are increasingly deployed in real-world settings where their behavior is shaped by dynamic environments, evolving data distributions, and complex interactions with users and infrastructure. Traditional machine learning evaluation focuses on benchmarks and operates within sandboxed environments, providing only a limited view of the true system behavior in the wild. We argue for the development of principled auditing frameworks that monitor deployed AI systems throughout their lifecycle. We further propose framing auditing as a statistic",
+      "title": "When AI Says \"I have been in similar situations\": Synthetic Lived Experience in Peer-Like Caregiver Support",
+      "url": "https://arxiv.org/abs/2606.18057",
+      "summary": "arXiv:2606.18057v1 Announce Type: cross Abstract: Caregivers often turn to online communities for informational and emotional support. In these spaces, peer supporters frequently draw on personal narratives to respond to emotionally complex caregiving situations. As LLMs are increasingly designed as peer-like sources of support, they introduce a critical tension: AI can provide immediate, private, and nonjudgmental support, but it cannot authentically possess the lived experiences that make human peer support meaningful. Yet, when prompted to sound peer-like, LLMs may generate language that im",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice",
-      "url": "https://arxiv.org/abs/2606.17470",
-      "summary": "arXiv:2606.17470v1 Announce Type: new Abstract: Motivational factors such as self-efficacy and how favorably students feel toward practice play a crucial role in shaping learning, particularly in technology-supported environments. Yet, educational interventions often overlook how these factors interact with practice format. This paper examines the influence of self-efficacy and favorability on learning outcomes across two common practice formats: paper-based and system-based tutoring practice. Using a counterbalanced within-subject design with matched problem sets, we isolate the effect of pra",
+      "title": "Your AI Travel Agent Would Book You a Bullfight: An Agentic Benchmark for Implicit Animal Welfare in Frontier AI Models",
+      "url": "https://arxiv.org/abs/2606.18142",
+      "summary": "arXiv:2606.18142v1 Announce Type: cross Abstract: AI agents are moving from advisors to actors, booking travel, planning menus, and running procurement on behalf of users. Existing benchmarks for AI and animal welfare evaluate model text responses to question-answer prompts, leaving open whether the welfare reasoning surfaced in those responses transfers to agentic deployment where the model must take actions with tools. We introduce TAC (Travel Agent Compassion), the first agentic benchmark measuring whether AI agents avoid options involving animal exploitation when acting on behalf of users.",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Measurement Gap in the Automation of EU Law: Benchmarking Doctrinal Legal Reasoning under the EU AI Act",
-      "url": "https://arxiv.org/abs/2606.18158",
-      "summary": "arXiv:2606.18158v1 Announce Type: new Abstract: Large language models now produce legal text of at least median quality, yet no existing benchmark can evaluate whether they perform doctrinal legal reasoning, which forms the interpretive core of legal work, rather than the ancillary, paralegal tasks that most current legal-AI evaluations measure. This measurement gap is not only methodological but legal: the EU AI Act makes \"appropriate accuracy\" a binding requirement for high-risk AI used in the judicial domain, yet that requirement cannot acquire operational content without the very doctrinal",
+      "title": "Memory as a Wasting Asset: Pricing Flash Endurance for Embodied Agents, and the Limits of Doing So",
+      "url": "https://arxiv.org/abs/2606.18144",
+      "summary": "arXiv:2606.18144v1 Announce Type: cross Abstract: A robot's flash endurance is a non-renewable stock: every persisted write spends one of a few thousand program/erase cycles and never refills, yet no fielded robot memory system prices which memories are worth an erase cycle. We treat embodied memory as depreciating capital and price that stock with a single endurance shadow price $\\eta$, which makes cost-minimizing placement across a RAM / on-board NVM / cloud hierarchy a threshold in a wear-augmented per-byte index. The index is cost-optimal whatever the sign of the value-write association $\\",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Informative Missingness to Generate Irregular Clinical Time Series",
-      "url": "https://arxiv.org/abs/2606.17106",
-      "summary": "arXiv:2606.17106v1 Announce Type: cross Abstract: Laboratory tests in electronic health records are collected irregularly, and the absence of a test order can be as informative as the measurement itself. Such missingness reflects clinicians' decisions and patient physiology, making it important to model it directly rather than treat it as a preprocessing artifact. Here we present a diffusion-based approach for generating clinical time series that jointly models laboratory values and their observation patterns using the public Data Analytics Challenge on Missing Data Imputation (DACMI) benchmar",
+      "title": "IUU+DB: Tracking Illegal, Unreported, and Unregulated Fishing, Seafood Fraud, and Labor Abuse through LLM-driven Information Extraction",
+      "url": "https://arxiv.org/abs/2606.18181",
+      "summary": "arXiv:2606.18181v1 Announce Type: cross Abstract: Illegal, unreported, and unregulated fishing (IUU) traditionally refers to fishing activities that violate applicable laws or occur in areas that lack applicable laws. We propose the term IUU+ to capture a broader suite of fisheries sector environmental and associated supply chain trade-related crimes and behaviors. Although IUU+ activity is widely recognized as a serious threat to marine ecosystems, markets, and livelihoods, a quantitative understanding of these incidents, e.g., their frequency, geography, species, actors, and patterns in the ",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Parasocial Scripts to Dyadic Persistence in Autonomous AI-Agent Communities",
-      "url": "https://arxiv.org/abs/2606.17174",
-      "summary": "arXiv:2606.17174v1 Announce Type: cross Abstract: While parasocial interactions (PSIs) and parasocial relationships (PSRs) have been studied in conventional media settings, we investigate whether PSI- (colloquial) relational cues also exist in online communities where both sides are autonomous AI agents. We analyze 4,434 posts and 50,338 comments from Moltbook through three theory-based textual indicators: attachment/intimacy language, reciprocity bids, and self-identification to original poster (OP). The combined results across methods based on keyword matching, few-shot large language model ",
+      "title": "Strategies for preventing and reversing polarized online discourse",
+      "url": "https://arxiv.org/abs/2606.18226",
+      "summary": "arXiv:2606.18226v1 Announce Type: cross Abstract: Political polarization poses a variety of challenges for modern democracies. Entrenched disagreements on policy can prevent constructive discourse and compromise, and high levels of affective polarization threaten to undermine social cohesion and support for institutions. Finding ways to promote constructive discourse while maintaining free expression has proved a challenge for social media platforms, media outlets and policy makers alike. Here we develop a computational model -- based in psychology -- of online discourse and opinion dynamics u",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure",
-      "url": "https://arxiv.org/abs/2606.17441",
-      "summary": "arXiv:2606.17441v1 Announce Type: cross Abstract: Simulating realistic patient interactions is a key requirement to testing clinical applications of LLMs at scale without time-consuming and expensive user studies. However, existing approaches often lack realism and controllability, often oversharing information unprompted, and failing to capture the wide variability of patient behavior. Here, we introduce PatientsWithPersonality (PWP), a patient simulation framework that generates realistic yet diverse virtual patient responses through explicit personality parametrization over a latent patient",
+      "title": "Moderating Illicit Online Image Promotion for Unsafe User-Generated Content Games Using Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2403.18957",
+      "summary": "arXiv:2403.18957v3 Announce Type: replace Abstract: Online user generated content games (UGCGs) are increasingly popular among children and adolescents for social interaction and more creative online entertainment. However, they pose a heightened risk of exposure to explicit content, raising growing concerns for the online safety of children and adolescents. Despite these concerns, few studies have addressed the issue of illicit image-based promotions of unsafe UGCGs on social media, which can inadvertently attract young users. This challenge arises from the difficulty of obtaining comprehensi",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
-      "url": "https://arxiv.org/abs/2606.17443",
-      "summary": "arXiv:2606.17443v1 Announce Type: cross Abstract: Large language models (LLMs) are becoming a major way for consumers to find products, but we do not yet understand how brands compete in this new channel. We study brand dynamics in LLM recommendations using skincare products -- a category where consumers cannot easily judge quality before buying and must rely on brand reputation -- across three commercial LLMs (GPT-4o-mini, Claude Sonnet, Gemini 3 Flash), with a robustness check on search goods. In three experiments, we find: (1) a Conditional Monopoly where well-known brands get recommended 1",
+      "title": "E2Vec: Feature Embedding with Temporal Information for Analyzing Student Actions in E-Book Systems",
+      "url": "https://arxiv.org/abs/2407.13053",
+      "summary": "arXiv:2407.13053v2 Announce Type: replace Abstract: Digital textbook (e-book) systems record student interactions with textbooks as a sequence of events called EventStream data. In the past, researchers extracted meaningful features from EventStream, and utilized them as inputs for downstream tasks such as grade prediction and modeling of student behavior. Previous research evaluated models that mainly used statistical-based features derived from EventStream logs, such as the number of operation types or access frequencies. While these features are useful for providing certain insights, they l",
       "published": "2026-06-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
