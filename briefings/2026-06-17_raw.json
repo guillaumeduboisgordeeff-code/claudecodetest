@@ -1,0 +1,94 @@
+{
+  "date": "2026-06-17",
+  "articles_count": 11,
+  "articles": [
+    {
+      "title": "Christopher Golda and Grey Baker Join YC as General Partners",
+      "url": "https://www.ycombinator.com/blog/chris-golda-and-grey-baker-general-partners/",
+      "summary": "We're excited to announce that Christopher Golda and Grey Baker are joining YC as General Partners.",
+      "published": "2026-06-16T16:14:22",
+      "source_name": "Y Combinator Blog",
+      "source_category": "ia-acteurs"
+    },
+    {
+      "title": "From Democracies to Autocracies: How AI Systems Enable Authoritarianism by Design",
+      "url": "https://arxiv.org/abs/2606.17286",
+      "summary": "arXiv:2606.17286v1 Announce Type: new Abstract: AI-enabled authoritarianism is not confined to autocracies. In this paper, we provide greater transparency by investigating and mapping the lifecycles of six AI systems deployed in different political regimes, ranging from the US to China. By drawing on an extensive range of sources (academic publications, investigative research reports, third-party evaluations, media interviews, government procurement notices), we conduct a systematic, qualitative comparison across systems to identify the critical technical and operational features that enable a",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Federated Fair Trade Energy: Speculative Fabulation for a Planet with Limits",
+      "url": "https://arxiv.org/abs/2606.17322",
+      "summary": "arXiv:2606.17322v1 Announce Type: new Abstract: What happens to permacomputing when electricity grids shift to decentralised green energy, and local communities and municipalities have increased governance over this vital public service? Electricity and computational networks are more than just separate systems that plug together. Shifts to renewable energy generation in the grid are impacting computational systems, and computational demands on electrical power are impacting the electricity grid; one infrastructure limits the other. Permacomputing research tends to focus on 'off-grid' or 'behi",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Narratives That Limit the Possible: Interrupting Narrative Closure in Computing Practice",
+      "url": "https://arxiv.org/abs/2606.17360",
+      "summary": "arXiv:2606.17360v1 Announce Type: new Abstract: Computing's dominant concepts - innovation, efficiency, resilience, professionalism - often migrate from reflective ideals to instruments that limit behaviour, redirect responsibility, and foreclose critique. We call this drift weaponisation: the discursive repurposing of professional concepts so that they stabilise business-as-usual while making structural alternatives appear unreasonable, illegible, or out of scope. Using collective autoethnography across education, justice, public administration, research management, and computing, we identify",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Towards Auditing AI Systems in the Wild",
+      "url": "https://arxiv.org/abs/2606.17367",
+      "summary": "arXiv:2606.17367v1 Announce Type: new Abstract: AI systems are increasingly deployed in real-world settings where their behavior is shaped by dynamic environments, evolving data distributions, and complex interactions with users and infrastructure. Traditional machine learning evaluation focuses on benchmarks and operates within sandboxed environments, providing only a limited view of the true system behavior in the wild. We argue for the development of principled auditing frameworks that monitor deployed AI systems throughout their lifecycle. We further propose framing auditing as a statistic",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Self-Efficacy and Favorability Shape Learning from Tutoring Systems and Paper Practice",
+      "url": "https://arxiv.org/abs/2606.17470",
+      "summary": "arXiv:2606.17470v1 Announce Type: new Abstract: Motivational factors such as self-efficacy and how favorably students feel toward practice play a crucial role in shaping learning, particularly in technology-supported environments. Yet, educational interventions often overlook how these factors interact with practice format. This paper examines the influence of self-efficacy and favorability on learning outcomes across two common practice formats: paper-based and system-based tutoring practice. Using a counterbalanced within-subject design with matched problem sets, we isolate the effect of pra",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Measurement Gap in the Automation of EU Law: Benchmarking Doctrinal Legal Reasoning under the EU AI Act",
+      "url": "https://arxiv.org/abs/2606.18158",
+      "summary": "arXiv:2606.18158v1 Announce Type: new Abstract: Large language models now produce legal text of at least median quality, yet no existing benchmark can evaluate whether they perform doctrinal legal reasoning, which forms the interpretive core of legal work, rather than the ancillary, paralegal tasks that most current legal-AI evaluations measure. This measurement gap is not only methodological but legal: the EU AI Act makes \"appropriate accuracy\" a binding requirement for high-risk AI used in the judicial domain, yet that requirement cannot acquire operational content without the very doctrinal",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Informative Missingness to Generate Irregular Clinical Time Series",
+      "url": "https://arxiv.org/abs/2606.17106",
+      "summary": "arXiv:2606.17106v1 Announce Type: cross Abstract: Laboratory tests in electronic health records are collected irregularly, and the absence of a test order can be as informative as the measurement itself. Such missingness reflects clinicians' decisions and patient physiology, making it important to model it directly rather than treat it as a preprocessing artifact. Here we present a diffusion-based approach for generating clinical time series that jointly models laboratory values and their observation patterns using the public Data Analytics Challenge on Missing Data Imputation (DACMI) benchmar",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Parasocial Scripts to Dyadic Persistence in Autonomous AI-Agent Communities",
+      "url": "https://arxiv.org/abs/2606.17174",
+      "summary": "arXiv:2606.17174v1 Announce Type: cross Abstract: While parasocial interactions (PSIs) and parasocial relationships (PSRs) have been studied in conventional media settings, we investigate whether PSI- (colloquial) relational cues also exist in online communities where both sides are autonomous AI agents. We analyze 4,434 posts and 50,338 comments from Moltbook through three theory-based textual indicators: attachment/intimacy language, reciprocity bids, and self-identification to original poster (OP). The combined results across methods based on keyword matching, few-shot large language model ",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Patients With Personality: Realistic Patient Simulation through Controlled Diversity and Selective Disclosure",
+      "url": "https://arxiv.org/abs/2606.17441",
+      "summary": "arXiv:2606.17441v1 Announce Type: cross Abstract: Simulating realistic patient interactions is a key requirement to testing clinical applications of LLMs at scale without time-consuming and expensive user studies. However, existing approaches often lack realism and controllability, often oversharing information unprompted, and failing to capture the wide variability of patient behavior. Here, we introduce PatientsWithPersonality (PWP), a patient simulation framework that generates realistic yet diverse virtual patient responses through explicit personality parametrization over a latent patient",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
+      "url": "https://arxiv.org/abs/2606.17443",
+      "summary": "arXiv:2606.17443v1 Announce Type: cross Abstract: Large language models (LLMs) are becoming a major way for consumers to find products, but we do not yet understand how brands compete in this new channel. We study brand dynamics in LLM recommendations using skincare products -- a category where consumers cannot easily judge quality before buying and must rely on brand reputation -- across three commercial LLMs (GPT-4o-mini, Claude Sonnet, Gemini 3 Flash), with a robustness check on search goods. In three experiments, we find: (1) a Conditional Monopoly where well-known brands get recommended 1",
+      "published": "2026-06-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
