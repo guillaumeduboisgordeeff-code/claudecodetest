@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Engagement Intensity as a Learner-Modeling Signal for Adaptive AI Ethics Instruction",
-      "url": "https://arxiv.org/abs/2606.18548",
-      "summary": "arXiv:2606.18548v1 Announce Type: new Abstract: Adaptive AI ethics instruction in graduate research training benefits from intake measures that reflect differences in prior LLM experience. Prior coursework or workshop attendance is an obvious candidate, but it is not clear whether it is associated with pre-instruction ratings on key AI perception items. We compare three candidate intake features, self-reported usage frequency, self-rated LLM familiarity, and prior AI education, across five baseline perception outcomes in 93 bioscience graduate and postdoctoral trainees enrolled in a required r",
+      "title": "Confident yet Concerned: Inconsistencies in Computing Students' Attitudes on Cybersecurity",
+      "url": "https://arxiv.org/abs/2606.18541",
+      "summary": "arXiv:2606.18541v1 Announce Type: cross Abstract: Today's young adults are most immersed in technology, leading in feelings of powerlessness in managing online privacy across many platforms, and particularly susceptible to phishing attacks. This raises questions about their general, wide-ranging attitudes towards and management of cybersecurity. How do young, tech-savvy adults approach cybersecurity? We seek a better understanding of their cybersecurity knowledge, attitudes and experiences, in particular in addressing deceptive online communications. We surveyed a group of `lead users': comput",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-Driven Assessment of Human Tutors: Linking Training Performance to Real-Life Practice",
-      "url": "https://arxiv.org/abs/2606.18617",
-      "summary": "arXiv:2606.18617v1 Announce Type: new Abstract: There exist numerous tutor training platforms. However, few provide AI-driven training and evaluation for human tutors based on real-life performance. We present an AI-driven system that assesses both open responses during training and authentic real-life tutoring. Unlike platforms that only assess learning through online training or simulations, our system utilizes Generative AI (Gemini-2.5-pro) to analyze transcriptions of authentic tutoring, measuring the transfer of tutor skills to real-life application. Human tutors instructing students remo",
+      "title": "\"The New Era of Tech-Enabled Traceability\": Tensions between the FDA's Data Governance Vision and the Lived Realities of Food Producers",
+      "url": "https://arxiv.org/abs/2606.18593",
+      "summary": "arXiv:2606.18593v1 Announce Type: cross Abstract: The U.S. Food and Drug Administration (FDA)'s Food Traceability Rule requires agri-food supply chain stakeholders (stakeholders)--including farmers, fishers, retail workers, and others--to maintain detailed tracking records beginning in January 2026. Through this Rule, the FDA envisions a \"New Era of Tech-Enabled Traceability,\" in which standardized, harmonized tracking data serve as a foundational public health infrastructure, enabling more rapid identification and removal of potentially contaminated food and ultimately reducing the risk of fo",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Through the WordStream Glass: Revisiting Quantitative Encoding for Qualitative Learning Analytics",
-      "url": "https://arxiv.org/abs/2606.18692",
-      "summary": "arXiv:2606.18692v1 Announce Type: new Abstract: Data-driven learning analytics can surface trends across a student cohort over time, helping instructors improve the learning environment. WordStream, a visualization idiom for topic evolution, has been instantiated in two platforms toward this goal: the Journal Data Dashboard, for analyzing formative assessments, and WordStream Maker, for authoring custom visualizations. Where the prior work built these platforms for education (Vis4Ed), here we examine the reverse direction (Ed4Vis): what can qualitative education research tell us about building",
+      "title": "ProfiLLM: Utility-Aligned Agentic User Profiling for Industrial Ride-Hailing Dispatch",
+      "url": "https://arxiv.org/abs/2606.18803",
+      "summary": "arXiv:2606.18803v1 Announce Type: cross Abstract: Bringing Large Language Models (LLMs) into industrial ride-hailing dispatch as semantic feature extractors over platform-scale behavioral logs is a compelling but under-explored data systems problem. Production matching pipelines remain dominated by structured numerical features, yet decisive behavioral signals (e.g., a driver's habitual aversion to certain regions) are inherently contextual and naturally expressible as LLM-generated user profiles. However, scaling such profiling to a live, millisecond-latency dispatcher faces three intertwined",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Market in the Model: Latent Diffusion as Neural Economy",
-      "url": "https://arxiv.org/abs/2606.19151",
-      "summary": "arXiv:2606.19151v1 Announce Type: new Abstract: Valuable critique of generative image models within visual culture and the humanities has emphasized the role of datasets in shaping the images they produce. Yet, close studies of the ideological positions embedded into the mechanism of the models have been neglected, leaving them imagined as \"black boxes.\" In a bid to expand, rather than replace, dataset critique, this paper examines the mechanisms of the latent diffusion model in terms of the problems they were brought in to solve on behalf of computer vision engineers, and the decisions each c",
+      "title": "Strategic Feature Selection",
+      "url": "https://arxiv.org/abs/2606.18867",
+      "summary": "arXiv:2606.18867v1 Announce Type: cross Abstract: When algorithmic predictors inform resource allocation in high-stakes domains such as healthcare, these predictors must account for strategic manipulation of input features. The typical solution is to redesign the predictor itself to explicitly account for strategic interactions. In practice, however, decision makers are often constrained to adjusting coarser levers within existing prediction pipelines. For example, healthcare organizations often select which features to exclude based on perceived manipulability, while using standard regulariza",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "\"Are you an AI?\" Analyzing Client Suspicion of AI Use in Crisis Counseling",
-      "url": "https://arxiv.org/abs/2606.18261",
-      "summary": "arXiv:2606.18261v1 Announce Type: cross Abstract: As artificial intelligence (AI) tools get increasingly deployed for mental healthcare, public trust in these systems remains uncertain. It is unclear how clients perceive AI involvement in counseling interactions, particularly in moments of crisis that require empathy and connection. To address this gap, we analyzed 75,777 crisis counseling conversations from a human-staffed WhatsApp helpline in India to characterize how often clients suspected they were speaking to AI, what triggered those doubts, and how counselors responded. Though no conver",
+      "title": "SciRisk-Bench: A Risk-Dimension-Aware Benchmark for AI4Science Safety",
+      "url": "https://arxiv.org/abs/2606.18936",
+      "summary": "arXiv:2606.18936v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly embedded in AI for Science (AI4Science) workflows, from scientific question answering and literature analysis to laboratory planning and autonomous discovery. This progress creates an urgent need for safety benchmarks that evaluate not only scientific competence, but also whether models recognize and avoid risks in high-stakes scientific contexts. Existing AI4Science safety datasets cover several disciplines and task formats, leaving the underlying risk dimensions underspecified. We introduce \\textb",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "RELIANCE: Curating and Evaluating Reproductive Health Information on Social Media",
-      "url": "https://arxiv.org/abs/2606.18285",
-      "summary": "arXiv:2606.18285v1 Announce Type: cross Abstract: Social media platforms like TikTok have become a key source of health information, with studies reporting inaccuracies in posts. As Large Language Model (LLM) providers increasingly integrate LLMs into digital platforms to fact-check content (e.g., Grok and Perplexity on X and WhatsApp, respectively) and are being used by people to fact-check information, deploying these systems in critical areas such as reproductive health without rigorous evaluation can cause serious harm. We introduce RELIANCE, an expert-annotated dataset of health informati",
+      "title": "Quantifying Compromise Risk in Exceptional Access Architectures Under Sparse and Indirect Evidence",
+      "url": "https://arxiv.org/abs/2606.19106",
+      "summary": "arXiv:2606.19106v1 Announce Type: cross Abstract: Lawful exceptional access (EA) systems hold the cryptographic keys that decrypt protected communications for authorised parties. The debate over their risks has been long and qualitative, complicated by two problems: no public dataset of EA-specific compromise events exists, so assessment must use sparse, indirect evidence; and prior work has treated structurally different designs as equivalent, though transmission-layer EA in carrier infrastructure (T-EA) and over-the-top EA at the platform layer (OTT-EA) differ in how cryptographic keys relat",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond the Algorithm: Professional Experiences and Perceptions of AI Bias",
-      "url": "https://arxiv.org/abs/2606.18289",
-      "summary": "arXiv:2606.18289v1 Announce Type: cross Abstract: The purpose of this qualitative multi-case study was to examine how social bias emerges, is perceived, and can be mitigated within artificial intelligence and machine learning systems by practitioners directly involved in their design, development, and governance. Although examples from healthcare, criminal justice, employment, and education were used to illustrate domains where automated systems shape everyday life, the study focused on the lived experiences and professional insights of AI practitioners rather than sector-specific populations.",
+      "title": "Towards an Agent-First Web: Redesigning the Web for AI Agents",
+      "url": "https://arxiv.org/abs/2606.19116",
+      "summary": "arXiv:2606.19116v1 Announce Type: cross Abstract: The World Wide Web was built on an assumption held for three decades: the primary consumer of web content is a human being. This permeates every layer; its access model presumes human visitors, its economics rest on human attention, and its content targets human perception. The rapid emergence of AI agents as intermediaries between humans and web content invalidates this assumption. Yet the web resists agents through blanket blocking, CAPTCHA-based exclusion, and economic models that treat agent access as extraction rather than legitimate inter",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Understanding the \"Airport\" Censorship Circumvention Ecosystem in China",
-      "url": "https://arxiv.org/abs/2606.18427",
-      "summary": "arXiv:2606.18427v1 Announce Type: cross Abstract: In China, a burgeoning underground market sells citizens subscription-based censorship circumvention proxies known as ''airports''. We present the first systematic study of this ecosystem, combining user surveys, social media analysis, and active network measurements. We find that airports are by far the most popular off-the-shelf censorship circumvention tool in China, used by over half of our 1,667~survey respondents, who cite their ease of use, performance, and access to geo-restricted services like ChatGPT and Netflix. By scanning the Inter",
+      "title": "A Taxonomy of Mental Health and Technology Needs for Alzheimer's and Dementia Caregivers",
+      "url": "https://arxiv.org/abs/2606.19247",
+      "summary": "arXiv:2606.19247v1 Announce Type: cross Abstract: Family members caring for individuals with Alzheimer's disease and related dementias (AD/ADRD) provide the foundation of long-term care worldwide. In 2023, more than 11 million U.S. family and friends contributed 18 billion hours of unpaid care, often at the cost of their own physical and mental health. These informal caregivers -- also referred as the \"invisible second patients\" -- experience elevated rates of mental health problems. Yet research commonly reduces their complex psychosocial experiences to a single construct of caregiver burden,",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Illusion of Improvement: Reject Inference Strategies in Credit Scoring",
-      "url": "https://arxiv.org/abs/2606.18479",
-      "summary": "arXiv:2606.18479v1 Announce Type: cross Abstract: Reject inference methods are widely used to mitigate survival bias in credit scoring, yet their effectiveness remains poorly understood. We systematically evaluate several such methods and uncover a structural failure mode: in a natural retraining cycle, models whose accuracy improves while recall collapses create an illusion of improvement that leads practitioners to believe the system is getting better when, in fact, its rejection quality -- the ability to correctly screen out defaulters -- is deteriorating. We then propose a controlled explo",
+      "title": "Digital Speech Acts Retain Control of Copyright with People, Not Platforms",
+      "url": "https://arxiv.org/abs/2606.19263",
+      "summary": "arXiv:2606.19263v1 Announce Type: cross Abstract: Legal precedents protect computer code as copyrightable expression. They have enabled centralized digital platforms -- operating from corporate servers that hold all user data -- to construct private governance regimes through the interaction of copyright, contract, and technical architecture: people who create virtually all platform value must surrender effective copyright control through Terms of Service agreements as a condition of participation. In contrast, grassroots platforms consist of cryptographically-identified people operating their",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Designing L5: A Permacomputing Approach to Creative Coding",
-      "url": "https://arxiv.org/abs/2606.18481",
-      "summary": "arXiv:2606.18481v1 Announce Type: cross Abstract: Creative coding libraries provide high-level tools that make computational and algorithmic art accessible to artists and learners. Processing/p5 is one such family of libraries, known for its beginner-friendly approach and wide reach across artistic and technical communities. L5 is a new member of this family, implemented in Lua using the LOVE framework. It applies permacomputing principles, a movement addressing sustainability in computing inspired by permaculture, bringing these values to a community of practice not historically centered on t",
+      "title": "Correct Yourself, Keep My Trust: How Self-Correction and Social Connection Shape Credibility in Social Chatbots",
+      "url": "https://arxiv.org/abs/2606.19286",
+      "summary": "arXiv:2606.19286v1 Announce Type: cross Abstract: When social chatbots make mistakes, and they do, how they recover determines whether users trust them again. Social chatbots are increasingly integrated into everyday life, yet they remain prone to generating convincing but inaccurate information. The social connection they build with users makes such errors particularly consequential. We conducted a between-subjects experiment (N=120) comparing three error correction strategies: a webpage retraction, self-correction by the same social chatbot, and correction by an expert chatbot. Our results r",
       "published": "2026-06-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
