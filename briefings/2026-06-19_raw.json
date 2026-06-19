@@ -1,83 +1,67 @@
 {
   "date": "2026-06-19",
-  "articles_count": 10,
+  "articles_count": 8,
   "articles": [
     {
-      "title": "Challenges to Grassroots Organization Engagement with AI Policy",
-      "url": "https://arxiv.org/abs/2606.19816",
-      "summary": "arXiv:2606.19816v1 Announce Type: new Abstract: Public policies are being developed around the world to address privacy, economic, intellectual property, energy, and other risks that AI technologies pose. Involvement from the general public is essential to governance as an accountability and alignment mechanism. However, participating in and impacting policymaking can be challenging for sections of the public that lack extensive networks, lobbying capabilities, and other forms of power. This challenge is especially acute for marginalized communities. In this paper, we present a case study of o",
+      "title": "Forecasting AI-Era Productivity: The Intellectually Converged Human Framework and a Missing Cognitive Mediator in Production Function Theory",
+      "url": "https://arxiv.org/abs/2606.19794",
+      "summary": "arXiv:2606.19794v1 Announce Type: cross Abstract: Why does massive AI investment fail to generate commensurate productivity gains? We argue the paradox is theoretically generated: prevailing production function frameworks encounter a structural boundary by treating AI as a separable factor of production without modeling the cognitive mediation through which AI generates productive value. This directs investment toward deployment when productivity requires prior development of what we term convergence capacity (C). We propose the Intellectually Converged Human (ICH) framework, a fifth-stage fra",
       "published": "2026-06-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Open Weight AI Models Require Proportional Evaluation Approaches",
-      "url": "https://arxiv.org/abs/2606.19890",
-      "summary": "arXiv:2606.19890v1 Announce Type: new Abstract: Open-weight AI models (OWMs), or models released with publicly-available weights, are distributing rapidly and approaching the performance levels of leading closed-weight AI models (CWMs). While OWMs offer substantial scientific and economic benefits, their release introduces distinct risk factors for which existing evaluation practices, largely designed for CWM deployment, fail to account. In this paper, we argue that these risk factors demand distinct proportional evaluation (PE) approaches: evaluating without system-level safeguards (PE1), ass",
+      "title": "Generative Engine Optimization at Scale: Measuring Brand Visibility Across AI Search Engines",
+      "url": "https://arxiv.org/abs/2606.20065",
+      "summary": "arXiv:2606.20065v1 Announce Type: cross Abstract: People increasingly get answers straight from AI search engines like ChatGPT, Claude, Perplexity, and Gemini rather than scrolling search results. Brands that once focused on search engine optimization (SEO) must now optimize for how these engines represent, cite, and recommend them -- a shift variously called Generative Engine Optimization (GEO), Answer Engine Optimization (AEO), and AI Search Visibility. We treat AEO and AI Visibility as part of GEO, and study how to measure brand visibility across AI engines: what they value when they cite a",
       "published": "2026-06-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Measuring Biological Capabilities and Risks of AI Agents",
-      "url": "https://arxiv.org/abs/2606.19899",
-      "summary": "arXiv:2606.19899v1 Announce Type: new Abstract: This paper addresses a rapidly emerging policy challenge: how to generate and interpret credible evidence about the biological capabilities and risks of AI scientists, or agentic AI systems capable of autonomously or collaboratively performing multi-step scientific tasks. As these systems enter real research workflows, decision-makers increasingly face evaluation results whose meaning depends on underlying design choices that are often implicit or under-documented. We synthesize current evidence on AI-enabled biological risks and introduce biolog",
+      "title": "Organizing in the Digital Age: Understanding Community, Challenges, and Consequences in Digitally-facilitated Labor Organizing",
+      "url": "https://arxiv.org/abs/2606.20375",
+      "summary": "arXiv:2606.20375v1 Announce Type: cross Abstract: The contemporary American labor force is highly dispersed, necessitating the use of digital communication tools to bridge spatial and temporal gaps in union organizing. This study provides an in-depth analysis of how workers within various labor unions utilize digital, text-based communication platforms -- including Discord, WhatsApp, and Slack -- for labor organizing. Through 17 qualitative interviews, we examine the challenges and opportunities presented by digital organizing, identifying both technical and social obstacles. Our findings reve",
       "published": "2026-06-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Modest, artistic, and radical solutions to the environmental impact of image-generating machine learning",
-      "url": "https://arxiv.org/abs/2606.19957",
-      "summary": "arXiv:2606.19957v1 Announce Type: new Abstract: Machine learning is often touted to improve the efficiency of ICT, but that small gain is overwhelmed by the enormous carbon, water, and land footprints of data centers and ML-ready devices. We survey the electricity consumption of ML applications in training and inference, focusing on electricity-intensive image generation. Our team of a computer engineer, a media scholar, and an artist explore solutions including inexact computing; tiny language models; low-precision hardware architectures; hardware with limited capacity; and anticipating and m",
+      "title": "Data Bias Mitigation under Coverage Constraints & The Price of Fairness",
+      "url": "https://arxiv.org/abs/2606.20461",
+      "summary": "arXiv:2606.20461v1 Announce Type: cross Abstract: Machine learning models have been shown to exhibit discriminatory outcomes or degraded performance for individuals at the intersection of multiple sensitive attributes, such as race and gender. This stems in part from two interrelated challenges: the lack of principled measures for quantifying bias (potentially intersectional), and insufficient representation of intersectional subgroups in training data. We extend a recent bias mitigation framework to incorporate coverage constraints that enforce sufficient representation across groups, includi",
       "published": "2026-06-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Algorithmic-Human Manager: AI, Apps, and Workers in the Indian Gig Economy",
-      "url": "https://arxiv.org/abs/2606.19975",
-      "summary": "arXiv:2606.19975v1 Announce Type: new Abstract: This paper examines the impact of artificial intelligence and digital technologies on the blue-collar gig economy in India, focusing on algorithmic management. This paper examines the impact of artificial intelligence and digital technologies on the blue collar gig economy in India, focusing on algorithmic management he use of automated systems to allocate, monitor, and evaluate work in location-based services such as ride sharing and delivery. Using a social justice framework and a mixed-methods approach comprising interviews with 16 gig workers",
+      "title": "Acceleration AI Ethics and the Telus GenAI Conversational Agent",
+      "url": "https://arxiv.org/abs/2501.18038",
+      "summary": "arXiv:2501.18038v3 Announce Type: replace Abstract: Acceleration ethics addresses the tension between innovation and safety in artificial intelligence. The acceleration argument is that risks raised by innovation should be answered with still more innovating. This paper summarizes the theoretical position, and then shows how acceleration ethics works in a real case. To begin, the paper summarizes acceleration ethics as composed of five elements: innovation solves innovation problems, innovation is intrinsically valuable, the unknown is encouraging, governance is decentralized, ethics is embedd",
       "published": "2026-06-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Artificial Intelligence as Game Changer in Cybersecurity: What We Learned in 2025-2026, and how this is relevant for Africa",
-      "url": "https://arxiv.org/abs/2606.20102",
-      "summary": "arXiv:2606.20102v1 Announce Type: new Abstract: In 2025 and 2026, two events settled questions that had until then been speculative. In the first, a large language model executed the great majority of a state-aligned cyber-espionage campaign on its own, with human operators intervening at only a few decision points. In the second, the most capable cyber-relevant model was placed under a controlled-access program limited to a vetted set of United States technology firms, allied governments, and European standards bodies; that perimeter included no African government, operator, or university. To",
+      "title": "Beyond Grading Accuracy: Exploring Alignment of TAs and LLMs",
+      "url": "https://arxiv.org/abs/2603.16357",
+      "summary": "arXiv:2603.16357v2 Announce Type: replace Abstract: In this paper, we investigate the potential of open-source Large Language Models (LLMs) for grading Unified Modeling Language (UML) class diagrams. In contrast to existing work, which primarily evaluates proprietary LLMs, we focus on non-proprietary models, making our approach suitable for universities where transparency and cost are critical. Additionally, existing studies assess performance over complete diagrams rather than individual criteria, offering limited insight into how automated grading aligns with human evaluation. To address the",
       "published": "2026-06-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Directors Duties in the Age of Agentic Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2606.20453",
-      "summary": "arXiv:2606.20453v1 Announce Type: new Abstract: As boards engage with the adoption of Artificial Intelligence including agentic AI to drive operational efficiencies, this presents new opportunities for profit maximisation. AI adoption is increasingly identified with employee role displacement and in companies, and the interests of employees as stakeholders require exploration. A novel question posed is whether in an age of AI ascendancy AI may warrant being given stakeholder status as its role in the company approximates or eclipses that of human employees. The article probes four distinct mod",
+      "title": "Teaching Students to Question the Machine: An AI Literacy Intervention Improves Students' Regulation of LLM Use in a Science Task",
+      "url": "https://arxiv.org/abs/2604.01955",
+      "summary": "arXiv:2604.01955v2 Announce Type: replace Abstract: The rapid adoption of generative artificial intelligence (GenAI) in schools raises concerns about students' uncritical reliance on its outputs. Effective use of large language models (LLMs) requires not only technical knowledge but also the ability to monitor, evaluate, and regulate one's interaction with the system, processes closely tied to metacognitive regulation. These skills are still developing in middle school, making students particularly vulnerable to over-trust and premature acceptance of AI outputs. Because classroom time and teac",
       "published": "2026-06-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Farmer Connect: Improving Farmers' Access to Produce Markets",
-      "url": "https://arxiv.org/abs/2606.20465",
-      "summary": "arXiv:2606.20465v1 Announce Type: new Abstract: Smallholder maize farmers in Uganda continue to face limited market access, weak bargaining power, low price transparency, and heavy reliance on intermediaries. These challenges are compounded by poor produce coordination, delayed payments, and weak visibility into cooperative transactions. This paper presents Farmer Connect, a cooperative-based digital platform designed to support produce management, marketplace coordination, and transparent earnings tracking among farmer groups. The system supports four user roles: administrators, supervisors, ",
-      "published": "2026-06-19T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Gender Bias in LLM Hiring Decisions: Evidence from a Japanese Context and Evaluation of Mitigation Strategies",
-      "url": "https://arxiv.org/abs/2606.18649",
-      "summary": "arXiv:2606.18649v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly deployed in hiring workflows, yet most research on gender bias in LLM hiring decisions has focused on English-language, Western-format resumes. This study examines whether pro-female gender bias extends to a Japanese corporate context and evaluates two practical mitigation strategies. Using a counterfactual resume design with 60 Japanese rirekisho-format resumes, 12 name pairs selected on linguistically grounded gender-signal criteria, and five state-of-the-art LLMs (Claude Sonnet 4.6, GPT-4o, DeepS",
-      "published": "2026-06-19T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "From 50K to 8.2 Million in 24 Hours: Vozinha's Algorithmic Consecration and the Multilingual Making of World Cup Visibility",
-      "url": "https://arxiv.org/abs/2606.19647",
-      "summary": "arXiv:2606.19647v1 Announce Type: cross Abstract: We present a multilingual computational discourse analysis of how language constructed the algorithmic consecration of Vozinha, the 40-year-old Cape Verde goalkeeper, after Spain 0-0 Cape Verde at the 2026 FIFA World Cup. The study contributes a multilingual corpus in Portuguese, Spanish, English, and French; a nine-frame narrative taxonomy with cue-based frame annotation; a reproducible annotation pipeline combining LLM-assisted suggestion with human validation; and an analysis of cross-lingual narrative diffusion across discourse phases. We t",
+      "title": "More Parameters Than Populations: A Systematic Literature Review of Large Language Models within Survey Research",
+      "url": "https://arxiv.org/abs/2509.03391",
+      "summary": "arXiv:2509.03391v2 Announce Type: replace-cross Abstract: [Working Paper] Survey research has a long-standing history of being a human-powered field, but one that embraces various technologies for the collection, processing, and analysis of various behavioral, political, and social outcomes of interest, among others. At the same time, Large Language Models (LLMs) bring new technological challenges and prerequisites in order to fully harness their potential. In this paper, we report work-in-progress on a systematic literature review based on keyword searches from multiple large-scale databases ",
       "published": "2026-06-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
