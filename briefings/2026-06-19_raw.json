@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-19",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Challenges to Grassroots Organization Engagement with AI Policy",
+      "url": "https://arxiv.org/abs/2606.19816",
+      "summary": "arXiv:2606.19816v1 Announce Type: new Abstract: Public policies are being developed around the world to address privacy, economic, intellectual property, energy, and other risks that AI technologies pose. Involvement from the general public is essential to governance as an accountability and alignment mechanism. However, participating in and impacting policymaking can be challenging for sections of the public that lack extensive networks, lobbying capabilities, and other forms of power. This challenge is especially acute for marginalized communities. In this paper, we present a case study of o",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Open Weight AI Models Require Proportional Evaluation Approaches",
+      "url": "https://arxiv.org/abs/2606.19890",
+      "summary": "arXiv:2606.19890v1 Announce Type: new Abstract: Open-weight AI models (OWMs), or models released with publicly-available weights, are distributing rapidly and approaching the performance levels of leading closed-weight AI models (CWMs). While OWMs offer substantial scientific and economic benefits, their release introduces distinct risk factors for which existing evaluation practices, largely designed for CWM deployment, fail to account. In this paper, we argue that these risk factors demand distinct proportional evaluation (PE) approaches: evaluating without system-level safeguards (PE1), ass",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Measuring Biological Capabilities and Risks of AI Agents",
+      "url": "https://arxiv.org/abs/2606.19899",
+      "summary": "arXiv:2606.19899v1 Announce Type: new Abstract: This paper addresses a rapidly emerging policy challenge: how to generate and interpret credible evidence about the biological capabilities and risks of AI scientists, or agentic AI systems capable of autonomously or collaboratively performing multi-step scientific tasks. As these systems enter real research workflows, decision-makers increasingly face evaluation results whose meaning depends on underlying design choices that are often implicit or under-documented. We synthesize current evidence on AI-enabled biological risks and introduce biolog",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Modest, artistic, and radical solutions to the environmental impact of image-generating machine learning",
+      "url": "https://arxiv.org/abs/2606.19957",
+      "summary": "arXiv:2606.19957v1 Announce Type: new Abstract: Machine learning is often touted to improve the efficiency of ICT, but that small gain is overwhelmed by the enormous carbon, water, and land footprints of data centers and ML-ready devices. We survey the electricity consumption of ML applications in training and inference, focusing on electricity-intensive image generation. Our team of a computer engineer, a media scholar, and an artist explore solutions including inexact computing; tiny language models; low-precision hardware architectures; hardware with limited capacity; and anticipating and m",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Algorithmic-Human Manager: AI, Apps, and Workers in the Indian Gig Economy",
+      "url": "https://arxiv.org/abs/2606.19975",
+      "summary": "arXiv:2606.19975v1 Announce Type: new Abstract: This paper examines the impact of artificial intelligence and digital technologies on the blue-collar gig economy in India, focusing on algorithmic management. This paper examines the impact of artificial intelligence and digital technologies on the blue collar gig economy in India, focusing on algorithmic management he use of automated systems to allocate, monitor, and evaluate work in location-based services such as ride sharing and delivery. Using a social justice framework and a mixed-methods approach comprising interviews with 16 gig workers",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Artificial Intelligence as Game Changer in Cybersecurity: What We Learned in 2025-2026, and how this is relevant for Africa",
+      "url": "https://arxiv.org/abs/2606.20102",
+      "summary": "arXiv:2606.20102v1 Announce Type: new Abstract: In 2025 and 2026, two events settled questions that had until then been speculative. In the first, a large language model executed the great majority of a state-aligned cyber-espionage campaign on its own, with human operators intervening at only a few decision points. In the second, the most capable cyber-relevant model was placed under a controlled-access program limited to a vetted set of United States technology firms, allied governments, and European standards bodies; that perimeter included no African government, operator, or university. To",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Directors Duties in the Age of Agentic Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2606.20453",
+      "summary": "arXiv:2606.20453v1 Announce Type: new Abstract: As boards engage with the adoption of Artificial Intelligence including agentic AI to drive operational efficiencies, this presents new opportunities for profit maximisation. AI adoption is increasingly identified with employee role displacement and in companies, and the interests of employees as stakeholders require exploration. A novel question posed is whether in an age of AI ascendancy AI may warrant being given stakeholder status as its role in the company approximates or eclipses that of human employees. The article probes four distinct mod",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Farmer Connect: Improving Farmers' Access to Produce Markets",
+      "url": "https://arxiv.org/abs/2606.20465",
+      "summary": "arXiv:2606.20465v1 Announce Type: new Abstract: Smallholder maize farmers in Uganda continue to face limited market access, weak bargaining power, low price transparency, and heavy reliance on intermediaries. These challenges are compounded by poor produce coordination, delayed payments, and weak visibility into cooperative transactions. This paper presents Farmer Connect, a cooperative-based digital platform designed to support produce management, marketplace coordination, and transparent earnings tracking among farmer groups. The system supports four user roles: administrators, supervisors, ",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Gender Bias in LLM Hiring Decisions: Evidence from a Japanese Context and Evaluation of Mitigation Strategies",
+      "url": "https://arxiv.org/abs/2606.18649",
+      "summary": "arXiv:2606.18649v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly deployed in hiring workflows, yet most research on gender bias in LLM hiring decisions has focused on English-language, Western-format resumes. This study examines whether pro-female gender bias extends to a Japanese corporate context and evaluates two practical mitigation strategies. Using a counterfactual resume design with 60 Japanese rirekisho-format resumes, 12 name pairs selected on linguistically grounded gender-signal criteria, and five state-of-the-art LLMs (Claude Sonnet 4.6, GPT-4o, DeepS",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From 50K to 8.2 Million in 24 Hours: Vozinha's Algorithmic Consecration and the Multilingual Making of World Cup Visibility",
+      "url": "https://arxiv.org/abs/2606.19647",
+      "summary": "arXiv:2606.19647v1 Announce Type: cross Abstract: We present a multilingual computational discourse analysis of how language constructed the algorithmic consecration of Vozinha, the 40-year-old Cape Verde goalkeeper, after Spain 0-0 Cape Verde at the 2026 FIFA World Cup. The study contributes a multilingual corpus in Portuguese, Spanish, English, and French; a nine-frame narrative taxonomy with cue-based frame annotation; a reproducible annotation pipeline combining LLM-assisted suggestion with human validation; and an analysis of cross-lingual narrative diffusion across discourse phases. We t",
+      "published": "2026-06-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
