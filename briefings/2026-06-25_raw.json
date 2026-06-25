@@ -1,83 +1,43 @@
 {
   "date": "2026-06-25",
-  "articles_count": 10,
+  "articles_count": 5,
   "articles": [
     {
-      "title": "Cross-Subject Predictive Validity for Learning Outcomes of Delayed Start Behavior",
-      "url": "https://arxiv.org/abs/2606.25308",
-      "summary": "arXiv:2606.25308v1 Announce Type: new Abstract: Behavioral detectors provide valuable insights into learner motivation and self-regulation. Among these, delayed start, a new session-level detector, has shown great promise as a valid behavioral measure that generalizes well across systems. In this paper, we examine cross-subject predictive validity of delayed start behavior. Using iReady data from 711 grade 7 students, we find delayed starts during Math practice are predictive of standardized test performance in both Math ($\\beta$=.07 SD, p=.02) and English ($\\beta$=.10 SD, p= 13 minutes averag",
+      "title": "A Marketplace for AI-Generated Adult Content and Deepfakes",
+      "url": "https://arxiv.org/abs/2601.09117",
+      "summary": "arXiv:2601.09117v3 Announce Type: replace Abstract: Generative AI systems increasingly enable the production of highly realistic synthetic media. Civitai, a popular community-driven platform for AI-generated content, operates a monetized feature called Bounties, which allows users to commission the generation of content in exchange for payment. To examine how this mechanism is used and what content it incentivizes, we conduct a longitudinal analysis of all publicly available bounty requests collected over a 14-month period following the platform's launch. We find that the bounty marketplace is",
       "published": "2026-06-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Causal Discovery to Implementation: An Agentic AI Framework for E-Scooter Mobility Hub Planning Across 29 German Cities",
-      "url": "https://arxiv.org/abs/2606.25484",
-      "summary": "arXiv:2606.25484v1 Announce Type: new Abstract: Existing approaches to e-scooter mobility hub planning lack city-type-specific causal evidence. Demand models are typically correlational, built on proprietary trip data, and do not distinguish how driver profiles vary across urban typologies. This paper presents a three-phase agentic AI framework that constructs a Causal Template Library from public GBFS data across 29 German cities, encoding which environmental features causally drive hotspot demand for each combination of city type (large, university, industrial, hilly) and cluster type (core,",
+      "title": "Edge interventions can mitigate demographic and prestige disparities in the Computer Science coauthorship network",
+      "url": "https://arxiv.org/abs/2506.04435",
+      "summary": "arXiv:2506.04435v2 Announce Type: replace-cross Abstract: Social factors such as demographic traits and institutional prestige structure the creation and dissemination of ideas in academic publishing. One place these effects can be observed is in how central or peripheral a researcher is in the coauthorship network. Here we investigate inequities in network centrality in a hand-collected data set of 5,670 U.S.-based faculty employed in Ph.D.-granting Computer Science departments and their DBLP coauthorship connections. We introduce algorithms for combining name- and perception-based demographi",
       "published": "2026-06-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Bridging Predictions and Interventions: An Integrated Framework for Automated Decision-Systems",
-      "url": "https://arxiv.org/abs/2606.25668",
-      "summary": "arXiv:2606.25668v1 Announce Type: new Abstract: Automated decision systems (ADS) leverage predictions about individual future outcomes to inform consequential decision-making in organizational settings. Across various settings - including criminal pretrial release, clinical triage, student support, and more - it is often assumed that improved predictive accuracy is the priority consideration in determining better downstream outcomes upon the deployment of ADS. In practice, real-world case studies reveal that this is far from the case: introducing individual predictions into decision-making mod",
+      "title": "When Networks Substitute for Outcome Surveillance? A Substitution-Complementarity Framework for Behavioral Signals in Predictive Monitoring",
+      "url": "https://arxiv.org/abs/2510.20025",
+      "summary": "arXiv:2510.20025v2 Announce Type: replace-cross Abstract: Monitoring systems increasingly fuse dynamic behavioral data with outcome-based surveillance, raising a basic question: when does behavioral data carry predictive information that outcome history lacks? We study this using epidemic forecasting on mobility networks, asking whether mobility networks provide independent predictive signal beyond local outcome-based surveillance. We formalize this as a substitution-complementarity problem over directed, weighted mobility networks. Using a Frisch-Waugh-Lovell variance decomposition, our analy",
       "published": "2026-06-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Small edits, large models: How Wikipedia advocacy shapes LLM values",
-      "url": "https://arxiv.org/abs/2606.24890",
-      "summary": "arXiv:2606.24890v1 Announce Type: cross Abstract: Can a small group of volunteers shape how AI systems discuss animal welfare, just by editing Wikipedia? We show that they can. Wikipedia appears in nearly every major language model training dataset and is weighted more heavily than web-crawled text. The Pro-Animal Wikipedians (PAW), a group of advocates who add sourced animal welfare content to relevant articles, have made 125 edits across 115 pages. Using gradient-based data attribution (Bergson; MAGIC), we traced how these edits influence language model behavior. TrackStar retrieval attribut",
+      "title": "Paid Voices vs. Public Feeds: Interpretable Cross-Platform Theme-Based Analysis of Climate Discourse",
+      "url": "https://arxiv.org/abs/2601.13317",
+      "summary": "arXiv:2601.13317v2 Announce Type: replace-cross Abstract: Climate discourse online shapes public understanding of climate change and informs political and policy debate, yet it unfolds across structurally different environments: paid advertising platforms host targeted, institutionally produced messaging, while public social media reflects largely organic, user-driven discussion. We present a comparative analysis of climate discourse across paid advertisements on Meta (previously Facebook) and public posts on Bluesky from July 2024 to September 2025. To support it, we develop an interpretable ",
       "published": "2026-06-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Why Memory Components Fail: Eight Years of License and Sustainability Events in Open-Source Data Infrastructure",
-      "url": "https://arxiv.org/abs/2606.24896",
-      "summary": "arXiv:2606.24896v1 Announce Type: cross Abstract: LLM agent memory is now treated as a first-class architectural component in five major surveys published between January and April 2026. None of these surveys treats project governance, capital structure, or license posture as architectural variables. We argue they are. In a constructed sample of 105 production-relevant open-source data-infrastructure and AI-tooling projects, we catalogue 38 license-and-sustainability events between 2018 and May 2026. About a quarter of the sample (24 percent) experienced at least one adverse event. The conditi",
-      "published": "2026-06-25T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "LLM Performance on a Real, Double-Marked GCSE Benchmark",
-      "url": "https://arxiv.org/abs/2606.24973",
-      "summary": "arXiv:2606.24973v1 Announce Type: cross Abstract: We introduce a dataset of 32,534 double-marked real student responses to GCSE mock exams (GCSEs are the UK's national exams, taken at age ~16), spanning 328 questions across five subjects and including handwritten work. We test whether off-the-shelf large language models agree with examiners as closely as the two examiners agree with each other. We find that models overwhelmingly agree well with the examiner consensus across subjects, with the top performing models agreeing more closely with examiners than examiners agree with each other. Model",
-      "published": "2026-06-25T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Machine learning is revolutionizing weather forecasting -- the next step is a change in how we work",
-      "url": "https://arxiv.org/abs/2606.25076",
-      "summary": "arXiv:2606.25076v1 Announce Type: cross Abstract: Following the success of machine learning in producing weather predictions with competitive skill compared to complex traditional systems, this article shifts attention from forecast output to the working practices that make prediction systems possible. We argue that machine learning and recent digital technologies will reshape the forecasting value chain: how models are coded and developed, how observations and Earth-system data are exploited, how data and computing are managed, how systems are verified, and how information is created, evaluat",
-      "published": "2026-06-25T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Fifty Years of Specification Completeness: What Aviation Certification Tells AI Governance About Epoch Limits, Proof Surfaces, and the Structural Gap",
-      "url": "https://arxiv.org/abs/2606.25120",
-      "summary": "arXiv:2606.25120v1 Announce Type: cross Abstract: Aviation software certification has operationalised three structural requirements for governed software systems since 1992: structured governance linkage between governing specifications and operational evidence, context-bounded validity that triggers revalidation when operational context changes, and an objective evidence architecture that defines what proof means and what makes it sufficient. These requirements appear in DO-178C and DO-330 and are enforced through FAA and EASA certification. No existing framework requires these structural pro",
-      "published": "2026-06-25T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Data-Driven Evolution of Library and Information Science Research Methods (1990-2022): A Perspective Based on Fine-grained Method Entities",
-      "url": "https://arxiv.org/abs/2606.25320",
-      "summary": "arXiv:2606.25320v1 Announce Type: cross Abstract: Since the 1990s, advancements in big data and information technology have increasingly driven data-centric research in the field of Library and Information Science (LIS). To assess the influence of this data-driven research paradigm on the LIS discipline, this study conducts a fine-grained analysis to uncover the evolutionary trends of research methods within the domain. Using academic papers from LIS published between 1990 and 2022, four key categories of data-driven method entities are automatically extracted: algorithms and models, data reso",
-      "published": "2026-06-25T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "How Large Language Models Source Brand Reputation Across Languages and Markets",
-      "url": "https://arxiv.org/abs/2606.25787",
-      "summary": "arXiv:2606.25787v1 Announce Type: cross Abstract: When a large language model (LLM) answers a question about a company, it grounds the answer in retrieved web sources, and those sources decide what the model says. Most analysis of AI brand visibility looks at the answer text. This study looks one step earlier, at the citations. We merge three Rankfor.AI datasets covering 128 brands across 12 home markets and 13 languages, and analyse 167,551 URL-grounded citations (189,974 total attribution rows). We classify each citation by domain and source type and measure where AI gets its brand informati",
+      "title": "The Token Not Taken: Sampling, State, and the Stochasticity of AI Agents",
+      "url": "https://arxiv.org/abs/2606.08998",
+      "summary": "arXiv:2606.08998v2 Announce Type: replace-cross Abstract: Agentic AI systems can behave differently across runs: the same request may produce a different plan, a different tool call, a different code edit, or a different final answer. Such variability arises from several layers that are often conflated. At the core of many current agents is a foundation model, a large pretrained model adaptable to many downstream tasks, embedded in an orchestration loop that plans, calls tools, observes results, and updates state. One explicit intrinsic source of variability in such systems is token generation",
       "published": "2026-06-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
