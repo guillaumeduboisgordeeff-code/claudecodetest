@@ -1,0 +1,86 @@
+{
+  "date": "2026-06-26",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Benchmarking Open-Weight Foundation Models for Global AI Technical Governance",
+      "url": "https://arxiv.org/abs/2606.26099",
+      "summary": "arXiv:2606.26099v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed in artificial intelligence (AI) governance analysis across national and international organisations. There is, however, growing evidence that such models produce significantly less accurate responses for countries that are underrepresented in their training data-a pattern described in existing literature as geographic bias. Existing studies examining this phenomenon are subject to three methodological limitations that together undermine their findings: (1) reliance on proprietary systems whos",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Simulating Eating Disorder Patients with LLMs: Evaluating Psychological Persona Stability in Multi-Turn Conversations",
+      "url": "https://arxiv.org/abs/2606.26109",
+      "summary": "arXiv:2606.26109v1 Announce Type: new Abstract: Large language model (LLM)-based simulations of clinical patients are increasingly used for research and training, yet their validity requires persona stability: coherent maintenance of an assigned psychological profile across and within conversations. We evaluate this prerequisite using eating disorder personas grounded in five published case vignettes, a dual-assessment framework (self-report + independent observer ratings), and validated psychometric instruments (EDE-Q) with known ground-truth scores. Across six LLMs and two experiments (betwe",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Generative AI and Copyright Infringement: A Legal-Technical Analysis of AI Music Generation Systems Under 17 U.S.C. Title 17",
+      "url": "https://arxiv.org/abs/2606.26111",
+      "summary": "arXiv:2606.26111v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) has enabled users to synthesize music with text prompts, combining copyrighted lyrics, AI-composed melodies, and synthetic vocals that imitate real artists. This paper examines the legal and technical dimensions of AI-based music creation (e.g., Google Gemini's music tools) under U.S. copyright law. We analyze whether a user who inputs one artist's protected lyrics into a GenAI system, directs it to use another artist's voice or style, publishes the resulting song, and monetizes it violates 17 U.S.C. Sec",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Dream machine -- the next creative economy",
+      "url": "https://arxiv.org/abs/2606.26114",
+      "summary": "arXiv:2606.26114v1 Announce Type: new Abstract: We examine the structural transformation of creative industries under generative artificial intelligence, drawing on 374 primary sources spanning policy documents, industry data, creator surveys, and platform analytics. Beginning with the December 2024 release of OpenAI's Sora video model as a watershed event, we trace the historical pattern of creative resistance to technological disruption, then develop an analytical framework -- the Human-AI Agency Continuum for mapping the spectrum of human and machine collaboration in creative work. We prese",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Multi-Layer AI Framework for Information Landscape Analysis",
+      "url": "https://arxiv.org/abs/2606.26115",
+      "summary": "arXiv:2606.26115v1 Announce Type: new Abstract: This paper proposes a multi-layer AI framework for information landscape analysis in the context of information disorder. Rather than treating misinformation detection as a binary fact-checking task, the framework analyzes political and media content across multiple dimensions, including source reliability, factual structure, framing, bias, emotional activation, manipulation patterns, and propagation dynamics. The goal is to move beyond isolated claim verification toward a structured representation of the informational environment surrounding an ",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Divergent Recommendations, Convergent Diagnoses: Cross-Provider Failure-Mode Convergence in AI Commercial Recommendation",
+      "url": "https://arxiv.org/abs/2606.26116",
+      "summary": "arXiv:2606.26116v1 Announce Type: new Abstract: A brand whose customers use both ChatGPT and Claude for product recommendations faces a strategic choice: a single optimization playbook, or one per provider? Across 215 commercially-framed prompts in four measurement batches, the two providers disagree on which brands they recommend roughly two-thirds of the time (cross-provider recommendation Jaccard 0.35, below the 0.50-0.61 same-prompt rerun baseline). The picks diverge. But when neither provider recommends a brand, we classify the failure into one of three modes -- discoverability (the brand",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Governance Inversion Hypothesis: Why More AI Regulation May Produce Less Organisational Control",
+      "url": "https://arxiv.org/abs/2606.26117",
+      "summary": "arXiv:2606.26117v1 Announce Type: new Abstract: This paper introduces the Governance Inversion Hypothesis (GIH) to explain a growing paradox in artificial intelligence (AI) governance: under conditions of increasing regulatory expansion and technological complexity, organisations may become more formally governed while simultaneously experiencing a decline in operational control over AI systems. Existing AI governance frameworks generally assume that stronger regulation improves accountability, oversight, and organisational control. This paper challenges that assumption by arguing that governa",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Open Source Economic Index of AI Adoption and Capability",
+      "url": "https://arxiv.org/abs/2606.26118",
+      "summary": "arXiv:2606.26118v1 Announce Type: new Abstract: We work towards measuring both AI adoption and the capability of AI to perform discrete labor tasks across various occupations. To measure adoption, we develop an open-source economic index that uses publicly available user-LLM chat data and O*NET tasks to replicate studies produced by frontier AI labs, finding that occupations in the finance, computer science, and arts sectors are those with the highest adoption rates. To measure capabilities, we build a system that generates benchmark scenarios grounded in O*NET occupations, tasks, and model-co",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Effortless Trap: Productive Struggle, AI, and the Illusion of Learning",
+      "url": "https://arxiv.org/abs/2606.26181",
+      "summary": "arXiv:2606.26181v1 Announce Type: new Abstract: With AI advancing fast, educators face a dilemma: allow the tool or ban it. Conflicting evidence that it both helps and hurts learning only deepens the confusion. The allow-or-ban framing is a false dichotomy; the relevant design question is placement. Used well, AI can scale feedback, examples, practice, and individualized support. Used poorly, it replaces the cognitive work that learning requires and leaves an illusion of learning: a confident sense of mastery that collapses on the unaided task. The strongest causal evidence shows the outcome f",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Enterprise Data Asset Quality: A Management-Standard Conformity-Benefit Realization Framework and Formation Mechanisms",
+      "url": "https://arxiv.org/abs/2606.26186",
+      "summary": "arXiv:2606.26186v1 Announce Type: new Abstract: Motivated by the limited standardization of enterprise data asset quality evaluation and the unclear relationship between assessment outcomes and value realization, this study develops a three-dimensional framework comprising Data Asset Management Capability, Data Quality Standard Conformity, and Data Asset Benefit Realization Capability, based on grounded theory and LDA topic modeling. To examine the formation mechanisms of data asset quality, this study adopts a multi-method approach combining PLS-SEM, Necessary Condition Analysis (NCA), and fu",
+      "published": "2026-06-26T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
