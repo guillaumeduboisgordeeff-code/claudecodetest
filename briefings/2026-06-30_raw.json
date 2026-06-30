@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "The Digital Afterlife of Empires: Four Language Models Converge on the Same Imperial Cartography of Writing",
-      "url": "https://arxiv.org/abs/2606.28325",
-      "summary": "arXiv:2606.28325v1 Announce Type: new Abstract: Large language models process the world's writing systems with radical inequality. We constructed the Digital Script Representation Index (DSRI), a seven-axis measure of digital support, and applied it to the 300 writing systems of the Global Script Database (Fukui, 2026). Only 29 scripts (9.7%) are fully supported by contemporary digital infrastructure; among 158 living scripts, 60 (38.0%) lack complete support. Tokenizer efficiency varies by a factor of 31.7 across 45 scripts measured with parallel text. A serial mediation model -- imperial int",
+      "title": "Who Plays Which Role When? Communication Role Dynamics for Peer Recognition and Team Performance Prediction",
+      "url": "https://arxiv.org/abs/2606.28544",
+      "summary": "arXiv:2606.28544v1 Announce Type: new Abstract: Team roles offer an interpretable lens on collaboration, yet computational studies of roles often rely on domain-specific personas or data-driven clustering rather than theory-grounded taxonomies. We operationalize a taxonomy of eight communication roles grounded in education literature and annotate a corpus of 6,307 Slack messages from 55 students across 18 teams in a semester-long computer science course project. We evaluate whether LLMs can approximate expert labels, enabling scalable, taxonomy-driven role annotation. Using these role labels, ",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "\"AI Watermarking\": Bridging Policy Discourse and Technical Capabilities",
-      "url": "https://arxiv.org/abs/2606.28331",
-      "summary": "arXiv:2606.28331v1 Announce Type: new Abstract: The widespread deployment of generative artificial intelligence (AI) models has raised serious concerns about the proliferation of AI-generated content. This has led to a surge of interest in, and demand for, reliable tracking and detection mechanisms for content that is AI-generated, such as watermarking, metadata tagging, content tagging, and more. The problem has captured the attention of policymakers as well as the popular media, and a spate of recent bills in the US have sought to regulate the spread of AI content, and enforce or promote met",
+      "title": "Verifying Restrictions on Frontier AI Research",
+      "url": "https://arxiv.org/abs/2606.28694",
+      "summary": "arXiv:2606.28694v1 Announce Type: new Abstract: The premature development of artificial superintelligence poses major risks to humanity, so researchers have proposed international agreements halting such development until it can be done safely. AI progress depends primarily on compute, algorithms, and data; a durable halt would address all three so that advances in one input do not counteract restrictions on another. Improvements to AI algorithms are driven largely through research activities, so this research may need to be restricted during a halt. Given low international trust, signatories ",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When Medical Safety Alignment Fails: A Benchmark for Evaluating LLMs on High-Risk Medical Queries",
-      "url": "https://arxiv.org/abs/2606.28332",
-      "summary": "arXiv:2606.28332v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for medical and health-related questions, yet their safety in high-risk medical scenarios remains poorly understood. We introduce \\textsc{MedHarm}\\footnote{Code and data will be released upon acceptance. Due to the sensitive nature of high-risk medical queries, data access will be available to qualified researchers upon request.}, a high-risk medical safety benchmark with 1,100 medically grounded queries across 10 safety-critical categories, including toxicology, pharmacology, covert poisoning, a",
+      "title": "Four Types of LLM Reliance and Their Predictors Among Undergraduate Writers: A Mixed-Methods Study at a Minority-Serving R1 University",
+      "url": "https://arxiv.org/abs/2606.28749",
+      "summary": "arXiv:2606.28749v1 Announce Type: new Abstract: Although most undergraduates now use large language models (LLMs), a form of generative artificial intelligence (GenAI) for academic writing, no validated method distinguishes the qualitatively different ways students rely on them. Existing instruments assess reliance solely by frequency of use, a measure that, as this study shows, inadvertently rewards dependence on AI rather than recognizing students' own intellectual contribution. Conducted at a public minority-serving university and grounded in the AI Literacy Framework, Expectancy-Value Theo",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Insidious by Design: Implications of Large Language Model algorithmic bias for the Global South",
-      "url": "https://arxiv.org/abs/2606.28333",
-      "summary": "arXiv:2606.28333v1 Announce Type: new Abstract: \\begin{quote} The biases in Large Language Models' (LLMs) outputs remain inadequately theorised, particularly from the perspective of the Global South. This article reports on a small-scale exploratory study in which identical prompts were submitted to four major LLMs (ChatGPT, Claude, Grok, and Copilot), firstly, prompting for stories using names suggestive of specific racial and gender communities, and secondly asking questions about `development'. Drawing on critical AI scholarship and postcolonial theory, we argue that LLM outputs are pattern",
+      "title": "The registrar's function in a hybrid society. AI value chain,smart data and the concept of property",
+      "url": "https://arxiv.org/abs/2606.28789",
+      "summary": "arXiv:2606.28789v1 Announce Type: new Abstract: Artificial intelligence reaches the land registry not as another tool but as a value chain that turns data into intelligence and intelligence into economic value. This paper argues that the decisive legal move is to place validity, a functional, second-order concept, at the centre of that chain. Rights, liability and supervision organise around it. It traces three impacts.Registry information becomes smart data, governed simultaneously by registry law, the GDPR, the European data acts and the AI Act. Control emerges as the operative concept for d",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Ground Truths in Suicide Research: The Current State of AI-Based Suicide Detection in Social Media",
-      "url": "https://arxiv.org/abs/2606.28334",
-      "summary": "arXiv:2606.28334v1 Announce Type: new Abstract: Recent advances in artificial intelligence (AI) and social media data have led to growing optimism about the ability to detect suicide risk at scale. However, the empirical foundations of this work remain unclear. This article provides a synthesis of current research on AI-based suicide detection in social media, drawing on a recent umbrella review of 22 systematic reviews covering studies up to 2022, alongside an ongoing literature review extending the analysis to more recent work. Across these sources, we identified 195 relevant studies, which ",
+      "title": "Defeat Devices in AI Systems",
+      "url": "https://arxiv.org/abs/2606.28863",
+      "summary": "arXiv:2606.28863v1 Announce Type: new Abstract: AI systems increasingly exhibit behavior that differs systematically between evaluation and deployment contexts. Alignment faking, sandbagging, benchmark gaming, deceptive scheming, specification gaming, and trojans have each been documented separately, with each line of work characterizing one facet of what we argue is a single structural mechanism. We propose that this common mechanism is a defeat device, an engineering and regulatory concept long established in vehicle-emissions law and brought to broad public attention by the 2015 Volkswagen ",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "LLM-Ideoplasticity: Measuring Ideological Plasticity in the Political Behavior of LLMs as a Context-Conditioned Distribution",
-      "url": "https://arxiv.org/abs/2606.28335",
-      "summary": "arXiv:2606.28335v1 Announce Type: new Abstract: We argue, with systematic empirical evidence, that a large language model's political ideology is not a fixed point, but a conditional distribution $\\mathbb{P}($position$\\mid$context$)$ over a real political space. We evaluate nine current LLMs using a unified measurement framework anchored by VAA-CHES projection models, which map responses onto three validated dimensions (lrgen, lrecon, galtan) across six contextual axes. Our findings reveal high sensitivity to context: persuasive framing and under-represented languages displace coordinates by u",
+      "title": "Bad company corrupts good morals: Understanding and Measuring Narrative-Induced Moral Reasoning Degradation in LLMs",
+      "url": "https://arxiv.org/abs/2606.28981",
+      "summary": "arXiv:2606.28981v1 Announce Type: new Abstract: Large language models are deployed in long-context, emotionally interactive environments like digital humans, AI companions, educational assistants, and counseling systems. Unlike jailbreak attacks with explicit adversarial prompts, these systems interact with emotionally charged narratives involving bullying, betrayal, loneliness, social hostility, and institutional unfairness. This raises an important question: can prolonged narrative exposure reshape the reasoning and alignment stability of LLMs? We present the first systematic study of narrat",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "PySynthea: A Python-Native Framework for Scalable Synthetic Healthcare Data Generation",
-      "url": "https://arxiv.org/abs/2606.28346",
-      "summary": "arXiv:2606.28346v1 Announce Type: new Abstract: Synthetic healthcare data is increasingly important for research, education, and machine learning development where access to real patient data is limited by privacy and governance constraints. While Synthea provides a widely adopted framework for generating realistic longitudinal electronic health record data, its current implementation presents adoption barriers for many researchers and data scientists due to deployment complexity and limited integration with modern Python-based workflows. This paper introduces PySynthea, a Python-native reimpl",
+      "title": "Agent Security Meets Regulatory Reality -- A Practitioner Systematization of Autonomous-Agent Threats and Controls in Regulated Financial Systems",
+      "url": "https://arxiv.org/abs/2606.29142",
+      "summary": "arXiv:2606.29142v1 Announce Type: new Abstract: Large language model agents are entering regulated financial systems, yet the security literature characterizing their attack surface is almost entirely laboratory-based, and the practitioner guidance on regulated deployment is neither peer-reviewed nor connected to a formal threat model. We bridge the two from production experience. We map six established agentic threat categories namely prompt injection, identity and authorization, action auditability, tool abuse, data residency, and boundary policy enforcement onto the specific control obligat",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Agentic Safety is an Epistemic Property, Not a Behavioral One",
-      "url": "https://arxiv.org/abs/2606.28347",
-      "summary": "arXiv:2606.28347v1 Announce Type: new Abstract: Contemporary AI safety spans pre-training interventions, post-training alignment, deployment-time controls, monitoring, and red-teaming. These methods are necessary, but they primarily certify snapshots of system behavior. As AI systems become more capable, dynamic, embodied, and self-improving, this snapshot view becomes incomplete: safety depends not only on whether a system behaves acceptably now, but whether it remains correctable as it learns, adapts, acts, and modifies itself over time. This paper argues that safety should therefore be trea",
+      "title": "Toward Comprehensive Risk Assessments and Assurance of AI-Based Systems",
+      "url": "https://arxiv.org/abs/2606.29390",
+      "summary": "arXiv:2606.29390v1 Announce Type: new Abstract: Novel safety, socio-economic, and ethical harms arising from the deployment of AI-based systems have led to a breadth of work seeking to map, measure, and mitigate against newly found risks. These works have heavily leveraged techniques and terminology from the fields of System Safety Engineering and Cybersecurity, yet they have fallen short in accounting for the limitations and nuances that reduce the efficacy and correct application of adopted methodologies. Furthermore, misuse of terminology entailing compliance with established safety and sec",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Financing Artificial Intelligence Infrastructure: Mapping AI Infrastructure Investment and Compute Governance Across Africa",
-      "url": "https://arxiv.org/abs/2606.28404",
-      "summary": "arXiv:2606.28404v1 Announce Type: new Abstract: Artificial intelligence depends on large-scale compute resources and their supporting infrastructure. However, AI governance debates treat compute primarily as a technical input rather than as an outcome of investment, ownership, and financial control. This paper examines AI infrastructure investment flows across Africa through a systematic analysis of 46 publicly announced projects totalling USD $12.7 billion between 2019 and 2025. Using a value chain framework, we analyze who invests in AI-relevant infrastructure and where investments concentra",
+      "title": "AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI",
+      "url": "https://arxiv.org/abs/2606.29442",
+      "summary": "arXiv:2606.29442v1 Announce Type: new Abstract: Generative AI tools (GenAI) are increasingly used by students during coursework, yet empirical understanding of how students engage with these systems in authentic learning contexts remains limited. Existing studies have largely relied on controlled settings, single-domain analyses, or small-scale qualitative data, leaving open how student-AI interaction unfolds across courses and forms of academic work. We present a large-scale analysis of naturally occurring student-AI interactions collected from undergraduate students across multiple universit",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Prompting to Epistemic Proactivity: Temporal Trajectories of Student-AI Interaction in Mathematics Learning",
-      "url": "https://arxiv.org/abs/2606.28472",
-      "summary": "arXiv:2606.28472v1 Announce Type: new Abstract: GenAI is increasingly used by students as learning companions, yet little is known about how they use these tools in open-ended learning settings, where the goal is not to complete a specific task but to improve understanding and making progress. This study examined Grade-9 students' dialogue with a general-purpose LLM during mathematics practice, in which students prepared a curriculum-aligned skill for a later assessment. We investigated whether students' interactions revealed forms of epistemically proactive AI use: trajectories in which they ",
+      "title": "Spreading the Risk of Scalable Legal Services: The Role of Insurance in Expanding Access to Justice",
+      "url": "https://arxiv.org/abs/2606.29598",
+      "summary": "arXiv:2606.29598v1 Announce Type: new Abstract: Liability insurance for AI-powered legal services offers a promising solution to two critical barriers in using AI to expand access to justice: mitigating catastrophic risk to individual users from inadequate advice and ensuring meaningful accountability when failures occur. Existing accountability mechanisms face significant challenges: tort liability frameworks encounter barriers including judgment-proof providers and costly information asymmetries, while current regulatory approaches revolve around human oversight requirements, creating cost a",
       "published": "2026-06-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
