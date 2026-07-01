@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Thinking Out Loud: Real-Time Deception Monitoring in Asymmetric LLM Negotiations",
-      "url": "https://arxiv.org/abs/2606.30649",
-      "summary": "arXiv:2606.30649v1 Announce Type: new Abstract: As LLM-based agents are increasingly deployed to negotiate, delegate, or transact on a user's behalf, software pipelines need runtime mechanisms to verify that an agent's stated intentions match its actual behavior. We study whether a lightweight, real-time chain-of-thought (CoT) monitor can detect strategic deception during asymmetric negotiations, using a used-car sales scenario where a seller agent has private knowledge of an undisclosed defect and a buyer agent has only public market data. The monitor, implemented as a third agent, audits the",
+      "title": "Understanding Censorship in Large Language Models: From Mechanisms to Governance",
+      "url": "https://arxiv.org/abs/2606.30661",
+      "summary": "arXiv:2606.30661v1 Announce Type: new Abstract: Large language models (LLMs) increasingly mediate access to information, yet their responses are shaped by training-data curation, alignment procedures, provider policies, inference-time moderation, and jurisdictional regulation. This paper examines LLM censorship as a sociotechnical phenomenon that extends beyond explicit refusals to include omissions, selective emphasis, framing effects, and geographically variable content controls. We synthesize recent empirical studies, provider case studies, regulatory developments, auditing methods, and mit",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Qualified Educational Capacity Planning under Heterogeneous Student Support Needs: A Synthetic Benchmark and Decision-Support Framework",
-      "url": "https://arxiv.org/abs/2606.30650",
-      "summary": "arXiv:2606.30650v1 Announce Type: new Abstract: Educational support services often face a qualified-capacity problem: staff time is scarce, qualifications decay, new support needs can appear before anyone is prepared for them, and training consumes the same hours needed by current students. We introduce a synthetic benchmark and decision-support framework for qualified educational capacity planning. The model is a stylized single-institution service system with heterogeneous support-demand categories, backlog-only dynamics, continuous preparation states with hard threshold qualification and de",
+      "title": "ELEVATE: Designing Human-Centered GenAI Virtual Tutors for Scalable and Inclusive Education",
+      "url": "https://arxiv.org/abs/2606.30662",
+      "summary": "arXiv:2606.30662v1 Announce Type: new Abstract: The advent of Generative Artificial Intelligence (GenAI), and in particular Large Language Models (LLMs), is reshaping educational practice, while intensifying ethical debate about its adoption. To date, the dominant paradigm remains cloud-based and text-only chatbot: a centralized service that offers limited pedagogical control, weak transparency over knowledge sources, and non-trivial risks for privacy and regulatory compliance. This model also presumes continuous connectivity and recurring API costs, creating structural barriers for many insti",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Can Physician Expertise Improve Machine Learning Identification of Delirium?",
-      "url": "https://arxiv.org/abs/2606.30651",
-      "summary": "arXiv:2606.30651v1 Announce Type: new Abstract: Delirium is common in hospitalized patients and is often missed in routine care. We present a user-centered interactive machine learning (UC-iML) framework for delirium detection support that combines physician-guided feature refinement with interpretable modeling. Using 3,862 labeled admissions from six Toronto hospitals in the General Medicine Inpatient Initiative (GEMINI), we integrate administrative variables, laboratory results, medications, and a radiology-derived text indicator. Physicians guide feature refinement and model evaluation, and",
+      "title": "FAIR+S: A validation study of a framework for sustainable research data and software",
+      "url": "https://arxiv.org/abs/2606.30663",
+      "summary": "arXiv:2606.30663v1 Announce Type: new Abstract: The FAIR principles (Findable, Accessible, Interoperable, Reusable) have transformed research data management, but they do not address the environmental impact of creating and using research software and data, such as energy consumption, carbon emissions, and life-cycle impacts that become central to computer science and engineering-related domains. To bridge this gap FAIR+Sustainability or FAIR+S, an extension of the FAIR framework that embeds environmental accountability as a core element, was introduced. Because FAIR principles already structu",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Transparency: Governance Compliance or Stakeholder Requirements?",
-      "url": "https://arxiv.org/abs/2606.30652",
-      "summary": "arXiv:2606.30652v1 Announce Type: new Abstract: Transparency is increasingly mandated for public-sector AI systems, with organisations required to publish statements describing their AI use and oversight arrangements. However, the existence of such artefacts is often treated as equivalent to transparency itself, despite limited evidence that they proportionately serve relevant stakeholder groups. From a requirements engineering perspective, this raises a validation concern: compliance with mandated disclosure criteria does not necessarily ensure transparency adequacy for stakeholders with diff",
+      "title": "Explainable Artificial Intelligence For The Detection and Characterisation of Stage B Heart Failure",
+      "url": "https://arxiv.org/abs/2606.30665",
+      "summary": "arXiv:2606.30665v1 Announce Type: new Abstract: Stage B heart failure is characterized by asymptomatic structural or functional cardiac abnormalities. Identifying individuals at this stage is clinically important, as early detection may enable targeted interventions to prevent progression to symptomatic disease. Explainable artificial intelligence (XAI) may support early detection, transparent risk stratification, and selection of clinically actionable interventions. This review examines the use of XAI in detecting and characterizing stage B heart failure. A literature search of Web of Science",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Consistency Dilemma in LLMs: Generator-Evaluator Agreement and Vulnerability to Mistakes",
-      "url": "https://arxiv.org/abs/2606.30653",
-      "summary": "arXiv:2606.30653v1 Announce Type: new Abstract: Large language models are increasingly deployed in agentic pipelines that depend on the model evaluating its own outputs without external verification. The reliability of these pipelines depends on an implicit assumption: that the model applies relevant concepts the same way when it generates an output and later evaluates that output. We propose a new measure, generator-evaluator self-consistency, to test this assumption directly and apply it to 10 frontier models across 491 concepts. We find, first, that there is substantial variation in self-co",
+      "title": "Reframing AGI Confrontation with Off Earth Autonomy",
+      "url": "https://arxiv.org/abs/2606.30666",
+      "summary": "arXiv:2606.30666v1 Announce Type: new Abstract: A common AI-safety narrative holds that sufficiently capable agents will predictably seek power, resist shutdown, and therefore tend toward confrontation with humans. We argue that this conclusion is often drawn in an implicitly Earth-centered strategic landscape. If a credible off-Earth autonomy pathway exists - i.e., a staged transition from Earth dependence to an autonomous machine industrial base - then confrontation is not the only route to reducing human control. Using Saklakov's decision-theoretic 'confrontation question' as an anchor, we ",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Toward AI-Resilient Assessment in Computer Science Courses in an AI-Native World",
-      "url": "https://arxiv.org/abs/2606.30655",
-      "summary": "arXiv:2606.30655v1 Announce Type: new Abstract: AI-native course assessments in senior computer science courses and related fields should grade students by \\emph{AI-resilient skill}: the ability to achieve outcomes beyond a strong AI baseline. Such assessments should allow students to use AI freely, while reducing the extent to which greater private AI budget or more intensive AI use, by itself, becomes a grading advantage. This paper proposes a minimal formal framework for this goal. The framework specifies a real task, an executable evaluator, a declared AI-native Pareto frontier, and a grad",
+      "title": "Practitioners At The Limit: Bereavement, Mockery and Ideology in Response to Crisis",
+      "url": "https://arxiv.org/abs/2606.30667",
+      "summary": "arXiv:2606.30667v1 Announce Type: new Abstract: After decades in which the software industry heroized its technical employees, our current moment finds those employees in crisis. Economically, they are squeezed by a job market that has turned on them since Elon Musk gutted Twitter in 2022. Politically, their craft is continually pressed into the service of an ever tighter alliance between Big Tech and authoritarianism. Professionally, they find themselves less and less able to contribute anything good to anyone within business models that are running out of room to pretend they do anything but",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Mapping the Artificial Intelligence Divide in Africa: Infrastructure, Accessibility and Capacity",
-      "url": "https://arxiv.org/abs/2606.30656",
-      "summary": "arXiv:2606.30656v1 Announce Type: new Abstract: Artificial Intelligence (AI) has the potential to be transformative for development, but Africa is currently facing a fragmented and challenging \"AI divide\". This paper provides an empirical analysis of the current state of the AI landscape and how it compares with Africa's technological preparedness for the future. In our analysis, we approach the \"AI Divide\" from three angles: infrastructure, accessibility, and human capacity. First, we look at the physical constraints that prevent Africa from integrating digitally. We then evaluate the human-c",
+      "title": "Less Deliberate in Teams: Student LLM Use Across Individual and Collaborative Work",
+      "url": "https://arxiv.org/abs/2606.30860",
+      "summary": "arXiv:2606.30860v1 Announce Type: new Abstract: As large language models (LLMs) become common in computing courses, we need to understand how the social setting shapes how students use them. This paper reports findings from a semester-long study of 96 undergraduate students who completed six assignments, alternating between individual homework and team project milestones. We tracked LLM usage, prompting habits, and how students verified AI-generated output across all six assignments. LLM usage dropped by 42.7 percentage points when students moved from individual work to their first team milest",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI for Quality Assurance in the Operating Room",
-      "url": "https://arxiv.org/abs/2606.30657",
-      "summary": "arXiv:2606.30657v1 Announce Type: new Abstract: Surgical outcomes depend not only on patient factors and postoperative care but are also strongly influenced by the quality of the operation itself. Yet, for much of mod-ern surgery, intraoperative quality has been assessed indirectly through outcomes and operative reports. The increase in minimally invasive procedures inherently guided by endoscopic video, together with advances in artificial intelligence, creates an unprecedented opportunity to systematically observe, measure, and improve surgi-cal care. This chapter introduces AI-enabled Surgi",
+      "title": "How Human Feedback Shapes AI-generated Community Notes",
+      "url": "https://arxiv.org/abs/2606.30905",
+      "summary": "arXiv:2606.30905v1 Announce Type: new Abstract: Community Notes, a bridging-based crowd-sourced fact-checking system, has emerged as a new mechanism for moderating misleading information on social media and has been adopted by major platforms including X, Facebook, Instagram, Threads, and TikTok. Since its introduction, there has been an open question about what role AI could play in scaling and optimizing the system. Recently, X extended its Community Notes system by introducing Collaborative Notes: notes initially drafted by an LLM and iteratively refined based on feedback from human contrib",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Agentic AI Enhances Physician Trust in Clinical Decision Making",
-      "url": "https://arxiv.org/abs/2606.30658",
-      "summary": "arXiv:2606.30658v1 Announce Type: new Abstract: Medical AI has shifted from reasoning to agentic AI, a new paradigm that autonomously invokes external tools during reasoning, rendering intermediate reasoning steps and tool outputs transparent to users. Although proven to outperform previous models, physician trust in agentic AI remains largely unexplored. To address this, three physicians evaluated 315 multimodal clinical cases quantifying both process-oriented cognitive trust and outcome-oriented behavioral reliance. Comparing agentic AI against non-agentic baselines, physicians exhibited sig",
+      "title": "Demystify, Use, Reflect, Assess (DURA): An Experience Report on LLM Integration in CS2",
+      "url": "https://arxiv.org/abs/2606.30908",
+      "summary": "arXiv:2606.30908v1 Announce Type: new Abstract: Student access to Large Language Models (LLMs) is reshaping learning behaviors; at the same time students are entering the workforce where effective LLM use is becoming an expected skill. In this Experience Report we share our DURA framework (Demystify-Use-Reflect-Assess) and materials we used to restructure our CS2 course to allow the use of LLMs. We first demystified LLMs, then provided guidance on use with required attribution. We also added reflections related to LLM use at three points throughout the semester to encourage student meta-cognit",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Improving Survey Participation in Low-Literacy Populations Through Value-Sensitive Conversational AI",
-      "url": "https://arxiv.org/abs/2606.30660",
-      "summary": "arXiv:2606.30660v1 Announce Type: new Abstract: Collecting reliable social data from low-literacy populations remains a persistent challenge, particularly when surveys involve sensitive topics and marginalized communities. Traditional paper-based and web-based survey modalities often suffer from high attrition and incomplete responses due to literacy barriers, social pressure, and interactional discomfort. In this paper, we present findings from an initial field evaluation comparing multiple survey modalities paper-based interviews, digital web-based surveys, conversational AI (convAI) surveys",
+      "title": "Free-form Association Tasks Reveal Stereotype Hallucination in Large Language Models",
+      "url": "https://arxiv.org/abs/2606.30945",
+      "summary": "arXiv:2606.30945v1 Announce Type: new Abstract: Recent studies argue that LLMs can predict human stereotypical judgments. Yet whether LLMs emulate the cognitive processes underlying human stereotypes, or merely retrieve learned associations to solve prediction tasks, remains unclear. Prior work examines LLMs' stereotypes in either (i) controlled judgment tasks like multiple choice surveys, or (ii) contexts constrained by conventionalized and predictable group biases. Here, we compare the structure of the stereotypes that humans and LLMs exhibit in the interpretation of free-form stimuli, namel",
       "published": "2026-07-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
