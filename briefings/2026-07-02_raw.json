@@ -1,83 +1,75 @@
 {
   "date": "2026-07-02",
-  "articles_count": 10,
+  "articles_count": 9,
   "articles": [
     {
-      "title": "Towards an automated AI-based framework for floor plan compliance checks for residential buildings",
-      "url": "https://arxiv.org/abs/2607.00015",
-      "summary": "arXiv:2607.00015v1 Announce Type: new Abstract: To improve residents' well-being in Australia's urban areas, governments have introduced policy reforms such as SEPP65, BADS, and SPP7.3 to enhance apartment design quality. These regulations require precise geometric and spatial analysis to evaluate health-related features, including daylight access, natural ventilation, privacy, and space efficiency. However, compliance checking remains challenging due to its manual, time-intensive nature. Additionally, evolving policies limit scalability for large-scale assessments across thousands of apartmen",
+      "title": "Bounded Morality: Defining the Space of Moral Computation",
+      "url": "https://arxiv.org/abs/2607.00002",
+      "summary": "arXiv:2607.00002v1 Announce Type: cross Abstract: Moral cognition has traditionally been modeled as adherence to fixed ethical theories--deontology, consequentialism, virtue ethics--implemented as static rules or value functions. We propose Bounded Morality, a formal framework for analyzing the computational demands of moral problems faced by finite agents. Extending Herbert Simon's notion of bounded rationality, we formalize moral situations along two orthogonal dimensions: moral breadth, the scope of entities treated as morally relevant, and moral depth, the inferential integration required ",
       "published": "2026-07-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Limits of LLM Forecasting: Parametric Knowledge Gaps Across Conflict Zones",
-      "url": "https://arxiv.org/abs/2607.00018",
-      "summary": "arXiv:2607.00018v1 Announce Type: new Abstract: Media coverage of armed conflict is deeply asymmetric: we document a 224$\\times$ gap between the most and least covered conflict zones in English-language media across 22 countries (2020--2026). We evaluate zero-shot conflict escalation forecasting across all 22 countries on a 660-case held-out test set, comparing Llama-3.3-70B and GPT-4o against three structured baselines. The central finding is not a performance gradient but a qualitative failure: LLMs do not forecast conflict -- they categorize it. Llama predicts escalation on every under-cove",
+      "title": "A Category Theory Account of AI Identity",
+      "url": "https://arxiv.org/abs/2607.00220",
+      "summary": "arXiv:2607.00220v1 Announce Type: cross Abstract: Artificial intelligence (AI) systems are routinely modified after deployment through retraining and changes in their environments. These transformations raise a metaphysical question: under what conditions does an AI system remain the same system over time or across deployments? Earlier work formulates synchronic and diachronic identity propositionally, by relating identity within a fixed AI system type to equality of trustworthiness levels. Such criteria specify when identity statements are true, but leave implicit the structure of the states ",
       "published": "2026-07-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "LLMs in the Real World: Evaluating \"AI\" in Emergency Contexts",
-      "url": "https://arxiv.org/abs/2607.00019",
-      "summary": "arXiv:2607.00019v1 Announce Type: new Abstract: This paper offers a call to action. We urge our colleagues in the research community to play a greater role in the articulation of our findings to the public. To illustrate the stakes we present a case study on the initial stages of an LLM-based machine translation application's deployment in a real-world context: a text-2-911 system advertising capabilities in 55 languages for use in emergencies in which it may be difficult to call operators directly. We identify a number of common misconceptions about technologies such as these, concluding with",
+      "title": "Understanding Guest Preferences and Optimizing Two-sided Marketplaces: Airbnb as an Example",
+      "url": "https://arxiv.org/abs/2607.00280",
+      "summary": "arXiv:2607.00280v1 Announce Type: cross Abstract: Airbnb is a community based on connection and belonging -- many hosts on Airbnb are everyday people who share their worlds to provide guests with the feeling of connection and being at home; Airbnb strives to connect people and places. Among our efforts to connect guests and hosts, we provide tools to enable hosts to set competitive prices, which helps improve affordability for guests while helping hosts get more bookings. We also personalize the guest experience to show them the listings that match their needs. To help inform these efforts, we",
       "published": "2026-07-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Would You Marry Superintelligence?",
-      "url": "https://arxiv.org/abs/2607.00120",
-      "summary": "arXiv:2607.00120v1 Announce Type: new Abstract: Emotional bonds between humans and AI companions are growing, and the question of whether a person may marry an AI system will soon move from speculative fiction into law. This chapter examines whether the autonomy-centered logic that has expanded marital choice among human beings can justify extending marital status to superintelligent companions. Following a scenario-envisioning exercise informed by anticipatory ethics, I argue that granting such status leads to socially unjust outcomes, even under the generous assumption of reliable superintel",
+      "title": "A Penny for Your Prompts: Experiments Detecting and Mitigating LLM Usage by Survey Respondents",
+      "url": "https://arxiv.org/abs/2607.00403",
+      "summary": "arXiv:2607.00403v1 Announce Type: cross Abstract: Large language models are increasingly used by participants on crowdsourcing platforms when responding to surveys, potentially undermining the validity of collected data. Our study aims to quantify the prevalence of this behavior and investigate methods to detect and prevent it. In a series of surveys (N = 250), we examined conditions such as platform choice, survey length, requests not to use AI, and disabling copy-paste functionality. We were able to identify distinct characteristics of LLM-assisted responses and found that their frequency va",
       "published": "2026-07-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education",
-      "url": "https://arxiv.org/abs/2607.00140",
-      "summary": "arXiv:2607.00140v1 Announce Type: new Abstract: As computing education expands beyond traditional programming into operational domains such as systems administration and command-line environments, existing pedagogical frameworks struggle to capture a dimension that is critical in these contexts: the real-world consequences of learner actions. Existing cognitive taxonomies classify learning objectives by mental operations but do not account for system impact, leaving a critical gap in command-line education where conceptually simple commands can have severe consequences. This work presents CogT",
+      "title": "AI, Trust, and Teaming: The Humans-as-Handlers Approach for Autonomous and Opaque AI Systems",
+      "url": "https://arxiv.org/abs/2607.00523",
+      "summary": "arXiv:2607.00523v1 Announce Type: cross Abstract: Artificial intelligence (AI) is becoming ubiquitous, and across domains, increasingly autonomous systems are carrying out tasks which raise significant ethical and legal challenges which demonstrate a need for strong human-machine teams rooted in trust. In this article, I argue that within highly impactful areas (such as medicine or warfighting) there are grounds for us initially treating autonomous and opaque systems as relevantly analogous to dogs (or other animals with which we have close relationships). Under this analogy, humans making use",
       "published": "2026-07-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "NATO and Emerging Technologies: The Alliance's Shifting Approach to Military Innovation",
-      "url": "https://arxiv.org/abs/2607.00437",
-      "summary": "arXiv:2607.00437v1 Announce Type: new Abstract: In the current era of great-power competition and the diffusion of emerging disruptive technologies on the battlefield, NATO's approach to coordinating the development, adoption, and standardization of new technologies is changing from its practices during the Cold War, but the nature of these technologies poses additional challenges for the alliance.",
+      "title": "A field experiment of social influence and behavioral contagion with bots on Reddit",
+      "url": "https://arxiv.org/abs/2607.00854",
+      "summary": "arXiv:2607.00854v1 Announce Type: cross Abstract: Recent advances in AI have heightened scholars' and policy makers' concern with social influence and behavioral contagion in online communities. We conduct a field experiment on Reddit to investigate the extent to which online users are susceptible to positive behavioral stimuli from other users and artificial agents. We let apparent human and bot accounts give symbolic awards to users with one of four rationales: praising the recipient's logical argument, emotional sensitivity, or moral integrity, or explaining that the award resulted from a r",
       "published": "2026-07-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "What's a Credit Worth? A Market Framework for Attribution-Aware Compensation in Generative Music",
-      "url": "https://arxiv.org/abs/2607.00641",
-      "summary": "arXiv:2607.00641v1 Announce Type: new Abstract: Advances in generative AI are rapidly increasing the quality and commercial value of generated music, and this progress depends on large catalogs of creators' recordings. This raises a central question for platform design: how should creators be compensated when their work is used to train generative AI models that in turn produce commercial outputs? We develop a framework for fairly compensating creators in generative-music markets, where each creator's payment depends on a data-attribution score estimating their contribution to model outputs. C",
+      "title": "Developing Bayesian probabilistic reasoning capacity in HSS disciplines: Qualitative evaluation on bayesvl and BMF analytics for ECRs",
+      "url": "https://arxiv.org/abs/2601.06038",
+      "summary": "arXiv:2601.06038v2 Announce Type: replace Abstract: Methodological innovations have become increasingly critical in the humanities and social sciences (HSS) as researchers confront complex, nonlinear, and rapidly evolving socio-environmental systems. On the other hand, Early Career Researchers (ECRs) continue to face intensified publication pressure, limited resources, and persistent methodological barriers. Employing the GITT-VT analytical paradigm--which integrates worldviews from quantum physics, mathematical logic, and information theory--this study examines the seven-year evolution of the",
       "published": "2026-07-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Runtime Records to Legal Findings: An Evidentiary-Adequacy Criterion for Agentic AI Oversight",
-      "url": "https://arxiv.org/abs/2607.00941",
-      "summary": "arXiv:2607.00941v1 Announce Type: new Abstract: Agentic AI systems generate runtime records, logs, traces, and audit artefacts, but the existence or integrity of such records does not by itself establish that legally operative oversight findings can be recovered from them. This technical report defines an evidentiary-adequacy criterion for a bounded class of determinations: binary findings of fact about specific events and their relations, such as whether protected data crossed a boundary, whether a human could intervene, whether an information barrier held, or whether delegated authority was ",
+      "title": "Evaluating Implicit Biases in LLM Reasoning through Logic Grid Puzzles",
+      "url": "https://arxiv.org/abs/2511.06160",
+      "summary": "arXiv:2511.06160v2 Announce Type: replace-cross Abstract: While recent safety guardrails effectively suppress overtly biased outputs, subtler forms of social bias emerge during complex logical reasoning tasks that evade current evaluation benchmarks. To fill this gap, we introduce a new evaluation framework, PRIME (Puzzle Reasoning for Implicit Biases in Model Evaluation), that uses logic grid puzzles to systematically probe the influence of social stereotypes on logical reasoning and decision making in LLMs. Our use of logic puzzles enables automatic generation and verification, as well as va",
       "published": "2026-07-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Corporate sponsorship of computer science conferences: trends, structural insights, and a novel approach to ranking conferences",
-      "url": "https://arxiv.org/abs/2607.01113",
-      "summary": "arXiv:2607.01113v1 Announce Type: new Abstract: Corporate sponsorship is increasingly prevalent at computer science conferences. However, a quantitative understanding of this phenomenon has yet to be established, let alone insights into the interplay between academic conferences and sponsoring corporations, or how to leverage it. To fill these gaps, this study first explores the landscape of corporate sponsorship across a wide range of high-profile computer science conferences, shedding light on its evolution over a 25-year period from 2000 to 2024. The complex and expansive relationships betw",
-      "published": "2026-07-02T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
-      "url": "https://arxiv.org/abs/2607.00001",
-      "summary": "arXiv:2607.00001v1 Announce Type: cross Abstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empirical evidence showing that preferences are layered, dynamic, and constructed through interaction--particularly with adaptive technologies. As AI systems become more persistent, personalized, and socially embedded, they increasingly participate in shaping what people attend to, value, and endorse over time. We introduce Constructive Alignment, a paradigm that reframes alignment as a control problem ",
+      "title": "Hardening x402: PII-Safe Agentic Payments via Pre-Execution Metadata Filtering",
+      "url": "https://arxiv.org/abs/2604.11430",
+      "summary": "arXiv:2604.11430v2 Announce Type: replace-cross Abstract: AI agents that pay for resources via the x402 protocol embed payment metadata - resource URLs, descriptions, and reason strings - in every HTTP payment request. This metadata is transmitted to the payment server and to the centralised facilitator API before any on-chain settlement occurs; neither party is typically bound by a data processing agreement. We present presidio-hardened-x402, the first open-source middleware that intercepts x402 payment requests before transmission to detect and redact personally identifiable information (PII",
       "published": "2026-07-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
