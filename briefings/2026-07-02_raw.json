@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-02",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Towards an automated AI-based framework for floor plan compliance checks for residential buildings",
+      "url": "https://arxiv.org/abs/2607.00015",
+      "summary": "arXiv:2607.00015v1 Announce Type: new Abstract: To improve residents' well-being in Australia's urban areas, governments have introduced policy reforms such as SEPP65, BADS, and SPP7.3 to enhance apartment design quality. These regulations require precise geometric and spatial analysis to evaluate health-related features, including daylight access, natural ventilation, privacy, and space efficiency. However, compliance checking remains challenging due to its manual, time-intensive nature. Additionally, evolving policies limit scalability for large-scale assessments across thousands of apartmen",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Limits of LLM Forecasting: Parametric Knowledge Gaps Across Conflict Zones",
+      "url": "https://arxiv.org/abs/2607.00018",
+      "summary": "arXiv:2607.00018v1 Announce Type: new Abstract: Media coverage of armed conflict is deeply asymmetric: we document a 224$\\times$ gap between the most and least covered conflict zones in English-language media across 22 countries (2020--2026). We evaluate zero-shot conflict escalation forecasting across all 22 countries on a 660-case held-out test set, comparing Llama-3.3-70B and GPT-4o against three structured baselines. The central finding is not a performance gradient but a qualitative failure: LLMs do not forecast conflict -- they categorize it. Llama predicts escalation on every under-cove",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "LLMs in the Real World: Evaluating \"AI\" in Emergency Contexts",
+      "url": "https://arxiv.org/abs/2607.00019",
+      "summary": "arXiv:2607.00019v1 Announce Type: new Abstract: This paper offers a call to action. We urge our colleagues in the research community to play a greater role in the articulation of our findings to the public. To illustrate the stakes we present a case study on the initial stages of an LLM-based machine translation application's deployment in a real-world context: a text-2-911 system advertising capabilities in 55 languages for use in emergencies in which it may be difficult to call operators directly. We identify a number of common misconceptions about technologies such as these, concluding with",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Would You Marry Superintelligence?",
+      "url": "https://arxiv.org/abs/2607.00120",
+      "summary": "arXiv:2607.00120v1 Announce Type: new Abstract: Emotional bonds between humans and AI companions are growing, and the question of whether a person may marry an AI system will soon move from speculative fiction into law. This chapter examines whether the autonomy-centered logic that has expanded marital choice among human beings can justify extending marital status to superintelligent companions. Following a scenario-envisioning exercise informed by anticipatory ethics, I argue that granting such status leads to socially unjust outcomes, even under the generous assumption of reliable superintel",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "CogTax: A Four-Level Cognitive Taxonomy for Command-Line Computing Education",
+      "url": "https://arxiv.org/abs/2607.00140",
+      "summary": "arXiv:2607.00140v1 Announce Type: new Abstract: As computing education expands beyond traditional programming into operational domains such as systems administration and command-line environments, existing pedagogical frameworks struggle to capture a dimension that is critical in these contexts: the real-world consequences of learner actions. Existing cognitive taxonomies classify learning objectives by mental operations but do not account for system impact, leaving a critical gap in command-line education where conceptually simple commands can have severe consequences. This work presents CogT",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "NATO and Emerging Technologies: The Alliance's Shifting Approach to Military Innovation",
+      "url": "https://arxiv.org/abs/2607.00437",
+      "summary": "arXiv:2607.00437v1 Announce Type: new Abstract: In the current era of great-power competition and the diffusion of emerging disruptive technologies on the battlefield, NATO's approach to coordinating the development, adoption, and standardization of new technologies is changing from its practices during the Cold War, but the nature of these technologies poses additional challenges for the alliance.",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "What's a Credit Worth? A Market Framework for Attribution-Aware Compensation in Generative Music",
+      "url": "https://arxiv.org/abs/2607.00641",
+      "summary": "arXiv:2607.00641v1 Announce Type: new Abstract: Advances in generative AI are rapidly increasing the quality and commercial value of generated music, and this progress depends on large catalogs of creators' recordings. This raises a central question for platform design: how should creators be compensated when their work is used to train generative AI models that in turn produce commercial outputs? We develop a framework for fairly compensating creators in generative-music markets, where each creator's payment depends on a data-attribution score estimating their contribution to model outputs. C",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Runtime Records to Legal Findings: An Evidentiary-Adequacy Criterion for Agentic AI Oversight",
+      "url": "https://arxiv.org/abs/2607.00941",
+      "summary": "arXiv:2607.00941v1 Announce Type: new Abstract: Agentic AI systems generate runtime records, logs, traces, and audit artefacts, but the existence or integrity of such records does not by itself establish that legally operative oversight findings can be recovered from them. This technical report defines an evidentiary-adequacy criterion for a bounded class of determinations: binary findings of fact about specific events and their relations, such as whether protected data crossed a boundary, whether a human could intervene, whether an information barrier held, or whether delegated authority was ",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Corporate sponsorship of computer science conferences: trends, structural insights, and a novel approach to ranking conferences",
+      "url": "https://arxiv.org/abs/2607.01113",
+      "summary": "arXiv:2607.01113v1 Announce Type: new Abstract: Corporate sponsorship is increasingly prevalent at computer science conferences. However, a quantitative understanding of this phenomenon has yet to be established, let alone insights into the interplay between academic conferences and sponsoring corporations, or how to leverage it. To fill these gaps, this study first explores the landscape of corporate sponsorship across a wide range of high-profile computer science conferences, shedding light on its evolution over a 25-year period from 2000 to 2024. The complex and expansive relationships betw",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
+      "url": "https://arxiv.org/abs/2607.00001",
+      "summary": "arXiv:2607.00001v1 Announce Type: cross Abstract: Most approaches to AI alignment treat human preferences as fixed targets to be inferred and optimized. This assumption conflicts with extensive empirical evidence showing that preferences are layered, dynamic, and constructed through interaction--particularly with adaptive technologies. As AI systems become more persistent, personalized, and socially embedded, they increasingly participate in shaping what people attend to, value, and endorse over time. We introduce Constructive Alignment, a paradigm that reframes alignment as a control problem ",
+      "published": "2026-07-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
