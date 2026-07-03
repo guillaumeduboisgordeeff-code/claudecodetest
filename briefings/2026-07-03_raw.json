@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Measure Once, Model Everywhere: Model-Based Per-Request Resource Consumption for HTTP",
-      "url": "https://arxiv.org/abs/2607.01246",
-      "summary": "arXiv:2607.01246v1 Announce Type: new Abstract: Recent proposals for HTTP-based sustainability disclosure focus on \\textbf{what} environmental information should be transmitted at the protocol boundary, for example through response headers, but leave open the practical question of \\textbf{how} such per-request values can be generated in realistic deployments. This paper addresses that implementation gap. We present a model-based approach for estimating resource consumption and $CO_2e$ per HTTP request without requiring fine-grained production power telemetry. The approach benchmarks endpoints ",
+      "title": "Artificial Intelligence-Enabled Accounting Information Systems and Fraud Detection in Nigeria's Financial Services Sector: The Moderating Role of Natural Language Processing",
+      "url": "https://arxiv.org/abs/2607.01257",
+      "summary": "arXiv:2607.01257v1 Announce Type: new Abstract: The rapid digitalisation of financial systems has improved operational efficiency and financial inclusion while simultaneously increasing exposure to sophisticated forms of cyber-enabled fraud and electronic financial misconduct. Conventional auditing systems, which largely depend on retrospective verification and rule-based monitoring, increasingly struggle to address the complexity and speed of modern financial crime. Consequently, financial institutions are progressively adopting Artificial Intelligence (AI)-enabled Accounting Information Syst",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "LLMs as Teaching Assistants for Mathematics Exam Grading: Reliability, and Practical Usability",
-      "url": "https://arxiv.org/abs/2607.01247",
-      "summary": "arXiv:2607.01247v1 Announce Type: new Abstract: Open-ended mathematics exams are valuable because they assess reasoning, proof construction, algorithmic thinking, and communication of intermediate steps. They are also difficult to grade at scale because instructors must apply partial-credit rubrics consistently while giving feedback that helps students repair misconceptions. This paper evaluates six contemporary large language model (LLM) configurations, Gemini 3.1 Pro Extended, Gemini 3.5 Flash, ChatGPT 5.5 Pro Extended, ChatGPT 5.5 Thinking, Claude Pro Opus 4.7, and Claude Sonnet 4.6, as gra",
+      "title": "The Rising Unsustainability of AI Graphics Cards Production",
+      "url": "https://arxiv.org/abs/2607.01258",
+      "summary": "arXiv:2607.01258v1 Announce Type: new Abstract: The rapid advancement of Artificial Intelligence (AI) has been accompanied by significant increases in computational and environmental costs, driven by large-scale investments in AI infrastructure, hardware, and software. In particular, graphics cards have become central to AI training, with frequent hardware updates required to meet escalating computational demands. However, the environmental damages of graphics cards production remain understudied. This study addresses this gap by estimating the environmental damages associated with graphics ca",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Practice Auditing Framework for Large Language Model Use: Collective Empiricism, Pseudo-Rational Cognition, and Governance of AI-Generated Content",
-      "url": "https://arxiv.org/abs/2607.01248",
-      "summary": "arXiv:2607.01248v1 Announce Type: new Abstract: Large language models are increasingly used for knowledge acquisition, code generation, academic writing, and agent-based automation. In these settings, users may obtain highly structured answers, plans, and judgments without sufficient domain practice. This paper proposes a practice auditing framework for LLM use and AI-generated content governance. It introduces collective empiricism to describe how LLMs compress and reorganize large-scale human experience into outputs that appear empirical and rational, and pseudo-rational cognition to describ",
+      "title": "Social-Annotate: Self-Healing Browser Extension to Annotate and Collect Social Media Data",
+      "url": "https://arxiv.org/abs/2607.01460",
+      "summary": "arXiv:2607.01460v1 Announce Type: new Abstract: Human-annotated data remains foundational for machine learning and social media analysis. However, traditional data collection often relies on cumbersome pipelines that isolate content from its original source, compromising ecological validity. To address these challenges, we present Social-Annotate, a flexible browser extension that facilitates direct data collection on online platforms. By injecting customizable forms into webpages, the tool captures annotations while users interact with the native environment. Social-Annotate offers no-code de",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Structuring the Space of Sociotechnical Alignment",
-      "url": "https://arxiv.org/abs/2607.01250",
-      "summary": "arXiv:2607.01250v1 Announce Type: new Abstract: Sociotechnical alignment concerns the social desirability of AI behavior and is thus inherently normative, not merely technical. While NLP research increasingly addresses its technical aspects, it often leaves underspecified what such \"social desirability\" entails. We argue that this reflects a fundamental gap: the absence of a systematic way to specify how sociotechnical alignment defines, justifies, and evaluates socially desirable AI behavior. To address this gap, we introduce a human-centered framework for specifying sociotechnical alignment.",
+      "title": "Open Source Is Not One Thing: A Typology of Open-Source Software Sub-Genres",
+      "url": "https://arxiv.org/abs/2607.01750",
+      "summary": "arXiv:2607.01750v1 Announce Type: new Abstract: Open source software (OSS) is not homogeneous. A project's purpose, governance, and funding shape how its community forms, who contributes, and how the software is maintained, yet empirical research often samples OSS broadly and reports findings as if they held for open source as a whole. We argue that OSS comprises distinguishable sub-genres, and that the sub-genre a study samples bounds how far its findings generalize. Using a light, multi-source review that screens 3,925 unique papers, we synthesize a typology of fourteen OSS sub-genres, from ",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Collaborative Disagreement Resolution for Scalable Oversight",
-      "url": "https://arxiv.org/abs/2607.01251",
-      "summary": "arXiv:2607.01251v1 Announce Type: new Abstract: Debate, where AI agents argue opposing positions, has emerged as a key approach to scalable oversight. However, debate faces a fundamental tension: models are incentivized to be persuasive to the judge, which may not always align with epistemic honesty. In this work, we propose an alternative paradigm: disagreement resolution, which reframes the interaction mechanism from adversarial debate to collaborative truth seeking. Drawing on principles from human mediation and conflict resolution, where mediators facilitate dialogue to help disputing part",
+      "title": "AI Virtue: What is \"Good\" Knowledge in the Age of Artificial Intelligence?",
+      "url": "https://arxiv.org/abs/2607.01776",
+      "summary": "arXiv:2607.01776v1 Announce Type: new Abstract: In the age of AI, what will be good knowledge? This article, which is accepted and forthcoming in a special issue of Modern Fiction Studies on \"Cultural AI\" in 2027, applies digital humanities methods to map epistemic virtues (like \"true,\" \"accurate,\" \"creative\") used in a corpus of 553 journal articles on AI published in 2024. \"Creativity\" comes in for special attention as an example. Exploring this discourse of value, the article considers how a framework might be developed for evaluating the knowledge-worth of AI -- one less locked into values",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "How Indian Dermatologists are Utilizing Artificial Intelligence for Clinical Practice and Workflow Management: A Nationwide Survey with a Special Focus on atopic dermatitis",
-      "url": "https://arxiv.org/abs/2607.01252",
-      "summary": "arXiv:2607.01252v1 Announce Type: new Abstract: Background: Dermatology AI has mainly focused on image-based diagnosis, while chronic disease workflows have received less attention. We surveyed Indian dermatologists to map routine clinical challenges, with a focus on atopic dermatitis (AD), and assess current AI use. Methods: A nationwide cross-sectional survey commissioned by the Society for Eczema Studies included 377 practicing Indian dermatologists. The survey assessed clinical challenges, AD workflow barriers, AI use, adoption barriers, and ethical concerns. Analyses used descriptive stat",
+      "title": "From Battlefield to Boardroom: Strategic Red Teaming as an Epistemic Governance Instrument in the Age of AI",
+      "url": "https://arxiv.org/abs/2607.01913",
+      "summary": "arXiv:2607.01913v1 Announce Type: new Abstract: Organizations increasingly make strategic decisions about AI systems whose behaviour, failure modes, and institutional effects cannot be fully known at design time. This technical report reframes strategic red teaming as a board-level governance discipline for testing the assumptions under which AI-enabled strategies are approved, funded, and supervised. The report proposes a six-component model for strategic red teaming in AI governance: an explicit assumption register, an adversarial mandate, independence criteria, evidence grading, a board-fac",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Three Futures for the Diagnostic Radiologist: A Structured Disagreement About What AI Actually Changes",
-      "url": "https://arxiv.org/abs/2607.01253",
-      "summary": "arXiv:2607.01253v1 Announce Type: new Abstract: Rationale. The diagnostic radiologist's role in 2035 will not look like it does today. Imaging AI is already changing how worklists are organized, how reports are generated, and which cases require a radiologist's attention. What remains genuinely contested is not whether the role changes but how. Approach. Three subject-matter experts (two radiologists and one health tech professional with more than 20 years of experience in medical imaging IT) independently authored 2035 job descriptions for the diagnostic radiologist using a shared template. E",
+      "title": "Taxing Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2607.02144",
+      "summary": "arXiv:2607.02144v1 Announce Type: new Abstract: While AI promises major benefits, its development and deployment can shift costs onto others, including environmental pressures on local communities, labor and creative displacement, and systemic risks from rapid frontier development. Taxation is an integral part of policy design, and recent academic, industry, and policy debates have begun to consider whether tax instruments can help address these harms. In this paper, we explore the viability of AI taxation. More broadly, AI taxation should not be understood only as Pigouvian correction. In the",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Benchmark Ceiling: Human Judgment, Evaluation Scarcity, and the Political Economy of AI Capability Measurement",
-      "url": "https://arxiv.org/abs/2607.01254",
-      "summary": "arXiv:2607.01254v1 Announce Type: new Abstract: Benchmarks are the primary instruments through which AI capability is measured, compared, and governed. This paper argues that the validity of frontier AI benchmarks is a function of the quality of human judgment embedded in their construction, and that this quality is structurally scarce in ways that standard scaling narratives obscure. As foundation models approach ceiling performance on existing evaluation suites, discriminating signal concentrates in the hardest benchmark items, precisely those requiring elite expert judgment to design. We te",
+      "title": "Overview of Risk Assessment and Management for Intelligent Systems under the AI Act and Beyond",
+      "url": "https://arxiv.org/abs/2607.02197",
+      "summary": "arXiv:2607.02197v1 Announce Type: new Abstract: The society and emerging risk-based regulatory frameworks for AI underscore the need for rigorous risk assessment to ensure safe and reliable AI systems. In response to this imperative, this paper presents an overview of AI risk assessment (identification and analysis) and management methodologies. It begins by reviewing the worldwide regulatory landscape that drives the need for systematic AI risk assessment. Then we characterize the spectrum of AI-related risks identified in the literature, from technical failures to ethical and social impacts.",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond Detection: Redesigning Assessment and Governande of Generative AI at the Universidad Polit\\'ecnica de Madrid (UPM)",
-      "url": "https://arxiv.org/abs/2607.01255",
-      "summary": "arXiv:2607.01255v1 Announce Type: new Abstract: Universities have responded to generative artificial intelligence (GenAI) in noticeably different ways, both internationally and within Spain. So far, the dominant reaction has been defensive, this is, most institutions frame the debate around AI detection, plagiarism, academic integrity and a presumed drop in student effort, prioritizing basic training for academic staff over students. Other group of pioneering universities is doing the opposite, pursuing deeper adoption, and assuming that any policy built on prevention or sanction will not hold",
+      "title": "The Eticas AI Risk Taxonomy: Open Infrastructure for Operationalizing AI Audits",
+      "url": "https://arxiv.org/abs/2607.02201",
+      "summary": "arXiv:2607.02201v1 Announce Type: new Abstract: The rapid deployment of AI systems across high-stakes domains has created urgent demand for standardized evaluation, yet the field remains fragmented across competing risk taxonomies that catalog risks without showing how an audit is executed. At least 74 AI risk taxonomies exist, and almost all stop at the catalog. The hard part of auditing is not naming a risk but operationalizing it: turning it into a test run against a real system, a measured value, a calibrated severity, and a defensible grade. This paper leads with that bridge. We present t",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Assistance for Human Review of Default Judgments",
-      "url": "https://arxiv.org/abs/2607.01256",
-      "summary": "arXiv:2607.01256v1 Announce Type: new Abstract: Overwhelmed courts in the United States review millions of default judgments each year. Unfortunately, such manual reviews are time-consuming and prone to error. In an audit of 188 debt collection cases granted default judgment by the Superior Court of Los Angeles, we find that 4% contained major defects that should have entirely prevented default judgment, 10% contained inconsistencies requiring reduced judgments, and 32% contained errors requiring amendment prior to judgment. To support courthouses in default judgment review, we collaborated wi",
+      "title": "AI usage patterns are shaped by perceived gains in human agency",
+      "url": "https://arxiv.org/abs/2607.02313",
+      "summary": "arXiv:2607.02313v1 Announce Type: new Abstract: As conversational AI systems become more deeply integrated into daily life, the implications for human agency are increasingly urgent to understand. AI's potential to amplify capability sits alongside risks of individual and collective disempowerment, yet empirical, ecologically-valid evidence about cumulative usage is scarce. We analyze deep ethnographic data from a study of daily AI chatbot users (n = 51) in the United States, Germany, and Singapore to illuminate conversational AI usage in situated context as a sociotechnical practice. We show ",
       "published": "2026-07-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
