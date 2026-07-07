@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-07",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "AutoResearch: An Execution-Grounded Multi-Agent Framework for Reliable Research Workflow Automation",
+      "url": "https://arxiv.org/abs/2607.02520",
+      "summary": "arXiv:2607.02520v1 Announce Type: new Abstract: Automated research agents increasingly generate code, retrieve literature, and draft scientific artifacts, but they often fail to verify whether generated experiments execute correctly or whether cited sources support generated claims. We present AutoResearch, an execution-grounded multi-agent framework for reliable research workflow automation. AutoResearch couples sandboxed Python/PyTorch execution, iterative code repair, citation verification, claim-support auditing, decision control, and structured \\LaTeX{} artifact generation. The system tre",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Cybercrime Victimization Among Young Adult Males Aged 18--20: A Post-Pandemic Analysis of Converging Risk Factors",
+      "url": "https://arxiv.org/abs/2607.02530",
+      "summary": "arXiv:2607.02530v1 Announce Type: new Abstract: Cybercrime victimization among young adult males aged 18--20 has become an increasingly urgent public safety concern in the post-pandemic digital environment. From 2022 to 2024, individuals aged 20--29 submitted 191,787 complaints to the FBI Internet Crime Complaint Center (IC3), reporting combined losses of more than $1.28 billion. Although this population represents a substantial share of cybercrime victims, the 18--20 male sub-cohort remains insufficiently examined as a distinct demographic group within cybercrime victimization research. This ",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Hidden Water Geography of U.S. Hyperscale Data Centers in the AI Era",
+      "url": "https://arxiv.org/abs/2607.02531",
+      "summary": "arXiv:2607.02531v1 Announce Type: new Abstract: Water use by data centers is routinely reported as a single footprint, but water is consumed through two physically distinct pathways: at the site for cooling and in the power system that generates electricity. We mapped both pathways for 472 U.S. hyperscale facilities by linking facility locations to electricity regions, hydrologic basins, and water-stress data. Under baseline assumptions, operational water consumption totals approximately 300 GL yr^-1 (range 205-451 across scenarios), with electricity-related water contributing three-quarters o",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Foreign Policy AI Evaluation Gap",
+      "url": "https://arxiv.org/abs/2607.02955",
+      "summary": "arXiv:2607.02955v1 Announce Type: new Abstract: We argue that AI systems used in conducting foreign policy tasks - broadly enacting 'statecraft' - should be a priority test case for technical AI governance research. In enacting foreign policy, we refer to the formulation and implementation of external objectives by political actors. Statecraft is a high-consequence deployment domain, with extreme downside risks and structural properties that standard evaluation practices handle poorly. These features include partial observability, unbounded action spaces, contested ground truth, and multidimen",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Scalable Approach to Evaluating Moral Sensitivity in LLMs",
+      "url": "https://arxiv.org/abs/2607.02972",
+      "summary": "arXiv:2607.02972v1 Announce Type: new Abstract: Moral sensitivity is the ability to identify the morally relevant features of a decision situation and use them as the basis for action. It is the foundation of broader moral competence: any other moral reasoning capabilities will be irrelevant if an agent lacks sensitivity to the relevant facts. In this paper, we offer a new evaluation of LLM moral sensitivity and in doing so, we address and resolve a central problem in AI alignment research: how to scale behavioural evaluations beyond expensive and sometimes metaethically dubious comparisons wi",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Analyzing the Difficulty of Programming Assignments with Interpretable Knowledge Component Metrics",
+      "url": "https://arxiv.org/abs/2607.03419",
+      "summary": "arXiv:2607.03419v1 Announce Type: new Abstract: This research paper examines how Knowledge Components (KCs) - fine-grained concepts or skills required to solve programming tasks - can be used as interpretable signals for understanding assignment difficulty and student struggle in introductory programming courses. While prior work has focused on predictive models based on programming behavior, such models are often difficult to interpret and therefore hard to use for instructional decisions. We analyze KC-based metrics, including the number of KCs per assignment and changes in KC coverage betwe",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Systems as Digital Public Goods -- Evidence and Recommendations from a Multi-Stakeholder Assessment",
+      "url": "https://arxiv.org/abs/2607.03427",
+      "summary": "arXiv:2607.03427v1 Announce Type: new Abstract: AI systems are increasingly being positioned as potential Digital Public Goods (DPGs) to accelerate progress towards the Sustainable Development Goals (SDGs). Yet, despite major global commitments, most notably the Global Digital Compact's call to \"develop, disseminate and maintain safe and secure open-source software, open data, open artificial intelligence models and open standards that benefit society as a whole\", very few AI systems currently meet the DPG Standard in practice. This report explains why, and what must change for \"AI as Digital ",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Macro-Prudential AI Governance: A Two-Layer Early Warning and Response System for Frontier AI",
+      "url": "https://arxiv.org/abs/2607.03542",
+      "summary": "arXiv:2607.03542v1 Announce Type: new Abstract: Frontier-AI governance today faces a problem structurally analogous to the one banking regulation faced pre-2008, and which post-2008 reforms (Basel III, Dodd-Frank) have since addressed. Two gaps recur: discovering a risk is not tantamount to acting on it, and individual-model review is unlike managing correlated build-up across the sector. Drawing on the Basel III framework and the U.S. financial-stability architecture, I propose a macro-prudential early warning and response system (\"MEWRS\") for internal frontier AI. These are systems deployed ",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Development of a Bio-Inspired Routing Algorithm According to Values of Solidarity and a Freirean Perspective of Engineering",
+      "url": "https://arxiv.org/abs/2607.03607",
+      "summary": "arXiv:2607.03607v1 Announce Type: new Abstract: A routing algorithm for Se\\~noritas Courier, a bicycle delivery cooperative in S\\~ao Paulo, Brazil, composed exclusively of cis women and trans people, is presented in this paper. Unlike conventional logistics optimization, which typically focuses on cost or distance minimization, this cooperative operates under principles of solidarity, care, and equitable income distribution. The algorithm was developed through a participatory process involving cooperative members as co-designers. The classical Vehicle Routing Problem proved inadequate for this",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Content Hidden Behind Execution: Analyzing Public Scratch Projects at Runtime",
+      "url": "https://arxiv.org/abs/2607.03700",
+      "summary": "arXiv:2607.03700v1 Announce Type: new Abstract: Public Scratch projects are reused in computing education as classroom examples, remix sources, open-exploration materials, and research data. Curation often begins with titles, thumbnails, descriptions, tags, and remix links, but Scratch projects are executable learning artifacts. Content affecting age appropriateness can appear only after execution, gameplay progression, a failure state, user interaction, costume switching, audio playback, or a hidden event trigger. We study \"runtime-revealed sensitive content\" as a computing education curation",
+      "published": "2026-07-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
