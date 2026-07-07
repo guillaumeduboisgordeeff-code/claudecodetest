@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "AutoResearch: An Execution-Grounded Multi-Agent Framework for Reliable Research Workflow Automation",
-      "url": "https://arxiv.org/abs/2607.02520",
-      "summary": "arXiv:2607.02520v1 Announce Type: new Abstract: Automated research agents increasingly generate code, retrieve literature, and draft scientific artifacts, but they often fail to verify whether generated experiments execute correctly or whether cited sources support generated claims. We present AutoResearch, an execution-grounded multi-agent framework for reliable research workflow automation. AutoResearch couples sandboxed Python/PyTorch execution, iterative code repair, citation verification, claim-support auditing, decision control, and structured \\LaTeX{} artifact generation. The system tre",
+      "title": "The Case for Globally Beneficial Technology",
+      "url": "https://arxiv.org/abs/2607.03906",
+      "summary": "arXiv:2607.03906v1 Announce Type: new Abstract: To whom do the fruits of advanced technological innovation belong? To their inventors, to the organizations and individuals involved in making such discoveries possible, or to still larger groups of people, potentially encompassing all of humanity? This question sits at the heart of the present investigation. The arguments developed here focus on an expansive reading of the entitlement to benefit from technological breakthroughs: we argue that they should be designed, developed, and distributed in ways that benefit everyone. This central claim, w",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Cybercrime Victimization Among Young Adult Males Aged 18--20: A Post-Pandemic Analysis of Converging Risk Factors",
-      "url": "https://arxiv.org/abs/2607.02530",
-      "summary": "arXiv:2607.02530v1 Announce Type: new Abstract: Cybercrime victimization among young adult males aged 18--20 has become an increasingly urgent public safety concern in the post-pandemic digital environment. From 2022 to 2024, individuals aged 20--29 submitted 191,787 complaints to the FBI Internet Crime Complaint Center (IC3), reporting combined losses of more than $1.28 billion. Although this population represents a substantial share of cybercrime victims, the 18--20 male sub-cohort remains insufficiently examined as a distinct demographic group within cybercrime victimization research. This ",
+      "title": "Hybrid Algorithmic Governance in U.S. Welfare Administration: State- and County-Level AI as a Case of Support-Control Convergence",
+      "url": "https://arxiv.org/abs/2607.04503",
+      "summary": "arXiv:2607.04503v1 Announce Type: new Abstract: This article examines the institutional conditions under which artificial intelligence systems in U.S. welfare administration come to operate as instruments of support or as instruments of control. Rather than asking what welfare algorithms \"really\" are (tools of proactive assistance or infrastructures of surveillance) the article starts from the premise that support and control are co-present within the same system, while their relative balance shifts over time. This movement is conceptualized through the notion of support-control convergence an",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Hidden Water Geography of U.S. Hyperscale Data Centers in the AI Era",
-      "url": "https://arxiv.org/abs/2607.02531",
-      "summary": "arXiv:2607.02531v1 Announce Type: new Abstract: Water use by data centers is routinely reported as a single footprint, but water is consumed through two physically distinct pathways: at the site for cooling and in the power system that generates electricity. We mapped both pathways for 472 U.S. hyperscale facilities by linking facility locations to electricity regions, hydrologic basins, and water-stress data. Under baseline assumptions, operational water consumption totals approximately 300 GL yr^-1 (range 205-451 across scenarios), with electricity-related water contributing three-quarters o",
+      "title": "Government AI Use as a Monitoring Primitive: A Public Document Pilot Study",
+      "url": "https://arxiv.org/abs/2607.04543",
+      "summary": "arXiv:2607.04543v1 Announce Type: new Abstract: Governments are important actors in frontier AI governance, but many facts about their adoption and use of AI systems are difficult to observe directly. Procurement disclosures and official statements are useful, but can also be delayed, selective, and better suited to measuring formal adoption than actual day-to-day use. We propose a complementary monitoring primitive: measuring traces of language-model assistance in public government documents. The approach is lightweight, externally reproducible, and based on revealed behavior rather than stat",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Foreign Policy AI Evaluation Gap",
-      "url": "https://arxiv.org/abs/2607.02955",
-      "summary": "arXiv:2607.02955v1 Announce Type: new Abstract: We argue that AI systems used in conducting foreign policy tasks - broadly enacting 'statecraft' - should be a priority test case for technical AI governance research. In enacting foreign policy, we refer to the formulation and implementation of external objectives by political actors. Statecraft is a high-consequence deployment domain, with extreme downside risks and structural properties that standard evaluation practices handle poorly. These features include partial observability, unbounded action spaces, contested ground truth, and multidimen",
+      "title": "The Double-edged Effect of Banning Generative AI on Online Question-and-Answer Communities: Evidence from Stack Exchange",
+      "url": "https://arxiv.org/abs/2607.04601",
+      "summary": "arXiv:2607.04601v1 Announce Type: new Abstract: We investigate how banning generative artificial intelligence-generated content (AIGC) affects knowledge seeking, knowledge contribution, and contribution efficiency in online question-and-answer communities. After the launch of ChatGPT in late November 2022, several Stack Exchange communities implemented official bans on AIGC over concerns such as less reliable and socially engaged content. Leveraging data from the full network of Stack Exchange communities, we employ a difference-in-differences (DID) approach to examine the impacts of these ban",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Scalable Approach to Evaluating Moral Sensitivity in LLMs",
-      "url": "https://arxiv.org/abs/2607.02972",
-      "summary": "arXiv:2607.02972v1 Announce Type: new Abstract: Moral sensitivity is the ability to identify the morally relevant features of a decision situation and use them as the basis for action. It is the foundation of broader moral competence: any other moral reasoning capabilities will be irrelevant if an agent lacks sensitivity to the relevant facts. In this paper, we offer a new evaluation of LLM moral sensitivity and in doing so, we address and resolve a central problem in AI alignment research: how to scale behavioural evaluations beyond expensive and sometimes metaethically dubious comparisons wi",
+      "title": "Psychological features of dispute content and public acceptance of AI in legal adjudication: evidence for systematic variation beyond individual differences",
+      "url": "https://arxiv.org/abs/2607.04838",
+      "summary": "arXiv:2607.04838v1 Announce Type: new Abstract: Public acceptance of artificial intelligence (AI) in legal decision-making has been primarily explained through individual differences in personality traits and general technology attitudes. However, contextual features of legal disputes themselves may systematically influence preferences for AI versus human adjudicators. Across two studies with Japanese participants (N = 1,384 and N = 596), we examined whether psychological characteristics of dispute content shape acceptability judgments for algorithmic adjudication. Study 1 employed exploratory",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Analyzing the Difficulty of Programming Assignments with Interpretable Knowledge Component Metrics",
-      "url": "https://arxiv.org/abs/2607.03419",
-      "summary": "arXiv:2607.03419v1 Announce Type: new Abstract: This research paper examines how Knowledge Components (KCs) - fine-grained concepts or skills required to solve programming tasks - can be used as interpretable signals for understanding assignment difficulty and student struggle in introductory programming courses. While prior work has focused on predictive models based on programming behavior, such models are often difficult to interpret and therefore hard to use for instructional decisions. We analyze KC-based metrics, including the number of KCs per assignment and changes in KC coverage betwe",
+      "title": "Understanding Student Perceptions, Mistakes, and Debugging Approaches when Solving Natural Language Programming Tasks",
+      "url": "https://arxiv.org/abs/2607.05034",
+      "summary": "arXiv:2607.05034v1 Announce Type: new Abstract: Learning to communicate with code-generating AI models is an emerging skill for novice programmers. One recent pedagogical approach, Prompt Problems, has students solve computational tasks by writing natural-language prompts for code-generating AI models. However, little is known about the specific prompt-level mistakes novice programmers make, the kinds of computational details they fail to communicate, and what strategies they use to recover when generated code is incorrect. In a CS1 course, we studied attempts by more than 900 students to solv",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Systems as Digital Public Goods -- Evidence and Recommendations from a Multi-Stakeholder Assessment",
-      "url": "https://arxiv.org/abs/2607.03427",
-      "summary": "arXiv:2607.03427v1 Announce Type: new Abstract: AI systems are increasingly being positioned as potential Digital Public Goods (DPGs) to accelerate progress towards the Sustainable Development Goals (SDGs). Yet, despite major global commitments, most notably the Global Digital Compact's call to \"develop, disseminate and maintain safe and secure open-source software, open data, open artificial intelligence models and open standards that benefit society as a whole\", very few AI systems currently meet the DPG Standard in practice. This report explains why, and what must change for \"AI as Digital ",
+      "title": "When Agents Lie: Premeditation, Persistence, and Exploitation in Repeated Games",
+      "url": "https://arxiv.org/abs/2607.05132",
+      "summary": "arXiv:2607.05132v1 Announce Type: new Abstract: As large language models are deployed as autonomous agents that communicate intentions before acting, a critical safety question is whether agents that publicly commit to actions will honor those commitments. We place LLM agents in repeated $n$-player games with a three-stage protocol that separates private intent, public announcement, and final action, allowing us to identify whether each deviation from a stated announcement was already planned during private deliberation. Evaluating three frontier models across six games in homogeneous and hete",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Macro-Prudential AI Governance: A Two-Layer Early Warning and Response System for Frontier AI",
-      "url": "https://arxiv.org/abs/2607.03542",
-      "summary": "arXiv:2607.03542v1 Announce Type: new Abstract: Frontier-AI governance today faces a problem structurally analogous to the one banking regulation faced pre-2008, and which post-2008 reforms (Basel III, Dodd-Frank) have since addressed. Two gaps recur: discovering a risk is not tantamount to acting on it, and individual-model review is unlike managing correlated build-up across the sector. Drawing on the Basel III framework and the U.S. financial-stability architecture, I propose a macro-prudential early warning and response system (\"MEWRS\") for internal frontier AI. These are systems deployed ",
+      "title": "Open Problems in AI Incident Governance",
+      "url": "https://arxiv.org/abs/2607.05163",
+      "summary": "arXiv:2607.05163v1 Announce Type: new Abstract: AI systems may produce failures after deployment that pre-deployment safety assessments do not anticipate. Managing these failures requires what we refer to as adequate \\textit{AI incident governance}, where having good definitions, taxonomies, monitoring practices, reporting mechanisms, and incident analysis is essential. We examine existing frameworks related to AI incident governance by regulatory bodies and independent efforts, and find that while there are frameworks that describe how individual functions can be performed, there is a lack of",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Development of a Bio-Inspired Routing Algorithm According to Values of Solidarity and a Freirean Perspective of Engineering",
-      "url": "https://arxiv.org/abs/2607.03607",
-      "summary": "arXiv:2607.03607v1 Announce Type: new Abstract: A routing algorithm for Se\\~noritas Courier, a bicycle delivery cooperative in S\\~ao Paulo, Brazil, composed exclusively of cis women and trans people, is presented in this paper. Unlike conventional logistics optimization, which typically focuses on cost or distance minimization, this cooperative operates under principles of solidarity, care, and equitable income distribution. The algorithm was developed through a participatory process involving cooperative members as co-designers. The classical Vehicle Routing Problem proved inadequate for this",
+      "title": "Curated retrieval versus open web search in public AI information services: a coverage-trust trade-off",
+      "url": "https://arxiv.org/abs/2607.05217",
+      "summary": "arXiv:2607.05217v1 Announce Type: new Abstract: Public institutions increasingly use large language models (LLMs) to answer citizens' questions, often pairing a curated knowledge base with live web search, yet whether the sources behind these answers can be trusted has received little empirical scrutiny. We report a pre-launch expert evaluation of Evr\\'opuvefur, an independent, government-funded service run by the University of Iceland that answers questions about the European Union, conducted as Iceland prepared for its referendum of 29 August 2026 on whether to resume EU accession talks. Fiv",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Content Hidden Behind Execution: Analyzing Public Scratch Projects at Runtime",
-      "url": "https://arxiv.org/abs/2607.03700",
-      "summary": "arXiv:2607.03700v1 Announce Type: new Abstract: Public Scratch projects are reused in computing education as classroom examples, remix sources, open-exploration materials, and research data. Curation often begins with titles, thumbnails, descriptions, tags, and remix links, but Scratch projects are executable learning artifacts. Content affecting age appropriateness can appear only after execution, gameplay progression, a failure state, user interaction, costume switching, audio playback, or a hidden event trigger. We study \"runtime-revealed sensitive content\" as a computing education curation",
+      "title": "Classroom Behavior Monitoring with YOLO An Empirical Study in Higher Education Settings",
+      "url": "https://arxiv.org/abs/2607.02580",
+      "summary": "arXiv:2607.02580v1 Announce Type: cross Abstract: Classroom behavior monitoring plays a vital role in evaluating student engagement and improving teaching effectiveness. Traditional observation methods remain subjective and lack scalability. This study introduces a real-world dataset of classroom videos collected at the Banking Academy of Vietnam (BAV-Classroom dataset), annotated with nine distinctive behavioral categories. State-of-the-art Computer Vision models were evaluated and compared, with YOLOv11 achieving the best performance. Experimental results indicate that students' concentratio",
       "published": "2026-07-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
