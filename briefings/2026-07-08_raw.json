@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Ethics and EU AI Act in Cases of Work Disability Risk and Alzheimer's Disease Risk Prediction",
-      "url": "https://arxiv.org/abs/2607.05402",
-      "summary": "arXiv:2607.05402v1 Announce Type: new Abstract: Improvements in AI technologies have made it feasible to develop new types of medical AI tools. However, these tools raise new kinds of questions, especially in relation to the ethics and AI Act compliance. We analyzed two cases of AI tools developed to predict medical risks, the risk of work disability (case A) and the risk of getting Alzheimer's disease (case B). We observed both cases using the ethical AI and the EU AI Act as frameworks, noted that they classify as high-risk systems, and that bringing them from the research environment to prod",
+      "title": "Why does AI unlock new possibilities in STEM education? A Bibliometric Analysis of Trends and Future Agenda",
+      "url": "https://arxiv.org/abs/2607.05412",
+      "summary": "arXiv:2607.05412v1 Announce Type: new Abstract: STEM education faces challenges in personalization and interdisciplinary integration. AI technology has brought new possibilities, but the mechanisms by which AI reshapes the STEM education ecosystem require systematic investigation. This study employs bibliometric methods to analyze 242 publications from 2015-2025, constructing knowledge maps to reveal the evolutionary trajectory. The findings show that the field has transformed from intelligent tutoring systems to inquiry-based learning and computational thinking cultivation driven by LLMs. AI'",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI tools in Arab University English classrooms: Looking back and forward",
-      "url": "https://arxiv.org/abs/2607.05403",
-      "summary": "arXiv:2607.05403v1 Announce Type: new Abstract: This paper aims to synthesize empirical research on AI tools used to support English as a second/foreign language (EL2) learners in Arab University classrooms (AUCs) between Jan 1st 2023 and Aug 31st 2025. We utilized 3 large datasets, namely Google Scholar, Web of Science, and Scopus as the data sources. Using PRISMA-guided searches across these well-known databases, we included only published articles. The search process results in 184 studies, but only 11 studies met the inclusion criteria. Findings unveil that EL2 learners have positive attit",
+      "title": "Measuring the Invisible: Evaluating the Impact of Public Funding on Open Source Software",
+      "url": "https://arxiv.org/abs/2607.05413",
+      "summary": "arXiv:2607.05413v1 Announce Type: new Abstract: Open Source Software (OSS) forms a critical layer of contemporary digital infrastructure, yet remains largely overlooked by the institutions and societies that depend on it. Despite growing institutional interest, the causal impact of public funding on OSS project sustainability remains empirically unresolved. Existing literature is divided between econometric and socio-technical approaches with few attempts at causal identification. This work aims to bridge that divide by combining a Goal-Question-Metric framework with the Generalized Synthetic ",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Jagged Global Economy: Frontier AI Unevenly Exposes National Economies",
-      "url": "https://arxiv.org/abs/2607.05404",
-      "summary": "arXiv:2607.05404v1 Announce Type: new Abstract: Frontier AI's labor-market effects matter to workers, firms, and policymakers, but current evidence generally comes from a handful of high-income economies. The capabilities of frontier AI are jagged across work tasks and national economies diverge in how they allocate human labor. We introduce a national AI exposure metric that combines occupation-level exposure scores and international employment data for 141 countries. We find that high income countries are substantially more exposed than low income countries and that Europe and Central Asia a",
+      "title": "Whose fairness? Structural concentration in AI bias research",
+      "url": "https://arxiv.org/abs/2607.05574",
+      "summary": "arXiv:2607.05574v1 Announce Type: new Abstract: Artificial intelligence increasingly mediates consequential decisions in healthcare, law, and public services, and the field has responded with an extensive methodology for measuring and mitigating bias. Yet the fairness definitions, benchmarks, and debiasing frameworks on which this methodology rests are treated as universal while being produced by a research community whose composition has never been characterized. We show that the AI bias research are structurally concentrated, and that this concentration is greatest, geographically, in precis",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "CCBENCH: Assessing LLM Cultural Competence via Implicitly Signaled Norms using Health Queries",
-      "url": "https://arxiv.org/abs/2607.05405",
-      "summary": "arXiv:2607.05405v1 Announce Type: new Abstract: To interact with users fairly and without stereotyping, AI models must display cultural competency, i.e., the ability to infer and adapt to a user's implicitly signaled cultural values, rather than relying on static demographic traits. We introduce CCBENCH, a framework for evaluating cultural competency in large language models (LLMs), treating culture as a continuum of norm adherence states rather than as a binary state of cultural belongingness. As a case study on health, we create CCBENCH-Health, which includes 60 theoretically grounded person",
+      "title": "Beyond Accuracy: How Humans Evaluate Legally Correct but Socially Controversial Legal Advice from Machines",
+      "url": "https://arxiv.org/abs/2607.05680",
+      "summary": "arXiv:2607.05680v1 Announce Type: new Abstract: AI systems are increasingly used to provide legal advice, raising questions about whether laypeople accept guidance from algorithms--especially when that advice is legally correct but socially controversial. We report a preregistered survey experiment with 3,348 adults in mainland China examining how people evaluate identical legal advice when it is attributed either to an AI system or to a human lawyer, and when it is accompanied by reasoning or not. Contrary to expectations of algorithm aversion, attribution to an AI system has no net effect on",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Guiding Framework for K-12 Teachers in Creating AI-powered Learning Technologies through Vibe Coding",
-      "url": "https://arxiv.org/abs/2607.05406",
-      "summary": "arXiv:2607.05406v1 Announce Type: new Abstract: Large language models generate code from natural language prompts, enabling \"vibe coding,\" which allows non-programmers to develop computational solutions. Vibe coding for teachers amplifies the value of teachers-as-designers, improving technology integration while fostering AI literacy. However, structured guidance on supporting this process is lacking. We propose GAIDE (A Guiding Framework for AI-Integrated Design for Educators), a framework that supports K-12 teachers in creating AI-powered learning technologies through vibe coding. The initia",
+      "title": "Say What? Examining Text and Voice Input Modalities for Prompt-Based Programming in Computing Education",
+      "url": "https://arxiv.org/abs/2607.05808",
+      "summary": "arXiv:2607.05808v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into computing education, yet nearly all prior research has focused on text-based interactions. As voice-enabled interfaces become more capable and more common, there is growing interest in understanding how voice input might shape students' use of LLM-powered tools. In this exploratory study, we investigated how introductory programming students interact with Prompt Problems, which are programming tasks that require crafting natural-language prompts to generate correct code. Students (N = ",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Position: Preventing AI-Generated CSAM Necessitates New Approaches to AI Safety",
-      "url": "https://arxiv.org/abs/2607.05407",
-      "summary": "arXiv:2607.05407v1 Announce Type: new Abstract: Modern artificial intelligence (AI) systems present profound new risks to child safety. AI is increasingly being misused to create AI-generated child sexual abuse material, facilitate child sexual exploitation, and reduce barriers to harm. In this paper, we argue that protecting children from AI-facilitated sexual abuse requires new approaches to AI safety. Existing safety techniques assume data accessibility, transparency, and evaluation practices that are incompatible with the ethical and legal constraints surrounding child sexual abuse materia",
+      "title": "Large language models create an uneven informational layer over cities",
+      "url": "https://arxiv.org/abs/2607.06260",
+      "summary": "arXiv:2607.06260v1 Announce Type: new Abstract: Large language models (LLMs) are emerging as a new informational layer over cities, shaping which places people discover, consider, and ultimately visit. Yet little is known about which places they surface, which they ignore, and whether these patterns vary across communities and users and translate into real-world economic consequences. Here, we audit restaurant recommendations from three major LLMs across 304 neighborhoods in five U.S. cities using 320 synthetic user profiles spanning income, age, sex, and residential status. We find that LLMs ",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Life Cycle Assessment of Pre-training the Lucie 7B Open-Source Large Language Model on the Jean Zay Supercomputer",
-      "url": "https://arxiv.org/abs/2607.05408",
-      "summary": "arXiv:2607.05408v1 Announce Type: new Abstract: The environmental impact of training large language models (LLMs) is increasingly scrutinised, yet most published estimates focus on operational energy and disclose little about manufacturing (embodied) emissions, water consumption, or the underlying highperformance computing (HPC) infrastructure. We present a life cycle assessment (LCA) of the pre-training of Lucie 7B, an open-source multilingual Foundation Model developed by the OpenLLM-France consortium and trained on the NVIDIA H100 partition of the Jean Zay supercomputer operated by IDRIS (C",
+      "title": "How Personas Can Influence Agents to Play Split or Steal",
+      "url": "https://arxiv.org/abs/2607.05398",
+      "summary": "arXiv:2607.05398v1 Announce Type: cross Abstract: Personas are often employed to guide large language model agents, yet their effectiveness in shaping strategic behavior in social dilemma settings remains uncertain. To address this, we examined the impact of persona prompts in an iterated Split or Steal game where persona-driven agents interacted with a Virtual Human (VH) controlled by a fixed prompt. Agents were instantiated from four open models (Ministral 3:3b, phi4:14b, Gemma3:12b, and Gemma4:e4b) at two temperature settings (0.3 and 0.7) and deterministic decision with zero temperature, w",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Automated Recommendation of Programming Learning Content Using Pattern-based Knowledge Components",
-      "url": "https://arxiv.org/abs/2607.05409",
-      "summary": "arXiv:2607.05409v1 Announce Type: new Abstract: Introductory programming instruction relies on hands-on practice and short learning activities to support mastery of foundational concepts. Although many such learning resources exist, organizing and linking these items in instructionally meaningful ways is challenging without time-intensive expert curation. This study investigates the use of pattern-based Knowledge Components (KCs) to automatically identify code-based learning resources targeting similar concepts. In our approach, pattern-based KCs are extracted from each code sample, and relate",
+      "title": "When AI Classifies: What Counts as Public Administration?",
+      "url": "https://arxiv.org/abs/2607.05420",
+      "summary": "arXiv:2607.05420v1 Announce Type: cross Abstract: This study examines how alternative systems of scholarly representation identify and characterize broad public administration (PA) and artificial intelligence related public administration (AI-in-PA) scholarship. Using Web of Science and OpenAlex, it compares five approaches based on author-defined, citation-driven, and AI-assisted representations. The results highlight substantial differences in corpus size, publication types, publishing outlets, temporal development, and thematic clustering and structure. The alternative approaches often iden",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "CANONIC: Governance Is Compilation",
-      "url": "https://arxiv.org/abs/2607.05410",
-      "summary": "arXiv:2607.05410v1 Announce Type: new Abstract: We present CANONIC: governed intelligence that compiles digital artifacts into an evidence ledger at scale. Large language models generate prose faster than anyone can check it, the failure Oxford Languages named 'slop', its 2025 Word of the Year. CANONIC governs whether content may enter a corpus the way a compiler decides whether a program is well-formed: mechanically, by a grammar, at the boundary of admission. Governance reduces to three axioms (Triad, Inheritance, Introspection) that map one-to-one onto compiler theory's syntax, scope-resolu",
+      "title": "Abductive Corroboration of Probabilistic AI Models for Forensic Synthetic Media Detection",
+      "url": "https://arxiv.org/abs/2607.05434",
+      "summary": "arXiv:2607.05434v1 Announce Type: cross Abstract: Artificial Intelligence (AI) models, at their core, apply general learnings from broad datasets to individual circumstances using probabilistic behaviour. This inductive approach stands in contrast to deductive reasoning approaches which seek to prove conclusions from their premises. However, research has shown that deductive reasoning with AI models is a challenging problem and in the real-world it may not always be feasible. An alternative way forward is to leverage abductive reasoning, seeking to corroborate the output of multiple approaches",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The GenAI Skill Bypass: Mapping Divergent Pathways of University Students and Staff AI Literacy",
-      "url": "https://arxiv.org/abs/2607.05411",
-      "summary": "arXiv:2607.05411v1 Announce Type: new Abstract: Higher education institutions are increasingly expected to ensure that both students and staff develop Generative AI (GenAI) literacies. In response, they are introducing professional development programs and embedding GenAI skills within student curricula. However, current educational frameworks typically assume a linear progression of GenAI literacy, implying that foundational technical understanding must precede creative application. This paper challenges such an assumption through a psychometric analysis of a taxonomy-based self-assessment in",
+      "title": "Publishing Without Journals: An Open, Forkable Archive with Attributed Review",
+      "url": "https://arxiv.org/abs/2607.05454",
+      "summary": "arXiv:2607.05454v1 Announce Type: cross Abstract: The journal is a seventeenth-century technology asked to do four modern jobs at once: disseminate results, certify their quality, allocate scholarly attention, and confer career credit. It does none of them well. Pre-publication peer review is slow, only weakly reliable, demonstrably biased toward established authors and institutions, and expensive, while the reviewing effort it consumes is spent largely on work that will never matter. We argue that these are not defects to be patched but consequences of bundling dissemination and certification",
       "published": "2026-07-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
