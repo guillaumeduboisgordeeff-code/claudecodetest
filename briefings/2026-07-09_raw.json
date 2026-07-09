@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-09",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Decentralization and Governance in IoT: Bitcoin and Wikipedia Case",
+      "url": "https://arxiv.org/abs/2607.06784",
+      "summary": "arXiv:2607.06784v1 Announce Type: new Abstract: In the era of digital revolution many contemporary events that changed the world were shaped through the internet. Nowadays, the emergence of internet of things (IoT), combining physical objects with virtual networks is expected to have even more influence. This new 'decentralised' structure in the world raises questions such as power, governance and the notion of democracy online. The aim of this paper is to investigate these notions. We have taken the examples of Bitcoin and Wikipedia and examined their decision-making process. Our analysis has",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Evaluating LLM Robustness Under Domain-Specific Prompt Perturbations in Public Health Applications",
+      "url": "https://arxiv.org/abs/2607.06913",
+      "summary": "arXiv:2607.06913v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly applied in public health applications, yet their robustness to non-clinical user inputs remains underexplored. We propose a domain specific robustness benchmark that evaluates LLMs under two perturbation types that commonly arise when non-clinical users interact with health AI systems: misinformation framing (MF), where prompt might be injected by false health claims, and layperson rewriting (LR), where patients describe symptoms in everyday language rather than medical terminology. Our goal is to eva",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Modeling Misinformation as a Commons Problem",
+      "url": "https://arxiv.org/abs/2607.06984",
+      "summary": "arXiv:2607.06984v1 Announce Type: new Abstract: Misinformation often harms society not just by spreading a single false belief, but by breaking down the shared trust people rely on to evaluate what is true. This paper presents an agent-based simulation that frames trust as a collective resource and attention as a scarce private budget: when aggregate attention shifts toward low credibility content, the trust environment degrades, making credible information harder to process and correct. Across experiments, the model produces four recurring modes: credible stability, misinformation dominance, ",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts",
+      "url": "https://arxiv.org/abs/2607.07267",
+      "summary": "arXiv:2607.07267v1 Announce Type: new Abstract: Claims about the universality of human concepts have been predominantly assessed through linguistic similarity across languages and cultures. However, words are effective as communication devices because they compress rich experiential variation into shared conventions, potentially obscuring hidden individual and cultural differences in how concepts are mentally represented. Here, we analyse 2.6 billion human-made sketches of common concepts from 236 countries and territories to examine conceptual structure through people's visual imagination. Co",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "User identity conditions moral wrongness ratings in non-reasoning large language models",
+      "url": "https://arxiv.org/abs/2607.07605",
+      "summary": "arXiv:2607.07605v1 Announce Type: new Abstract: This study adopts a behavioural bottom-up approach to AI value alignment to investigate whether an implicitly conveyed user identity shifts the moral evaluations of large language models (LLMs). Through a structured, multi-turn conversational protocol across 12,000 interactions, we evaluate AI value alignment in two non-reasoning models, gpt-4.1-mini-2025-04-14 and gemini-2.5-flash-lite. Rather than instructing the models to adopt a persona or prompting them with explicit moral stances, the user's professional role is introduced purely through va",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Towards Agentic AI Governance: A Preliminary Assessment",
+      "url": "https://arxiv.org/abs/2607.07612",
+      "summary": "arXiv:2607.07612v1 Announce Type: new Abstract: Artificial intelligence is rapidly evolving from generative systems to agentic AI capable of autonomously planning and executing tasks. Widely characterized as the Year of Agentic AI, 2025 marked accelerated development and deployment, introducing new ethical and governance challenges. This paper presents a systematic review of the emerging literature on agentic AI governance. Our analysis identifies features that distinguish agentic AI from traditional systems and why it warrants targeted governance attention. We synthesize prevailing governance",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Answering Without Referring: How AI Search Rewrites the Web's Economic Bargain",
+      "url": "https://arxiv.org/abs/2607.07652",
+      "summary": "arXiv:2607.07652v1 Announce Type: new Abstract: Search engines have long allocated attention on the web by routing users from queries to websites. AI search changes this arrangement because information needs can be resolved inside the intermediary. Using URL-level Comscore U.S. desktop clickstream, we compare ChatGPT and Google information-seeking occasions and exploit ChatGPT Search access expansions to estimate traditional search displacement. ChatGPT produces outbound clicks in only 5.2% of conversation sessions, far below Google's referral ratio. The remaining clicks are not a scaled-down ",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Understanding Interpretation Difficulty in Harmful Online Communication: Insights from Cybercrime Communities",
+      "url": "https://arxiv.org/abs/2607.07277",
+      "summary": "arXiv:2607.07277v1 Announce Type: cross Abstract: Harmful online communication often contains slang, coded terms, abbreviations, and community-specific expressions, which make messages difficult to interpret. This paper presents an exploratory study of interpretation difficulty in Discord chats related to cybercrime. We construct reference interpretations of purposefully selected difficult messages, which were reviewed by an expert. We then use them to evaluate human and large language model (LLM) interpretations under different context conditions. The results show that local context alone is ",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Safety Degradation in AI Agents",
+      "url": "https://arxiv.org/abs/2505.14215",
+      "summary": "arXiv:2505.14215v3 Announce Type: replace Abstract: Despite the growing integration of retrieval-enabled AI agents into society, their safety and ethical behavior remain inadequately understood. In particular, the integration of LLMs and AI agents with external information sources and real-world environments raises critical questions about how they engage with and are influenced by these external data sources and interactive contexts. This study investigates how expanding retrieval access -- from no external sources to Wikipedia-based retrieval and open web search -- affects model reliability,",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Mobile Application Traffic Reveals Multifunctional Use Patterns in Parisian Parks",
+      "url": "https://arxiv.org/abs/2508.15516",
+      "summary": "arXiv:2508.15516v4 Announce Type: replace Abstract: Urban parks play a key role in supporting public health. Landscape architecture typically considers parks through the lens of form and function. While past research on equitable access has focused mainly on park form, studies addressing functional uses have been constrained by limited scale and coarse measurement techniques. Existing efforts have partially quantified park functions through small-scale surveys and movement data or general usage data, but have not effectively captured the specific activities and motivations underlying park visi",
+      "published": "2026-07-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
