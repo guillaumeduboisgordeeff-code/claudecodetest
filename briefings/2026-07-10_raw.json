@@ -1,83 +1,51 @@
 {
   "date": "2026-07-10",
-  "articles_count": 10,
+  "articles_count": 6,
   "articles": [
     {
-      "title": "Buffy versus Bella: An archetypometric analysis and comparison",
-      "url": "https://arxiv.org/abs/2607.07826",
-      "summary": "arXiv:2607.07826v1 Announce Type: new Abstract: Fictional stories and characters embody and encode social norms, and their study is a powerful tool through which to understand culture and society. Vampire stories and folklore, in particular, have long both reflected and refracted people's preoccupation with disease, sexuality, death, and immortality. Here, we explore female main characters from two popular vampire franchises of the 21st century: Buffy Summers from the eponymous Buffy the Vampire Slayer and Bella Swan from the Twilight series. We employ the archetypometrics framework, built fro",
+      "title": "PLURAL: A Global Dataset for Value Alignment",
+      "url": "https://arxiv.org/abs/2607.08034",
+      "summary": "arXiv:2607.08034v1 Announce Type: cross Abstract: Large language models (LLMs) are used worldwide, yet disproportionately reflect Western values, limiting their ability to represent diverse value systems. We introduce PLURAL, a large-scale, value-focused preference dataset grounded in the Integrated Values Survey (IVS), a nationally representative survey spanning 92 countries. Using a two-stage generation pipeline, we transform survey responses into synthetic preference triplets that preserve normative value signals while producing realistic scenarios. We release an initial version of PLURAL c",
       "published": "2026-07-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Validating LLMs in social science: Epistemic threats and emerging norms",
-      "url": "https://arxiv.org/abs/2607.07915",
-      "summary": "arXiv:2607.07915v1 Announce Type: new Abstract: Large language models (LLMs) are reshaping social science methodology. Researchers increasingly prompt language models to generate quantitative measurements of social concepts, for example labeling data or simulating survey responses. Yet LLMs pose methodological challenges including bias, hallucination, and brittleness across contexts, with unclear threats to validity. Standard practices and norms for addressing these challenges are still emerging. We collect and systematically analyze validation practices in a comprehensive corpus of papers fro",
+      "title": "Validity of LLMs as data annotators: AMALIA on authority",
+      "url": "https://arxiv.org/abs/2607.08731",
+      "summary": "arXiv:2607.08731v1 Announce Type: cross Abstract: A national language model offers a linguistic community its own instrument for measuring what its citizens say and value. Portugal's AMALIA, a publicly funded 9B-parameter model for European Portuguese, appears competitive on agreement alone: asked to code the moral foundation of authority, it agrees with trained human coders to within six F1 points of open models eight to thirteen times its size. Yet agreement is reliability, not validity. For theoretical constructs that must be inferred rather than read from surface features, the question is ",
       "published": "2026-07-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Thesis to Transition: An INSIGHT-Inspired Approach to Co-Designing Industry 5.0 Competency Pathways for Early-Stage Researchers",
-      "url": "https://arxiv.org/abs/2607.08222",
-      "summary": "arXiv:2607.08222v1 Announce Type: new Abstract: Europe faces a critical \"translation gap\" where doctoral excellence in academia often fails to convert into industrial impact. While Industry 5.0 demands a blend of technical depth, sustainability, and human-centric design, traditional higher academic education remains siloed. This paper presents an approach from the Horizon Europe INSIGHT initiative to co-design modular competency pathways for early-stage researchers. Using a multi-methodological analysis framework, including expert interviews and co-design workshops, we propose a two-layer comp",
+      "title": "The Contribution of XAI for the Safe Development and Certification of AI: An Expert-Based Analysis",
+      "url": "https://arxiv.org/abs/2408.02379",
+      "summary": "arXiv:2408.02379v2 Announce Type: replace Abstract: Developing and certifying safe - or so-called trustworthy - AI has become an increasingly salient issue, especially in light of upcoming regulation such as the EU AI Act. In this context, the black-box nature of machine learning models limits the use of conventional avenues of approach towards certifying complex technical systems. As a potential solution, methods to give insights into this black-box - devised in the field of eXplainable AI (XAI) - could be used. In this study, the potential and shortcomings of such methods for the purpose of ",
       "published": "2026-07-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Diagnosing and Repairing Persona Collapse in LLM Advice",
-      "url": "https://arxiv.org/abs/2607.08326",
-      "summary": "arXiv:2607.08326v1 Announce Type: new Abstract: LLMs are increasingly used for personal advice on relationships, work, moral dilemmas, and crises. Post-training selects a stable, prosocial Assistant persona, but good advice requires more than a good default character: a skilled advisor comforts someone in crisis, challenges someone in denial, and stays procedural with a logistical question. We formalize advice-giving as situation-conditioned persona selection in a space defined by hedonic tone and agency support, and call failures of this mapping \"persona collapse\" (the compression of diverse ",
+      "title": "Adaptive Generation of Bias-Eliciting Questions for LLMs",
+      "url": "https://arxiv.org/abs/2510.12857",
+      "summary": "arXiv:2510.12857v2 Announce Type: replace Abstract: Large language models (LLMs) are now widely deployed in user-facing applications, reaching hundreds of millions of users worldwide. Despite their widespread adoption, growing reliance on their outputs raises significant concerns, particularly as users may be exposed to model-inherent biases that disadvantage or stereotype certain groups. However, existing bias benchmarks commonly rely on simple templated prompts or restrictive multiple-choice questions that fail to capture the complexity of real-world user interactions. In this work, we addre",
       "published": "2026-07-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Does online sustainability communication shape public discourse? Insights from six years of tenant-housing provider interactions",
-      "url": "https://arxiv.org/abs/2607.08437",
-      "summary": "arXiv:2607.08437v1 Announce Type: new Abstract: Authorities increasingly rely on social media to advance sustainability transitions, infrastructure investment, and service reform. Yet how citizens respond to these digital communications remains poorly understood. Existing approaches rely on aggregate engagement metrics (e.g., likes), providing limited insight into discourse structure and quality. We developed a data-driven, multidimensional framework to analyse how social media communication shapes the content of discourse, focusing on sustainability-related engagement in Dutch public housing.",
+      "title": "DeepTutor: Towards Agentic Personalized Tutoring",
+      "url": "https://arxiv.org/abs/2604.26962",
+      "summary": "arXiv:2604.26962v3 Announce Type: replace Abstract: Education is one of the most promising real-world applications for Large Language Models (LLMs). However, current LLMs rely on static pre-training knowledge and lack adaptation to individual learners, while existing RAG systems fall short in delivering personalized, guided feedback. To bridge this gap, we present DeepTutor, a fully open-source agentic framework that unifies citation-grounded problem tutoring with difficulty-calibrated question generation. A hybrid personalization engine couples static knowledge grounding with dynamic learner ",
       "published": "2026-07-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality",
-      "url": "https://arxiv.org/abs/2607.08495",
-      "summary": "arXiv:2607.08495v1 Announce Type: new Abstract: Sharp et al. (2025) introduce \"agentic inequality\" as a framework for analyzing disparities in access to AI agents across three dimensions: availability, quality, and quantity. These person- and organization-level dimensions characterize who can access agents and at what capability, but do not address a structurally important divide operating at a finer level: the individual interaction. Two users with nominally equivalent agent access may experience qualitatively different AI utility depending on whether the system can autonomously retrieve cont",
-      "published": "2026-07-10T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Artificial Persons",
-      "url": "https://arxiv.org/abs/2607.08695",
-      "summary": "arXiv:2607.08695v1 Announce Type: new Abstract: Both advocates and skeptics of the moral status of AI systems have generally taken the question to turn on AI sentience. We present an alternative approach. On Rawls' political conception of the person (PCP), possession of the two moral power -- the capacities for a sense of justice and a conception of the good -- is the \"necessary and sufficient condition for being counted a full and equal member of society in questions of political justice\". We argue that neither moral power requires sentience and that both may in principle be possessed by a no",
-      "published": "2026-07-10T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
-      "url": "https://arxiv.org/abs/2607.07846",
-      "summary": "arXiv:2607.07846v1 Announce Type: cross Abstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vectorization, time/wave vector analysis, piecewise functions, Fourier analysis, and differential equations in MATLAB. The course application is CTEC 247: Applied Computational Analysis II by the Department of Electrical & Computer Engineering Technology at New York Institute of Technology Old Westbury. The LLM model is designed to be an instructive assistant, providing detailed explanations of concept",
-      "published": "2026-07-10T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation",
-      "url": "https://arxiv.org/abs/2607.07852",
-      "summary": "arXiv:2607.07852v1 Announce Type: cross Abstract: Automated segmentation of cervical-spine MRI is increasingly used in clinical workflows, yet no fairness audit exists for this anatomy. We show that auditing these segmentation tasks is complicated by a common property of modern segmentation datasets: expert-annotated gold labels are expensive, so abundant machine-generated (silver) labels are added to limit annotation cost. This matters because the reference used to judge a model can itself be biased. In this study, we present the first fairness audit of cervical-spine MRI segmentation across ",
-      "published": "2026-07-10T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs",
-      "url": "https://arxiv.org/abs/2607.08009",
-      "summary": "arXiv:2607.08009v1 Announce Type: cross Abstract: We introduce a Bloom-aligned framework for measuring educational control in Large Language Models (LLMs): the ability to preserve a task's instructional intent while shifting its cognitive demand toward specified learning objectives. We apply this framework to programming tasks in computer science education to study the gap between solving tasks and adapting them for learners. Using revised Bloom's Taxonomy as an operational scale of cognitive demand, we evaluate two intervention settings: general difficulty control, where models are asked to m",
+      "title": "MultiFair: Multimodal Balanced Fairness-Aware Medical Classification with Dual-Level Gradient Modulation",
+      "url": "https://arxiv.org/abs/2510.07328",
+      "summary": "arXiv:2510.07328v2 Announce Type: replace-cross Abstract: Medical decision systems increasingly rely on data from multiple sources to ensure reliable and unbiased diagnosis. However, existing multimodal learning models fail to achieve this goal because they often overlook two critical challenges. First, various data modalities may learn unevenly, thereby converging to a model biased towards certain modalities. Second, the model may emphasize learning on certain demographic groups causing unfair performances. The two aspects can influence each other, as different data modalities may favor respe",
       "published": "2026-07-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
