@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-10",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Buffy versus Bella: An archetypometric analysis and comparison",
+      "url": "https://arxiv.org/abs/2607.07826",
+      "summary": "arXiv:2607.07826v1 Announce Type: new Abstract: Fictional stories and characters embody and encode social norms, and their study is a powerful tool through which to understand culture and society. Vampire stories and folklore, in particular, have long both reflected and refracted people's preoccupation with disease, sexuality, death, and immortality. Here, we explore female main characters from two popular vampire franchises of the 21st century: Buffy Summers from the eponymous Buffy the Vampire Slayer and Bella Swan from the Twilight series. We employ the archetypometrics framework, built fro",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Validating LLMs in social science: Epistemic threats and emerging norms",
+      "url": "https://arxiv.org/abs/2607.07915",
+      "summary": "arXiv:2607.07915v1 Announce Type: new Abstract: Large language models (LLMs) are reshaping social science methodology. Researchers increasingly prompt language models to generate quantitative measurements of social concepts, for example labeling data or simulating survey responses. Yet LLMs pose methodological challenges including bias, hallucination, and brittleness across contexts, with unclear threats to validity. Standard practices and norms for addressing these challenges are still emerging. We collect and systematically analyze validation practices in a comprehensive corpus of papers fro",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Thesis to Transition: An INSIGHT-Inspired Approach to Co-Designing Industry 5.0 Competency Pathways for Early-Stage Researchers",
+      "url": "https://arxiv.org/abs/2607.08222",
+      "summary": "arXiv:2607.08222v1 Announce Type: new Abstract: Europe faces a critical \"translation gap\" where doctoral excellence in academia often fails to convert into industrial impact. While Industry 5.0 demands a blend of technical depth, sustainability, and human-centric design, traditional higher academic education remains siloed. This paper presents an approach from the Horizon Europe INSIGHT initiative to co-design modular competency pathways for early-stage researchers. Using a multi-methodological analysis framework, including expert interviews and co-design workshops, we propose a two-layer comp",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Diagnosing and Repairing Persona Collapse in LLM Advice",
+      "url": "https://arxiv.org/abs/2607.08326",
+      "summary": "arXiv:2607.08326v1 Announce Type: new Abstract: LLMs are increasingly used for personal advice on relationships, work, moral dilemmas, and crises. Post-training selects a stable, prosocial Assistant persona, but good advice requires more than a good default character: a skilled advisor comforts someone in crisis, challenges someone in denial, and stays procedural with a logistical question. We formalize advice-giving as situation-conditioned persona selection in a space defined by hedonic tone and agency support, and call failures of this mapping \"persona collapse\" (the compression of diverse ",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Does online sustainability communication shape public discourse? Insights from six years of tenant-housing provider interactions",
+      "url": "https://arxiv.org/abs/2607.08437",
+      "summary": "arXiv:2607.08437v1 Announce Type: new Abstract: Authorities increasingly rely on social media to advance sustainability transitions, infrastructure investment, and service reform. Yet how citizens respond to these digital communications remains poorly understood. Existing approaches rely on aggregate engagement metrics (e.g., likes), providing limited insight into discourse structure and quality. We developed a data-driven, multidimensional framework to analyse how social media communication shapes the content of discourse, focusing on sustainability-related engagement in Dutch public housing.",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Context Access Divide: Interaction-Level Architecture as a Complementary Dimension of Agentic Inequality",
+      "url": "https://arxiv.org/abs/2607.08495",
+      "summary": "arXiv:2607.08495v1 Announce Type: new Abstract: Sharp et al. (2025) introduce \"agentic inequality\" as a framework for analyzing disparities in access to AI agents across three dimensions: availability, quality, and quantity. These person- and organization-level dimensions characterize who can access agents and at what capability, but do not address a structurally important divide operating at a finer level: the individual interaction. Two users with nominally equivalent agent access may experience qualitatively different AI utility depending on whether the system can autonomously retrieve cont",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Artificial Persons",
+      "url": "https://arxiv.org/abs/2607.08695",
+      "summary": "arXiv:2607.08695v1 Announce Type: new Abstract: Both advocates and skeptics of the moral status of AI systems have generally taken the question to turn on AI sentience. We present an alternative approach. On Rawls' political conception of the person (PCP), possession of the two moral power -- the capacities for a sense of justice and a conception of the good -- is the \"necessary and sufficient condition for being counted a full and equal member of society in questions of political justice\". We argue that neither moral power requires sentience and that both may in principle be possessed by a no",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "VectorizationLLM: Smart Vectorization Based AI Assistant",
+      "url": "https://arxiv.org/abs/2607.07846",
+      "summary": "arXiv:2607.07846v1 Announce Type: cross Abstract: VectorizationLLM is a specialized Large Language Model based on Google open-weight LLMs. The model is designed to assist students to learn smart vectorization, time/wave vector analysis, piecewise functions, Fourier analysis, and differential equations in MATLAB. The course application is CTEC 247: Applied Computational Analysis II by the Department of Electrical & Computer Engineering Technology at New York Institute of Technology Old Westbury. The LLM model is designed to be an instructive assistant, providing detailed explanations of concept",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "False Confidence: Automated Labels Confound Fairness Audits in Cervical Spine Segmentation",
+      "url": "https://arxiv.org/abs/2607.07852",
+      "summary": "arXiv:2607.07852v1 Announce Type: cross Abstract: Automated segmentation of cervical-spine MRI is increasingly used in clinical workflows, yet no fairness audit exists for this anatomy. We show that auditing these segmentation tasks is complicated by a common property of modern segmentation datasets: expert-annotated gold labels are expensive, so abundant machine-generated (silver) labels are added to limit annotation cost. This matters because the reference used to judge a model can itself be biased. In this study, we present the first fairness audit of cervical-spine MRI segmentation across ",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Execution to Education: A Bloom-Aligned Framework for Measuring Educational Control in LLMs",
+      "url": "https://arxiv.org/abs/2607.08009",
+      "summary": "arXiv:2607.08009v1 Announce Type: cross Abstract: We introduce a Bloom-aligned framework for measuring educational control in Large Language Models (LLMs): the ability to preserve a task's instructional intent while shifting its cognitive demand toward specified learning objectives. We apply this framework to programming tasks in computer science education to study the gap between solving tasks and adapting them for learners. Using revised Bloom's Taxonomy as an operational scale of cognitive demand, we evaluate two intervention settings: general difficulty control, where models are asked to m",
+      "published": "2026-07-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
