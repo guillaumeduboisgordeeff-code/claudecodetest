@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Critsly: An Artefact-Aware AI Critique Teammate for Design Education and Project-Based Learning",
-      "url": "https://arxiv.org/abs/2607.09673",
-      "summary": "arXiv:2607.09673v1 Announce Type: new Abstract: Critique is central to design education and project-based learning, yet high-quality critique is often scarce, uneven, hard to document, and disconnected from evolving artefacts. We present Critsly, an artefact-aware AI critique workspace that turns AI from a detached feedback tool into a critique teammate in the learner's board context. Critsly combines a visual design canvas with structured AI-supported reflection, multi-perspective critique, action planning, optional peer/jury settings, and educator evidence traces. Unlike chatbot feedback too",
+      "title": "Return of the solo author: The changing division of labor in science in the age of generative A",
+      "url": "https://arxiv.org/abs/2607.10780",
+      "summary": "arXiv:2607.10780v1 Announce Type: new Abstract: Modern science has experienced a long shift from individual work to team production. Generative artificial intelligence (AI) might appear to extend this trajectory by lowering research costs and enabling larger-scale collaboration. Yet if tasks once performed by coauthors can be delegated to AI, the same technology may also weaken the need for collaboration in parts of the research process. Here, we examine this tension by moving beyond average team size and focusing on the solo-authored tail of the author-count distribution. Analyzing over 300 m",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Tools to Teacher-Built Teammates: No-Code Pedagogical Plugin Authoring with LearnAdapt Agentic Studio and PedOS 1.1 Lumina",
-      "url": "https://arxiv.org/abs/2607.09674",
-      "summary": "arXiv:2607.09674v1 Announce Type: new Abstract: Teachers and researchers need to adapt educational AI to local goals, but most systems remain difficult to customize or study without coding expertise. We present LearnAdapt Agentic Studio on PedOS 1.1 Lumina, a no-code authoring and governed runtime environment for educational AI plugins. A non-coder describes a desired learning interaction in plain English; the system prepares a previewable plugin artifact, runs safety checks, and supports submission for review. PedOS then deploys approved plugins into a directory for installation. Crucially, t",
+      "title": "Q-Learning Lab: Teaching Reinforcement Learning Through Learner-Generated Trace Analysis",
+      "url": "https://arxiv.org/abs/2607.10802",
+      "summary": "arXiv:2607.10802v1 Announce Type: new Abstract: Reinforcement learning is usually introduced through the Bellman update, yet the equation often remains abstract to undergraduates: they watch policy arrows converge but rarely observe how each value is computed or why an action is chosen. We present Q-Learning Lab, a single-file, browser-based, bilingual (Thai/English) tool for teaching tabular Q-learning that requires no installation. Beyond the usual gridworld visualization - color-coded Q-values and policy arrows on a $5 \\times 5$ world - the tool exposes a live Bellman-substitution panel sho",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Gender Gap Analysis in News and Talk Online Radio Broadcast",
-      "url": "https://arxiv.org/abs/2607.09675",
-      "summary": "arXiv:2607.09675v1 Announce Type: new Abstract: Radio broadcasting remains a dominant medium of communication, reaching 82% of Americans ages 12 and older weekly. Given its broad media impact, gender representation on radio news and talk stations may play an important role in shaping social and cultural perceptions. In this study, we examined patterns of gender representation in radio broadcasts, focusing on gender-based differences in total speaking time, air-time allocation across the day, and participation across broadcast topics. The dataset comprises filtered recordings from 74 US news an",
+      "title": "FPGA Meets Breadboard: Integrating a Virtual Breadboard with Real FPGA Boards for Remote Access in Digital Design Courses",
+      "url": "https://arxiv.org/abs/2607.10895",
+      "summary": "arXiv:2607.10895v1 Announce Type: new Abstract: With the transition to remote instruction, new modalities for conducting hands-on labs are needed. In particular, courses that entail major hardware components faced challenges in making the hardware available for students in a reliable and sustainable way. This paper presents our experience in implementing a virtual breadboard feature to interface with real Field Programmable Gate Arrays (FPGAs) boards located on the University of Washington's campus, where students can access the boards remotely to complete their lab assignments.",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Elite Proxies, Algorithmic Bottlenecks, and Multi-Platform Information Cascades in the 2026 Iran War",
-      "url": "https://arxiv.org/abs/2607.09676",
-      "summary": "arXiv:2607.09676v1 Announce Type: new Abstract: As high-stakes executive crisis communication shifts into fragmented digital ecosystems, unmediated narratives increasingly originate within closed-broadcast enclaves before diffusing into structurally distinct open networks. Yet the mechanisms governing cross-platform information migration remain under-theorized, underscoring the need for systematic computational analysis. This study tracks the transformation of President Trump's statements during the 2026 Iran War as they move from Truth Social into X-Twitter and Bluesky. Using a Metric-to-Sema",
+      "title": "Effectiveness of Using Remote Laboratory in Promoting Simulation and Verification Tools",
+      "url": "https://arxiv.org/abs/2607.10900",
+      "summary": "arXiv:2607.10900v1 Announce Type: new Abstract: The transition to remote learning during the pandemic has necessitated the development of new methods for conducting hands-on experiments. One significant challenge in this transition has been providing students with reliable and sustainable access to necessary hardware components, particularly for courses that require substantial equipment. Additionally, industry partners have high expectations for students to be proficient in simulation and verification tools. To address these challenges, we implemented a virtual breadboard feature that allows ",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A realist theory of digital objects, digital systems, and digitalized systems",
-      "url": "https://arxiv.org/abs/2607.09834",
-      "summary": "arXiv:2607.09834v1 Announce Type: new Abstract: As human reliance on information technology (IT) increases, having a clear, precise, and comprehensive understanding of the nature of digital objects, digital systems, and digitalized systems becomes more critical. Otherwise, our ability to research, manage, control, and make reliable predictions about them will be limited. Accordingly, in this paper, we propose a new theory of digital objects, digital systems, and digitalized systems based on the adoption, adaptation, and extension of existing theories of ontology, semantics, and semiotics. The ",
+      "title": "LLM-Generated Design Problems for Assessing Higher-Order Thinking in Project-Based Learning",
+      "url": "https://arxiv.org/abs/2607.11032",
+      "summary": "arXiv:2607.11032v1 Announce Type: new Abstract: Project-based learning (PjBL) is common in computing education, but traditional assessments of PjBL often fail to capture higher-order thinking (HOT), especially in transfer contexts. This study introduces \"design problems\" (DPs): concise, scenario-based prompts that require applying project concepts in new situations, to address this gap. We examined instructor perceptions, the ability of large language models (LLMs) to generate DPs, and student experiences. Surveys of 31 instructors, evaluation of 80 LLM-generated DPs, and student performance d",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Religion and Artificial Intelligence as Distributed Meaning Systems: A Naturalistic Conceptual Model",
-      "url": "https://arxiv.org/abs/2607.10011",
-      "summary": "arXiv:2607.10011v1 Announce Type: new Abstract: This paper develops a naturalistic account of religion and artificial intelligence as structurally similar distributed meaning systems. I argue that both emerge from the same underlying cognitive architecture: socially extended processes that offload interpretation, norm-guidance, and world-model construction into external symbolic environments. Drawing on work in distributed cognition, cultural evolution, and philosophy of mind, the paper proposes a conceptual model showing how meaning is generated, stabilised, and transmitted through recursive ",
+      "title": "Adoption-Ready Project-Based Learning for Computing Education: The FORAP Framework and a Multi-Scale Project Portfolio",
+      "url": "https://arxiv.org/abs/2607.11129",
+      "summary": "arXiv:2607.11129v1 Announce Type: new Abstract: This innovative practice full paper presents FORAP (Framework for Organizing Reusable and Adaptable PjBL Projects) and a portfolio of 14 adoption-ready project-based learning (PjBL) project packages built with the framework. PjBL in computing education offers strong educational benefits, yet its adoption remains limited by high instructor workload and recurring student technical challenges. FORAP addresses these barriers by organizing each package around a project designed with aligned learning objectives and described through project attributes,",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Conceptual Architecture for Educational Digital Twins Supporting AI Literacy Across Educational and Professional Settings",
-      "url": "https://arxiv.org/abs/2607.10013",
-      "summary": "arXiv:2607.10013v1 Announce Type: new Abstract: In the AI Literacy for Multidisciplinary Professional Readiness and Outreach (AIM-PRO) project, we are creating integrated methods to improve the education on AI literacy. One concept on which the project relies is educational digital twins, that is, digital representations of educator trainers, teachers, and learners that can be used in different stages of the educational process. Such digital twins enable the simulation, monitoring, and optimization of learning experiences. This paper presents the AIM-PRO project and its conceptual foundations,",
+      "title": "DeepBias: Adaptive In-depth Probing of Social Biases in LVLMs",
+      "url": "https://arxiv.org/abs/2607.11228",
+      "summary": "arXiv:2607.11228v1 Announce Type: new Abstract: While Large Vision-Language Models (LVLMs) demonstrate remarkable capabilities, they remain highly susceptible to embedded social biases. Existing bias evaluation protocols predominantly rely on static datasets, which provide only a superficial assessment, as their fixed test cases cannot adaptively evolve to measure the true depth and limits of model vulnerabilities. We introduce DeepBias, an adaptive framework for the in-depth probing of social biases in LVLMs with carefully designed agents. Our approach operates through a dynamic ''generation-",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Rise of the Smart Compound: Privately Governed Urban Intelligence and Its Research Agenda",
-      "url": "https://arxiv.org/abs/2607.10469",
-      "summary": "arXiv:2607.10469v1 Announce Type: new Abstract: Across a range of fast growing urban markets, private developers are constructing a version of the smart city that operates largely outside the purview of municipal government, often at the explicit invitation of city officials seeking to shift the cost and complexity of digital infrastructure onto private capital. Gated residential and mixed use developments are increasingly marketed not merely on the basis of security and amenity, but on their smartness: integrated home automation, app mediated access control, and centralized energy and resourc",
+      "title": "The Paternalistic Filter: Epistemic Injustice and Differential Refusal in LLM-Mediated History Education for Marginalized Romanian Students",
+      "url": "https://arxiv.org/abs/2607.11292",
+      "summary": "arXiv:2607.11292v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly deployed as conversational tutors, they risk institutionalizing systemic inequalities. This study presents a systematic API audit of four LLMs acting as history tutors, evaluating 1,800 responses regarding the 1989 Romanian Revolution across five student personas varying by ethnicity and socio-economic tier. We uncover four interconnected patterns of \\emph{epistemic paternalism}: (1)~\\textbf{Differential Refusal}, where safety-aligned models block 76.7\\% of educational requests from low-tier studen",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Sequential compliance decisions of firms on cross-border data flows: An institutionally anchored decision support system",
-      "url": "https://arxiv.org/abs/2607.10620",
-      "summary": "arXiv:2607.10620v1 Announce Type: new Abstract: The economic value of data arises from its flow across organizations and national borders. Yet increasingly stringent data governance regimes are turning cross-border transfer into an institutionally constrained sequential decision, in which firms repeatedly weigh compliance costs against the value of data flows. From the perspective of a data-exporting firm, this paper develops an institutionally anchored decision support system. It converts regulatory rules into a computable minimal compliance mapping and models the firm's weekly decisions as a",
+      "title": "Programming Language Policy as an AI Literacy Equity Problem: A 15-Nation Comparative Analysis",
+      "url": "https://arxiv.org/abs/2607.11314",
+      "summary": "arXiv:2607.11314v1 Announce Type: new Abstract: The promise of AI literacy ``for all'' confronts a structural challenge embedded in how nations organise secondary computer science education. In most systems, a general-track subject -- Digital Literacy, ICT, TIC, or SNT -- bears the weight of universal AI literacy, while a specialist Informatics course serves STEM pathways separately. Yet the content and depth of the general track are shaped by governance decisions made largely with reference to the specialist one. This paper presents a comparative analysis of curricula and examination framewor",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Robo-Reporters: Evaluating Autonomous AI Agents as Algorithmic Gatekeepers in Computational Journalism",
-      "url": "https://arxiv.org/abs/2607.10736",
-      "summary": "arXiv:2607.10736v1 Announce Type: new Abstract: Artificial intelligence agents increasingly perform journalism tasks autonomously, searching for sources, evaluating credibility, and producing news content with minimal human oversight. Yet research has largely treated AI as a monolithic category, leaving the effects of architectural design unexamined. Drawing on gatekeeping theory, this study presents the first systematic comparison of four agent architectures, monolithic (Claude), chain-based (LangChain), multi-agent collaborative (CrewAI), and autonomous iterative (AutoGPT), across 200 contro",
+      "title": "One Vote, Several Parliaments: An Empirical Analysis of the Algorithmic Ambiguity of the Italian Electoral Law on the 2022 General Election Data",
+      "url": "https://arxiv.org/abs/2607.11676",
+      "summary": "arXiv:2607.11676v1 Announce Type: new Abstract: Crafa's algorithmic analysis of the Italian electoral law (D.P.R. 361/1957, as amended by Law 165/2017, the Rosatellum) showed that the statutory text distributing proportional seats among territories (Art. 83(1)(h)) admits at least three algorithmic interpretations, which can elect different people from the same votes. We test this empirically: we implement the full seat-allocation pipeline (Arts. 77, 83, 83-bis, 84, 85) and run the three interpretations on the complete open data of the Italian general election of 25 September 2022 (Chamber of D",
       "published": "2026-07-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
