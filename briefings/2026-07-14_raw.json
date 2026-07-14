@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-14",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Critsly: An Artefact-Aware AI Critique Teammate for Design Education and Project-Based Learning",
+      "url": "https://arxiv.org/abs/2607.09673",
+      "summary": "arXiv:2607.09673v1 Announce Type: new Abstract: Critique is central to design education and project-based learning, yet high-quality critique is often scarce, uneven, hard to document, and disconnected from evolving artefacts. We present Critsly, an artefact-aware AI critique workspace that turns AI from a detached feedback tool into a critique teammate in the learner's board context. Critsly combines a visual design canvas with structured AI-supported reflection, multi-perspective critique, action planning, optional peer/jury settings, and educator evidence traces. Unlike chatbot feedback too",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Tools to Teacher-Built Teammates: No-Code Pedagogical Plugin Authoring with LearnAdapt Agentic Studio and PedOS 1.1 Lumina",
+      "url": "https://arxiv.org/abs/2607.09674",
+      "summary": "arXiv:2607.09674v1 Announce Type: new Abstract: Teachers and researchers need to adapt educational AI to local goals, but most systems remain difficult to customize or study without coding expertise. We present LearnAdapt Agentic Studio on PedOS 1.1 Lumina, a no-code authoring and governed runtime environment for educational AI plugins. A non-coder describes a desired learning interaction in plain English; the system prepares a previewable plugin artifact, runs safety checks, and supports submission for review. PedOS then deploys approved plugins into a directory for installation. Crucially, t",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Gender Gap Analysis in News and Talk Online Radio Broadcast",
+      "url": "https://arxiv.org/abs/2607.09675",
+      "summary": "arXiv:2607.09675v1 Announce Type: new Abstract: Radio broadcasting remains a dominant medium of communication, reaching 82% of Americans ages 12 and older weekly. Given its broad media impact, gender representation on radio news and talk stations may play an important role in shaping social and cultural perceptions. In this study, we examined patterns of gender representation in radio broadcasts, focusing on gender-based differences in total speaking time, air-time allocation across the day, and participation across broadcast topics. The dataset comprises filtered recordings from 74 US news an",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Elite Proxies, Algorithmic Bottlenecks, and Multi-Platform Information Cascades in the 2026 Iran War",
+      "url": "https://arxiv.org/abs/2607.09676",
+      "summary": "arXiv:2607.09676v1 Announce Type: new Abstract: As high-stakes executive crisis communication shifts into fragmented digital ecosystems, unmediated narratives increasingly originate within closed-broadcast enclaves before diffusing into structurally distinct open networks. Yet the mechanisms governing cross-platform information migration remain under-theorized, underscoring the need for systematic computational analysis. This study tracks the transformation of President Trump's statements during the 2026 Iran War as they move from Truth Social into X-Twitter and Bluesky. Using a Metric-to-Sema",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A realist theory of digital objects, digital systems, and digitalized systems",
+      "url": "https://arxiv.org/abs/2607.09834",
+      "summary": "arXiv:2607.09834v1 Announce Type: new Abstract: As human reliance on information technology (IT) increases, having a clear, precise, and comprehensive understanding of the nature of digital objects, digital systems, and digitalized systems becomes more critical. Otherwise, our ability to research, manage, control, and make reliable predictions about them will be limited. Accordingly, in this paper, we propose a new theory of digital objects, digital systems, and digitalized systems based on the adoption, adaptation, and extension of existing theories of ontology, semantics, and semiotics. The ",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Religion and Artificial Intelligence as Distributed Meaning Systems: A Naturalistic Conceptual Model",
+      "url": "https://arxiv.org/abs/2607.10011",
+      "summary": "arXiv:2607.10011v1 Announce Type: new Abstract: This paper develops a naturalistic account of religion and artificial intelligence as structurally similar distributed meaning systems. I argue that both emerge from the same underlying cognitive architecture: socially extended processes that offload interpretation, norm-guidance, and world-model construction into external symbolic environments. Drawing on work in distributed cognition, cultural evolution, and philosophy of mind, the paper proposes a conceptual model showing how meaning is generated, stabilised, and transmitted through recursive ",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Conceptual Architecture for Educational Digital Twins Supporting AI Literacy Across Educational and Professional Settings",
+      "url": "https://arxiv.org/abs/2607.10013",
+      "summary": "arXiv:2607.10013v1 Announce Type: new Abstract: In the AI Literacy for Multidisciplinary Professional Readiness and Outreach (AIM-PRO) project, we are creating integrated methods to improve the education on AI literacy. One concept on which the project relies is educational digital twins, that is, digital representations of educator trainers, teachers, and learners that can be used in different stages of the educational process. Such digital twins enable the simulation, monitoring, and optimization of learning experiences. This paper presents the AIM-PRO project and its conceptual foundations,",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Rise of the Smart Compound: Privately Governed Urban Intelligence and Its Research Agenda",
+      "url": "https://arxiv.org/abs/2607.10469",
+      "summary": "arXiv:2607.10469v1 Announce Type: new Abstract: Across a range of fast growing urban markets, private developers are constructing a version of the smart city that operates largely outside the purview of municipal government, often at the explicit invitation of city officials seeking to shift the cost and complexity of digital infrastructure onto private capital. Gated residential and mixed use developments are increasingly marketed not merely on the basis of security and amenity, but on their smartness: integrated home automation, app mediated access control, and centralized energy and resourc",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Sequential compliance decisions of firms on cross-border data flows: An institutionally anchored decision support system",
+      "url": "https://arxiv.org/abs/2607.10620",
+      "summary": "arXiv:2607.10620v1 Announce Type: new Abstract: The economic value of data arises from its flow across organizations and national borders. Yet increasingly stringent data governance regimes are turning cross-border transfer into an institutionally constrained sequential decision, in which firms repeatedly weigh compliance costs against the value of data flows. From the perspective of a data-exporting firm, this paper develops an institutionally anchored decision support system. It converts regulatory rules into a computable minimal compliance mapping and models the firm's weekly decisions as a",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Robo-Reporters: Evaluating Autonomous AI Agents as Algorithmic Gatekeepers in Computational Journalism",
+      "url": "https://arxiv.org/abs/2607.10736",
+      "summary": "arXiv:2607.10736v1 Announce Type: new Abstract: Artificial intelligence agents increasingly perform journalism tasks autonomously, searching for sources, evaluating credibility, and producing news content with minimal human oversight. Yet research has largely treated AI as a monolithic category, leaving the effects of architectural design unexamined. Drawing on gatekeeping theory, this study presents the first systematic comparison of four agent architectures, monolithic (Claude), chain-based (LangChain), multi-agent collaborative (CrewAI), and autonomous iterative (AutoGPT), across 200 contro",
+      "published": "2026-07-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
