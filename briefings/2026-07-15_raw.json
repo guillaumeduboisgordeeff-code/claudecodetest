@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-15",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "So Many Opinions, So Many LLMs: Comparing Large Language Models to Traditional Machine Learning for Open- Ended Survey Analysis",
+      "url": "https://arxiv.org/abs/2607.11890",
+      "summary": "arXiv:2607.11890v1 Announce Type: new Abstract: Open-ended surveys offer valuable insights, but they are notoriously difficult to analyze at scale. Building on previous work that employed traditional machine learning to classify text (\"So Many Responses, So Little Time: A Machine-Learning Approach to Analyzing Open-Ended Survey Data\") [1], this study investigates how different large language models (LLMs) understand and analyze NSSE open-ended survey responses. We focus on several cutting-edge LLMSs-OpenAI's GPT series, Twitter-roBERTa-base model, and Meta's LLaMA-and compare their performance",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AgentSociety 2: An Integrated Research Environment for Executable Social Science",
+      "url": "https://arxiv.org/abs/2607.11895",
+      "summary": "arXiv:2607.11895v1 Announce Type: new Abstract: AI scientist systems are beginning to automate parts of scientific research, but social science poses a distinct challenge: its objects of inquiry are not merely datasets or laboratory protocols, but integrated social processes involving situated participants, interaction contexts, interventions, and outcomes. Yet a critical link is missing: existing systems either assist isolated research tasks or simulate agents as experimental subjects, leaving the research workflow and simulated society decoupled. Here we introduce AgentSociety 2, an Integrat",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Underwriting the Agent Economy: The Blueprint for an AI Insurance Stack",
+      "url": "https://arxiv.org/abs/2607.11999",
+      "summary": "arXiv:2607.11999v1 Announce Type: new Abstract: From maritime trade to commercial nuclear power, insurance has been the enabler of major economic and technological developments by pricing risk, limiting downside, and spreading best practices. The emerging AI agent economy, projected to handle trillions of dollars in transactions by 2030, looks to be the next such development. Yet insurers' exposure to AI agent risk currently sits largely unpriced across existing insurance lines; between this silent coverage and growing exclusions, coverage is not fit for purpose. Furthermore, insurability is t",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "It is not enough to give your moderation rules to ChatGPT: Policy-as-Prompt Moderation and Its Potential Impacts on Community Governance",
+      "url": "https://arxiv.org/abs/2607.12149",
+      "summary": "arXiv:2607.12149v1 Announce Type: new Abstract: Content moderation practices and governance paradigms are changing rapidly, as fewer human moderators are deployed as `experts' by social media companies in a centralized manner. Instead, the companies are focusing more on community approaches, relying on volunteers to provide accurate information and make correct decisions. In decentralized moderation, communities have always relied on volunteers, updated community guidelines, and internal discussions thereof. For both content moderation paradigms, Artificial Intelligence (AI) seems like it coul",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Semi-Automated System for Generating Dialogue-Based TTS Lessons Using Large Language Models: An Exploratory Study of Educational Potential",
+      "url": "https://arxiv.org/abs/2607.12235",
+      "summary": "arXiv:2607.12235v1 Announce Type: new Abstract: This study proposes a semi-automated system for generating dialogue-based lessons using Large Language Models (LLMs) and Text-to-Speech (TTS) technology, and exploratorily examines its educational potential via a practical quasi-experiment. The system augments rather than replaces educators through a three-stage human-in-the-loop workflow (LLM-based slide/narration generation, educator review, automated audiovisual integration), and introduces a novel method for generating Expert-Novice dialogue narration based on cognitive apprenticeship theory.",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Longitudinal Analysis of Public Discourse on AI Ethics in Education Using Twitter Data",
+      "url": "https://arxiv.org/abs/2607.12295",
+      "summary": "arXiv:2607.12295v1 Announce Type: new Abstract: The rapid integration of artificial intelligence (AI) and generative AI (GenAI) into education presents significant opportunities to enhance teaching and learning, while raising ethical concerns about the responsible use of these technologies in educational settings. Understanding how the public perceives and debates these issues is increasingly important for educators, institutions, and policymakers seeking to integrate AI responsibly and equitably. Social media platforms, where such debates unfold frequently and at scale, offer a valuable lens ",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Comparative Analysis of Institutional and Course Generative AI Policies within Higher Education: Implications for Instruction in Computing Education",
+      "url": "https://arxiv.org/abs/2607.12296",
+      "summary": "arXiv:2607.12296v1 Announce Type: new Abstract: With the increased use of generative AI (GenAI) applications such as ChatGPT, higher education institutions (HEIs) have released a range of guidelines and policies to direct adoption within their institutions. In computer science (CS) courses GenAI adoption is especially high and the implications for student learning are significant. At the same time, instructors have also been forced to address the use of GenAI as students have started to use it for a range of functions. Currently, comparative analysis of guidance provided by institutions and it",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AAAI-26 Dual Submissions: Novel Challenges",
+      "url": "https://arxiv.org/abs/2607.11918",
+      "summary": "arXiv:2607.11918v1 Announce Type: cross Abstract: Dual submissions, in which identical or substantially similar papers are simultaneously submitted to one or more archival venues, without cross-citation or disclosure, are a growing problem for the AAAI Conference and other scientific publication venues. These submissions increase the burden on the peer-review system and pollute the scientific record. As part of the AAAI-26 review process, we (conference organizers) compared AAAI main-track submissions to nine other archival venues with overlapping review periods. We also searched for dual subm",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "CityBehavEx: A Scalable and Empirically Validated LLM-Assisted Urban Simulation Platform",
+      "url": "https://arxiv.org/abs/2607.12086",
+      "summary": "arXiv:2607.12086v1 Announce Type: cross Abstract: Recent LLM-based multi-agent urban simulators can generate semantically rich city routines, but they remain costly to scale and are often weakly validated against empirical mobility patterns. We present CityBehavEx, an interactive LLM-assisted urban simulation platform that scales to city-size populations, exposes agent behavior for inspection, supports empirical validation, and generates mobility patterns that better match real-world spatial, temporal, and semantic distributions. Instead of invoking large language models for every agent action",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Threshold Exceedance Framework for CBRN Uplift Evaluation in Frontier Language Models",
+      "url": "https://arxiv.org/abs/2607.12200",
+      "summary": "arXiv:2607.12200v1 Announce Type: cross Abstract: As frontier language models advance, policymakers and model developers need methods for assessing whether model access materially increases a non-expert actor's ability to plan high-consequence Chemical, Biological, Radiological, or Nuclear (CBRN) misuse relative to public tools alone. Existing CBRN evaluations differ in non-expert definitions, threat scope, baselines, scoring rubrics, and decision rules, making results difficult to compare across studies. We introduce a Threshold Exceedance Criteria (TEC) framework that decomposes an uplift st",
+      "published": "2026-07-15T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
