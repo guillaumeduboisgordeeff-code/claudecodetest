@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-16",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Designing Safety-Constrained LLM Systems for Public Health Information Access",
+      "url": "https://arxiv.org/abs/2607.13038",
+      "summary": "arXiv:2607.13038v1 Announce Type: new Abstract: We present the design and implementation of a safety constrained large language model (LLM) system for public health information access, focusing on maternal and child health (MCH) resource navigation. While LLM based systems offer flexible and natural interfaces for information retrieval, their deployment in healthcare contexts introduces risks related to safety, trust, and uncontrolled generation. This work explores practical design patterns for constraining LLM behavior in safety critical environments. We introduce a multi-layered architecture",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Safeguard-Conditioned Uplift: Measuring Utility-Risk Frontiers for Dual-Use Biology Assistants",
+      "url": "https://arxiv.org/abs/2607.13039",
+      "summary": "arXiv:2607.13039v1 Announce Type: new Abstract: Safety evaluations for dual-use biology assistants often measure base-model capability, refusal behavior, or jailbreak success. These metrics miss a deployment question: for a fixed base model, how does the access condition users actually see change benign utility and harmful actionable assistance? I introduce safeguard-conditioned uplift, a protocol for comparing deployed access conditions through a human-judged utility-risk frontier. I evaluate Claude Sonnet 4.6 and Gemini 3.5 Flash under helpful prompting, safety prompting, and an external saf",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Final Authority in AI Governance: Frontier-Provider Sovereignty and Action-Centered Deployer Governance",
+      "url": "https://arxiv.org/abs/2607.13040",
+      "summary": "arXiv:2607.13040v1 Announce Type: new Abstract: This paper examines where final authority should sit once capable AI systems are embedded in organizational workflows. It compares two governance models. The first, frontier-provider sovereignty, assigns privileged authority to the provider of the most capable models and is reflected in contemporary arguments for frontier-model testing, release gating, transparency duties, and compute-related controls. The second, action-centered deployer sovereignty, places final authority over high-impact actions with the organization that authorizes the action",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "LessonBench-V1: A Benchmark Dataset for Evaluating AI Lesson Generation Agents",
+      "url": "https://arxiv.org/abs/2607.13041",
+      "summary": "arXiv:2607.13041v1 Announce Type: new Abstract: Large Language Model (LLM) based AI educational content generation systems are increasingly being developed, yet no standardised benchmark exists to systematically evaluate them. This study introduces LessonBench-V1, a benchmark dataset comprising 647 human-written lessons paired with LLM-based reverse-engineered lesson plans across 240 STEM topics spanning mathematics, physics, chemistry, and computer science. The lessons are drawn from 97 trusted open sources, including LibreTexts, Brilliant.org and GeeksForGeeks. Each lesson plan is human-revi",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Hitchhiker's Guide to Monoculture",
+      "url": "https://arxiv.org/abs/2607.13077",
+      "summary": "arXiv:2607.13077v1 Announce Type: new Abstract: Large language models (LLMs) often produce homogeneous outputs, raising concerns that AI coding assistants may lead to convergence in the software artifacts that developers create. Whether this occurs in practice is unclear because developers interactively prompt, evaluate, modify, and reject model outputs, and because outputs vary with prompt and repository context. I examine code homogenization using Kaggle contest submissions from 2019 to mid-2026. I first document widespread convergence toward the random seed value 42, consistent with LLMs re",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Analyzing Curricular Pattern Complexity Using AI to Improve On-Time Graduation Rates",
+      "url": "https://arxiv.org/abs/2607.13094",
+      "summary": "arXiv:2607.13094v1 Announce Type: new Abstract: The rise of Artificial Intelligence (AI) enables automatic analysis of large amounts of data. Previously time-consuming and labor-intensive tasks can be completed much more efficiently with the use of AI. This work uses AI techniques to analyze and revise curricular patterns in an undergraduate degree for Software Engineering. Curricula often have long sequences where failure to pass a class within the sequence may jeopardize completion of the degree within four years. Manual analysis and revision of curricula by university faculty is a lengthy a",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The tragedy of the cognitive commons: collective intelligence beyond AI-induced knowledge collapse",
+      "url": "https://arxiv.org/abs/2607.13272",
+      "summary": "arXiv:2607.13272v1 Announce Type: new Abstract: In a recent dynamic model by Acemoglu, Kong and Ozdaglar (2026a) agentic AI can cause a self-reinforcing deterioration of humanity's common knowledge base in what they call knowledge collapse. The model is based on a natural complementarity between the cumulative general knowledge of humans and locally generated context-specific knowledge, and on a learning externality that means that we all contribute to the private signal and the thin public signal that feeds the collective stock. If agentic AI can substitute for the private signal but not rebu",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Learning Engagement Assistant (LEA): Cross-Course Scalability and Classroom Evaluation of an Agentic AI Tutoring System",
+      "url": "https://arxiv.org/abs/2607.13370",
+      "summary": "arXiv:2607.13370v1 Announce Type: new Abstract: This paper is an extension of a paper presented at the ICAART 2026 conference, which introduced LEA (Learning Engagement Assistant), an adaptive AI tutoring agent combining course-specific Retrieval-Augmented Generation (RAG) with structured Knowledge Component (KC) models across integrated Chat, Tutor, and Quiz modes. That prior work validated LEA on a single STEM course (CMP511) exclusively through simulation, using synthetic learner agents. This paper extends that work by reporting the first classroom deployment of LEA with real students (n = ",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Environmental Cost of Digital Sovereignty: Water, Energy, and Emissions Impacts of Sovereign AI Infrastructure in the Global South",
+      "url": "https://arxiv.org/abs/2607.13443",
+      "summary": "arXiv:2607.13443v1 Announce Type: new Abstract: Sovereign AI has become a strategic priority across the Global South, with over \\$200 billion in state-led commitments announced between 2024 and 2026. Yet the physical infrastructure that compute sovereignty demands, above all data centers, imposes water, energy, and carbon costs that fall hardest on countries least equipped to absorb them. This paper presents a comparative environmental stress analysis across four cases: the United Arab Emirates, Bangladesh, India, and Africa (with a focus on Kenya). Using publicly available water stress data, ",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Persona Migration and Expectation Recalibration in Generative AI Adoption: A Longitudinal Study at a State Department of Transportation",
+      "url": "https://arxiv.org/abs/2607.13798",
+      "summary": "arXiv:2607.13798v1 Announce Type: new Abstract: Generative AI tools are increasingly being piloted in public agencies, but limited evidence explains how employee acceptance changes after hands-on use. This study examines Microsoft 365 Copilot adoption during an eight-week pilot at a state Department of Transportation. A matched two-wave survey measured perceived usefulness, perceived ease of use, behavioral intention, and trust before and after participation. After matching and response-quality screening, the sample included 124 employees. Nonparametric tests assessed aggregate changes, k-mean",
+      "published": "2026-07-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
