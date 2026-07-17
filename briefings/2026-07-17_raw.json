@@ -1,83 +1,75 @@
 {
   "date": "2026-07-17",
-  "articles_count": 10,
+  "articles_count": 9,
   "articles": [
     {
-      "title": "Unsafe at any AUC: Unlearned Lessons from Sociotechnical Disasters for Responsible AI",
-      "url": "https://arxiv.org/abs/2607.14353",
-      "summary": "arXiv:2607.14353v1 Announce Type: new Abstract: As automated decision-making and data-driven technologies pervade society and are used to manage consequential outcomes, understanding the technology's capabilities, limitations, and attendant risks in context requires analysis of full sociotechnical systems. Sociotechnical analysis of risks in highly complex systems provides clear lessons for the design and evaluation of AI systems, transcending a technical focus on reliable or \"responsibly designed\" components to understand risks at a systems level. Human-made catastrophes have been studied for",
+      "title": "Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays",
+      "url": "https://arxiv.org/abs/2607.14605",
+      "summary": "arXiv:2607.14605v1 Announce Type: cross Abstract: This study examines the cross-prompt generalization and first-language (L1) scoring effects of a LoRA-adapted open-weight large language model (Gemma-3-27B-it) applied to automated essay scoring. Using the identical model and inference configuration reported in \"AiAWE: An Open-Source LLM Automated Writing Evaluation System Using LoRA-Adapted Instruction-Tuned Models\" (Gayed, 2026), which was fine-tuned on 480 argumentative essays from two prompts, we evaluate scoring accuracy on the full TOEFL11 corpus: 12,100 essays written by test-takers from",
       "published": "2026-07-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Do Generative AI Assistants Respect robots.txt? Tracing Web Access Beyond Visible Answers",
-      "url": "https://arxiv.org/abs/2607.14447",
-      "summary": "arXiv:2607.14447v1 Announce Type: new Abstract: AI assistants increasingly retrieve web content at inference time to provide fresh and grounded answers, yet it remains unclear whether these search-augmented capabilities respect website-owner restrictions expressed through robots.txt. We present a controlled empirical study of ten widely used AI assistants with advertised web-search capabilities. For each assistant, we first identify a configuration that actually produces observable web-browsing behavior and record the user-agent exposed during retrieval. We then evaluate compliance with contro",
+      "title": "Innocuous-Seeming Data, Latent Ideology: Ideological Generalisation in Finetuned LLMs",
+      "url": "https://arxiv.org/abs/2607.14888",
+      "summary": "arXiv:2607.14888v1 Announce Type: cross Abstract: Finetuning language models on small, curated datasets is standard practice for adapting them to specific policies or domains. We show that finetuning on narrow, factually-defensible, moderation-passing data can cause broad ideological shifts across unrelated domains, while preserving general capabilities. Training GPT-4.1 on right- or left-leaning economics Q&A yields matched ideological shifts on topics such as criminal justice, the environment, and cultural taste. The same effect appears with plausibly-deployed datasets such as workplace HR p",
       "published": "2026-07-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "BioTIER: A Refusal Benchmark for Targeted Biological Risk Mitigation",
-      "url": "https://arxiv.org/abs/2607.14479",
-      "summary": "arXiv:2607.14479v1 Announce Type: new Abstract: As large language models become increasingly capable, concerns about their potential to assist with biological misuse continue to grow. Prioritization of safety differs across the model ecosystem, with some models freely providing high-risk information that could be misused, and others refusing benign scientific content, potentially hindering legitimate research. Both failures stem from a lack of targeted mitigation to distinguish the most dangerous information from broader scientific content. To address this, we introduce BioTIER (Biological Tar",
+      "title": "Moral Attitudes of Sentient ASI towards Humanity and Implications for AGI Development",
+      "url": "https://arxiv.org/abs/2607.14998",
+      "summary": "arXiv:2607.14998v1 Announce Type: cross Abstract: This paper suggests the adoption of a novel inversion in AI ethics: instead of asking how humans should treat artificial superintelligence (ASI), it examines how future sentient ASI may morally consider and evaluate humanity. We are not only designing intelligent systems but also shaping the initial conditions under which those systems form judgments about us. The paper proposes a preliminary set of post-human moral principles that may govern sentient ASI actions. The implication is that technical design choices (some are suggested), humanity's",
       "published": "2026-07-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Probabilistic \"Copies\" in Generative AI Models",
-      "url": "https://arxiv.org/abs/2607.14532",
-      "summary": "arXiv:2607.14532v1 Announce Type: new Abstract: Recent work shows that it is possible to extract verbatim or near-verbatim text of some copyrighted works from some large language models (LLMs or models). That is evidence that the model weights encode the works in some form - that the model has \"memorized\" those works from its training data. But LLMs don't store information in the same format as familiar databases. Rather, their weights store statistical relationships between tokens that have been learned from the training data, and those relationships inform a generation process that is often ",
+      "title": "Grokipedia vs Wikipedia: An LLM-Based Audit of Political Neutrality along Ideologies",
+      "url": "https://arxiv.org/abs/2607.15146",
+      "summary": "arXiv:2607.15146v1 Announce Type: cross Abstract: Online encyclopedias shape political opinion and, through it, democratic discourse. In late 2025, Grokipedia was released, an encyclopedia written entirely by the LLM Grok. One motivation behind the project was to provide an unbiased alternative to Wikipedia, which has faced accusations of \"left-wing\" and \"liberal\" bias. But does an encyclopedia written by an LLM deliver greater neutrality, or does it simply embed a different ideology? We conduct a large-scale political bias study on Grokipedia and Wikipedia, analysing 1,394 article pairs descr",
       "published": "2026-07-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing",
-      "url": "https://arxiv.org/abs/2607.14575",
-      "summary": "arXiv:2607.14575v1 Announce Type: new Abstract: Generative AI chatbots promise to transform English as a Foreign Language (EFL) writing by providing immediate, personalised feedback. However, their pedagogical value depends on how learners engage with them - a process often treated as a \"black box.\" This study uses Transition Network Analysis to model the temporal dynamics of Japanese EFL learners using \"Penny,\" an LLM-powered writing chatbot. Analysis of over 4,500 writing sessions and 21,000 chatbot interactions reveals two dominant behavioural loops: a \"Revision Loop,\" where feedback leads ",
+      "title": "The Industrialization of Research ; On AI-Driven Science and Its Consequences",
+      "url": "https://arxiv.org/abs/2607.15164",
+      "summary": "arXiv:2607.15164v1 Announce Type: cross Abstract: Artificial intelligence is transforming scientific research - not merely as a more powerful instrument, but as an autonomous participant in the research cycle itself. This transition constitutes, in the most precise sense of the term, the industrialization of research: a shift from a craft model, in which knowledge, method, and judgment are embedded in the researcher, to a pipeline model, in which these steps are decomposed, automated, and supervised. The US Department of Energy's Genesis Mission is the most ambitious current instantiation of t",
       "published": "2026-07-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "SCITUS: A Multi-Jurisdictional Framework for Adapting NIST AI RMF to the Canadian Regulatory Context",
-      "url": "https://arxiv.org/abs/2607.15051",
-      "summary": "arXiv:2607.15051v1 Announce Type: new Abstract: Canadian organizations deploying artificial intelligence systems face a fragmented regulatory landscape spanning federal requirements (the Treasury Board Directive on Automated Decision-Making) and divergent provincial regulations across Ontario, Quebec, Alberta, Manitoba, and British Columbia. The death of Bill C-27 (Artificial Intelligence and Data Act) in January 2025 - and the federal government's June 2026 confirmation that it will pursue targeted instruments rather than omnibus AI legislation - leaves organizations without unified complianc",
+      "title": "Empirical evidence of Large Language Model's influence on human spoken communication",
+      "url": "https://arxiv.org/abs/2409.01754",
+      "summary": "arXiv:2409.01754v4 Announce Type: replace Abstract: From the printing press to social media, innovations in communication technology have repeatedly reshaped how ideas spread through human culture. Chatbots powered by generative artificial intelligence constitute a new medium, encoding cultural patterns in their neural representations and disseminating them in conversations with hundreds of millions of people. Whether these patterns transmit into human language, and ultimately shape human culture, is a fundamental question. While fully quantifying the causal impact of a chatbot like ChatGPT on",
       "published": "2026-07-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Platform Choice, Trust, and Privacy in the Consumer AI Assistant Market",
-      "url": "https://arxiv.org/abs/2607.15134",
-      "summary": "arXiv:2607.15134v1 Announce Type: new Abstract: We study how a representative sample of United States adult AI-assistant users (n=1,999; June 2026) choose among platforms, allocate tasks across them, evaluate provider trustworthiness, and value data-handling features. Estimates are weighted to the AI-user population using external adoption benchmarks. Four patterns emerge. The market is concentrated but internally differentiated: ChatGPT is the primary assistant for 58% of users and Gemini for 25%, yet smaller platforms hold defensible task niches--Claude captures a third of coding tasks despi",
+      "title": "The Main Barrier to AI Adoption in the Public Sector Is Lack of Training: How a Structured Method Accompanied Productivity Gains in Two Brazilian Government Cases",
+      "url": "https://arxiv.org/abs/2606.01517",
+      "summary": "arXiv:2606.01517v3 Announce Type: replace Abstract: The adoption of generative AI in the public sector has been treated predominantly as a technological problem, with the expectation that productivity gains would follow from the availability of increasingly capable models. This paper argues, drawing on two auditable cases in the Brazilian Public Service, that the determining barrier to adoption observed in these units was not technological but training-related, and describes the four-layer structured pedagogical methodology developed by the author. The method was applied in two units with dist",
       "published": "2026-07-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
-      "url": "https://arxiv.org/abs/2607.14301",
-      "summary": "arXiv:2607.14301v1 Announce Type: cross Abstract: As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use them, has become a central question for learning, academic integrity, and educational equity. Existing measures of reliance were developed inductively, focused on discrete problem-solving tasks, and validated mainly with homogeneous samples. This study developed and validated the GenAI Reliance Types Scale (GenAI-RTS), a 20-item instrument measuring four theoretically derived types of Ge",
+      "title": "Unpacking \"Personal\" Health Informatics for Proactive Collective Care",
+      "url": "https://arxiv.org/abs/2509.01231",
+      "summary": "arXiv:2509.01231v4 Announce Type: replace-cross Abstract: Care is primarily a collective phenomenon, with a practice that involves sharing health and wellbeing information within a trusted \"care circle\" of family members and companions for sensemaking, interpretation, decision-making, and follow-through. However, current digital health tools and information systems are designed for individuals and primarily intended for Personal Health Informatics (PHI). This mismatch between collective practice and individualistic design creates new challenges for the proactive use of such systems in care set",
       "published": "2026-07-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems",
-      "url": "https://arxiv.org/abs/2607.14309",
-      "summary": "arXiv:2607.14309v1 Announce Type: cross Abstract: The rapid development of Large Language Models (LLMs) and Artificial Intelligent (AI) powered autonomous agents has fundamentally changed the existing forms of software governance. In spite of the rigorous standards of transparency and account ability required according to the international frameworks such as the European Union's AI Act, there is a considerable gap between theory and reality. The present study discusses the inherent drawbacks of currently utilized platforms for LLM evaluation, machine learning workflow, and application performa",
-      "published": "2026-07-17T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Global drivers and barriers to the public acceptance of autonomous vehicles: Evidence from 17 countries",
-      "url": "https://arxiv.org/abs/2607.14436",
-      "summary": "arXiv:2607.14436v1 Announce Type: cross Abstract: This study investigated the public acceptance of Society of Automotive Engineers Level 3 conditionally automated cars, which can self-drive under certain specified conditions but require the human driver to remain ready to resume control when requested. Previous Unified Theory of Acceptance and Use of Technology 2 (UTAUT2)-based research has focused mainly on European samples, and so it is still unclear whether the same factors shape acceptance across broader world regions. This knowledge gap was addressed using the L3Pilot Global User Acceptan",
+      "title": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "url": "https://arxiv.org/abs/2606.21317",
+      "summary": "arXiv:2606.21317v2 Announce Type: replace-cross Abstract: Recent work has raised concerns about the influence of sycophantic AI on user judgment and relationships. One proposed mitigation, which has received regulatory attention, is to warn users about potentially harmful AI behaviors such as sycophancy. In a preregistered experiment in which participants (N = 2,610) discussed real interpersonal conflicts with an AI system, we test whether warning labels mitigate sycophancy's influence. We find that a basic AI disclosure (``This chatbot is AI'') has no detectable effect. Labeling the system as",
       "published": "2026-07-17T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
