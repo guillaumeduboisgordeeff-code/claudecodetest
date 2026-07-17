@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-17",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Unsafe at any AUC: Unlearned Lessons from Sociotechnical Disasters for Responsible AI",
+      "url": "https://arxiv.org/abs/2607.14353",
+      "summary": "arXiv:2607.14353v1 Announce Type: new Abstract: As automated decision-making and data-driven technologies pervade society and are used to manage consequential outcomes, understanding the technology's capabilities, limitations, and attendant risks in context requires analysis of full sociotechnical systems. Sociotechnical analysis of risks in highly complex systems provides clear lessons for the design and evaluation of AI systems, transcending a technical focus on reliable or \"responsibly designed\" components to understand risks at a systems level. Human-made catastrophes have been studied for",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Do Generative AI Assistants Respect robots.txt? Tracing Web Access Beyond Visible Answers",
+      "url": "https://arxiv.org/abs/2607.14447",
+      "summary": "arXiv:2607.14447v1 Announce Type: new Abstract: AI assistants increasingly retrieve web content at inference time to provide fresh and grounded answers, yet it remains unclear whether these search-augmented capabilities respect website-owner restrictions expressed through robots.txt. We present a controlled empirical study of ten widely used AI assistants with advertised web-search capabilities. For each assistant, we first identify a configuration that actually produces observable web-browsing behavior and record the user-agent exposed during retrieval. We then evaluate compliance with contro",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "BioTIER: A Refusal Benchmark for Targeted Biological Risk Mitigation",
+      "url": "https://arxiv.org/abs/2607.14479",
+      "summary": "arXiv:2607.14479v1 Announce Type: new Abstract: As large language models become increasingly capable, concerns about their potential to assist with biological misuse continue to grow. Prioritization of safety differs across the model ecosystem, with some models freely providing high-risk information that could be misused, and others refusing benign scientific content, potentially hindering legitimate research. Both failures stem from a lack of targeted mitigation to distinguish the most dangerous information from broader scientific content. To address this, we introduce BioTIER (Biological Tar",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Probabilistic \"Copies\" in Generative AI Models",
+      "url": "https://arxiv.org/abs/2607.14532",
+      "summary": "arXiv:2607.14532v1 Announce Type: new Abstract: Recent work shows that it is possible to extract verbatim or near-verbatim text of some copyrighted works from some large language models (LLMs or models). That is evidence that the model weights encode the works in some form - that the model has \"memorized\" those works from its training data. But LLMs don't store information in the same format as familiar databases. Rather, their weights store statistical relationships between tokens that have been learned from the training data, and those relationships inform a generation process that is often ",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Penny: Transition Network Analysis of Learner-Chatbot Interactions in Scaffolded EFL Writing",
+      "url": "https://arxiv.org/abs/2607.14575",
+      "summary": "arXiv:2607.14575v1 Announce Type: new Abstract: Generative AI chatbots promise to transform English as a Foreign Language (EFL) writing by providing immediate, personalised feedback. However, their pedagogical value depends on how learners engage with them - a process often treated as a \"black box.\" This study uses Transition Network Analysis to model the temporal dynamics of Japanese EFL learners using \"Penny,\" an LLM-powered writing chatbot. Analysis of over 4,500 writing sessions and 21,000 chatbot interactions reveals two dominant behavioural loops: a \"Revision Loop,\" where feedback leads ",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "SCITUS: A Multi-Jurisdictional Framework for Adapting NIST AI RMF to the Canadian Regulatory Context",
+      "url": "https://arxiv.org/abs/2607.15051",
+      "summary": "arXiv:2607.15051v1 Announce Type: new Abstract: Canadian organizations deploying artificial intelligence systems face a fragmented regulatory landscape spanning federal requirements (the Treasury Board Directive on Automated Decision-Making) and divergent provincial regulations across Ontario, Quebec, Alberta, Manitoba, and British Columbia. The death of Bill C-27 (Artificial Intelligence and Data Act) in January 2025 - and the federal government's June 2026 confirmation that it will pursue targeted instruments rather than omnibus AI legislation - leaves organizations without unified complianc",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Platform Choice, Trust, and Privacy in the Consumer AI Assistant Market",
+      "url": "https://arxiv.org/abs/2607.15134",
+      "summary": "arXiv:2607.15134v1 Announce Type: new Abstract: We study how a representative sample of United States adult AI-assistant users (n=1,999; June 2026) choose among platforms, allocate tasks across them, evaluate provider trustworthiness, and value data-handling features. Estimates are weighted to the AI-user population using external adoption benchmarks. Four patterns emerge. The market is concentrated but internally differentiated: ChatGPT is the primary assistant for 58% of users and Gemini for 25%, yet smaller platforms hold defensible task niches--Claude captures a third of coding tasks despi",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Measuring How Students Rely on Generative AI in Academic Writing: Development and Multi-Source Validation of the Generative AI Reliance Types Scale (GenAI-RTS)",
+      "url": "https://arxiv.org/abs/2607.14301",
+      "summary": "arXiv:2607.14301v1 Announce Type: cross Abstract: As generative AI (GenAI) becomes increasingly embedded in undergraduate academic writing, how students rely on these tools, rather than simply whether they use them, has become a central question for learning, academic integrity, and educational equity. Existing measures of reliance were developed inductively, focused on discrete problem-solving tasks, and validated mainly with homogeneous samples. This study developed and validated the GenAI Reliance Types Scale (GenAI-RTS), a 20-item instrument measuring four theoretically derived types of Ge",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Traccia: An OpenTelemetry-Based Governance Platform for AI Systems",
+      "url": "https://arxiv.org/abs/2607.14309",
+      "summary": "arXiv:2607.14309v1 Announce Type: cross Abstract: The rapid development of Large Language Models (LLMs) and Artificial Intelligent (AI) powered autonomous agents has fundamentally changed the existing forms of software governance. In spite of the rigorous standards of transparency and account ability required according to the international frameworks such as the European Union's AI Act, there is a considerable gap between theory and reality. The present study discusses the inherent drawbacks of currently utilized platforms for LLM evaluation, machine learning workflow, and application performa",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Global drivers and barriers to the public acceptance of autonomous vehicles: Evidence from 17 countries",
+      "url": "https://arxiv.org/abs/2607.14436",
+      "summary": "arXiv:2607.14436v1 Announce Type: cross Abstract: This study investigated the public acceptance of Society of Automotive Engineers Level 3 conditionally automated cars, which can self-drive under certain specified conditions but require the human driver to remain ready to resume control when requested. Previous Unified Theory of Acceptance and Use of Technology 2 (UTAUT2)-based research has focused mainly on European samples, and so it is still unclear whether the same factors shape acceptance across broader world regions. This knowledge gap was addressed using the L3Pilot Global User Acceptan",
+      "published": "2026-07-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
