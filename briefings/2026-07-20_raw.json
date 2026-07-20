@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-20",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "On the Effectiveness of Fact Checking Information from Politically Congruent and Incongruent Large Language Models",
+      "url": "https://arxiv.org/abs/2607.15364",
+      "summary": "arXiv:2607.15364v1 Announce Type: new Abstract: Social media companies have shifted away from human fact-checkers and instead have embedded conversational Large Language Models (LLM) on their platforms. LLM chatbots differ from human fact-checkers in many ways that may shape user responses to corrections. Of particular interest in this study is that LLM chatbots can be ideologically configured via the content emphasized in their responses, the sources cited, and the configured persona. Using data from two within-subjects experiments (n=705), this paper investigates the effectiveness of fact ch",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Clinical Audit Logs as Multi-Axial Traces of Care Delivery",
+      "url": "https://arxiv.org/abs/2607.15397",
+      "summary": "arXiv:2607.15397v1 Announce Type: new Abstract: Electronic health record audit logs record timestamped actions through which clinical work is carried out. Generated as operational metadata, they now support research on clinician effort, patient outcomes, care-team coordination, and workflow structure. This Perspective explains that breadth by articulating audit logs as multi-axial event streams and drawing implications for representation learning, evaluation, and governance. Each logged action belongs simultaneously to multiple clinically meaningful relations: a clinician's work, a patient's t",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Complete Trip: A Linked Multimodal Human Mobility Dataset",
+      "url": "https://arxiv.org/abs/2607.15436",
+      "summary": "arXiv:2607.15436v1 Announce Type: new Abstract: Human mobility data have become fundamental to research across transportation, public health, urban science, and disaster resilience. However, existing mobility datasets typically capture only isolated aspects of travel behavior and rarely provide linked multimodal journeys together with network-level route representations and population-level inference. Here we present Complete Trip, a mobility dataset that reconstructs linked multimodal travel behavior from passively collected smartphone location-based services (LBS) data. The first released im",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The CRAFT principles for the responsible use of large language models in policymaking",
+      "url": "https://arxiv.org/abs/2607.15704",
+      "summary": "arXiv:2607.15704v1 Announce Type: new Abstract: Policymakers around the world face the question of how to use artificial intelligence in general, and large language models in particular, to improve the policymaking process. Used well, large language models can strengthen the collection, interpretation and synthesis of policy-relevant information and the drafting of policy-relevant output. Yet the use of large language models in policymaking is associated with risks. Output that is plausible but not necessarily correct, bias resulting from unrepresentative training data, the exposure of sensiti",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "EduGuard: A Safe RAG-Based LLM Tutor for Programming Education",
+      "url": "https://arxiv.org/abs/2607.15738",
+      "summary": "arXiv:2607.15738v1 Announce Type: new Abstract: Generative AI (GenAI) is increasingly used by students for programming explanation, debugging, and assignment support. Yet unrestricted large language model (LLM) tutors can hallucinate, contradict course policy, reveal complete solutions, and foster passive dependence. This paper presents EduGuard, a safe retrieval-augmented generation (RAG) tutoring framework for introductory programming. EduGuard integrates query understanding, instructor-approved course retrieval, pedagogical strategy selection, rubric-aware generation, claim-level verificati",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Red Light, Grey Zone: A Multi-Perspective Interactive Narrative for Autonomous Driving Ethics",
+      "url": "https://arxiv.org/abs/2607.15888",
+      "summary": "arXiv:2607.15888v1 Announce Type: new Abstract: Autonomous driving ethics is not only an expert concern, but also a public issue involving risk, responsibility, and governance. However, non-experts often struggle to interpret these issues in concrete incidents, especially when responsibility is distributed across multiple stakeholders. This paper investigates interactive narrative as a public-facing method for eliciting situated ethical reflection on autonomous driving. We present Red Light, Grey Zone, a web-based, multi-perspective interactive narrative prototype inspired by a real-world auto",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Student Evaluation of Repeated AI Feedback Across a Semester of Writing",
+      "url": "https://arxiv.org/abs/2607.16115",
+      "summary": "arXiv:2607.16115v1 Announce Type: new Abstract: Generative AI is increasingly used for feedback in higher education, but evidence from repeated classroom use remains limited. This short paper analyses 2988 reflective essay-feedback-appraisal instances from 283 Estonian bachelor students across one semester. Students obtained and assessed feedback from a self-selected AI tool using a uniform prompt. The present analysis of the anonymized text corpus covers essay content, AI feedback, and its perceived helpfulness. Students found feedback helpful and actionable more often than not; about a tenth",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Methodology for Auditable Trustworthiness Levels in AI Lifecycle Governance",
+      "url": "https://arxiv.org/abs/2607.16130",
+      "summary": "arXiv:2607.16130v1 Announce Type: new Abstract: AI governance increasingly requires judgments about whether an AI system remains adequately trustworthy over time, whether observed changes are tolerable, and how such judgments should be documented in a transparent and contestable way. Yet existing work on AI trustworthiness remains either too high-level to support lifecycle monitoring and reassessment or too narrowly metric-driven to connect with governance needs. We therefore propose a lightweight methodology for auditable trustworthiness levels in AI governance. The methodology has two compon",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Making Agent-Mediated Contributions Governable: A Project-Level Governance Manifest for Open-Source AI Collaboration",
+      "url": "https://arxiv.org/abs/2607.15769",
+      "summary": "arXiv:2607.15769v1 Announce Type: cross Abstract: Generative AI and coding agents are intensifying a central governance tension in open-source software (OSS): they scale contribution generation faster than maintainers can assess risk, evidence, and accountability. Existing responses improve agent-readability and traceability, but project rules must also organize contribution-specific risk, evidence, accountability, and review-gate states. We theorize this organizational arrangement as project-side governability infrastructure. A diagnostic audit of 50 GitHub repositories finds widespread gener",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "DECODEM: Data Extraction from Corporate Organizational Documents via Enhanced Methods",
+      "url": "https://arxiv.org/abs/2607.15879",
+      "summary": "arXiv:2607.15879v1 Announce Type: cross Abstract: Much empirical legal research depends on translating unstructured text into structured variables. In corporate governance research as elsewhere, this translation has traditionally relied on human coding of documents such as charters and bylaws, a process that is costly, difficult to scale, and often opaque. This paper introduces DECODEM, a set of benchmark datasets for evaluating the automated extraction of corporate governance variables from organizational documents. The benchmarks pair randomly sampled corporate charters and bylaws with high-",
+      "published": "2026-07-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
