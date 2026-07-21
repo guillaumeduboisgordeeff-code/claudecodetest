@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "A Fuzzy Logic Framework for Community-Aware Crime Hotspot Detection: Prototype Application Architecture and Exploratory Validation for an Urban Computing Platform",
-      "url": "https://arxiv.org/abs/2607.16218",
-      "summary": "arXiv:2607.16218v1 Announce Type: new Abstract: Urban crime prevention is a persistent socio-technical challenge for municipalities, law enforcement agencies, and citizens. Traditional reporting and response processes often rely on delayed incident reports and reactive resource allocation, while community-level signals and ambiguous early-warning indicators may remain underused. This paper reframes an Urban Computing seminar project into a fuzzy logic-based framework for community-aware urban crime hotspot detection and real-time notification. The proposed platform combines citizen reports, hi",
+      "title": "Who Will Become the Next Senior? How Generative AI Erodes the Development Pathway in Software Engineering",
+      "url": "https://arxiv.org/abs/2607.17067",
+      "summary": "arXiv:2607.17067v1 Announce Type: new Abstract: Generative AI (GenAI) is reshaping software engineering, raising concerns about how the development pathway through which juniors become seniors is being eroded. While macro statistics show a decline in junior hiring and controlled studies demonstrate the effects of AI on individual task performance, the mechanisms through which GenAI reshapes early-career development in real organizational and educational contexts have not been thoroughly examined. Through 14 semi-structured interviews with juniors at the threshold of entering software engineeri",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "MDAF: A Multi-Dimensional Annotation Framework for Automated Foreign Policy Analysis",
-      "url": "https://arxiv.org/abs/2607.16219",
-      "summary": "arXiv:2607.16219v1 Announce Type: new Abstract: Government websites contain a vast but underexploited body of textual evidence on foreign policy. This article develops a scalable approach for extracting structured information from policy texts and converting it into standardized event data, with policy event defined broadly as a statement or action. It proposes MDAF integrating an LLM workflow to automate foreign policy text identification, information extraction, and event classification. Empirically, it applies this approach to China-related texts from Five Eyes countries. The analysis shows",
+      "title": "A study of GenAI usage by Design Students Analysis of Survey Results and Journals of AI practices at the Politecnico di Milano in 2025/2026",
+      "url": "https://arxiv.org/abs/2607.17094",
+      "summary": "arXiv:2607.17094v1 Announce Type: new Abstract: The results of a survey on the use of GenAI by the design students of the Politecnico di Milano raises major questions around the role of AI in the Design Process. A domain specific set of questions alongside the more general purpose probes about GenAI usage, delivers insights into the particular practices that are emerging in Design. The very high frequency of use of GenAI tools is concentrated in the initial stages of projects and does not affect the perception of project ownership or creativity. An analysis of AI journals kept by a class durin",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Comparing Spectrogram Front-Ends for Abnormal Heart-Sound Detection with a Convolutional Neural Network",
-      "url": "https://arxiv.org/abs/2607.16220",
-      "summary": "arXiv:2607.16220v1 Announce Type: new Abstract: Heart disease kills a lot of people, and one cheap way to catch it early is by listening to heart sounds with a stethoscope, or better yet, just recording them and running them through a model. This project is a binary classification task: take a short clip of someones heartbeat and decide if it sounds normal or abnormal. Instead of trying out a bunch of different models, we kept the CNN the same the whole time and just changed how we turned the raw audio into a picture for it to look at. We tried three ways of doing that: a regular logmel spectr",
+      "title": "Measuring Computational Thinking Self-Efficacy (CT-SEI): Instrument development and preliminary evaluation",
+      "url": "https://arxiv.org/abs/2607.17704",
+      "summary": "arXiv:2607.17704v1 Announce Type: new Abstract: Much effort is put into helping students at different educational levels develop Computational Thinking (CT) skills. Self-efficacy is important for skill development. It can predict perseverance, engagement and success on educational tasks. We created an instrument to measure self-efficacy of students in higher education for the CT skills abstraction, algorithmic thinking, decomposition, evaluation and generalization. First, 91 candidate items were created by including, adapting and extending items found in the literature. These items were evalua",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Students' Perceptions of Peer Grading",
-      "url": "https://arxiv.org/abs/2607.16221",
-      "summary": "arXiv:2607.16221v1 Announce Type: new Abstract: Peer grading is widely used in education, yet it elicits mixed reactions from educators and students. Although many studies have examined students' views of peer grading, their findings are scattered, and no clear overall picture has emerged. To address this gap, we conducted a mixed-source thematic analysis of literature and student discussions on Reddit. To scale the Reddit data analysis, we fine-tuned a Gemini 2.5 text-classification model and used it as an initial relevance filter for our initially retrieved dataset of 659 posts and 6,607 com",
+      "title": "The Aura in the Machine: Genealogy and the Status of the Work of Art in the Generative Era",
+      "url": "https://arxiv.org/abs/2607.17940",
+      "summary": "arXiv:2607.17940v1 Announce Type: new Abstract: This paper frames Generative Artificial Intelligence (AI) not as an unprecedented technological rupture, but as an industrial-scale manifestation of a deeply rooted historical process. Through a genealogy of generative arts, it shows how AI's questions on authorship and creativity have precise historical precedents. A taxonomy of generative systems is proposed across three functional categories (medium, artwork, instrument), the attribution of which is editorial rather than ontological. From individual cognitive atrophy to Model Collapse, the sys",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Novelty to Normalisation: Tracking Changing Perceptions of AI in Higher Education, 2024-2026",
-      "url": "https://arxiv.org/abs/2607.16223",
-      "summary": "arXiv:2607.16223v1 Announce Type: new Abstract: The rapid integration of generative artificial intelligence (AI) has reshaped the landscape of higher education. Students have embraced tools such as ChatGPT with striking speed, while teaching staff and institutions have responded with greater caution. Existing research on AI perceptions has mainly been cross-sectional, providing single-point snapshots that view attitudes as stable rather than evolving. This paper presents a longitudinal study of AI perceptions in higher education, tracking undergraduates, doctoral researchers, teaching staff an",
+      "title": "An approach to systemic risks of AI through the lens of emergence, collective action problems, and externalities",
+      "url": "https://arxiv.org/abs/2607.18170",
+      "summary": "arXiv:2607.18170v1 Announce Type: new Abstract: The integration of general-purpose artificial intelligence models into downstream AI systems, among other developments, has given rise to new forms of risk that are more systemic in nature than conventional AI risks. However, there is no generally accepted definition of systemic risks in general and for AI in particular. Conceptualisations of these risks vary across research and regulation. Especially the application of the systemic risk approach to human rights or fundamental rights, like in the EU AI Act, is relatively new, just as the research",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "International Agreements to Limit Frontier AI: Objectives and Exit",
-      "url": "https://arxiv.org/abs/2607.16224",
-      "summary": "arXiv:2607.16224v1 Announce Type: new Abstract: An international agreement to limit AI development could be crucial to mitigate risks from AI. However, it remains unclear which conditions should determine when the limiting measures are relaxed. We survey existing international agreements, outline what properties appropriate conditions should satisfy, list possible conditions, and finally give a recommendation in an example scenario. We recommend a fixed time period after which a new organization established at the start of the period specifies conditions that address when AI development can be",
+      "title": "A Control-Driven Framework for Secure SaaS Onboarding in Regulated Enterprises",
+      "url": "https://arxiv.org/abs/2607.16543",
+      "summary": "arXiv:2607.16543v1 Announce Type: cross Abstract: As enterprises increasingly adopt Software-as-a-Service (SaaS) platforms for mission-critical functions, onboarding these services has emerged as a complex challenge extending well beyond procurement and basic security review. In regulated environments, SaaS onboarding must address multiple interdependent control domains, including Third-Party Risk Management (TPRM), cybersecurity assessment, Identity and Access Management (IAM), and disaster recovery (DR), which are often executed in isolation, resulting in delayed go-lives, duplicated assessm",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "To Police or to Guide: How Higher Education Computer Science Instructors Design and Implement Generative AI Policies",
-      "url": "https://arxiv.org/abs/2607.16475",
-      "summary": "arXiv:2607.16475v1 Announce Type: new Abstract: While generative AI tools are directly changing how undergraduate computer science is learned and taught, they are also reshaping the relationships between instructors and students. In contrast to existing tool-oriented research on how instructors view and adopt AI, this study investigates how instructors think about their roles and responsibilities to students through their course AI policies. Based on 13 semi-structured interviews with CS instructors in the US, we found that while instructors recognize that AI tools could harm student learning,",
+      "title": "Privacy Cost as Equity Input: A Group Fairness Criterion for Differentially Private Machine Learning",
+      "url": "https://arxiv.org/abs/2607.16620",
+      "summary": "arXiv:2607.16620v1 Announce Type: cross Abstract: Differential privacy (DP) is increasingly deployed to limit membership inference risk in machine-learning systems. Prior work has shown that DP-SGD can widen accuracy disparities across demographic groups, but this framing treats fairness as a purely outcome-side concern. We argue that privacy cost, the information leakage borne by each group, is itself a form of harm, and adopt a compensatory-fairness framework in which a group that involuntarily bears greater privacy exposure is owed proportionally greater benefit from the system. From this p",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "How Formerly Incarcerated People Envision Technologies for Prison Parole",
-      "url": "https://arxiv.org/abs/2607.16513",
-      "summary": "arXiv:2607.16513v1 Announce Type: new Abstract: AI-driven algorithms and automated tools are increasingly embedded in the correctional landscape, shaping parole eligibility,release decisions, and surveillance. These tools are also often framed as objective, inevitable solutions to inefficiency andbias. Yet, these computational systems are rarely designed with input from justice-impacted individuals, which means theymight fail to address the real needs of incarcerated people. To address this gap, we surveyed 31 formerly incarcerated peopleabout their parole experiences and their visions for tec",
+      "title": "A Diagnostic Framework for AI Agent Behavior",
+      "url": "https://arxiv.org/abs/2607.17149",
+      "summary": "arXiv:2607.17149v1 Announce Type: cross Abstract: AI agents increasingly act within the same clinical, political, scientific, and social systems that behavioral scientists study. Evaluating these systems requires source-level diagnosis: the same behavioral pattern may arise from an agent representational substrate or from the roles, objectives, interaction structures, and governance rules that shape its expression. This Perspective proposes a diagnostic framework for AI agent behavior: layer attribution. The foundational computational layer defines what behaviors are possible through architect",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research",
-      "url": "https://arxiv.org/abs/2607.16780",
-      "summary": "arXiv:2607.16780v1 Announce Type: new Abstract: Artificial intelligence (AI) is increasingly embedded in scientific research, but its scientific value is unlikely to be distributed evenly. This study examines how AI knowledge integration is associated with scientific impact and asks who benefits from AI-related knowledge in science. Using large-scale bibliographic data, we measure AI integration through references to papers in the OpenAlex Artificial intelligence subfield and link it to five-year citation impact. The results show that AI references are generally associated with higher citation",
+      "title": "PocketPPD: Screening for Postpartum Depression Risk Using Passive Smartphone Sensing",
+      "url": "https://arxiv.org/abs/2607.17185",
+      "summary": "arXiv:2607.17185v1 Announce Type: cross Abstract: Postpartum depression (PPD) is a serious perinatal mental health condition affecting approximately 20% of new mothers worldwide. Common screening approaches for PPD, such as self-report questionnaires and active digital logs, rely heavily on user input and thus impose a substantial burden on participants, limiting their feasibility for long-term use. Recent passive mobile sensing (PMS) approaches have enabled low-burden detection of depressive symptoms using machine learning methods with multi-modal sensor data from off-the-shelf mobile devices",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Method for Learning Value Systems in Generative AI",
-      "url": "https://arxiv.org/abs/2607.16903",
-      "summary": "arXiv:2607.16903v1 Announce Type: new Abstract: Value-aware AI systems require explicit computational representations of human values (groundings) and their aggregation into value systems in order to align their decisions with ours. As such representations are difficult to elicit, value learning seeks to infer them by observing human behaviour. This work addresses the lack of grounded value learning methods in generative AI: existing approaches typically replicate human preferences without awareness of the multidimensional structure of value alignment, or lack principled value system elicitati",
+      "title": "Safety That Does Not Transfer: Cross-Lingual Clinical Correctness Drift in Deployable Medical Language Models",
+      "url": "https://arxiv.org/abs/2607.17270",
+      "summary": "arXiv:2607.17270v1 Announce Type: cross Abstract: Safety evaluation of large language models is conducted predominantly in English and predominantly on frontier systems. Neither condition describes how such models are encountered in low-resource health settings, where small quantised systems are run locally and queried in local languages. We ask whether clinical safety established in English transfers to Hausa, and whether any failure is attributable to the language, the clinical task, or the class of model that low-resource deployment admits. Matched English-Hausa question pairs were built fo",
       "published": "2026-07-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
