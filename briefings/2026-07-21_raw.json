@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-21",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "A Fuzzy Logic Framework for Community-Aware Crime Hotspot Detection: Prototype Application Architecture and Exploratory Validation for an Urban Computing Platform",
+      "url": "https://arxiv.org/abs/2607.16218",
+      "summary": "arXiv:2607.16218v1 Announce Type: new Abstract: Urban crime prevention is a persistent socio-technical challenge for municipalities, law enforcement agencies, and citizens. Traditional reporting and response processes often rely on delayed incident reports and reactive resource allocation, while community-level signals and ambiguous early-warning indicators may remain underused. This paper reframes an Urban Computing seminar project into a fuzzy logic-based framework for community-aware urban crime hotspot detection and real-time notification. The proposed platform combines citizen reports, hi",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "MDAF: A Multi-Dimensional Annotation Framework for Automated Foreign Policy Analysis",
+      "url": "https://arxiv.org/abs/2607.16219",
+      "summary": "arXiv:2607.16219v1 Announce Type: new Abstract: Government websites contain a vast but underexploited body of textual evidence on foreign policy. This article develops a scalable approach for extracting structured information from policy texts and converting it into standardized event data, with policy event defined broadly as a statement or action. It proposes MDAF integrating an LLM workflow to automate foreign policy text identification, information extraction, and event classification. Empirically, it applies this approach to China-related texts from Five Eyes countries. The analysis shows",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Comparing Spectrogram Front-Ends for Abnormal Heart-Sound Detection with a Convolutional Neural Network",
+      "url": "https://arxiv.org/abs/2607.16220",
+      "summary": "arXiv:2607.16220v1 Announce Type: new Abstract: Heart disease kills a lot of people, and one cheap way to catch it early is by listening to heart sounds with a stethoscope, or better yet, just recording them and running them through a model. This project is a binary classification task: take a short clip of someones heartbeat and decide if it sounds normal or abnormal. Instead of trying out a bunch of different models, we kept the CNN the same the whole time and just changed how we turned the raw audio into a picture for it to look at. We tried three ways of doing that: a regular logmel spectr",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Students' Perceptions of Peer Grading",
+      "url": "https://arxiv.org/abs/2607.16221",
+      "summary": "arXiv:2607.16221v1 Announce Type: new Abstract: Peer grading is widely used in education, yet it elicits mixed reactions from educators and students. Although many studies have examined students' views of peer grading, their findings are scattered, and no clear overall picture has emerged. To address this gap, we conducted a mixed-source thematic analysis of literature and student discussions on Reddit. To scale the Reddit data analysis, we fine-tuned a Gemini 2.5 text-classification model and used it as an initial relevance filter for our initially retrieved dataset of 659 posts and 6,607 com",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Novelty to Normalisation: Tracking Changing Perceptions of AI in Higher Education, 2024-2026",
+      "url": "https://arxiv.org/abs/2607.16223",
+      "summary": "arXiv:2607.16223v1 Announce Type: new Abstract: The rapid integration of generative artificial intelligence (AI) has reshaped the landscape of higher education. Students have embraced tools such as ChatGPT with striking speed, while teaching staff and institutions have responded with greater caution. Existing research on AI perceptions has mainly been cross-sectional, providing single-point snapshots that view attitudes as stable rather than evolving. This paper presents a longitudinal study of AI perceptions in higher education, tracking undergraduates, doctoral researchers, teaching staff an",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "International Agreements to Limit Frontier AI: Objectives and Exit",
+      "url": "https://arxiv.org/abs/2607.16224",
+      "summary": "arXiv:2607.16224v1 Announce Type: new Abstract: An international agreement to limit AI development could be crucial to mitigate risks from AI. However, it remains unclear which conditions should determine when the limiting measures are relaxed. We survey existing international agreements, outline what properties appropriate conditions should satisfy, list possible conditions, and finally give a recommendation in an example scenario. We recommend a fixed time period after which a new organization established at the start of the period specifies conditions that address when AI development can be",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "To Police or to Guide: How Higher Education Computer Science Instructors Design and Implement Generative AI Policies",
+      "url": "https://arxiv.org/abs/2607.16475",
+      "summary": "arXiv:2607.16475v1 Announce Type: new Abstract: While generative AI tools are directly changing how undergraduate computer science is learned and taught, they are also reshaping the relationships between instructors and students. In contrast to existing tool-oriented research on how instructors view and adopt AI, this study investigates how instructors think about their roles and responsibilities to students through their course AI policies. Based on 13 semi-structured interviews with CS instructors in the US, we found that while instructors recognize that AI tools could harm student learning,",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "How Formerly Incarcerated People Envision Technologies for Prison Parole",
+      "url": "https://arxiv.org/abs/2607.16513",
+      "summary": "arXiv:2607.16513v1 Announce Type: new Abstract: AI-driven algorithms and automated tools are increasingly embedded in the correctional landscape, shaping parole eligibility,release decisions, and surveillance. These tools are also often framed as objective, inevitable solutions to inefficiency andbias. Yet, these computational systems are rarely designed with input from justice-impacted individuals, which means theymight fail to address the real needs of incarcerated people. To address this gap, we surveyed 31 formerly incarcerated peopleabout their parole experiences and their visions for tec",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Translating AI into scientific impact: Field context, career position, and institutional capability in AI-enabled research",
+      "url": "https://arxiv.org/abs/2607.16780",
+      "summary": "arXiv:2607.16780v1 Announce Type: new Abstract: Artificial intelligence (AI) is increasingly embedded in scientific research, but its scientific value is unlikely to be distributed evenly. This study examines how AI knowledge integration is associated with scientific impact and asks who benefits from AI-related knowledge in science. Using large-scale bibliographic data, we measure AI integration through references to papers in the OpenAlex Artificial intelligence subfield and link it to five-year citation impact. The results show that AI references are generally associated with higher citation",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Method for Learning Value Systems in Generative AI",
+      "url": "https://arxiv.org/abs/2607.16903",
+      "summary": "arXiv:2607.16903v1 Announce Type: new Abstract: Value-aware AI systems require explicit computational representations of human values (groundings) and their aggregation into value systems in order to align their decisions with ours. As such representations are difficult to elicit, value learning seeks to infer them by observing human behaviour. This work addresses the lack of grounded value learning methods in generative AI: existing approaches typically replicate human preferences without awareness of the multidimensional structure of value alignment, or lack principled value system elicitati",
+      "published": "2026-07-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
