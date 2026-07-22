@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Enabling Multilingual Privacy Policy Audits: Large-Scale Analysis of Spanish Mobile Apps",
-      "url": "https://arxiv.org/abs/2607.18424",
-      "summary": "arXiv:2607.18424v1 Announce Type: new Abstract: Automated analyses of privacy policies enable large-scale assessments of transparency in digital ecosystems, yet existing auditing pipelines remain predominantly English-centric. This limits their ability to systematically evaluate multilingual environments, as in the European Union, where many services disclose privacy practices only in local languages. This paper examines whether large language models (LLMs) can extend privacy policy analysis beyond English without requiring language-specific adaptation, thus empowering large-scale auditing in ",
+      "title": "Operational Hallucination and Safety Drift in AI Agents",
+      "url": "https://arxiv.org/abs/2607.18366",
+      "summary": "arXiv:2607.18366v1 Announce Type: cross Abstract: Large language models (LLMs) serving as planners in tool-using autonomous agents introduce dynamic reliability risks in multi-turn execution. While single-turn safety mechanisms are relatively mature, extended interactions reveal structural vulnerabilities where initial alignment degrades over time. This paper empirically characterizes two observed failure modes across multiple state-of-the-art LLMs: Safety Drift, the gradual erosion of declared safety intent leading to constraint-violating actions (e.g., textual refusal followed by reconnaissa",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Intelligent Cause Prioritisation? An Analysis of AI Policy Priorities and Governance in Africa",
-      "url": "https://arxiv.org/abs/2607.18459",
-      "summary": "arXiv:2607.18459v1 Announce Type: new Abstract: The rapid improvement of AI systems has intensified debate about humanity's economic, political, social, and existential future. As AI reshapes expectations about what lies ahead, policy choices and institutional responses will play a crucial role in determining who benefits, who bears the costs, and whether the most serious risks can be mitigated. Africa remains relatively overlooked in these discussions, partly because it is largely a consumer rather than a producer of frontier AI systems, and also because many countries on the continent contin",
+      "title": "Adversarial Robustness of Phishing Email Detection: A Comparative Study of TF-IDF + Logistic Regression and Fine-Tuned DistilBERT",
+      "url": "https://arxiv.org/abs/2607.18429",
+      "summary": "arXiv:2607.18429v1 Announce Type: cross Abstract: Phishing emails remain one of the most persistent cybersecurity threats, and machine-learning classifiers are widely used to detect them. Most reported detection accuracies, however, are measured on clean, in-distribution test data rather than on emails deliberately altered to evade detection. This paper reports a controlled, pairwise comparison of two phishing-detection approaches a TF-IDF + Logistic Regression baseline and a fine-tuned DistilBERT transformer trained on a unified corpus of 82,255 emails drawn from six public datasets and evalu",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The triumphs and tragedies of fandom: Emotional arcs in NFL tweets",
-      "url": "https://arxiv.org/abs/2607.18461",
-      "summary": "arXiv:2607.18461v1 Announce Type: new Abstract: Online fandom communities influence public opinion toward movies, musicians, and sports teams. Using a corpus of game-referencing tweets, we measure variation in sentiment toward National Football League (NFL) teams driven by geography, game outcomes, and team performance for the 2011--2014 NFL seasons. We estimate a fandom radius for each team, identifying regions where engagement exceeds background levels of discussion. We find sentiment for both winning and losing teams is positive immediately prior to games, drops at kickoff, and rebounds sli",
+      "title": "Using Fine-Tuned LLMs to Identify Indicators of Vulnerability in UK Police Incident Logs",
+      "url": "https://arxiv.org/abs/2607.18446",
+      "summary": "arXiv:2607.18446v1 Announce Type: cross Abstract: Purpose: Understanding how much of routine policing involves vulnerable people could inform resourcing, training, and multi-agency response, yet administrative data provide limited insight. We explore whether an LLM-based classification pipeline, developed on open-source US police data, can be adapted to estimate the prevalence of four vulnerability indicators - mental ill health, substance misuse, alcohol dependence, and homelessness - in UK police incident narratives, and when outputs can be treated as defensible measurements. Methods: We ana",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Governing Well in the Algorithmic Age: The Foundations of Digital Statecraft",
-      "url": "https://arxiv.org/abs/2607.18483",
-      "summary": "arXiv:2607.18483v1 Announce Type: new Abstract: The digital substrate of states -- data, algorithms, infrastructure, platforms, applications -- is being governed without adequate conceptual foundations. The ability and legitimacy required to govern this substrate, and to govern with it, are simultaneously misaligned, contested, and structurally absent. We introduce digital statecraft as the organising concept for this emerging field, arguing that 'digital' reconstitutes the statecraft question rather than merely extending its domain. The concept operates on two dimensions - statecraft over dig",
+      "title": "Reinforcement Learning for Delivery Drone-Based Participatory Sensing in Dynamic Environments",
+      "url": "https://arxiv.org/abs/2607.18874",
+      "summary": "arXiv:2607.18874v1 Announce Type: cross Abstract: Using Unmanned Aerial Vehicle (UAV) for urban sensing has emerged as a powerful paradigm to monitor the status of the city, e.g., air quality and noise levels, through agile aerial crowdsourcing. Despite this potential, existing UAV-based sensing approaches overlook environmental disturbances like wind that drastically impact drone velocity and energy efficiency. Consequently, directly applying existing methods to this joint delivery and sensing paradigm in dynamic environments faces two severe challenges: (1) scalability bottlenecks as fleet s",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Value Alignment for Evolving Social Norms",
-      "url": "https://arxiv.org/abs/2607.18506",
-      "summary": "arXiv:2607.18506v1 Announce Type: new Abstract: AI alignment is essential for the safe deployment of advanced AI systems. Given that values and preferences change over time, culture, social roles, and context, we need to develop a better understanding of the possible long-term consequences of AI alignment, in particular considering the likely ubiquitous future use of personalized AI assistants. We introduce a flexible and extensible mathematical modelling framework, rooted in social physics, aimed at answering macro-level questions regarding the evolving social norms in human populations under",
+      "title": "What General Intelligence Requires: Non-Reducible Constraints Across Levels of Description",
+      "url": "https://arxiv.org/abs/2607.18943",
+      "summary": "arXiv:2607.18943v1 Announce Type: cross Abstract: General intelligence, of the kind that underwrites the full range of human cognitive achievement, is not a property of computational architecture alone. This paper advances a single thesis: the structural constraints on general intelligence occupy distinct levels of description and are mutually non-reducible, in the sense that the special-sciences tradition gives to that term. It follows that no single architectural advance, and no continuation of the scaling programme by itself, can produce artificial general intelligence (AGI), and that resea",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-Powered Browsers Are Broadly Accurate News Summarizers That Reduce Political Bias and Negative Affect",
-      "url": "https://arxiv.org/abs/2607.18931",
-      "summary": "arXiv:2607.18931v1 Announce Type: new Abstract: Web browsers now provide AI-generated news summaries for millions of users. Despite their popularity and influence, we lack a systematic understanding of how these systems transform news before people read it. Through a large-scale audit, we investigate the factual accuracy of browser-based AI summarizers and how they alter the political bias, negative affect, and journalistic writing quality of news. Drawing on 13,777 articles from 15 U.S. news outlets, we evaluate their 41,331 summaries generated by three leading AI-powered browsers: Google Chr",
+      "title": "From Operations to Elderly Care Outcomes: A Thematic Review of Industrial Engineering and Decision-Support Approaches",
+      "url": "https://arxiv.org/abs/2607.19075",
+      "summary": "arXiv:2607.19075v1 Announce Type: cross Abstract: The rapid growth of the global aging population presents severe challenges to healthcare systems, necessitating efficient, equitable, and patient-centered care models. While Industrial Engineering and Operations Research (OR) provide robust optimization and decision-support tools to address these multidimensional complexities, current applications often remain fragmented. This paper presents a thematic review of 30 seminal studies at the intersection of OR and elderly care, categorizing the literature into home healthcare operations, polypharma",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Assessment in Team Problem-Solving Exercises in Computing Education",
-      "url": "https://arxiv.org/abs/2607.19209",
-      "summary": "arXiv:2607.19209v1 Announce Type: new Abstract: This full paper in the research-to-practice track presents methods for assessing student teams in tabletop exercises (TTXs). TTXs enable learner teams to prepare for workplace tasks and practice crisis responses, such as resolving cybersecurity incidents. While assessment is essential for determining how well teams achieve learning objectives, the complex, open-ended nature of TTXs often leads to delayed or incomplete feedback. TTX learning platforms can record teams' actions and communication; yet, leveraging these data to assess performance is ",
+      "title": "Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks",
+      "url": "https://arxiv.org/abs/2607.19253",
+      "summary": "arXiv:2607.19253v1 Announce Type: cross Abstract: User modeling is a critical task in a variety of personalized systems. Recognizing their effectiveness in learning from graph-structured data, Graph Neural Networks (GNNs), particularly Graph Convolutional Networks (GCNs), are increasingly employed for user modeling. However, existing approaches typically treat different relation types in a graph as homogeneous, limiting their ability to capture richer semantics and construct more informative user models. While multi-relational GNNs (MR-GNNs) have been adopted for representation learning and re",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Do LLMs Ask the Right Questions? Evaluating GPT-Generated Surveys as Instruments for Measuring Social Attitudes",
-      "url": "https://arxiv.org/abs/2607.19211",
-      "summary": "arXiv:2607.19211v1 Announce Type: new Abstract: Understanding human beliefs and social attitudes often relies on carefully designed survey instruments. Recent work has suggested that large language models (LLMs) could automate parts of this process by generating surveys at scale, raising questions about the comparability of such instruments to literature-grounded, human-designed surveys. We present a controlled empirical comparison between GPT-generated surveys and established survey baselines across three social domains: climate change, immigration, and diversity, equity, and inclusion (DEI).",
+      "title": "Reframing AI Loss of Control: What Control Is, How to Have It, How to Lose It",
+      "url": "https://arxiv.org/abs/2606.12442",
+      "summary": "arXiv:2606.12442v2 Announce Type: replace Abstract: At present, loss of control risks have gained much prominence in public discussion, particularly in relation to AI, with extensive discourse present among academics, frontier labs, and even governments. However, in the existing literature, the concept seems to rest on surprisingly weak foundations, where even those that discuss loss of control extensively do not first establish what control is and what exactly is being lost. Our paper aims to address these gaps. We establish a working definition of control by anchoring it to the \"setting and ",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems",
-      "url": "https://arxiv.org/abs/2607.19292",
-      "summary": "arXiv:2607.19292v1 Announce Type: new Abstract: Current AI safety discourse still focuses disproportionately on visible failures, including obvious harms, dramatic misuse, and hypothetical catastrophic scenarios. That focus is incomplete. In deployed systems, many of the most consequential failures are quieter: plausible rather than spectacular, distributed across components rather than localized in a single output, and normalized by workflows before they are recognized as hazards. We argue that a central safety challenge in modern AI systems is increasingly not only whether a model emits a ha",
+      "title": "Global Automation Atlas",
+      "url": "https://arxiv.org/abs/2605.17086",
+      "summary": "arXiv:2605.17086v2 Announce Type: replace-cross Abstract: Automation can displace or complement labour, but this need not be constant across economies. Existing exposure measures typically assign fixed scores to tasks or occupations and capture cross-country variation through employment structure. Here we show that feasible automation depends jointly on task content and country-level conditions. We use a large language model to classify 18,797 work tasks in 124 economies by exposure, labour margin, technology channel and artificial-intelligence materiality. Construct-matched components of the ",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Citation Pathways in the AI Era: Interpretive Knowledge Nodes, Citation Compression Layers, and the Measurement Boundary of Scholarly Impact",
-      "url": "https://arxiv.org/abs/2607.18350",
-      "summary": "arXiv:2607.18350v1 Announce Type: cross Abstract: This article identifies \"citation pathway\" as a long-neglected analytical dimension in scientometrics. Traditional evaluation metrics focus on measuring citation counts while paying insufficient attention to the intermediate nodes through which knowledge flows from its original source to the citing author. Building on an analysis of the normative structure of current reference systems, this article introduces two new concepts: Interpretive Knowledge Nodes (IKN) - academic papers that provide structured reorganizations of classic works - and Cit",
+      "title": "\"I understand your perspective\": LLM Persuasion through the Lens of Communicative Action Theory",
+      "url": "https://arxiv.org/abs/2606.08076",
+      "summary": "arXiv:2606.08076v2 Announce Type: replace-cross Abstract: Large Language Models (LLMs) can generate high-quality arguments, yet their ability to engage in nuanced and persuasive communicative actions remains largely unexplored. This work explores the persuasive potential of LLMs through the framework of J\\\"urgen Habermas' Theory of Communicative Action. It examines whether LLMs express illocutionary intent (i.e., pragmatic functions of language such as conveying knowledge, building trust, or signaling similarity) in ways that are comparable to human communication. We simulate online discussion",
       "published": "2026-07-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
