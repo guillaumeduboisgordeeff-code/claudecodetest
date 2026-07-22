@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-22",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Enabling Multilingual Privacy Policy Audits: Large-Scale Analysis of Spanish Mobile Apps",
+      "url": "https://arxiv.org/abs/2607.18424",
+      "summary": "arXiv:2607.18424v1 Announce Type: new Abstract: Automated analyses of privacy policies enable large-scale assessments of transparency in digital ecosystems, yet existing auditing pipelines remain predominantly English-centric. This limits their ability to systematically evaluate multilingual environments, as in the European Union, where many services disclose privacy practices only in local languages. This paper examines whether large language models (LLMs) can extend privacy policy analysis beyond English without requiring language-specific adaptation, thus empowering large-scale auditing in ",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Intelligent Cause Prioritisation? An Analysis of AI Policy Priorities and Governance in Africa",
+      "url": "https://arxiv.org/abs/2607.18459",
+      "summary": "arXiv:2607.18459v1 Announce Type: new Abstract: The rapid improvement of AI systems has intensified debate about humanity's economic, political, social, and existential future. As AI reshapes expectations about what lies ahead, policy choices and institutional responses will play a crucial role in determining who benefits, who bears the costs, and whether the most serious risks can be mitigated. Africa remains relatively overlooked in these discussions, partly because it is largely a consumer rather than a producer of frontier AI systems, and also because many countries on the continent contin",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The triumphs and tragedies of fandom: Emotional arcs in NFL tweets",
+      "url": "https://arxiv.org/abs/2607.18461",
+      "summary": "arXiv:2607.18461v1 Announce Type: new Abstract: Online fandom communities influence public opinion toward movies, musicians, and sports teams. Using a corpus of game-referencing tweets, we measure variation in sentiment toward National Football League (NFL) teams driven by geography, game outcomes, and team performance for the 2011--2014 NFL seasons. We estimate a fandom radius for each team, identifying regions where engagement exceeds background levels of discussion. We find sentiment for both winning and losing teams is positive immediately prior to games, drops at kickoff, and rebounds sli",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Governing Well in the Algorithmic Age: The Foundations of Digital Statecraft",
+      "url": "https://arxiv.org/abs/2607.18483",
+      "summary": "arXiv:2607.18483v1 Announce Type: new Abstract: The digital substrate of states -- data, algorithms, infrastructure, platforms, applications -- is being governed without adequate conceptual foundations. The ability and legitimacy required to govern this substrate, and to govern with it, are simultaneously misaligned, contested, and structurally absent. We introduce digital statecraft as the organising concept for this emerging field, arguing that 'digital' reconstitutes the statecraft question rather than merely extending its domain. The concept operates on two dimensions - statecraft over dig",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Value Alignment for Evolving Social Norms",
+      "url": "https://arxiv.org/abs/2607.18506",
+      "summary": "arXiv:2607.18506v1 Announce Type: new Abstract: AI alignment is essential for the safe deployment of advanced AI systems. Given that values and preferences change over time, culture, social roles, and context, we need to develop a better understanding of the possible long-term consequences of AI alignment, in particular considering the likely ubiquitous future use of personalized AI assistants. We introduce a flexible and extensible mathematical modelling framework, rooted in social physics, aimed at answering macro-level questions regarding the evolving social norms in human populations under",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI-Powered Browsers Are Broadly Accurate News Summarizers That Reduce Political Bias and Negative Affect",
+      "url": "https://arxiv.org/abs/2607.18931",
+      "summary": "arXiv:2607.18931v1 Announce Type: new Abstract: Web browsers now provide AI-generated news summaries for millions of users. Despite their popularity and influence, we lack a systematic understanding of how these systems transform news before people read it. Through a large-scale audit, we investigate the factual accuracy of browser-based AI summarizers and how they alter the political bias, negative affect, and journalistic writing quality of news. Drawing on 13,777 articles from 15 U.S. news outlets, we evaluate their 41,331 summaries generated by three leading AI-powered browsers: Google Chr",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Assessment in Team Problem-Solving Exercises in Computing Education",
+      "url": "https://arxiv.org/abs/2607.19209",
+      "summary": "arXiv:2607.19209v1 Announce Type: new Abstract: This full paper in the research-to-practice track presents methods for assessing student teams in tabletop exercises (TTXs). TTXs enable learner teams to prepare for workplace tasks and practice crisis responses, such as resolving cybersecurity incidents. While assessment is essential for determining how well teams achieve learning objectives, the complex, open-ended nature of TTXs often leads to delayed or incomplete feedback. TTX learning platforms can record teams' actions and communication; yet, leveraging these data to assess performance is ",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Do LLMs Ask the Right Questions? Evaluating GPT-Generated Surveys as Instruments for Measuring Social Attitudes",
+      "url": "https://arxiv.org/abs/2607.19211",
+      "summary": "arXiv:2607.19211v1 Announce Type: new Abstract: Understanding human beliefs and social attitudes often relies on carefully designed survey instruments. Recent work has suggested that large language models (LLMs) could automate parts of this process by generating surveys at scale, raising questions about the comparability of such instruments to literature-grounded, human-designed surveys. We present a controlled empirical comparison between GPT-generated surveys and established survey baselines across three social domains: climate change, immigration, and diversity, equity, and inclusion (DEI).",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems",
+      "url": "https://arxiv.org/abs/2607.19292",
+      "summary": "arXiv:2607.19292v1 Announce Type: new Abstract: Current AI safety discourse still focuses disproportionately on visible failures, including obvious harms, dramatic misuse, and hypothetical catastrophic scenarios. That focus is incomplete. In deployed systems, many of the most consequential failures are quieter: plausible rather than spectacular, distributed across components rather than localized in a single output, and normalized by workflows before they are recognized as hazards. We argue that a central safety challenge in modern AI systems is increasingly not only whether a model emits a ha",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Citation Pathways in the AI Era: Interpretive Knowledge Nodes, Citation Compression Layers, and the Measurement Boundary of Scholarly Impact",
+      "url": "https://arxiv.org/abs/2607.18350",
+      "summary": "arXiv:2607.18350v1 Announce Type: cross Abstract: This article identifies \"citation pathway\" as a long-neglected analytical dimension in scientometrics. Traditional evaluation metrics focus on measuring citation counts while paying insufficient attention to the intermediate nodes through which knowledge flows from its original source to the citing author. Building on an analysis of the normative structure of current reference systems, this article introduces two new concepts: Interpretive Knowledge Nodes (IKN) - academic papers that provide structured reorganizations of classic works - and Cit",
+      "published": "2026-07-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
