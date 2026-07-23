@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Economic Evaluations of Language Models",
-      "url": "https://arxiv.org/abs/2607.19375",
-      "summary": "arXiv:2607.19375v1 Announce Type: new Abstract: Language models perform economically valuable work, yet they are not currently assessed for how well they perform every economically valuable task. We introduce EconEvals as an open-source evaluation suite to measure capabilities relevant to tasks, work activities, and occupations in the US labor economy. We ground the evaluation suite in real user queries to language models where possible, and supplement these with synthetic data. Our evaluations improve coverage over OpenAI's GDPval benchmark, which is the existing state-of-the-art that covers ",
+      "title": "Information Discernment in Large Language Models",
+      "url": "https://arxiv.org/abs/2607.19355",
+      "summary": "arXiv:2607.19355v1 Announce Type: cross Abstract: LLMs are increasingly used with external knowledge sources like the internet. Do they weigh information appropriately -- updating more for reliable sources (source discernment) and more when claims bring priors closer to the truth (truth discernment)? We formalize this as information discernment and introduce Learn2Discern (L2D), an experimental framework and benchmark grounded in three normative axioms with interpretable metrics. To establish external validity, a pre-registered, quota-matched user study (n=299) confirms that real LLM users end",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Simulating Eutopia: Revisiting Long-term Fairness with Outcomes, Performativity, and Dynamics",
-      "url": "https://arxiv.org/abs/2607.19389",
-      "summary": "arXiv:2607.19389v1 Announce Type: new Abstract: As AI-driven Decision Makers (ADMs) influence our socioeconomic reality, their roles in both enhancing efficiency and amplifying the social biases have drawn attention. In this paper, we revisit the nuances of long-term `fairness' achievable by an ADM, specifically in the context of a credit lending induced wealth process. The literature on long-term fairness mostly (a) considers passive environments, i.e. the outcome of a predictor does not change the population's behaviour, and (b) measures bias in terms of disparity in instantaneous prediction",
+      "title": "Recovering Clinical Utility Under Differential Privacy: Empirical Validation of Adaptive Federated Aggregation on Heterogeneous Cardiovascular Datasets",
+      "url": "https://arxiv.org/abs/2607.19403",
+      "summary": "arXiv:2607.19403v1 Announce Type: cross Abstract: Validating federated learning frameworks on real clinical data is an essential step between proof-of-concept demonstrations in controlled synthetic environments and deployment in real multicenter healthcare settings. A prior architectural study by the same authors (Tertulino and Alencar, 2026) demonstrated, on a synthetic six-feature benchmark, that server-side adaptive optimization acts as a temporal denoiser for Differential Privacy noise, answering an open challenge identified in the original pipeline work (Tertulino, 2025). That study used ",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Did Alice Do Wrong? Cross-Cultural Differences in Student Perceptions of Generative AI Use in University Computing Education",
-      "url": "https://arxiv.org/abs/2607.19699",
-      "summary": "arXiv:2607.19699v1 Announce Type: new Abstract: The rise of generative AI (GenAI) in higher education has prompted urgent debates surrounding academic integrity and ethical use. This study examines cross-cultural differences in student perceptions of GenAI use, comparing responses from students at Canadian and South Korean universities. Using a scenario-based survey administered in Fall 2024, we analyzed how students judged the ethicality and rule compliance of AI-assisted coding practices. Results reveal that Canadian students were consistently more likely to perceive the use of GenAI as both",
+      "title": "Examining User Behavior and Cognitive Biases in Personal Password Security",
+      "url": "https://arxiv.org/abs/2607.19586",
+      "summary": "arXiv:2607.19586v1 Announce Type: cross Abstract: Despite increasing awareness of cybersecurity risks, users continue to engage in insecure password practices, such as reusing passwords, choosing weak credentials, and neglecting security recommendations. The study explores the behavioral and cognitive factors that influence password decision-making by integrating insights from behavioral economics, particularly hyperbolic discounting, status quo bias, and present bias. We conducted a survey to analyze how people create, store and manage their passwords, examining whether security habits have i",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-Increased Talent Retention Strategies: Fostering Long-Term Employee Engagement and Development in Talent Management",
-      "url": "https://arxiv.org/abs/2607.19733",
-      "summary": "arXiv:2607.19733v1 Announce Type: new Abstract: The integration of AI in Talent Management is a change in the way that organizations are designing their strategies for Talent Retention (TR), engagement, and future strategy. New and innovative tools such as predictive models, sentiment analysis, and personalized career planning have come up, and they offer better ways of addressing retention issues, workforce engagement, and, in general, sustainability. Through the application of predictive analytics, organizations can determine employees' likelihood of leaving the organization, who is likely t",
+      "title": "Learning the Arabic Dialect Continuum as a Continuous Space: A Regression Approach to Speaker Origin Prediction",
+      "url": "https://arxiv.org/abs/2607.19751",
+      "summary": "arXiv:2607.19751v1 Announce Type: cross Abstract: We present a regression-based approach to Arabic dialect geolocation that models dialectal variation as a continuous geographic space rather than discrete categories. Speaker origin is predicted as continuous latitude-longitude coordinates using a hierarchical neural architecture that fuses frame-level XLS-R-300M and Whisper-large-v3 encoder representations with phonotactic descriptors through a Transformer encoder and a learnable attention-pooled query. A spherical geodesic loss directly optimizes great-circle distance on Earth's surface, avoi",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "What Does the Credential Still Certify? Cognitive Stewardship for AI-Mediated Education",
-      "url": "https://arxiv.org/abs/2607.19988",
-      "summary": "arXiv:2607.19988v1 Announce Type: new Abstract: Generative AI is changing a basic premise of educational assessment: that submitted work can reliably evidence the human capacities a credential claims to certify. The challenge is not simply whether students use AI, but what remains inferable about learning when some cognitive work has been delegated to a system. This paper develops cognitive stewardship, a framework for AI-mediated assessment that links the learning claim, delegation boundary, evidence standard, and safeguards. We then audit verified public generative AI assessment guidance fro",
+      "title": "Clinical Pathways as Safety Specifications for Physical AI in Hospital Wards",
+      "url": "https://arxiv.org/abs/2607.19827",
+      "summary": "arXiv:2607.19827v1 Announce Type: cross Abstract: Ensuring safety in Physical AI systems operating in real-world environments is a critical challenge, particularly in hospital wards where vulnerable patients, clinical staff, medical devices, and assistive robots coexist. In this paper, we reinterpret Clinical Pathways as explicit runtime safety specifications for embodied medical AI. We propose a conceptual robotic architecture that integrates wearable sensors, smart medical devices, and assistive robotic components into a unified framework for real-time safety monitoring. At its core, a Runti",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Are Attributions of Consciousness to AI Chatbots Epistemically Innocent?",
-      "url": "https://arxiv.org/abs/2607.20001",
-      "summary": "arXiv:2607.20001v1 Announce Type: new Abstract: Artificial intelligence (AI) chatbots (e.g., ChatGPT) can communicate in strikingly humanlike ways. This has prompted many chatbot users to attribute psychological properties, including consciousness, to these systems. However, there is little scientific evidence that current AI chatbots are conscious. How, then, should we understand people's consciousness attributions to chatbots? Are they merely metaphorical claims, or do they express genuine beliefs? If these attributions lack evidential support, are users epistemically blameworthy for making ",
+      "title": "SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data",
+      "url": "https://arxiv.org/abs/2607.19949",
+      "summary": "arXiv:2607.19949v1 Announce Type: cross Abstract: Smartphone personal assistants reason over longitudinal personal data, yet evaluating them requires context-rich evaluation data whose correct answers are known, and real device traces are too privacy-sensitive to share. To address this challenge, we present SenWorld, a physically grounded, deterministic, event-sourced digital-twin simulation that generates such data with ground truth fixed by construction. In SenWorld, personas live through a full day in a world built from real map, weather, holiday, and network data; every observable signal i",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "\"You should see my partners' fingers\": A Qualitative Study of Construction Artisans' Perspective on Technical Innovation",
-      "url": "https://arxiv.org/abs/2607.20004",
-      "summary": "arXiv:2607.20004v1 Announce Type: new Abstract: Construction industry scholars have advocated increasing digitalization as a harbinger of manifold improvements, from safe training to efficient waste management. Small construction enterprises, which often face greater difficulties in embracing such a paradigm, are frequently overlooked in investigations of stakeholders' views on technical innovation. This study aims to start filling this gap by investigating the views of small construction enterprises on technical innovation. We report the themes that emerged from the qualitative analysis of in",
+      "title": "When Shippers Become Algorithms: Candidate Exposure, Information Design, and the Concentration of LLM-Mediated Freight Markets",
+      "url": "https://arxiv.org/abs/2607.19967",
+      "summary": "arXiv:2607.19967v1 Announce Type: cross Abstract: Shippers are beginning to delegate carrier selection to large language model (LLM) agents. We ask what such delegation does to a freight matching market, and which platform design choices contain it. We carried out agent-based simulations in which fifty shipper agents, built on commercial LLMs from OpenAI (GPT), Anthropic (Claude), and Google (Gemini), procure truckload capacity for thirty days. The market implements the rules of digital freight matching: each load is offered down the shipper's ranked list of carriers (waterfall tendering), car",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking",
-      "url": "https://arxiv.org/abs/2607.20149",
-      "summary": "arXiv:2607.20149v1 Announce Type: new Abstract: Machine learning courses often use pre-labeled datasets, hiding the subjectivity of human annotation. This creates students with an overly trusting view of AI data and models, undervaluing interpretive diversity. We investigated whether manual data annotation tasks teach students about subjective labeling. Study Design: An annotation activity was implemented at two universities: Fontys (Netherlands) and IT University Copenhagen (Denmark). Students annotated skin lesion images for hair coverage on a 3-point scale. Surveys were collected from 43 pa",
+      "title": "Experiential Versus Instructional Approaches for Eliciting Metacognitive Awareness in AI-Assisted Learning: A Short-Term Longitudinal Study",
+      "url": "https://arxiv.org/abs/2607.20047",
+      "summary": "arXiv:2607.20047v1 Announce Type: cross Abstract: With generative AI (GenAI) entering classrooms the question to which teaching approach best supports metacognitive skill acquisition in AI-assisted learning becomes pressing. In this short-term longitudinal study we investigate two contrasting approaches: experiential learning encompassing hands-on approaches and instructional learning such as classical lectures. We conducted a quasi-experiment with 126 university students from a first-year engineering course which were distributed across the two conditions and completed a two hour session on l",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Journalists, media and influencers: An analysis of the conversation in the digital public sphere during the Qatar 2022 World Cup",
-      "url": "https://arxiv.org/abs/2605.11331",
-      "summary": "arXiv:2605.11331v1 Announce Type: cross Abstract: Public digital conversation around major sporting events takes place within a hybrid system in which journalists and the media compete with new intermediaries, including influencers, to gain greater visibility and engage with audiences. This study analyses the Qatar 2022 World Cup as a case of high informational intensity and public opinion monitoring. To that end, social network analysis was applied to X/Twitter using the hashtag #Qatar2022, analysing 1,343 high-engagement accounts, including those of journalists, media and influencers, alongs",
+      "title": "Generative AI floods and dilutes the market for books",
+      "url": "https://arxiv.org/abs/2607.20349",
+      "summary": "arXiv:2607.20349v1 Announce Type: cross Abstract: Generative AI can produce book-length works of fiction at near-zero cost. These books are often dismissed as low-quality ``slop'' that buyers will ignore, and are assumed to carry little commercial weight. We test that assumption with full-text AI detection across 14,419 self-published genre-fiction books sold on Amazon from 2023 to 2026, matched to daily sales records through June 2026. None of these books disclose whether or not they contain AI-produced content. We find that books for which we detected substantial AI text ($>$ 25\\%) make up a",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Validating the Single Item Kawaii Measure",
-      "url": "https://arxiv.org/abs/2607.19352",
-      "summary": "arXiv:2607.19352v1 Announce Type: cross Abstract: Kawaii is the Japanese instantiation of cuteness. As a multimodal percept theoretically derived from the notion of baby schema, kawaii can be a property of voice and sound, visual appearance and form factor, and movement and expression. However, measuring user perceptions of kawaii remains an open question. In the absence of a validated instrument, a one-item self-report measure has been used extensively, but has not been validated. Here, we report on three types of validity -- convergent, known groups, and cross-context -- and reliability for ",
+      "title": "From Assistance to Autonomy -- A Researcher Study on the Potential of AI Support for Qualitative Data Analysis",
+      "url": "https://arxiv.org/abs/2501.19275",
+      "summary": "arXiv:2501.19275v4 Announce Type: replace Abstract: The advent of AI technologies, such as Large Language Models, has introduced new possibilities for Qualitative Data Analysis (QDA), offering both opportunities and challenges. To help navigate the responsible integration of AI into QDA, we conducted semi-structured interviews with 15 Human-Computer Interaction (HCI) researchers experienced in QDA. While our participants were open to AI support in their QDA workflows, they expressed concerns about data privacy, autonomy, and the quality of AI outputs. In response, we developed a framework that",
       "published": "2026-07-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
