@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-24",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Language Models Embody and Amplify Human Cognitive Distortions: What Is to Be Done?",
+      "url": "https://arxiv.org/abs/2607.20695",
+      "summary": "arXiv:2607.20695v1 Announce Type: new Abstract: Human judgment is fundamentally prone to error. A promise of AI is that it will rid decisions of bias and ensure a fairer and safer world for all. Yet research unequivocally demonstrates that LLMs exhibit consequential sociocognitive biases. We alert readers that bias in AI (a) is covert and ironically a feature of alignment goals, (b) is not merely a mirror, but an amplifier of human bias, (c) intensifies across model generations, and (d) even transmits bias to humans. Given the potentially seismic and ubiquitous influence of AI on decision maki",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Open Veins of Algorithmic Auditing: Why AI Assessment Lags Behind Its Deployment in the Global South",
+      "url": "https://arxiv.org/abs/2607.21317",
+      "summary": "arXiv:2607.21317v1 Announce Type: new Abstract: Artificial intelligence is being deployed across the Global South at a pace matching or exceeding the Global North, yet AI governance has not kept pace, and the gap is far wider in the South. Drawing on a decade of AI audit practice across Latin America, Sub-Saharan Africa, and Asia Pacific (the only fully published second-party audit of a deployed system in the region, Robot Laura in Brazil; two completed but unreleased national audits, of a child-welfare risk model and a public-employment matching algorithm; thirteen Responsible AI Assessments;",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "White Box Evidence Packages for Policy Audit Reports",
+      "url": "https://arxiv.org/abs/2607.21462",
+      "summary": "arXiv:2607.21462v1 Announce Type: new Abstract: As AI governance moves from benchmark scores toward auditable oversight, a central question is how reviewers can tell whether an LLM-generated audit report is actually supported by evidence. This paper studies that question in passage-anchored policy audits, where a report must interpret a given policy passage and cite evidence for its claims. We introduce a controlled evaluation framework that holds the passage, rubric, and auditor model fixed while changing only the evidence interface supplied to the auditor. Across 60 AGORA policy cases, we ge",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Generative AI Availability, Grades, and Student Satisfaction at a Large University",
+      "url": "https://arxiv.org/abs/2607.21534",
+      "summary": "arXiv:2607.21534v1 Announce Type: new Abstract: The spread of generative AI (GenAI) in higher education has raised concerns that students offload cognitive effort to AI, earning high grades without learning. If this \"GenAI substitution hypothesis\" is true, grades should rise disproportionately in GenAI-susceptible courses--those relying more on assessments like take-home problem sets and essays rather than in-class exams. Substitution could also affect student satisfaction, measured here as self-reported understanding and interest in the subject, which prior research links to assessments. We t",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims",
+      "url": "https://arxiv.org/abs/2607.21549",
+      "summary": "arXiv:2607.21549v1 Announce Type: new Abstract: Technology-facilitated abuse (TFA), the use of digital technologies to stalk, harass, monitor or threaten others, has become a pervasive form of interpersonal harm. As victims turn to online sources for guidance, responses can shape how they assess risks, interpret abuse, and choose protective actions. We present a large-scale evaluation of online support for TFA victims across three channels: web search, peer-support forums, and conversational AI systems. Drawing on a decade of victim narratives from r/Stalking, we use qualitative coding and sup",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content",
+      "url": "https://arxiv.org/abs/2607.20446",
+      "summary": "arXiv:2607.20446v1 Announce Type: cross Abstract: As large language models (LLMs) are increasingly used by students to generate natural language responses and program code, there is growing interest in whether LLMs themselves can be used to distinguish AI-generated work from human-authored submissions. In this paper, we investigate the extent to which LLMs can detect their own generated content across multiple educational task types, including programming exercises, reflective writing, and short-answer questions. Using authentic student responses and multiple variants of LLM-generated answers,",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Improving Access to Essential Medicines via Decision-Aware Machine Learning",
+      "url": "https://arxiv.org/abs/2607.20542",
+      "summary": "arXiv:2607.20542v1 Announce Type: cross Abstract: A critical challenge in healthcare systems in low- and middle-income countries (LMICs) is the efficient and equitable allocation of scarce resources, particularly essential medicines. This problem is complicated by limited high-quality data, which restricts the applicability of traditional data-driven techniques. We propose a novel decision-aware machine learning framework for essential medicines allocation, which additionally leverages multi-task learning to ensure sample efficiency and catalytic priors to ensure equitable allocation. In colla",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Scientific exploration, collaboration and labor division in the large language model era",
+      "url": "https://arxiv.org/abs/2607.20923",
+      "summary": "arXiv:2607.20923v1 Announce Type: cross Abstract: Large language models (LLMs) have rapidly and significantly entered scientific workflows, but it remains unclear how their diffusion is associated with changes in scientists' strategies in research directions and team building. We link PubMed Central full text with OpenAlex publication and collaboration histories for 775,323 scientists and analyze CRediT contribution statements from 137,120 multi-author papers. After 2022, scientists increasingly published across more intellectually distant fields and entered fields in which they had not previo",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "QuantiBias: Benchmarking Quantization-Induced Bias in LLMs",
+      "url": "https://arxiv.org/abs/2607.21063",
+      "summary": "arXiv:2607.21063v1 Announce Type: cross Abstract: Almost every large language model that reaches a broad audience is quantized: trained in full precision, then compressed for efficiency. This step is assumed harmless and its safety is rarely re-checked. We find its principal side effect is increased bias that standard safety evaluation misses. Holding the model, its training, and the prompts fixed, a quantized model still refuses harmful requests, still avoids over-refusing benign prompts, and still selects the unbiased multiple-choice answer. Yet asked an open-ended question, the same model v",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Risk-Limiting Audits for Parliamentary Majorities",
+      "url": "https://arxiv.org/abs/2607.21082",
+      "summary": "arXiv:2607.21082v1 Announce Type: cross Abstract: Existing methods for risk-limiting audits typically focus on certifying individual contests. In parliamentary elections, however, the politically relevant outcome is often whether a party has won enough seats to form government, not whether every reported seat outcome is correct. Extending on the work of Mohanty et al. (2019), we formulate the certification of a parliamentary majority as a partial conjunction testing problem: it is enough to verify that the reported winning party truly won at least a majority of its reported seats. Building on ",
+      "published": "2026-07-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
