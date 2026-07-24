@@ -1,83 +1,51 @@
 {
   "date": "2026-07-24",
-  "articles_count": 10,
+  "articles_count": 6,
   "articles": [
     {
-      "title": "Language Models Embody and Amplify Human Cognitive Distortions: What Is to Be Done?",
-      "url": "https://arxiv.org/abs/2607.20695",
-      "summary": "arXiv:2607.20695v1 Announce Type: new Abstract: Human judgment is fundamentally prone to error. A promise of AI is that it will rid decisions of bias and ensure a fairer and safer world for all. Yet research unequivocally demonstrates that LLMs exhibit consequential sociocognitive biases. We alert readers that bias in AI (a) is covert and ironically a feature of alignment goals, (b) is not merely a mirror, but an amplifier of human bias, (c) intensifies across model generations, and (d) even transmits bias to humans. Given the potentially seismic and ubiquitous influence of AI on decision maki",
+      "title": "Advances in STV Margin Computation",
+      "url": "https://arxiv.org/abs/2607.21178",
+      "summary": "arXiv:2607.21178v1 Announce Type: cross Abstract: Single transferable vote (STV) is a multi-winner preferential proportional electoral system. The margin is the smallest number of ballots that need to be manipulated to alter the set of winners. If we can compute the margin of an STV election, or a reasonable lower bound on the margin, we can use recent advances in auditing research to conduct a risk-limiting audit of the election's winners. Knowledge of the margin also provides insight into whether uncovered mistakes, or a known error rate in ballot interpretation, could have influenced the ou",
       "published": "2026-07-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Open Veins of Algorithmic Auditing: Why AI Assessment Lags Behind Its Deployment in the Global South",
-      "url": "https://arxiv.org/abs/2607.21317",
-      "summary": "arXiv:2607.21317v1 Announce Type: new Abstract: Artificial intelligence is being deployed across the Global South at a pace matching or exceeding the Global North, yet AI governance has not kept pace, and the gap is far wider in the South. Drawing on a decade of AI audit practice across Latin America, Sub-Saharan Africa, and Asia Pacific (the only fully published second-party audit of a deployed system in the region, Robot Laura in Brazil; two completed but unreleased national audits, of a child-welfare risk model and a public-employment matching algorithm; thirteen Responsible AI Assessments;",
+      "title": "AI Assistants Overassist",
+      "url": "https://arxiv.org/abs/2607.21306",
+      "summary": "arXiv:2607.21306v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used as tutors and thought partners, helping users reason through problems. While guidance from AI assistants can scaffold thinking and foster learning, such benefits depend on how they help--for instance, intervening too early or too frequently may hinder true learning and cognitive engagement. Yet how AI systems navigate intervention decisions during problem-solving remains poorly understood. Here, we introduce Int-Bench, a simulation-based benchmark for evaluating LLM interventions during learnin",
       "published": "2026-07-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "White Box Evidence Packages for Policy Audit Reports",
-      "url": "https://arxiv.org/abs/2607.21462",
-      "summary": "arXiv:2607.21462v1 Announce Type: new Abstract: As AI governance moves from benchmark scores toward auditable oversight, a central question is how reviewers can tell whether an LLM-generated audit report is actually supported by evidence. This paper studies that question in passage-anchored policy audits, where a report must interpret a given policy passage and cite evidence for its claims. We introduce a controlled evaluation framework that holds the passage, rubric, and auditor model fixed while changing only the evidence interface supplied to the auditor. Across 60 AGORA policy cases, we ge",
+      "title": "Generative AI and Agency in Education: A Critical Scoping Review and Thematic Analysis",
+      "url": "https://arxiv.org/abs/2411.00631",
+      "summary": "arXiv:2411.00631v2 Announce Type: replace Abstract: This scoping review examines the relationship between Generative AI (GenAI) and agency in education, analyzing the literature available through the lens of Critical Digital Pedagogy. Following PRISMA-ScR guidelines, we collected 10 studies from academic databases focusing on both learner and teacher agency in GenAI-enabled environments. We conducted an AI-supported hybrid thematic analysis that revealed three key themes: Control in Digital Spaces, Variable Engagement and Access, and Changing Notions of Agency. The findings suggest that while ",
       "published": "2026-07-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Generative AI Availability, Grades, and Student Satisfaction at a Large University",
-      "url": "https://arxiv.org/abs/2607.21534",
-      "summary": "arXiv:2607.21534v1 Announce Type: new Abstract: The spread of generative AI (GenAI) in higher education has raised concerns that students offload cognitive effort to AI, earning high grades without learning. If this \"GenAI substitution hypothesis\" is true, grades should rise disproportionately in GenAI-susceptible courses--those relying more on assessments like take-home problem sets and essays rather than in-class exams. Substitution could also affect student satisfaction, measured here as self-reported understanding and interest in the subject, which prior research links to assessments. We t",
+      "title": "Progressive in Principle, Centrist in Practice: LLM Political Bias Is Instrument-Dependent",
+      "url": "https://arxiv.org/abs/2606.00048",
+      "summary": "arXiv:2606.00048v2 Announce Type: replace Abstract: Prior work establishes that instruction-tuned LLMs exhibit left-of-center political bias, but measures it exclusively through abstract questionnaires. We show this does not generalize to concrete policy decisions. We introduce a dual-instrument methodology grounded in Swiss direct democracy: the Smartvote questionnaire (75 policy questions), administered to 66 LLMs and compared to 184 elected members of the Swiss National Council, and 48 real federal referenda (Volksabstimmungen) put to 9 flagship LLMs in four national languages and three inf",
       "published": "2026-07-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Seeking Help in the Digital Age: A Cross-Platform Analysis of Online Support Systems for Technology-Facilitated Abuse Victims",
-      "url": "https://arxiv.org/abs/2607.21549",
-      "summary": "arXiv:2607.21549v1 Announce Type: new Abstract: Technology-facilitated abuse (TFA), the use of digital technologies to stalk, harass, monitor or threaten others, has become a pervasive form of interpersonal harm. As victims turn to online sources for guidance, responses can shape how they assess risks, interpret abuse, and choose protective actions. We present a large-scale evaluation of online support for TFA victims across three channels: web search, peer-support forums, and conversational AI systems. Drawing on a decade of victim narratives from r/Stalking, we use qualitative coding and sup",
+      "title": "From Checklists to Clusters: A Homeostatic Account of AGI Evaluation",
+      "url": "https://arxiv.org/abs/2510.15236",
+      "summary": "arXiv:2510.15236v2 Announce Type: replace-cross Abstract: Contemporary AGI evaluations report multidomain capability profiles, yet they typically assign symmetric weights and rely on snapshot scores. This creates two problems: (i) equal weighting treats all domains as equally important when human intelligence research suggests otherwise, and (ii) snapshot testing can't distinguish durable capabilities from brittle performances that collapse under delay or stress. I argue that general intelligence -- in humans and potentially in machines -- is better understood as a homeostatic property cluster",
       "published": "2026-07-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Distinguishing Artificial from Authentic: Evaluating LLMs for Detecting LLM-Generated Content",
-      "url": "https://arxiv.org/abs/2607.20446",
-      "summary": "arXiv:2607.20446v1 Announce Type: cross Abstract: As large language models (LLMs) are increasingly used by students to generate natural language responses and program code, there is growing interest in whether LLMs themselves can be used to distinguish AI-generated work from human-authored submissions. In this paper, we investigate the extent to which LLMs can detect their own generated content across multiple educational task types, including programming exercises, reflective writing, and short-answer questions. Using authentic student responses and multiple variants of LLM-generated answers,",
-      "published": "2026-07-24T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Improving Access to Essential Medicines via Decision-Aware Machine Learning",
-      "url": "https://arxiv.org/abs/2607.20542",
-      "summary": "arXiv:2607.20542v1 Announce Type: cross Abstract: A critical challenge in healthcare systems in low- and middle-income countries (LMICs) is the efficient and equitable allocation of scarce resources, particularly essential medicines. This problem is complicated by limited high-quality data, which restricts the applicability of traditional data-driven techniques. We propose a novel decision-aware machine learning framework for essential medicines allocation, which additionally leverages multi-task learning to ensure sample efficiency and catalytic priors to ensure equitable allocation. In colla",
-      "published": "2026-07-24T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Scientific exploration, collaboration and labor division in the large language model era",
-      "url": "https://arxiv.org/abs/2607.20923",
-      "summary": "arXiv:2607.20923v1 Announce Type: cross Abstract: Large language models (LLMs) have rapidly and significantly entered scientific workflows, but it remains unclear how their diffusion is associated with changes in scientists' strategies in research directions and team building. We link PubMed Central full text with OpenAlex publication and collaboration histories for 775,323 scientists and analyze CRediT contribution statements from 137,120 multi-author papers. After 2022, scientists increasingly published across more intellectually distant fields and entered fields in which they had not previo",
-      "published": "2026-07-24T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "QuantiBias: Benchmarking Quantization-Induced Bias in LLMs",
-      "url": "https://arxiv.org/abs/2607.21063",
-      "summary": "arXiv:2607.21063v1 Announce Type: cross Abstract: Almost every large language model that reaches a broad audience is quantized: trained in full precision, then compressed for efficiency. This step is assumed harmless and its safety is rarely re-checked. We find its principal side effect is increased bias that standard safety evaluation misses. Holding the model, its training, and the prompts fixed, a quantized model still refuses harmful requests, still avoids over-refusing benign prompts, and still selects the unbiased multiple-choice answer. Yet asked an open-ended question, the same model v",
-      "published": "2026-07-24T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Risk-Limiting Audits for Parliamentary Majorities",
-      "url": "https://arxiv.org/abs/2607.21082",
-      "summary": "arXiv:2607.21082v1 Announce Type: cross Abstract: Existing methods for risk-limiting audits typically focus on certifying individual contests. In parliamentary elections, however, the politically relevant outcome is often whether a party has won enough seats to form government, not whether every reported seat outcome is correct. Extending on the work of Mohanty et al. (2019), we formulate the certification of a parliamentary majority as a partial conjunction testing problem: it is enough to verify that the reported winning party truly won at least a majority of its reported seats. Building on ",
+      "title": "A Course on the Introduction to Quantum Software Engineering: Experience Report",
+      "url": "https://arxiv.org/abs/2602.07589",
+      "summary": "arXiv:2602.07589v3 Announce Type: replace-cross Abstract: Quantum computing is increasingly practised through programming, yet most educational offerings emphasize algorithmic or framework-level use rather than software engineering concerns such as testing, abstraction, tooling, and lifecycle management. This paper reports on the design and first offering of a cross-listed undergraduate--graduate course that frames quantum computing through a software engineering lens, focusing on early-stage competence relevant to software engineering practice. The course integrates foundational quantum conce",
       "published": "2026-07-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
