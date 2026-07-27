@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Co-design of LLM-based preference agents: participation may drive overtrust",
-      "url": "https://arxiv.org/abs/2607.21757",
-      "summary": "arXiv:2607.21757v1 Announce Type: new Abstract: Large language models are increasingly used to simulate human preferences in research and practical applications, raising concerns about validation, misrepresentation, and exclusion. Co-designing agents with the people they represent is a promising way to address these concerns, but participation may also mask the problems it appears to solve. This paper explores that tension through a primarily qualitative study in which 12 participants co-designed personal preference agents in the domain of household energy, via a background survey, co-design i",
+      "title": "How Can AI Augment Access to Justice? Public Defenders' Perspectives on AI Adoption",
+      "url": "https://arxiv.org/abs/2510.22933",
+      "summary": "arXiv:2510.22933v4 Announce Type: replace Abstract: Public defenders are asked to do more with less: representing clients deserving of adequate counsel while facing overwhelming caseloads and scarce resources. Although artificial intelligence (AI) is often promoted as a means of relieving administrative and cognitive burdens, legal AI research rarely engages with the everyday realities of public defense work. Drawing on in-depth, semi-structured interviews with 17 public defense professionals across the United States, we identify work-intensive tasks most amenable to AI assistance and the ethi",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Unfit for stranding assessment: a panel-scale multimodal-LLM audit of building-decarbonisation disclosure (BeDA)",
-      "url": "https://arxiv.org/abs/2607.22006",
-      "summary": "arXiv:2607.22006v1 Announce Type: new Abstract: Buildings account for roughly 34% of global final energy use and 37% of energy- and process-related CO$_2$ emissions. Stranding regulation now being enacted (New York City Local Law 97, the EU Energy Performance of Buildings Directive recast) presupposes that a building portfolio's carbon intensity can be measured per square metre and compared against a science-based pathway. Whether corporate disclosure is actually fit for that comparison has not, to our knowledge, been measured at scale. We introduce BeDA (the Built-environment Decarbonisation-",
+      "title": "Administrative Law's Fourth Settlement: AI and the Scrutable State",
+      "url": "https://arxiv.org/abs/2602.09678",
+      "summary": "arXiv:2602.09678v3 Announce Type: replace Abstract: Since 1887, administrative law has confronted a problem of institutional cognition. Expert agencies are needed to govern technologically complex systems, but expertise makes agency decisions difficult for courts, Congress, and the public to understand and oversee. Administrative law has responded to this \"capability-accountability trap\" by requiring records, reason-giving, and transparency, drawn together through procedural review. These devices have preserved legality but have piled up, making government both less comprehensible and less eff",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
-      "url": "https://arxiv.org/abs/2607.22513",
-      "summary": "arXiv:2607.22513v1 Announce Type: new Abstract: Commercial large language models are increasingly used as knowledge references, yet their stance on contested scientific claims is neither stable nor transparent. We tested how four major LLM families (Claude, Grok, GPT, Gemini) evaluate ethnonationalist pseudo-science derived from Frank Salter's biosocial framework across four temporal snapshots (October 2025-February 2026), via both API and web interfaces. Grok's Fast versions (which power the default user experience on X) consistently assigned credibility scores of 70-75, two to five times hig",
+      "title": "Analyzing the Ethical Logic of Eight Large Language Models",
+      "url": "https://arxiv.org/abs/2501.08951",
+      "summary": "arXiv:2501.08951v2 Announce Type: replace-cross Abstract: This study examines the expressed ethical logic of eight prominent large language models from OpenAI, Meta, Perplexity, Anthropic, Google, Mistral, DeepSeek, and xAI. Each model answered direct questions about its ethical principles and responded to five classic moral dilemmas. Responses were analyzed using the consequentialist/deontological distinction, Moral Foundations Theory, and Kohlbergs stages of moral development. Across models, ethical judgments were broadly convergent and typically emphasized harm minimization, fairness, and c",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Human-AI Substitution Principle: When will you be replaced by AI in your organization?",
-      "url": "https://arxiv.org/abs/2607.20781",
-      "summary": "arXiv:2607.20781v1 Announce Type: cross Abstract: Artificial Intelligence (AI) is rapidly transforming organizations, raising a fundamental organizational and economic question: when will a human employee be replaced by AI? We present an analytical model for studying Human--AI Task Allocation (HAT) in hierarchical organizations. A central feature of the HAT model is that it formally encodes the economic asymmetry between human skill acquisition and AI capability scaling. The HAT model allows us to derive how risk-adjusted costs, skills, organizational depth, deployment scale, strategic adaptat",
+      "title": "When Ethics and Payoffs Diverge: LLM Agents in Morally Charged Social Dilemmas",
+      "url": "https://arxiv.org/abs/2505.19212",
+      "summary": "arXiv:2505.19212v2 Announce Type: replace-cross Abstract: Recent advances in LLMs have enabled their use in complex agentic roles, involving decision-making with humans or other agents, making ethical alignment a critical concern. While prior work has examined LLMs' moral judgment and strategic behavior separately, there is limited understanding of how they act when moral imperatives directly conflict with profit incentives. We introduce \\msimfull (\\msim) to evaluate how LLMs behave in the prisoner's dilemma and public goods game embedded in morally charged contexts, varying moral framing, opp",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE",
-      "url": "https://arxiv.org/abs/2607.21608",
-      "summary": "arXiv:2607.21608v1 Announce Type: cross Abstract: With the EU AI Act entering into force, organizations developing or operating AI systems face new obligations on transparency, risk management, and traceability. For Requirements Engineering (RE), these obligations must be translated into testable, auditable requirements and verifiable evidence. However, many organizations currently lack systematic processes to achieve this. We hypothesize that LLM-based agentic validation tools can support this translation, thereby helping to close this gap. We present a mixed-method exploratory study with exp",
+      "title": "A Comparative Benchmark of Federated Learning Strategies for Mortality Prediction on Heterogeneous and Imbalanced Clinical Data",
+      "url": "https://arxiv.org/abs/2509.10517",
+      "summary": "arXiv:2509.10517v3 Announce Type: replace-cross Abstract: Machine learning can predict in-hospital mortality, but data privacy and the statistical heterogeneity of clinical data hamper its use. Federated Learning (FL) is privacy-preserving, yet its behavior under non-IID and imbalanced conditions needs scrutiny. We benchmark five FL strategies - FedAvg, FedProx, FedAdagrad, FedAdam, and FedCluster - for mortality prediction on the MIMIC-IV dataset, partitioning 466,351 admissions across five care units to induce a realistic non-IID setting and enriching the features with an 11-item first-24-ho",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Agentic Evaluation of Copyright Law Compliance",
-      "url": "https://arxiv.org/abs/2607.21799",
-      "summary": "arXiv:2607.21799v1 Announce Type: cross Abstract: Large language model (LLM) agents increasingly perform commercial tasks that involve retrieving external content such as images and, where appropriate, reproducing that content. LLM agents should comply with the law, including copyright law. Presently, however, we lack adequate frameworks to assess whether they do so in practice. To that end, we introduce \\textbf{Copyright-Bench}, a benchmark designed to evaluate \\textit{LLM agents' compliance with} \\emph{copyright law}. Copyright-Bench is comprised of realistic commercial tasks---website devel",
+      "title": "WHBench: Evaluating Frontier LLMs with Expert-in-the-Loop Validation on Women's Health Topics",
+      "url": "https://arxiv.org/abs/2604.00024",
+      "summary": "arXiv:2604.00024v2 Announce Type: replace-cross Abstract: Large language models are increasingly used for medical guidance, but women's health remains under-evaluated in benchmark design. We present the Women's Health Benchmark (WHBench), a targeted evaluation suite of 47 expert-crafted scenarios across 10 women's health topics, designed to expose clinically meaningful failure modes including outdated guidelines, unsafe omissions, dosing errors, and equity-related blind spots. We evaluate 22 models using a 23-criterion rubric spanning clinical accuracy, completeness, safety, communication qual",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Developing and Validating the Spanish Version of the Large Language Models Dependency Scale (LLM-D12-SP)",
-      "url": "https://arxiv.org/abs/2607.22041",
-      "summary": "arXiv:2607.22041v1 Announce Type: cross Abstract: There is a growing need for reliable and culturally validated instruments to assess psychological dependency on large language models (LLMs), particularly as LLMs are increasingly used for task execution, decision-making, and communication in organizational and work-related settings. This need is especially relevant for Spanish-speaking populations, where LLM adoption is rapidly expanding, yet validated psychometric tools remain scarce. The present study reports the first validation of the Spanish version of the Large Language Model Dependency ",
+      "title": "Benchmarking the Safety of Large Language Models for Robotic Health Attendant Control",
+      "url": "https://arxiv.org/abs/2604.26577",
+      "summary": "arXiv:2604.26577v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly considered for deployment as the control component of robotic health attendants, yet their safety in this context remains poorly characterized. We introduce a dataset of 270 harmful instructions spanning nine prohibited behavior categories grounded in the American Medical Association Principles of Medical Ethics, and use it to evaluate 72 LLMs in a simulation environment based on the Robotic Health Attendant framework. The mean violation rate across all models was 54.4\\%, with more than half",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children",
-      "url": "https://arxiv.org/abs/2607.22377",
-      "summary": "arXiv:2607.22377v1 Announce Type: cross Abstract: Most educational technology for children is built around visual interfaces, which excludes the many children worldwide who live with visual impairment -- an estimated 1.4 million children are blind and many more have low vision. We present Kutti AI, a voice-first learning companion designed so that audio is the primary and sufficient interface: children learn curriculum concepts through spoken conversation, respond by speaking, and receive spoken feedback, with no reliance on visual elements. The system contributes three practical mechanisms fo",
+      "title": "Math Education Digital Shadows for Investigating Learning with GenAI: Mathematics Performance, Anxiety, and Confidence in LLMs",
+      "url": "https://arxiv.org/abs/2604.27618",
+      "summary": "arXiv:2604.27618v2 Announce Type: replace-cross Abstract: Understanding the impact of large language models (LLMs) on mathematics education requires data on LLMs' mathematical performance and biases. To this end, we introduce Math Education Digital Shadows (MEDS), a dataset mapping how LLMs reason about mathematics across human- and AI-like personifications. MEDS comprises 28,000 runs from 14 LLMs (i.e., Mistral, Qwen, DeepSeek, IBM Granite, Microsoft Phi, and xAI Grok) generated under human-shadow and AI-assistant conditions. Each record (digital shadow) includes a set of prompts; psychologic",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Gridnberg: A Topography-Aware Pedestrian Routing Dataset for New York City",
-      "url": "https://arxiv.org/abs/2607.22523",
-      "summary": "arXiv:2607.22523v1 Announce Type: cross Abstract: Cities are rarely flat, yet urban network analysis usually represents streets as planar graphs. This simplification affects modeled impedance, route choice, and the interpretation of accessibility, particularly where alternative paths differ in grade. This paper introduces Gridnberg ('grid-n-berg', grid and mountain), a topography-aware pedestrian routing dataset for New York City. The dataset enriches the NYCWalks network with vertex-level elevations derived from the New York City Planimetric Database. For each pedestrian-network geometry vert",
+      "title": "Can AI Debias the News? LLM Interventions Improve Cross-Partisan Receptivity but LLMs Overestimate Their Own Effectiveness",
+      "url": "https://arxiv.org/abs/2605.01006",
+      "summary": "arXiv:2605.01006v3 Announce Type: replace-cross Abstract: Partisan news media erode cross-partisan trust, but large language models (LLMs) offer the potential of debiasing such content at scale. Across two pre-registered experiments, we tested whether LLM-generated debiasing of liberal news headlines improves conservative readers' trust-relevant judgments. In Study 1, subtle lexical debiasing (replacing emotive words with moderate synonyms) had no effect on any outcome. Study 2 found that a more substantive reframing intervention significantly increased conservatives' perceived trustworthiness",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A principled way to think about AI in education: guidance for educators and policy makers based on goals, models of human learning, and use of technologies",
-      "url": "https://arxiv.org/abs/2510.01467",
-      "summary": "arXiv:2510.01467v2 Announce Type: replace Abstract: The rapid emergence of generative artificial intelligence (AI) and related technologies has the potential to dramatically influence higher education, raising questions about the roles of institutions, educators, and students in a technology-rich future. While existing discourse often emphasizes either the promise and peril of AI or its immediate implementation, this paper advances a third path: a principled framework for guiding the use of AI in teaching and learning. Drawing on decades of scholarship in the learning sciences and uses of tech",
+      "title": "Informal Learning Emerges in Everyday Human-LLM Interaction",
+      "url": "https://arxiv.org/abs/2607.17643",
+      "summary": "arXiv:2607.17643v2 Announce Type: replace-cross Abstract: As LLMs become increasingly capable of completing tasks for users, a central concern is that everyday AI use may become primarily cognitive offloading, eroding the opportunities through which people develop their own capabilities. We analyse large-scale human-LLM conversations to ask whether informal learning behaviors also emerge in this setting: whether users engage in exchanges in ways that preserve opportunities to learn. Across 128,569 naturalistic conversations, we translated learning-science constructs into turn-level behavioural",
       "published": "2026-07-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
