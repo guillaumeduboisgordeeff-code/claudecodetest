@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-27",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Co-design of LLM-based preference agents: participation may drive overtrust",
+      "url": "https://arxiv.org/abs/2607.21757",
+      "summary": "arXiv:2607.21757v1 Announce Type: new Abstract: Large language models are increasingly used to simulate human preferences in research and practical applications, raising concerns about validation, misrepresentation, and exclusion. Co-designing agents with the people they represent is a promising way to address these concerns, but participation may also mask the problems it appears to solve. This paper explores that tension through a primarily qualitative study in which 12 participants co-designed personal preference agents in the domain of household energy, via a background survey, co-design i",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Unfit for stranding assessment: a panel-scale multimodal-LLM audit of building-decarbonisation disclosure (BeDA)",
+      "url": "https://arxiv.org/abs/2607.22006",
+      "summary": "arXiv:2607.22006v1 Announce Type: new Abstract: Buildings account for roughly 34% of global final energy use and 37% of energy- and process-related CO$_2$ emissions. Stranding regulation now being enacted (New York City Local Law 97, the EU Energy Performance of Buildings Directive recast) presupposes that a building portfolio's carbon intensity can be measured per square metre and compared against a science-based pathway. Whether corporate disclosure is actually fit for that comparison has not, to our knowledge, been measured at scale. We introduce BeDA (the Built-environment Decarbonisation-",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Opaque Epistemic Mediation: How LLM Deployment Configurations Shape the Validation of Pseudo-Science",
+      "url": "https://arxiv.org/abs/2607.22513",
+      "summary": "arXiv:2607.22513v1 Announce Type: new Abstract: Commercial large language models are increasingly used as knowledge references, yet their stance on contested scientific claims is neither stable nor transparent. We tested how four major LLM families (Claude, Grok, GPT, Gemini) evaluate ethnonationalist pseudo-science derived from Frank Salter's biosocial framework across four temporal snapshots (October 2025-February 2026), via both API and web interfaces. Grok's Fast versions (which power the default user experience on X) consistently assigned credibility scores of 70-75, two to five times hig",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Human-AI Substitution Principle: When will you be replaced by AI in your organization?",
+      "url": "https://arxiv.org/abs/2607.20781",
+      "summary": "arXiv:2607.20781v1 Announce Type: cross Abstract: Artificial Intelligence (AI) is rapidly transforming organizations, raising a fundamental organizational and economic question: when will a human employee be replaced by AI? We present an analytical model for studying Human--AI Task Allocation (HAT) in hierarchical organizations. A central feature of the HAT model is that it formally encodes the economic asymmetry between human skill acquisition and AI capability scaling. The HAT model allows us to derive how risk-adjusted costs, skills, organizational depth, deployment scale, strategic adaptat",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE",
+      "url": "https://arxiv.org/abs/2607.21608",
+      "summary": "arXiv:2607.21608v1 Announce Type: cross Abstract: With the EU AI Act entering into force, organizations developing or operating AI systems face new obligations on transparency, risk management, and traceability. For Requirements Engineering (RE), these obligations must be translated into testable, auditable requirements and verifiable evidence. However, many organizations currently lack systematic processes to achieve this. We hypothesize that LLM-based agentic validation tools can support this translation, thereby helping to close this gap. We present a mixed-method exploratory study with exp",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Agentic Evaluation of Copyright Law Compliance",
+      "url": "https://arxiv.org/abs/2607.21799",
+      "summary": "arXiv:2607.21799v1 Announce Type: cross Abstract: Large language model (LLM) agents increasingly perform commercial tasks that involve retrieving external content such as images and, where appropriate, reproducing that content. LLM agents should comply with the law, including copyright law. Presently, however, we lack adequate frameworks to assess whether they do so in practice. To that end, we introduce \\textbf{Copyright-Bench}, a benchmark designed to evaluate \\textit{LLM agents' compliance with} \\emph{copyright law}. Copyright-Bench is comprised of realistic commercial tasks---website devel",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Developing and Validating the Spanish Version of the Large Language Models Dependency Scale (LLM-D12-SP)",
+      "url": "https://arxiv.org/abs/2607.22041",
+      "summary": "arXiv:2607.22041v1 Announce Type: cross Abstract: There is a growing need for reliable and culturally validated instruments to assess psychological dependency on large language models (LLMs), particularly as LLMs are increasingly used for task execution, decision-making, and communication in organizational and work-related settings. This need is especially relevant for Spanish-speaking populations, where LLM adoption is rapidly expanding, yet validated psychometric tools remain scarce. The present study reports the first validation of the Spanish version of the Large Language Model Dependency ",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Kutti AI: A Voice-First, Offline-Capable Learning Companion with Real-Time Struggle Detection for Visually-Impaired Children",
+      "url": "https://arxiv.org/abs/2607.22377",
+      "summary": "arXiv:2607.22377v1 Announce Type: cross Abstract: Most educational technology for children is built around visual interfaces, which excludes the many children worldwide who live with visual impairment -- an estimated 1.4 million children are blind and many more have low vision. We present Kutti AI, a voice-first learning companion designed so that audio is the primary and sufficient interface: children learn curriculum concepts through spoken conversation, respond by speaking, and receive spoken feedback, with no reliance on visual elements. The system contributes three practical mechanisms fo",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Gridnberg: A Topography-Aware Pedestrian Routing Dataset for New York City",
+      "url": "https://arxiv.org/abs/2607.22523",
+      "summary": "arXiv:2607.22523v1 Announce Type: cross Abstract: Cities are rarely flat, yet urban network analysis usually represents streets as planar graphs. This simplification affects modeled impedance, route choice, and the interpretation of accessibility, particularly where alternative paths differ in grade. This paper introduces Gridnberg ('grid-n-berg', grid and mountain), a topography-aware pedestrian routing dataset for New York City. The dataset enriches the NYCWalks network with vertex-level elevations derived from the New York City Planimetric Database. For each pedestrian-network geometry vert",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A principled way to think about AI in education: guidance for educators and policy makers based on goals, models of human learning, and use of technologies",
+      "url": "https://arxiv.org/abs/2510.01467",
+      "summary": "arXiv:2510.01467v2 Announce Type: replace Abstract: The rapid emergence of generative artificial intelligence (AI) and related technologies has the potential to dramatically influence higher education, raising questions about the roles of institutions, educators, and students in a technology-rich future. While existing discourse often emphasizes either the promise and peril of AI or its immediate implementation, this paper advances a third path: a principled framework for guiding the use of AI in teaching and learning. Drawing on decades of scholarship in the learning sciences and uses of tech",
+      "published": "2026-07-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
