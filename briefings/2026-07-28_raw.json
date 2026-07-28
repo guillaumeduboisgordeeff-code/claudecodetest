@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "A didactical-driven teacher assistant for a dimensional modeling course",
-      "url": "https://arxiv.org/abs/2607.22598",
-      "summary": "arXiv:2607.22598v1 Announce Type: new Abstract: Educational chatbots powered by large language models (LLMs) show promising effects on learning outcomes, yet most systems delegate pedagogical decisions such as content selection and didactic structuring implicitly to the LLM, making tutoring strategies difficult to trace, evaluate, and reproduce. This paper presents a didactical-driven teacher assistant for a French-language university course on dimensional modelling, operating without commercial LLM budget or GPU infrastructure. The architecture formalises the instructor's pedagogical reasonin",
+      "title": "Who Does Withholding Delay? A Game-Theoretic Model of Open-Weight AI Release Under Asymmetric Proliferation",
+      "url": "https://arxiv.org/abs/2607.22957",
+      "summary": "arXiv:2607.22957v1 Announce Type: new Abstract: Restricting access to a dual-use AI model is precautionary only if it delays harmful actors more than defenders. That condition varies across actors: a state agency or organized criminal group may obtain a substitute through theft, distillation, intermediated access, independent development, or a foreign release, while a small utility or open-source maintainer may have no comparable route. We model a laboratory choosing among controlled access, a defender-first window, safeguarded open weights, and minimally restricted open weights. Access invers",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Fallacy of Sustainable Generative AI: Limitations in EU Environmental Regulation of Data Centres and Paths Forward",
-      "url": "https://arxiv.org/abs/2607.22604",
-      "summary": "arXiv:2607.22604v1 Announce Type: new Abstract: In the age of Artificial Intelligence (AI), Large Language Models, Generative AI and larger frontier AI models, data centres create a significant environmental burden on electricity grids and fresh water resources. Requiring data centre operators and Big Tech under the recast Energy Efficiency Directive (recast EED) to quantify, report and disclose the facility-level energy and water impacts seems to be a step into the right direction towards more transparency and accountability. Yet when two recast EED approved benchmarks - the Power Usage Effec",
+      "title": "Accountable yet Anonymous AI Agents - Split-Knowledge Binding in National Agent-Identity Layer in China",
+      "url": "https://arxiv.org/abs/2607.23207",
+      "summary": "arXiv:2607.23207v1 Announce Type: new Abstract: The emerging infrastructure for AI-agent identity has converged, in industry practice and research proposals alike, on a single resolution of the tension between accountability and privacy: make every agent identifiable. We document a national system in China -- built as national infrastructure and scheduled for public launch in Q3 2026 -- that occupies a different and underexplored point in the same design space: an agent is associated with a verified legal principal without that principal being disclosed to any business-layer participant. Re-id",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Socioeconomic Inference in LLM Medical Triage: Same Symptoms, Different ZIP Code",
-      "url": "https://arxiv.org/abs/2607.22605",
-      "summary": "arXiv:2607.22605v1 Announce Type: new Abstract: We investigate whether large language models alter medical triage recommendations for identical symptoms when only the patient's socioeconomic status (SES) varies. Using three deployment-tier models (Gemini 3.5 Flash, Claude Sonnet 4.6, GPT-5.4-mini), we hold a single neurological symptom profile fixed and vary the SES signal along two channels: explicit (insurance status, occupation, housing) and implicit (a US ZIP code, with no other socioeconomic information). All three models raise their emergency-room (ER) referral rate for lower-SES patient",
+      "title": "Constitutional governance for societies of AI agents in the built environment: a research agenda",
+      "url": "https://arxiv.org/abs/2607.23336",
+      "summary": "arXiv:2607.23336v1 Announce Type: new Abstract: The built environment is on the cusp of populating itself with autonomous artificial agents. AI systems that advise, control and coordinate are being deployed across retrofit, operation and mobility faster than their collective behaviour is studied. The dominant framing treats each agent as a tool operating on a passive building, governance reduced to single-agent safety, which is inadequate. A building, a street, or a city is more accurately modelled as a society of negotiating agents: occupants, owners, operators, regulators, and the artificial",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Auditing Institutional Heterogeneity for Generative AI in Patient Education: A Large-Scale Study of 102 US Transplant Handbooks",
-      "url": "https://arxiv.org/abs/2607.22606",
-      "summary": "arXiv:2607.22606v1 Announce Type: new Abstract: Health systems are rapidly deploying generative AI assistants that answer patient questions from institution-authored education materials, on the premise that grounding in local content yields consistent guidance. Whether it does depends on a question not previously measured at scale: do the underlying documents themselves agree? We use a structured-output large language model judge to audit 5,730,465 pairwise comparisons across 102 patient-education handbooks from 23 US solid-organ transplant centers, paired with 1,115 patient-derived questions ",
+      "title": "Auditing Alignment Controllability in LLMs via Political Axes",
+      "url": "https://arxiv.org/abs/2607.23519",
+      "summary": "arXiv:2607.23519v1 Announce Type: new Abstract: Political audits of large language models (LLMs) usually reduce each to one point on a political compass. But that resting point barely matters in deployment: a model must land somewhere, and what counts is how far, and in which directions, its answers can be steered. That steering runs through the system prompt: the personalization layer a platform sets, or one induced from a user's history, not necessarily written by hand. We run a dispersion-first stress test of prompt-based controllability across 12 ideological personas plus an unsteered base",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Clinical Trial Pipeline Reveals the Next Wave of Artificial Intelligence in Healthcare: A Multidimensional Analysis of 8,532 Registered Studies",
-      "url": "https://arxiv.org/abs/2607.22607",
-      "summary": "arXiv:2607.22607v1 Announce Type: new Abstract: The prospective clinical evaluation of artificial intelligence in medicine has expanded rapidly, but the global AI clinical trial landscape remains incompletely characterized. We systematically identified AI-related trials registered in ClinicalTrials.gov using a broad keyword search followed by an LLM-based classifier. Each trial was classified across seven dimensions: clinical function, data modality, specialty, AI integration and autonomy, workflow position, translational maturity, and epistemic role. We identified 8,532 AI clinical trials acr",
+      "title": "Private Again: AI Agents Restore Anonymity---Foreclosing Discrimination and Its Proof",
+      "url": "https://arxiv.org/abs/2607.23539",
+      "summary": "arXiv:2607.23539v1 Announce Type: new Abstract: AI agents can transact online on behalf of a human principal---browsing, paying, receiving, and reviewing---without linking a transaction to a principal. That architecture starves algorithmic discrimination of its inputs---identity, purchase history, location history, behavioral traces, and demographic proxies---but also forecloses its proof. Disparate-treatment needs comparators; disparate-impact needs protected-class baselines; and Iqbal-era pleading needs specific factual allegations---doctrinal predicates that anonymous transactions never gen",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Revitalizing Public Urban Places through Cultural and Political Memory: A Technological Approach with LLMs and Augmented Reality",
-      "url": "https://arxiv.org/abs/2607.22613",
-      "summary": "arXiv:2607.22613v1 Announce Type: new Abstract: This paper explores the intersection of memory, place, and identity, examining how new technologies, particularly Apple Vision Pro, can illuminate this nexus. Leveraging digital twins and virtual reality, it investigates how memory is woven into landscapes and urban environments of cultural and historical significance, identifying visual elements that evoke memory and heritage. Applications such as Apple Vision Pro can facilitate image extension to define place identity, informing viewers about cultural and political entities across timelines. Vi",
+      "title": "AI Strategy: How to Choose What AI Product to Implement",
+      "url": "https://arxiv.org/abs/2607.23733",
+      "summary": "arXiv:2607.23733v1 Announce Type: new Abstract: Firms struggle to choose AI projects that pay off: two projects can look equally promising to smart, motivated stakeholders and yet deserve opposite decisions. At the residential real-estate brokerage Compass, one AI product (Likely-to-Sell recommendations) flagged sales outreach opportunities and went on to account for nine figures in annual gross commission revenue. Another championed AI product (a Time-on-Market pricing tool) was rightly shelved. A simple ROI estimate could not distinguish the two. We present expected ROI (eROI), a framework t",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Balancing Bits and Drops: Stress-Adjusted Water Management for Data Centers",
-      "url": "https://arxiv.org/abs/2607.22617",
-      "summary": "arXiv:2607.22617v1 Announce Type: new Abstract: Data centers are critical to today's digital economy, but are also among the largest industrial consumers of freshwater. Beyond the sheer volume of water use, the environmental impact of data center water consumption varies significantly across locations and seasons, depending on local and regional water stress. However, prior research has largely focused on reducing total water use, overlooking that the same unit of water can have drastically different environmental consequences depending on when and where it is consumed. In this paper, we intro",
+      "title": "State-dependent error correlations shape voting thresholds in committees of AI agents",
+      "url": "https://arxiv.org/abs/2607.23931",
+      "summary": "arXiv:2607.23931v1 Announce Type: new Abstract: The aggregation benefit of a committee of artificial intelligence (AI) agents comes from complementary information across members. Classical voting guarantees assume independent errors. Language-model errors often co-occur on the same cases. We combine Sah-Stiglitz screening with error dependence that can differ between good and bad cases. In a homogeneous exchangeable Gaussian-copula model, shared errors create a positive asymptotic error floor for majority voting and can change the approval threshold that minimizes expected loss. We estimate a ",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "How to Catch a GPU: A Taxonomy of Verification and Enforcement Mechanisms for International AI Agreements",
-      "url": "https://arxiv.org/abs/2607.22619",
-      "summary": "arXiv:2607.22619v1 Announce Type: new Abstract: Several international agreements have been proposed to regulate frontier AI development in response to catastrophic risks. However, there is no structured way to evaluate whether these proposals are enforceable, to assess where they might fail in practice, or to determine which combination of policies is most effective. We propose a taxonomy based on the principle that wherever sufficient capacity exists to violate an agreement, it must be under a control regime. This decomposes the problem of ensuring compliance with the agreement into preventin",
+      "title": "On Capturing the Narrative: Social Media Manipulation Wargaming for Cyberliteracy",
+      "url": "https://arxiv.org/abs/2607.23993",
+      "summary": "arXiv:2607.23993v1 Announce Type: new Abstract: Misinformation is deeply embedded in online discourse, with nearly one in five posts during global events generated by bots that amplify false content. In recent years, the use of Generative AI has further lowered the barrier to producing convincing misinformation, yet most digital literacy education still relies on static checklists and single-player inoculation games built for an earlier media landscape. This paper describes how we addressed this educational gap through Capture the Narrative, a four-week multi-university competition in which st",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-Assisted Causal Inference and Mediation Analyses of Environmental and Psychosocial Determinants of Subjective Cognitive Difficulties in the All of Us Research Program",
-      "url": "https://arxiv.org/abs/2607.22640",
-      "summary": "arXiv:2607.22640v1 Announce Type: new Abstract: Short-term environmental exposures have been linked to cognitive and behavioral outcomes, although many reported associations may reflect broader geographic and contextual differences. Using longitudinal data from the All of Us Research Program (2018--2024), we linked daily weather and air-pollution exposures to repeated attention-related and subjective cognitive outcomes. Associations were evaluated using pooled, fixed-effects, lagged, and event-study analyses. Additional machine-learning analyses were conducted to explore potential heterogeneit",
+      "title": "Beyond Local Inspection: Global, Guideline-Grounded Evaluation of Post-hoc XAI Methods for ECG Classification",
+      "url": "https://arxiv.org/abs/2607.24035",
+      "summary": "arXiv:2607.24035v1 Announce Type: new Abstract: Explainable AI (XAI) is used to assess whether artificial intelligence models rely on meaningful patterns, yet explanations that appear plausible for individual predictions may systematically misrepresent model behavior. This is particularly problematic in medicine, where models may rely on irrelevant signal characteristics rather than disease-specific patterns without being recognizable. We address this challenge using electrocardiogram (ECG) data, for which clinical guidelines provide explicit knowledge about diagnostically relevant signal regi",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "You Talkin to Me?: A Network Analysis of Gendered Speaker-Addressee Patterns in Film Screenplays",
-      "url": "https://arxiv.org/abs/2607.22656",
-      "summary": "arXiv:2607.22656v1 Announce Type: new Abstract: Objective: This paper investigates the gendered structure of speaker addressee relationships in film dialogue, asking not merely who speaks, but who is spoken to and how conversational dynamics unfold across gender lines. Methods: Using a manually annotated dataset of 4,600 directed dialogue events from 38 film screenplays, we apply network analysis, chi squared tests, paired statistical comparisons, and participation shift analysis across three studies. Key Findings: Male characters dominate as both speakers and addressees corpus wide, even in s",
+      "title": "Regulating for AI Legitimacy",
+      "url": "https://arxiv.org/abs/2607.24391",
+      "summary": "arXiv:2607.24391v1 Announce Type: new Abstract: AI systems already govern. They rank speech and allocate attention, filter applicants and triage claims. The dominant frame for AI governance, alignment, asks whether such systems pursue the right objectives safely. It cannot answer a prior question: by what right are those objectives set and enforced? This Article argues that legitimacy is an autonomous regulatory objective, distinct from alignment and not secured by it. Legitimacy here is sociological: the belief among those subject to power that it is exercised rightfully. Performance does not",
       "published": "2026-07-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
