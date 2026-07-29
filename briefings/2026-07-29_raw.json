@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-29",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Simulating Single Transferable Voting for the Colorado House of Representatives",
+      "url": "https://arxiv.org/abs/2607.25105",
+      "summary": "arXiv:2607.25105v1 Announce Type: new Abstract: Social choice theory research demonstrates that single transferable voting (STV) results in more proportionally representative legislative bodies. We aim to understand how using multi-member districts and ranked ballots with STV would affect the representation of political parties in the Colorado House of Representatives. We investigated this objective by producing 10,000 multi-member districting plans of Colorado, generating ranked ballots for each of these plans using returns from the 2022 Colorado attorney general race, and simulating STV usin",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Compressing Complexity to Accommodating Complexity: How AI Transforms Standardization and Individualization",
+      "url": "https://arxiv.org/abs/2607.25240",
+      "summary": "arXiv:2607.25240v1 Announce Type: new Abstract: Why do societies composed of individuals pursuing individuality repeatedly generate highly standardized systems? This paper argues that the answer lies in the evolution of information processing capacity. Artificial intelligence represents a historical transition in this capacity, enabling social systems to accommodate forms of complexity that previously had to be compressed. Industrial standardization was not merely a consequence of capital preference or power relations, but an institutional arrangement for maintaining the manageability of large",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Passive wearable physiology tracks a state-level material-hardship gradient in resting heart rate",
+      "url": "https://arxiv.org/abs/2607.25301",
+      "summary": "arXiv:2607.25301v1 Announce Type: new Abstract: Resting heart rate is an established marker of cardiovascular risk, but population-scale measurement has depended on clinical or survey instruments. We ask whether passively sensed consumer-wearable physiology recovers the socioeconomic gradient established in clinical cohorts. Using 19.1 million quality-filtered photoplethysmography readings from 18,734 opt-in users of the Welltory app, we computed cohort-adjusted mean daytime resting heart rate per US state and related it to a four-component state-level material-hardship composite (uninsurance,",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Estimating the Geopolitical Preferences of Large Language Models from United Nations Voting Data",
+      "url": "https://arxiv.org/abs/2607.25526",
+      "summary": "arXiv:2607.25526v1 Announce Type: new Abstract: How should researchers measure the geopolitical preferences expressed by large language models (LLMs)? Existing audits commonly rely on surveys and simple tests, but international-relations research has long recognized that measuring geopolitical preferences is difficult and has developed methods for recovering them from observed choices. This paper applies a dynamic ordinal ideal-point approach from international relations, treating LLMs as respondents to the full texts of 5,555 divisive, recorded, adopted resolutions considered in regular sessi",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Why Public Service AI Governance Frameworks Risk Failing in the Age of General-Purpose AI: Lessons from Policing",
+      "url": "https://arxiv.org/abs/2607.25648",
+      "summary": "arXiv:2607.25648v1 Announce Type: new Abstract: Public services face growing pressure to adopt artificial intelligence (AI) to close the gap between rising demand and falling resources. That pressure has intensified with general-purpose AI (GPAI): AI built on large language models that can be directed by prompt alone to perform an effectively unbounded range of tasks. We argue that the properties that make these models attractive - their generality, accessibility, and low deployment cost - undermine the conditions under which AI safety has historically been pursued. The safety concepts that pu",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Game AI Not Fun? A Scoping Review and Meta-Analysis on the Differences in Enjoyment between Human and Computer Opponents",
+      "url": "https://arxiv.org/abs/2607.24749",
+      "summary": "arXiv:2607.24749v1 Announce Type: cross Abstract: Although advancements in game character AI aim to enhance player engagement, evidence suggests that perceiving an opponent as artificial can diminish the psychological experience. This paper presents a scoping review and meta-analysis of empirical studies focusing on player enjoyment when competing against human versus computer opponents. First, the scoping review was conducted to map the landscape of 20 included studies, detailing their study designs, outcome measures, and research foci. Second, a three-level meta-analysis synthesizing baselin",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Patterns of Learner-AI Interaction and Academic Performance in an Object-Oriented Programming Course",
+      "url": "https://arxiv.org/abs/2607.24755",
+      "summary": "arXiv:2607.24755v1 Announce Type: cross Abstract: This full research paper examines how different forms of learner-AI interaction relate to learning outcomes in object-oriented programming (OOP) courses. Generative artificial intelligence (GenAI) tools are increasingly used by students in programming education, yet evidence on their educational impact remains mixed. In particular, little is known about how students integrate GenAI tools when learning OOP, and how different patterns of use relate to students' learning experiences and outcomes. This study investigates patterns of students' self-",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Idea to Classroom in Days: Using \"Vibe Coding\" to Create a Programming Process Visualizer from IDE Activity Logs",
+      "url": "https://arxiv.org/abs/2607.24757",
+      "summary": "arXiv:2607.24757v1 Announce Type: cross Abstract: This paper reports on the rapid development and classroom deployment of a Thonny log visualizer built using AI-assisted ``vibe coding'' to make students' programming processes easily visible to teachers. We developed a web application that analyzes log files generated by Thonny (an IDE for Python) and produces interpretable views of students' programming processes. Teachers can upload a log, a ZIP archive, or a folder containing logs for a group or the course; the system parses all logs, generates results per student, and provides student-by-st",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+      "url": "https://arxiv.org/abs/2607.24759",
+      "summary": "arXiv:2607.24759v1 Announce Type: cross Abstract: Research projects, educational efforts, and adjacent knowledge work accumulate findings, decisions, and reasoning that future collaborators rarely recover. The parts most useful to that work, including dead ends and walked-back claims, are routinely excluded from publications and shared code; future researchers re-attempt the same failures because no record survives. LLM coding agents are common participants but hold no persistent memory across sessions, and retrieval-augmented generation over raw sources does not compound. The llm-wiki pattern",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "PATHFinder Agent for Tailored Prenatal Care",
+      "url": "https://arxiv.org/abs/2607.24768",
+      "summary": "arXiv:2607.24768v1 Announce Type: cross Abstract: Prenatal care is an important preventive service designed to improve outcomes for pregnant individuals. The American College of Obstetricians and Gynecologists (ACOG) recently introduced guidelines advocating tailored prenatal care, called PATH (Plan for Tailored Healthcare). We present PATHFinder Agent(Planner for Appropriate Tailored Healthcare), an end-to-end conversational agentic system that gathers patient health and social context through structured dialogue, curates individualized prenatal care plans aligned with PATH guidelines, and su",
+      "published": "2026-07-29T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
