@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-30",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities",
+      "url": "https://arxiv.org/abs/2607.26062",
+      "summary": "arXiv:2607.26062v1 Announce Type: new Abstract: Background: This work investigates the presence of implicit bias in Large Language Model (LLM)-based chat AI models directed toward people with intellectual disabilities (ID). Objective: The study aims to identify and measure representational differences related to people with ID and examine them to identify implicit biases inherent in AI chat generation technologies. Methods: Utilizing the GPT-4-Turbo model, we requested story-generation based on 10 prompt stems with and without descriptors for ID. This process was repeated using four other LLMs",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Archetypes or ability? Clustering for modelling student mathematical competence",
+      "url": "https://arxiv.org/abs/2607.26063",
+      "summary": "arXiv:2607.26063v1 Announce Type: new Abstract: Personalised learning systems often assume that mathematical ability is combined of discrete abilities, acquired sequentially and dependent upon first acquiring foundational abilities, and students often report different strengths. In this work, we explore the validity of these assumptions by applying clustering methods to a large dataset of 119,034 students, spanning 13 national-level exams sat in the United Kingdom and collected by the platform. Classifying question results as pass or fail, we use a Bernoulli Mixture Model to search for latent ",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Age of AI Agents Demands A New Scientific Paradigm To Sustain Trustworthy Science",
+      "url": "https://arxiv.org/abs/2607.26064",
+      "summary": "arXiv:2607.26064v1 Announce Type: new Abstract: AI systems are becoming autonomous research agents that generate hypotheses, design experiments, and produce discoveries at scales beyond human oversight. As seen by increased submissions to ML venues, the verification gap between scientific output and our ability to check it is already widening, and autonomous agents make it worse by magnitudes given human-agent asymmetry. We argue that science must evolve its verification infrastructure, as it has before with peer review. However, while historical adaptations assumed human contributors who coul",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty",
+      "url": "https://arxiv.org/abs/2607.26067",
+      "summary": "arXiv:2607.26067v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for estimating item difficulty in educational assessment. However, it remains unclear whether such estimates reflect how learners actually experience difficulty. This study investigates the alignment between LLM-generated difficulty ratings and empirical student performance on basic mathematics tasks. Four widely used LLM-based systems generated difficulty ratings on a 1-100 scale for 32 arithmetic items across multiple runs (N = 640 ratings). These were compared with empirical difficulty derived",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Security Priorities: A Field-Wide Agenda",
+      "url": "https://arxiv.org/abs/2607.26069",
+      "summary": "arXiv:2607.26069v1 Announce Type: new Abstract: As AI systems are rapidly integrated into critical economic, governmental, and national security functions, the gap between AI adoption and AI security readiness continues to widen. This paper presents a prioritized agenda for advancing AI security, informed by structured interviews with leaders across industry, government, and civil society, and refined through a multi-sector expert workshop. Participants identified and ranked the highest-importance and most cost-effective areas where progress could strengthen AI security - from protecting front",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach",
+      "url": "https://arxiv.org/abs/2607.26317",
+      "summary": "arXiv:2607.26317v1 Announce Type: new Abstract: Psychometric calibration for educational tests typically requires costly human response data. Large language models (LLMs) simulated examinees offer a promising route to early calibration, but their responses are too accurate and too uniform. We propose Cognitive Diagnostic Profiling (CDP), a zero-shot framework that prompts LLMs to simulate plausible examinees with diverse cognitive profiles: binary attribute-mastery patterns are rendered as natural-language profiles and sampled under an uninformative or an informative distribution. Using the Ta",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "\"Nobody Did This\": Contribution, Originality, and Accountability in Agent-Mediated Collaboration",
+      "url": "https://arxiv.org/abs/2607.26387",
+      "summary": "arXiv:2607.26387v1 Announce Type: new Abstract: Collaborative knowledge work is changing in ways that go beyond disclosure or transparency. LLM agents are now embedded in how teams research, design, write, and decide: mediating between members, synthesizing inputs, reformulating ideas, and drafting shared outputs. They do not only facilitate collaboration; they operate within the workflow at the moment contributions are being formed. In doing so, they risk undermining the social conditions under which contributions can be witnessed, attributed, and held accountable. This workshop brings togeth",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI",
+      "url": "https://arxiv.org/abs/2607.26402",
+      "summary": "arXiv:2607.26402v1 Announce Type: new Abstract: Human-computer interaction (HCI) is undergoing a paradigm shift from \"tool use\" toward \"partnership\" and even \"mind symbiosis,\" with psychology evolving from a supplementary explanatory tool to a core pillar shaping interaction paradigms and long-term relationships. This paper systematically reviews relevant research and proposes a four-layer integrative framework comprising the Micro-cognitive, Meso-affective, Macro-social, and Self-constructive layers. The framework reveals that: the cognitive layer constitutes the foundation of interaction, th",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Anticipatory Data Governance in the Age of AI: Emerging Signals in Data Access, Reuse, and Sovereignty",
+      "url": "https://arxiv.org/abs/2607.27029",
+      "summary": "arXiv:2607.27029v1 Announce Type: new Abstract: This paper reports findings from a structured participatory foresight study comprising two expert forecasting studios convened by The GovLab between 2025 and 2026. The studios brought together nineteen senior practitioners spanning official statistics, digital and trade policy, open science, AI governance, geospatial systems, and public-sector innovation across multiple jurisdictions. Applying a qualitative signal-scanning methodology grounded in the horizon-scanning and anticipatory-governance traditions, we elicited, clustered, and thematically",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Can Large Language Models Represent Urban Publics? Behavioral Replication and Population Mismatch in an Affordable-Housing Experiment",
+      "url": "https://arxiv.org/abs/2607.27100",
+      "summary": "arXiv:2607.27100v1 Announce Type: new Abstract: There is growing interest in using large language models (LLMs) as low-cost proxies for resident attitudes in urban planning. Previous work shows that LLMs can predict average results of survey experiments, but less is known about whether they preserve the spatially anchored, identity-conditioned structure behind those averages, namely how support changes as a project approaches homes and how that response divides across tenure and partisan groups. We compared eight open-weight LLMs with 843 respondents in a US affordable-housing survey experimen",
+      "published": "2026-07-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
