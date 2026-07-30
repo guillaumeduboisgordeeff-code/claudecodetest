@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities",
-      "url": "https://arxiv.org/abs/2607.26062",
-      "summary": "arXiv:2607.26062v1 Announce Type: new Abstract: Background: This work investigates the presence of implicit bias in Large Language Model (LLM)-based chat AI models directed toward people with intellectual disabilities (ID). Objective: The study aims to identify and measure representational differences related to people with ID and examine them to identify implicit biases inherent in AI chat generation technologies. Methods: Utilizing the GPT-4-Turbo model, we requested story-generation based on 10 prompt stems with and without descriptors for ID. This process was repeated using four other LLMs",
+      "title": "It Doesn't Take a Thief: Optical-Scan Voting Systems Fail Even Without Adversaries",
+      "url": "https://arxiv.org/abs/2607.27101",
+      "summary": "arXiv:2607.27101v1 Announce Type: new Abstract: Optical-scan voting systems and their supporting ecosystem of people, processes, and technology are fallible. While a substantial body of work examines adversarial threats to such systems, we have encountered jurisdictions where the possibility of tabulator error is not fully internalized. Stakeholders there often find hypothetical attacks unconvincing, but some are persuaded by real-world accounts of equipment and procedural failures. This paper introduces a taxonomy of non-adversarial failure modes organized into intuitive categories: recording",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Archetypes or ability? Clustering for modelling student mathematical competence",
-      "url": "https://arxiv.org/abs/2607.26063",
-      "summary": "arXiv:2607.26063v1 Announce Type: new Abstract: Personalised learning systems often assume that mathematical ability is combined of discrete abilities, acquired sequentially and dependent upon first acquiring foundational abilities, and students often report different strengths. In this work, we explore the validity of these assumptions by applying clustering methods to a large dataset of 119,034 students, spanning 13 national-level exams sat in the United Kingdom and collected by the platform. Classifying question results as pass or fail, we use a Bernoulli Mixture Model to search for latent ",
+      "title": "The Human Utility Factor: A Computable Welfare Metric That Reframes AI Governance as a Constrained Optimisation Problem",
+      "url": "https://arxiv.org/abs/2607.26068",
+      "summary": "arXiv:2607.26068v1 Announce Type: cross Abstract: Existing AI governance frameworks, including the EU AI Act and NIST AI RMF, address safety, transparency, and accountability but do not operationalize quantitative constraints on macro-socioeconomic stability. As a result, AI systems may satisfy regulatory requirements while contributing to labor displacement, rising inequality, and reduced economic resilience. We introduce the Human Utility Factor (HUF), a differentiable welfare metric that models the interaction between Agency, Wellbeing, and Economic Stability as functions of three actionabl",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Age of AI Agents Demands A New Scientific Paradigm To Sustain Trustworthy Science",
-      "url": "https://arxiv.org/abs/2607.26064",
-      "summary": "arXiv:2607.26064v1 Announce Type: new Abstract: AI systems are becoming autonomous research agents that generate hypotheses, design experiments, and produce discoveries at scales beyond human oversight. As seen by increased submissions to ML venues, the verification gap between scientific output and our ability to check it is already widening, and autonomous agents make it worse by magnitudes given human-agent asymmetry. We argue that science must evolve its verification infrastructure, as it has before with peer review. However, while historical adaptations assumed human contributors who coul",
+      "title": "Towards Trustworthy Embodied Intelligence: A Systems Framework and Graded Trustworthiness Levels",
+      "url": "https://arxiv.org/abs/2607.26121",
+      "summary": "arXiv:2607.26121v1 Announce Type: cross Abstract: Embodied intelligence integrates learned perception and decision making with real-time computation, control, and physical interaction. Because failures can cause immediate physical or operational harm, task completion alone does not establish trustworthiness. We define trustworthy embodied intelligence as the sustained capacity to execute specified tasks reliably under environmental and system variation while maintaining risk within acceptable bounds. We term this objective sustained safe success. Its supporting mechanisms are organized into fo",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Easy Trap: Why LLMs Underestimate Misconception-Driven Difficulty",
-      "url": "https://arxiv.org/abs/2607.26067",
-      "summary": "arXiv:2607.26067v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for estimating item difficulty in educational assessment. However, it remains unclear whether such estimates reflect how learners actually experience difficulty. This study investigates the alignment between LLM-generated difficulty ratings and empirical student performance on basic mathematics tasks. Four widely used LLM-based systems generated difficulty ratings on a 1-100 scale for 32 arithmetic items across multiple runs (N = 640 ratings). These were compared with empirical difficulty derived",
+      "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+      "url": "https://arxiv.org/abs/2607.26159",
+      "summary": "arXiv:2607.26159v1 Announce Type: cross Abstract: An AI benchmark result rarely reaches a consequential claim in one step. Evaluators generalize it to further cases, interpret it as evidence of capability, extrapolate it to new tasks, transport it to another system or site, and combine it with assumptions about human review and downstream consequences. Validity-centred approaches require evidence for each claim. This paper identifies a further epistemic problem: warranted links don't automatically make a warranted chain. The target of one study may not be the source of the next; system, popula",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Security Priorities: A Field-Wide Agenda",
-      "url": "https://arxiv.org/abs/2607.26069",
-      "summary": "arXiv:2607.26069v1 Announce Type: new Abstract: As AI systems are rapidly integrated into critical economic, governmental, and national security functions, the gap between AI adoption and AI security readiness continues to widen. This paper presents a prioritized agenda for advancing AI security, informed by structured interviews with leaders across industry, government, and civil society, and refined through a multi-sector expert workshop. Participants identified and ranked the highest-importance and most cost-effective areas where progress could strengthen AI security - from protecting front",
+      "title": "On Exercising Governance Power in Decentralized Autonomous Organizations",
+      "url": "https://arxiv.org/abs/2607.26204",
+      "summary": "arXiv:2607.26204v1 Announce Type: cross Abstract: A decentralized autonomous organization (DAO) is a governance entity that allows its stakeholders to manage blockchain-based protocols through smart contracts. The DAO explicitly specifies how stakeholders make and enforce decisions concerning a protocol's operation in a smart contract, aptly referred to as its governance contract. The design of this governance contract, therefore, has far-reaching implications for the security (trust) and privacy (transparency) of the smart contracts managed by the DAO and its stakeholders. In this work, we (i",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Aligning LLM-Simulated and Human Examinees for Psychometric Calibration: A Cognitive Diagnostic Profiling Approach",
-      "url": "https://arxiv.org/abs/2607.26317",
-      "summary": "arXiv:2607.26317v1 Announce Type: new Abstract: Psychometric calibration for educational tests typically requires costly human response data. Large language models (LLMs) simulated examinees offer a promising route to early calibration, but their responses are too accurate and too uniform. We propose Cognitive Diagnostic Profiling (CDP), a zero-shot framework that prompts LLMs to simulate plausible examinees with diverse cognitive profiles: binary attribute-mastery patterns are rendered as natural-language profiles and sampled under an uninformative or an informative distribution. Using the Ta",
+      "title": "Contextualized Counterspeech Can Be More Persuasive Than Generic Counterspeech",
+      "url": "https://arxiv.org/abs/2607.26236",
+      "summary": "arXiv:2607.26236v1 Announce Type: cross Abstract: AI-generated counterspeech offers a scalable and effective strategy to mitigate online toxicity by promoting more constructive dialogue. Yet, existing approaches adopt a generic, one-size-fits-all paradigm, overlooking the conversational context and characteristics of the targeted users. Here, we propose and evaluate multiple strategies for generating contextualized counterspeech that is adapted to the moderation setting and personalized to the moderated user. In detail, we explore a range of configurations that integrate different forms of con",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "\"Nobody Did This\": Contribution, Originality, and Accountability in Agent-Mediated Collaboration",
-      "url": "https://arxiv.org/abs/2607.26387",
-      "summary": "arXiv:2607.26387v1 Announce Type: new Abstract: Collaborative knowledge work is changing in ways that go beyond disclosure or transparency. LLM agents are now embedded in how teams research, design, write, and decide: mediating between members, synthesizing inputs, reformulating ideas, and drafting shared outputs. They do not only facilitate collaboration; they operate within the workflow at the moment contributions are being formed. In doing so, they risk undermining the social conditions under which contributions can be witnessed, attributed, and held accountable. This workshop brings togeth",
+      "title": "A large-scale corpus of religious radio broadcast transcripts from webstream recordings in the United States",
+      "url": "https://arxiv.org/abs/2607.26249",
+      "summary": "arXiv:2607.26249v1 Announce Type: cross Abstract: Religious radio is a widespread but understudied form of mass communication in the United States, and content-level analysis of it has been constrained by the absence of large-scale transcript data. This Data Descriptor presents a corpus of transcribed English-language religious radio broadcasts captured from live webstreams over a one-month period in July 2025. Fifteen-minute segments were recorded on a rolling schedule from 785 distinct streams, which together rebroadcast the signals of more than two thousand AM and FM stations, yielding over",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Micro-Cognition to Self-Construction: A Four-Layer Integrative Review of Psychological Theories in HCI",
-      "url": "https://arxiv.org/abs/2607.26402",
-      "summary": "arXiv:2607.26402v1 Announce Type: new Abstract: Human-computer interaction (HCI) is undergoing a paradigm shift from \"tool use\" toward \"partnership\" and even \"mind symbiosis,\" with psychology evolving from a supplementary explanatory tool to a core pillar shaping interaction paradigms and long-term relationships. This paper systematically reviews relevant research and proposes a four-layer integrative framework comprising the Micro-cognitive, Meso-affective, Macro-social, and Self-constructive layers. The framework reveals that: the cognitive layer constitutes the foundation of interaction, th",
+      "title": "SARC-DQ: Runtime Data-Quality Gating for Agentic AI: Silent Evidence Defects, the Incompetence Shield, and Downstream-Only Remediation",
+      "url": "https://arxiv.org/abs/2607.26313",
+      "summary": "arXiv:2607.26313v1 Announce Type: cross Abstract: Agentic systems act, so a defect in the evidence they retrieve becomes a wrong action with a currency cost. The most dangerous enterprise defects are metadata-borne: a stale price or a superseded record, perfectly well-formed in the payload and betrayed only by freshness, lineage, or provenance. Such a defect never enters the agent's context, and an agent cannot doubt data it cannot see. On a priced replenishment benchmark, a competent agent silently converts an injected metadata-borne defect into a costly action about 60% of the time, with zer",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Anticipatory Data Governance in the Age of AI: Emerging Signals in Data Access, Reuse, and Sovereignty",
-      "url": "https://arxiv.org/abs/2607.27029",
-      "summary": "arXiv:2607.27029v1 Announce Type: new Abstract: This paper reports findings from a structured participatory foresight study comprising two expert forecasting studios convened by The GovLab between 2025 and 2026. The studios brought together nineteen senior practitioners spanning official statistics, digital and trade policy, open science, AI governance, geospatial systems, and public-sector innovation across multiple jurisdictions. Applying a qualitative signal-scanning methodology grounded in the horizon-scanning and anticipatory-governance traditions, we elicited, clustered, and thematically",
+      "title": "When Synthetic Users Fail: A Cross-Domain Benchmark of LLM-Simulated Human Survey Responses",
+      "url": "https://arxiv.org/abs/2607.26348",
+      "summary": "arXiv:2607.26348v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used as synthetic users, stand-ins for human respondents whose simulated answers feed product, policy, and market decisions. We ask when this substitution is valid and when it fails, and package the answer as an evaluation framework for intelligent synthetic-user systems. A single protocol, run across four models spanning two families and an 8B-to-frontier capability range, is applied to two independent domains of real human-response data: U.S. general social attitudes (General Social Survey) and cr",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Can Large Language Models Represent Urban Publics? Behavioral Replication and Population Mismatch in an Affordable-Housing Experiment",
-      "url": "https://arxiv.org/abs/2607.27100",
-      "summary": "arXiv:2607.27100v1 Announce Type: new Abstract: There is growing interest in using large language models (LLMs) as low-cost proxies for resident attitudes in urban planning. Previous work shows that LLMs can predict average results of survey experiments, but less is known about whether they preserve the spatially anchored, identity-conditioned structure behind those averages, namely how support changes as a project approaches homes and how that response divides across tenure and partisan groups. We compared eight open-weight LLMs with 843 respondents in a US affordable-housing survey experimen",
+      "title": "Constitutional Midtraining: Content Presence Drives Alignment Gains",
+      "url": "https://arxiv.org/abs/2607.26654",
+      "summary": "arXiv:2607.26654v1 Announce Type: cross Abstract: Post-training alignment is often shallow, eroding under fine-tuning. Whether midtraining interventions, cleanly isolated from post-training, can produce durable alignment remains untested. We test this via constitutional midtraining: inserting principled, values-based content into midtraining against a replay-only control at 120B scale. Our 394M-token constitutional corpus, built from Anthropic's Constitution, uses a 2x2 factorial design (curriculum ordering x deliberative reasoning) to produce four constitutionally midtrained conditions plus a",
       "published": "2026-07-30T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
