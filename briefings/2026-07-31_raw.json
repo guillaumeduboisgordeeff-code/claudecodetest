@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Is Solving Better Than Evaluating GenAI Solutions?",
-      "url": "https://arxiv.org/abs/2607.27586",
-      "summary": "arXiv:2607.27586v1 Announce Type: new Abstract: As Generative AI (GenAI) tools become increasingly capable of generating solutions to computing assignments, the computing education community is exploring pedagogical approaches that emphasize solution evaluation, verification, and critique alongside traditional solution generation. However, evidence regarding the impact of such evaluation-centered tasks on student learning remains limited, particularly in upper-division, theory-heavy courses. We conducted a randomized A/B crossover study (N=220) in a junior-level algorithms course to compare ev",
+      "title": "Rethinking LLM-Judged Helpfulness as a Pedagogy Signal: A Pre-Registered Audit Across Tutor Models",
+      "url": "https://arxiv.org/abs/2607.28128",
+      "summary": "arXiv:2607.28128v1 Announce Type: cross Abstract: LLM tutoring poses a measurement problem: can a general-purpose helpfulness rubric distinguish direct answer-giving from pedagogical guidance? We audit this signal in a pre-registered study. Within each of three tutor bases, we compare conversational and pedagogical policies instantiated with the same underlying model and paired with one fixed weak simulated student. Deterministic detectors measure answer leakage and next-turn independent work. Claude Opus 4.8 is the frozen, condition-blind primary judge. After the Opus scores were fixed, GPT-5",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Scaling, Lock-In, and Proxy Compliance: A Political Economy of Responsible AI",
-      "url": "https://arxiv.org/abs/2607.28023",
-      "summary": "arXiv:2607.28023v1 Announce Type: new Abstract: AI accountability at scale is an institutional problem: who can observe, verify, and change deployed systems. We develop a sequential political-economy model in which an AI vendor chooses auditability and substantive mitigation, a deployer monitors after adoption while facing switching costs, and enforcement depends on verifiable evidence. Anticipating the deployer's monitoring response, the vendor may stop at an observable procurement floor while mitigating below the social first best, producing a proxy-compliance equilibrium. We characterize th",
+      "title": "Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations",
+      "url": "https://arxiv.org/abs/2607.28319",
+      "summary": "arXiv:2607.28319v1 Announce Type: cross Abstract: This work presents Fairness Pruning, a lightweight structural intervention method designed for the management and future mitigation of demographic bias in large language models (LLMs). As a foundational empirical validation of this method, this work focuses on causal bias localization. Using minimally contrastive prompt pairs and inference-time activation capture, the method identifies neurons that react differentially when processing demographic attributes in GLU architectures, evaluating the signal at the down_proj input. Empirical evaluation",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution",
-      "url": "https://arxiv.org/abs/2607.28041",
-      "summary": "arXiv:2607.28041v1 Announce Type: new Abstract: As AI systems become capable of producing the essays, code, reports, summaries, plans, and decisions through which institutions usually recognize competence, a familiar question becomes harder to answer: what is learning for? Existing AI ethics rightly emphasizes present failures--bias, opacity, hallucination, labor extraction, privacy risk, and weak accountability. But if the case for learning rests only on those failures, then each technical improvement appears to weaken it. This article develops a different answer. Using the idealization of AI",
+      "title": "The Role of Causality in Algorithmic Recourse",
+      "url": "https://arxiv.org/abs/2607.28497",
+      "summary": "arXiv:2607.28497v1 Announce Type: cross Abstract: Algorithmic recourse aims to provide individuals with actionable changes to improve their predicted outcomes in high-stakes classification settings, such as loan and mortgage applications. However, most existing approaches focus only on flipping a model's prediction, without accounting for whether the recommended changes lead to genuine improvement in an individual's true qualifications or merely enable strategic gaming of the classifier. Consequently, deployed recourse policies can induce behavioral responses that degrade predictive accuracy a",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Asymmetric Communication: Large Language Models and Language Games",
-      "url": "https://arxiv.org/abs/2607.28137",
-      "summary": "arXiv:2607.28137v1 Announce Type: new Abstract: Contemporary AI discourse attributes to language models properties they cannot bear: general intelligence as substrate-independent cognition, hallucination as cognitive failure, agency as autonomous goal-pursuit, sentience as emergent inner life, alignment as goal synchronization. This paper argues that these are instances of a single category mistake--properties constituted within human communicative practice are projected onto the machine side--and explains its structure. Human-LLM interaction constitutes a language game in which one side bears",
+      "title": "AISPA: User-Centric System Prompt Auditing for Large Language Model Applications",
+      "url": "https://arxiv.org/abs/2607.28617",
+      "summary": "arXiv:2607.28617v1 Announce Type: cross Abstract: System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regulators, creating a serious trust and accountability gap in the wide deployment of AI systems. In this paper, we introduce Artificial Intelligence System Prompt Assurance (AISPA), a user-centric framework for systematically auditing system prompts in AI systems. AISPA examines specific parts of a system prompt and evaluates them alo",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned",
-      "url": "https://arxiv.org/abs/2607.28179",
-      "summary": "arXiv:2607.28179v1 Announce Type: new Abstract: This innovative practice full paper examines the integration of technology-enhanced tabletop exercises (TTXs) into computing education, focusing on cybersecurity curricula. The motivation is to better prepare students for complex, collaborative problem solving typical of incident response and IT governance, where coordination, communication, and timely decision-making are essential. Although TTXs are well-established in professional practice, they remain underused in universities. We address this gap by augmenting TTX delivery and evaluation thro",
+      "title": "The Missing Variable: Socio-Technical Alignment in Risk Evaluation",
+      "url": "https://arxiv.org/abs/2512.06354",
+      "summary": "arXiv:2512.06354v2 Announce Type: replace Abstract: This paper addresses a critical gap in the risk assessment of AI-enabled safety-critical systems. While these systems, where AI systems assist human operators, function as complex socio-technical systems, existing risk evaluation methods fail to account for the associated complex interaction between human, technical, and organizational components. Through a comparative analysis of system attributes from both socio-technical and AI-enabled systems and a review of current risk evaluation methods, we confirm the absence of explicit socio-technic",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When AI Becomes Routine: A Decade of Public AI Mediation in Korean Go Commentary",
-      "url": "https://arxiv.org/abs/2607.28332",
-      "summary": "arXiv:2607.28332v1 Announce Type: new Abstract: When AI systems surpass elite human performance and settle into everyday expert practice, the question that follows is how machine judgment is made publicly intelligible and attributable. We study Korean Go commentary on YouTube, where AI systems such as KataGo became standard analytic tools after AlphaGo. Our corpus spans a decade (2016--2025) and approximately $1{,}900$ hours of footage across institutional broadcasters and creator-led channels, in four phases of AI availability. We document a widening asymmetry between visual and verbal AI pre",
+      "title": "AI From the Margins (AIM): Rethinking Participatory AI Design Through the Lived Experience of Minoritized Communities",
+      "url": "https://arxiv.org/abs/2606.01171",
+      "summary": "arXiv:2606.01171v2 Announce Type: replace Abstract: Artificial intelligence (AI) can reproduce and amplify the structural inequities faced by minoritized communities. Participatory AI has been proposed as a response, but participation typically starts after problem definitions and success criteria have been set, leaving limited room for minoritized communities to reshape what an AI system is for. We propose AI From the Margins (AIM): a methodological stance that articulates the conditions under which lived experiences of minoritized communities can be elicited, centered, and carried forward to",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AIx4Soccer: A Unified Platform Architecture for Football Club Management and Structured Athlete Development",
-      "url": "https://arxiv.org/abs/2607.28531",
-      "summary": "arXiv:2607.28531v1 Announce Type: new Abstract: Football clubs, academies, and federations operate a growing but fragmented portfolio of digital tools: separate systems for video analysis, GPS/performance tracking, medical records, scouting, and administration. This fragmentation is most acute outside the elite European clubs that can afford integration, producing a digital divide that disadvantages grassroots clubs in developing markets such as Brazil, paradoxically the world's largest exporter of professional players. This paper presents, at a conceptual level, the architecture of \"AIx4Socce",
+      "title": "Towards Structurally Explainable Machine-Generated Text Detection: A Graph-Perspective Framework",
+      "url": "https://arxiv.org/abs/2505.12507",
+      "summary": "arXiv:2505.12507v2 Announce Type: replace-cross Abstract: Despite the success of machine-generated text detectors, the black-box nature remains a critical limitation. Traditional explainability methods rely on token-level saliency, insufficient to reveal the high-order structural dependencies that distinguish LLM outputs. In this paper, we propose \\textsc{LM$^2$otifs}, a principled framework that shifts detection from linear sequences to graph-structured manifolds. We first provide a theoretical grounding based on probabilistic graphical models, demonstrating that detection performance is more",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating",
-      "url": "https://arxiv.org/abs/2607.28550",
-      "summary": "arXiv:2607.28550v1 Announce Type: new Abstract: Silicon sampling refers to the use of Large Language Models (LLMs) to generate responses to surveys. It has shown promise, but tends to generate response distributions with unrealistically low variance. We argue that this mode collapse is due to LLMs failure to generate numeric data, and that text responses may be better suited for this task. We analyze whether Semantic Similarity Rating can improve the fidelity of silicon sampling responses when asked about political attitudes. This method solicits text-only responses from LLMs, then maps this t",
+      "title": "Secure human oversight of AI: Threat modeling in a socio-technical context",
+      "url": "https://arxiv.org/abs/2509.12290",
+      "summary": "arXiv:2509.12290v3 Announce Type: replace-cross Abstract: Human oversight of AI is promoted as a safeguard against risks such as inaccurate outputs, system malfunctions, or violations of fundamental rights, and is mandated in regulation like the European AI Act. Yet debates on human oversight have largely focused on its effectiveness, while overlooking a critical dimension: the security of human oversight. We argue that human oversight creates a new attack surface within the safety, security, and accountability architecture of AI operations. Drawing on cybersecurity perspectives, we model huma",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups",
-      "url": "https://arxiv.org/abs/2607.27232",
-      "summary": "arXiv:2607.27232v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly shaping how we consume information and form our worldview. This raises concerns beyond bias in AI: do LLMs grasp the emotional nuances conveyed via textual framing? In this work, we empirically evaluate how well an array of LLMs aligns with human emotional perception. Considering news headlines covering political and geopolitical conflicts, both human participants (n = 3011, a representative sample of the U.K. adult population, via a YouGov survey) and seven LLMs answered whether headlines evoked sy",
+      "title": "Epistemic diversity across language models mitigates knowledge collapse",
+      "url": "https://arxiv.org/abs/2512.15011",
+      "summary": "arXiv:2512.15011v3 Announce Type: replace-cross Abstract: Artificial intelligence (AI) increasingly generates the very content used to train future AI systems. This feedback loop can degrade model quality, reduce informational diversity, and ultimately drive knowledge collapse, i.e. a degradation to a narrow and inaccurate set of ideas. We ask: to mitigate collapse, is it better to concentrate the internet's knowledge into a handful of dominant models (referred to as an AI monoculture), or to distribute it across a diverse ecosystem of models? To study the effect of diversity on model performa",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Literacy: An Exercise in Power-Knowledge",
-      "url": "https://arxiv.org/abs/2607.27547",
-      "summary": "arXiv:2607.27547v1 Announce Type: cross Abstract: As generative artificial intelligence becomes one of the most significant systems of knowledge production in our society today, questions relating to who can access and shape that production grow increasingly important in our discourse. This paper argues that the existing frameworks for AI literacy, which are dominated by technical competency and responsible-use principles, are insufficient because they enforce a \"consumer\" orientation toward AI rather than fostering genuine epistemic agency. Based upon Foucault's concept of power-knowledge, Fr",
+      "title": "Fill-Side Behavioral Concentration on Polymarket: Identification Limits under Record-Level Attribution",
+      "url": "https://arxiv.org/abs/2605.11640",
+      "summary": "arXiv:2605.11640v2 Announce Type: replace-cross Abstract: This paper studies behavioral concentration in Polymarket's public executed-fill record and formalizes what that record can and cannot identify. A pre-publication reconciliation corrects the empirical scope: the archived extraction covers the legacy CTF Exchange over Polygon blocks 86,008,447-86,107,178, approximately 25 April 2026 17:09 UTC through 28 April 2026 00:00 UTC, rather than the full 21-27 April week stated previously. It contains 13,356,931 OrderFilled records, 77,204 addresses with at least five attributed records, and 43,1",
       "published": "2026-07-31T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
