@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-31",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Is Solving Better Than Evaluating GenAI Solutions?",
+      "url": "https://arxiv.org/abs/2607.27586",
+      "summary": "arXiv:2607.27586v1 Announce Type: new Abstract: As Generative AI (GenAI) tools become increasingly capable of generating solutions to computing assignments, the computing education community is exploring pedagogical approaches that emphasize solution evaluation, verification, and critique alongside traditional solution generation. However, evidence regarding the impact of such evaluation-centered tasks on student learning remains limited, particularly in upper-division, theory-heavy courses. We conducted a randomized A/B crossover study (N=220) in a junior-level algorithms course to compare ev",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Scaling, Lock-In, and Proxy Compliance: A Political Economy of Responsible AI",
+      "url": "https://arxiv.org/abs/2607.28023",
+      "summary": "arXiv:2607.28023v1 Announce Type: new Abstract: AI accountability at scale is an institutional problem: who can observe, verify, and change deployed systems. We develop a sequential political-economy model in which an AI vendor chooses auditability and substantive mitigation, a deployer monitors after adoption while facing switching costs, and enforcement depends on verifiable evidence. Anticipating the deployer's monitoring response, the vendor may stop at an observable procurement floor while mitigating below the social first best, producing a proxy-compliance equilibrium. We characterize th",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When AI Does the Work, What Is Learning For? Post-Instrumental Learning and the Risk of Capacity Dissolution",
+      "url": "https://arxiv.org/abs/2607.28041",
+      "summary": "arXiv:2607.28041v1 Announce Type: new Abstract: As AI systems become capable of producing the essays, code, reports, summaries, plans, and decisions through which institutions usually recognize competence, a familiar question becomes harder to answer: what is learning for? Existing AI ethics rightly emphasizes present failures--bias, opacity, hallucination, labor extraction, privacy risk, and weak accountability. But if the case for learning rests only on those failures, then each technical improvement appears to weaken it. This article develops a different answer. Using the idealization of AI",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Asymmetric Communication: Large Language Models and Language Games",
+      "url": "https://arxiv.org/abs/2607.28137",
+      "summary": "arXiv:2607.28137v1 Announce Type: new Abstract: Contemporary AI discourse attributes to language models properties they cannot bear: general intelligence as substrate-independent cognition, hallucination as cognitive failure, agency as autonomous goal-pursuit, sentience as emergent inner life, alignment as goal synchronization. This paper argues that these are instances of a single category mistake--properties constituted within human communicative practice are projected onto the machine side--and explains its structure. Human-LLM interaction constitutes a language game in which one side bears",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Technology-Enhanced Tabletop Exercises for Cybersecurity Education: Lessons Learned",
+      "url": "https://arxiv.org/abs/2607.28179",
+      "summary": "arXiv:2607.28179v1 Announce Type: new Abstract: This innovative practice full paper examines the integration of technology-enhanced tabletop exercises (TTXs) into computing education, focusing on cybersecurity curricula. The motivation is to better prepare students for complex, collaborative problem solving typical of incident response and IT governance, where coordination, communication, and timely decision-making are essential. Although TTXs are well-established in professional practice, they remain underused in universities. We address this gap by augmenting TTX delivery and evaluation thro",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When AI Becomes Routine: A Decade of Public AI Mediation in Korean Go Commentary",
+      "url": "https://arxiv.org/abs/2607.28332",
+      "summary": "arXiv:2607.28332v1 Announce Type: new Abstract: When AI systems surpass elite human performance and settle into everyday expert practice, the question that follows is how machine judgment is made publicly intelligible and attributable. We study Korean Go commentary on YouTube, where AI systems such as KataGo became standard analytic tools after AlphaGo. Our corpus spans a decade (2016--2025) and approximately $1{,}900$ hours of footage across institutional broadcasters and creator-led channels, in four phases of AI availability. We document a widening asymmetry between visual and verbal AI pre",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AIx4Soccer: A Unified Platform Architecture for Football Club Management and Structured Athlete Development",
+      "url": "https://arxiv.org/abs/2607.28531",
+      "summary": "arXiv:2607.28531v1 Announce Type: new Abstract: Football clubs, academies, and federations operate a growing but fragmented portfolio of digital tools: separate systems for video analysis, GPS/performance tracking, medical records, scouting, and administration. This fragmentation is most acute outside the elite European clubs that can afford integration, producing a digital divide that disadvantages grassroots clubs in developing markets such as Brazil, paradoxically the world's largest exporter of professional players. This paper presents, at a conceptual level, the architecture of \"AIx4Socce",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Correcting Mode Collapse in Silicon Sampling with Semantic Similarity Rating",
+      "url": "https://arxiv.org/abs/2607.28550",
+      "summary": "arXiv:2607.28550v1 Announce Type: new Abstract: Silicon sampling refers to the use of Large Language Models (LLMs) to generate responses to surveys. It has shown promise, but tends to generate response distributions with unrealistically low variance. We argue that this mode collapse is due to LLMs failure to generate numeric data, and that text responses may be better suited for this task. We analyze whether Semantic Similarity Rating can improve the fidelity of silicon sampling responses when asked about political attitudes. This method solicits text-only responses from LLMs, then maps this t",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Sympathetic Framing: Evaluating AI Alignment across Sociodemographic Groups",
+      "url": "https://arxiv.org/abs/2607.27232",
+      "summary": "arXiv:2607.27232v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly shaping how we consume information and form our worldview. This raises concerns beyond bias in AI: do LLMs grasp the emotional nuances conveyed via textual framing? In this work, we empirically evaluate how well an array of LLMs aligns with human emotional perception. Considering news headlines covering political and geopolitical conflicts, both human participants (n = 3011, a representative sample of the U.K. adult population, via a YouGov survey) and seven LLMs answered whether headlines evoked sy",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Literacy: An Exercise in Power-Knowledge",
+      "url": "https://arxiv.org/abs/2607.27547",
+      "summary": "arXiv:2607.27547v1 Announce Type: cross Abstract: As generative artificial intelligence becomes one of the most significant systems of knowledge production in our society today, questions relating to who can access and shape that production grow increasingly important in our discourse. This paper argues that the existing frameworks for AI literacy, which are dominated by technical competency and responsible-use principles, are insufficient because they enforce a \"consumer\" orientation toward AI rather than fostering genuine epistemic agency. Based upon Foucault's concept of power-knowledge, Fr",
+      "published": "2026-07-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
