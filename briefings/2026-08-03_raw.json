@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks",
-      "url": "https://arxiv.org/abs/2607.28630",
-      "summary": "arXiv:2607.28630v1 Announce Type: new Abstract: Generative AI (GenAI) holds significant promise for advancing educational equity among ethnic minority students by broadening access to learning resources and mitigating linguistic barriers. However, these benefits are counterbalanced by the risk of cognitive laziness, whereby students may treat GenAI as an answer engine or shortcut rather than as a partner in thinking. This design-based research investigated how pedagogical scaffolding can shift students from passive consumption to critical co-creation with GenAI. The study involved 78 ethnic mi",
+      "title": "Chain-of-Models: Cross-Model Auditing for Bias-Robust LLM Judges",
+      "url": "https://arxiv.org/abs/2607.28636",
+      "summary": "arXiv:2607.28636v1 Announce Type: cross Abstract: LLMs increasingly serve as automated judges, but their judgments remain vulnerable to cognitive biases. Existing mitigations mostly rely on prompt-driven debiasing, which is brittle across bias types, or human evaluation, which does not scale. We study \\emph{Chain-of-Models} (CoM), an automated audit pipeline in which a second model inspects the first model's reasoning trace before producing the final judgment. The key design question is whether the auditor should be the same model, a same-family model, or a different-family model. Across 9 mod",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results",
-      "url": "https://arxiv.org/abs/2607.28710",
-      "summary": "arXiv:2607.28710v1 Announce Type: new Abstract: The rapid integration of large language models (LLMs) into undergraduate education presents an urgent challenge for engineering instructors. Despite widespread student adoption, there remains a critical lack of domain-specific empirical evidence to guide pedagogical policies and classroom interventions. This manuscript presents a descriptive study design and preliminary findings from an undergraduate engineering mechanics course conducted in Spring 2026. We detail a reproducible survey instrument used to capture student AI usage patterns, attitud",
+      "title": "The Asymmetric Effects of Knowledge Distillation on Bias in Small Language Models",
+      "url": "https://arxiv.org/abs/2607.28639",
+      "summary": "arXiv:2607.28639v1 Announce Type: cross Abstract: We show that knowledge distillation in small instruction-tuned language models has asymmetric effects on bias. On unambiguous tasks (BBQ-disambig), response-based distillation from a Gemma-2-9B teacher improves context-following: for the most biased baseline (SmolLM2-1.7B-Instruct), it cuts the context-overriding error rate from 44% to 24%. On ambiguous tasks (BBQ-ambig), the same distillation destroys per-item refusal calibration: 15% of items where the baseline correctly abstained instead receive stereotype answers, even when overall refusal ",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Hidden Errors in Big Data: The Case of Property Records",
-      "url": "https://arxiv.org/abs/2607.28827",
-      "summary": "arXiv:2607.28827v1 Announce Type: new Abstract: Big data are the foundation for an increasing share of academic research and AI models deployed in both the public and private sectors, prompting substantial growth over time in reliance on brokered datasets. Brokered property records, which are ubiquitous in studies of gentrification, inequality, and the property tax in the U.S. and serve as inputs to property valuation models, are one notable example. In this paper, we audit two prominent brokered property datasets, finding errors in these data which bias key measures of economic inequality. Fi",
+      "title": "Measuring Cognitive Engagement in Collaborative Discourse with an Extended ICAP Framework: Comparing Human Annotation, In-Context Learning, and Reflective LLM Agents",
+      "url": "https://arxiv.org/abs/2607.28651",
+      "summary": "arXiv:2607.28651v1 Announce Type: cross Abstract: Collaboration supports learning and problem-solving, but its effectiveness depends on cognitive engagement during discourse. This study applies an extended 7-point ICAP framework based on the Interactive, Constructive, Active, and Passive modes to characterize variation in cognitive engagement during collaborative dialogue. Engagement was coded by trained human annotators and compared with large language model (LLM)-based labeling approaches, including in-context learning (ICL), zero-shot prompting, and self-reflective agents. Interrater reliab",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Process to Evidence: How Computing Can Ground Appropriate Reliance on Legal AI",
-      "url": "https://arxiv.org/abs/2607.28869",
-      "summary": "arXiv:2607.28869v1 Announce Type: new Abstract: Lawyers and self-represented litigants are already using artificial intelligence (AI) to draft legal documents, and courts are responding with rules. After more than 1,500 cases involving AI hallucinations, lawyers have been instructed to perform careful, independent review of AI-assisted filings. Discharging these duties requires what the human-computer interaction (HCI) literature calls ``appropriate reliance,'' which cannot be calibrated without evidence on how often, how badly, and how detectably these tools fail at legal work. Existing resea",
+      "title": "Optimizing Monetization Strategies for Generative AI Firms: Implications for Search Engagement",
+      "url": "https://arxiv.org/abs/2607.28780",
+      "summary": "arXiv:2607.28780v1 Announce Type: cross Abstract: As Generative Artificial Intelligence (GenAI) platforms, such as ChatGPT, have transformed digital search querying behavior, mounting operational costs challenge firms to explore alternative monetization strategies beyond traditional subscription models. However, little is known about how alternative advertising-supported monetization models can help GenAI firms recover costs while maintaining search query engagement. Drawing on the compromise effect and affective primacy theories, we develop a framework wherein the introduction of advertising-",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "IyawoBench v2.0: Extended Diagnostic Evaluation of Large Language Model Clinical Triage in Nigerian Primary Care",
-      "url": "https://arxiv.org/abs/2607.29085",
-      "summary": "arXiv:2607.29085v1 Announce Type: new Abstract: Large language models are being deployed as clinical triage tools in low and middle income countries where trained physicians are scarce. Existing safety metrics, however, produce misleading confidence: models scoring 100% on binary \"did not send an emergency home\" safety measures may nevertheless exhibit systematic failure modes that render them undeployable at scale. We present IyawoBench v2.0, an extended diagnostic evaluation of large language model clinical triage on 200 synthetic vignettes derived from 1,200 real patient encounters at 19 Ni",
+      "title": "Design Concept: Scaffolding Geopolitical Reflection Among Tech Workers",
+      "url": "https://arxiv.org/abs/2607.28904",
+      "summary": "arXiv:2607.28904v1 Announce Type: cross Abstract: This paper presents a speculative Human-Computer Interaction design proposal for encouraging geopolitical reflexivity amongst tech workers at geopolitically relevant technology companies. Recent scholarship in International Relations and Science and Technology Studies increasingly recognizes technology firms and their workers as geopolitical actors whose decisions shape international dynamics. However, existing Responsible Innovation and Responsible AI approaches rarely engage with the geopolitical narratives and imaginaries that underpin conte",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Deployment Wall: A Diagnostic Framework and Instrument for Enterprise AI in the Deployment Era",
-      "url": "https://arxiv.org/abs/2607.29089",
-      "summary": "arXiv:2607.29089v1 Announce Type: new Abstract: Enterprise investment in generative artificial intelligence (AI) tripled in a single year to roughly US$37 billion, yet independent field research finds that about 95% of enterprise generative-AI pilots deliver no measurable profit-and-loss impact. We argue that the dominant explanation--that models are not yet capable enough--is mistaken, and that enterprise AI has entered a Deployment Era in which advantage derives not from model intelligence but from the removal of the organizational and architectural friction that prevents a capable model fro",
+      "title": "FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation",
+      "url": "https://arxiv.org/abs/2607.28934",
+      "summary": "arXiv:2607.28934v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly involved in the distribution of scarce resources, raising concerns about biased allocations based on characteristics like race and gender. Recent LLM audits have produced inconsistent results, however, finding evidence of both positive and negative discrimination towards women and ethnic minorities, even for the same models. We show that this disagreement can arise from differences in audit format and introduce FairFund-Bench, a benchmark that systematically varies key features of previous audit des",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game",
-      "url": "https://arxiv.org/abs/2607.29300",
-      "summary": "arXiv:2607.29300v1 Announce Type: new Abstract: This paper discusses games, their use in education, and previous work on integrating game engines and learning management systems (LMS). It proposes a bidirectional integration where game environments are generated using LMS content, introducing the concept of hypergamification as the use of a comprehensive game environment rather than isolated game design elements. A working pilot implementation of an importable Unity package for Blackboard integration is demonstrated, along with a demo game that uses the developed package. The paper also discus",
+      "title": "A robust association between LLM use and scientific productivity: Assessing stopping-time selection",
+      "url": "https://arxiv.org/abs/2607.28968",
+      "summary": "arXiv:2607.28968v1 Announce Type: cross Abstract: Renault, Bergeaud, and Bosquet (hereafter RBB) argue that dating LLM adoption as the first month in which an author's abstract is flagged induces a stopping-time selection that can produce a positive event-study path even when there is no causal effect. Although this mechanism is mathematically possible, it does not constitute proof of a null effect. Recalibrating RBB's own random placebo to the detector's realized flag rate, we show that the measured association stays well above this benchmark, so the artifact is too small to explain the produ",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
-      "url": "https://arxiv.org/abs/2607.29380",
-      "summary": "arXiv:2607.29380v1 Announce Type: new Abstract: Artificial intelligence is reshaping cognitive work, but Human Resource Development scholarship has treated this transformation as an organizational training challenge, leaving the collective regeneration of professional expertise unexamined. This conceptual paper introduces the Cognitive Commons framework, integrating commons theory, HRD scholarship, and distributed cognition to explain how rational AI adoption decisions can deplete the shared expertise pool professions require for renewal. The framework distinguishes Internalized Mastery (deep ",
+      "title": "Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters",
+      "url": "https://arxiv.org/abs/2607.29238",
+      "summary": "arXiv:2607.29238v1 Announce Type: cross Abstract: InMyStyle is a privacy first, single user system that adapts small language models to rewrite AI-edited text towards an individual user's writing style without an instruction prompt at inference. Given a user's documents, it uses multiple local helper LLMs to construct paired training examples and fine tunes LoRA adapters on base models ranging from 0.5B to 7B parameters. Length aware generation budgets and automatic chunking support inputs of different lengths. On 219 evaluation pairs from a scientific-paper corpus, the automatic composite sco",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Triangulating Across U.S. Federal AI Transparency Regimes",
-      "url": "https://arxiv.org/abs/2607.29540",
-      "summary": "arXiv:2607.29540v1 Announce Type: new Abstract: Federal AI systems can deny benefits or flag individuals for deportation, but the public disclosures meant to make those systems visible are fragmented and unevenly detailed. This paper examines three existing U.S. federal transparency regimes---System of Records Notices (SORNs), Information Collection Requests (ICRs), and the AI Use Case Inventory---and asks how well they, individually and together, describe government AI use. We find that no single regime fully reveals how the government constructs or deploys AI: each discloses different aspect",
+      "title": "Language Models Agree With Each Other, Not With Readers",
+      "url": "https://arxiv.org/abs/2607.29274",
+      "summary": "arXiv:2607.29274v1 Announce Type: cross Abstract: Claims that language models homogenise are usually measured against human judgements collected for the study, which makes the human side an artifact of the design: a crowdworker given the model's instruction is running the model's prompt. We measure convergence against a human reference nobody built for the purpose -- 2,523 reader mark sets across 120 web documents, produced by people highlighting for their own reasons on a platform where the overlay of others' marks is off by default. Agreement is the overlap between two size-matched sentence ",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
-      "url": "https://arxiv.org/abs/2607.29624",
-      "summary": "arXiv:2607.29624v1 Announce Type: new Abstract: Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe construct-irrelevant variance by exacerbating performative anxiety and the sociological power imbalances inherent to academic hierarchies. This paper presents the theoretical foundation for the \"Socratic Test,\" an automated, computer-mediated conversational assessment. By integrating Dynamic Assessment principles, multimodal workspa",
+      "title": "TerraNova: A Foundation Model for the Anthropocene",
+      "url": "https://arxiv.org/abs/2607.29527",
+      "summary": "arXiv:2607.29527v1 Announce Type: cross Abstract: A defining problem of the Anthropocene is to model the physical Earth and human societies as one coupled system, yet no learned representation spans their observational breadth. We argue the obstacle is geometric: the physical Earth is measured as continuous fields that ignore political borders, whereas societies are reported for administrative units. Earth-system foundation models serve the first geometry; coupling it to the second has required lossy averaging over borders. We introduce TerraNova, a foundation model trained on 1,024 physical a",
       "published": "2026-08-03T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
