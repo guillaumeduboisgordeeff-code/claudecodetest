@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-03",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Scaffolding Critical Engagement with GenAI: Transforming Ethnic Minority Preparatory Students' Collaborative Discourse in Prompt Engineering Tasks",
+      "url": "https://arxiv.org/abs/2607.28630",
+      "summary": "arXiv:2607.28630v1 Announce Type: new Abstract: Generative AI (GenAI) holds significant promise for advancing educational equity among ethnic minority students by broadening access to learning resources and mitigating linguistic barriers. However, these benefits are counterbalanced by the risk of cognitive laziness, whereby students may treat GenAI as an answer engine or shortcut rather than as a partner in thinking. This design-based research investigated how pedagogical scaffolding can shift students from passive consumption to critical co-creation with GenAI. The study involved 78 ethnic mi",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Structured AI Demonstrations and Student LLM Use in Engineering Mechanics: Study Design and Preliminary Results",
+      "url": "https://arxiv.org/abs/2607.28710",
+      "summary": "arXiv:2607.28710v1 Announce Type: new Abstract: The rapid integration of large language models (LLMs) into undergraduate education presents an urgent challenge for engineering instructors. Despite widespread student adoption, there remains a critical lack of domain-specific empirical evidence to guide pedagogical policies and classroom interventions. This manuscript presents a descriptive study design and preliminary findings from an undergraduate engineering mechanics course conducted in Spring 2026. We detail a reproducible survey instrument used to capture student AI usage patterns, attitud",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Hidden Errors in Big Data: The Case of Property Records",
+      "url": "https://arxiv.org/abs/2607.28827",
+      "summary": "arXiv:2607.28827v1 Announce Type: new Abstract: Big data are the foundation for an increasing share of academic research and AI models deployed in both the public and private sectors, prompting substantial growth over time in reliance on brokered datasets. Brokered property records, which are ubiquitous in studies of gentrification, inequality, and the property tax in the U.S. and serve as inputs to property valuation models, are one notable example. In this paper, we audit two prominent brokered property datasets, finding errors in these data which bias key measures of economic inequality. Fi",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Process to Evidence: How Computing Can Ground Appropriate Reliance on Legal AI",
+      "url": "https://arxiv.org/abs/2607.28869",
+      "summary": "arXiv:2607.28869v1 Announce Type: new Abstract: Lawyers and self-represented litigants are already using artificial intelligence (AI) to draft legal documents, and courts are responding with rules. After more than 1,500 cases involving AI hallucinations, lawyers have been instructed to perform careful, independent review of AI-assisted filings. Discharging these duties requires what the human-computer interaction (HCI) literature calls ``appropriate reliance,'' which cannot be calibrated without evidence on how often, how badly, and how detectably these tools fail at legal work. Existing resea",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "IyawoBench v2.0: Extended Diagnostic Evaluation of Large Language Model Clinical Triage in Nigerian Primary Care",
+      "url": "https://arxiv.org/abs/2607.29085",
+      "summary": "arXiv:2607.29085v1 Announce Type: new Abstract: Large language models are being deployed as clinical triage tools in low and middle income countries where trained physicians are scarce. Existing safety metrics, however, produce misleading confidence: models scoring 100% on binary \"did not send an emergency home\" safety measures may nevertheless exhibit systematic failure modes that render them undeployable at scale. We present IyawoBench v2.0, an extended diagnostic evaluation of large language model clinical triage on 200 synthetic vignettes derived from 1,200 real patient encounters at 19 Ni",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Deployment Wall: A Diagnostic Framework and Instrument for Enterprise AI in the Deployment Era",
+      "url": "https://arxiv.org/abs/2607.29089",
+      "summary": "arXiv:2607.29089v1 Announce Type: new Abstract: Enterprise investment in generative artificial intelligence (AI) tripled in a single year to roughly US$37 billion, yet independent field research finds that about 95% of enterprise generative-AI pilots deliver no measurable profit-and-loss impact. We argue that the dominant explanation--that models are not yet capable enough--is mistaken, and that enterprise AI has entered a Deployment Era in which advantage derives not from model intelligence but from the removal of the organizational and architectural friction that prevents a capable model fro",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Hypergamigication Through Integrating Game Engines and Learning Management Systems: Ender's Game",
+      "url": "https://arxiv.org/abs/2607.29300",
+      "summary": "arXiv:2607.29300v1 Announce Type: new Abstract: This paper discusses games, their use in education, and previous work on integrating game engines and learning management systems (LMS). It proposes a bidirectional integration where game environments are generated using LMS content, introducing the concept of hypergamification as the use of a comprehensive game environment rather than isolated game design elements. A working pilot implementation of an importable Unity package for Blackboard integration is demonstrated, along with a demo game that uses the developed package. The paper also discus",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Tragedy of the Cognitive Commons: How AI Could Disrupt the Regeneration of Professional Expertise",
+      "url": "https://arxiv.org/abs/2607.29380",
+      "summary": "arXiv:2607.29380v1 Announce Type: new Abstract: Artificial intelligence is reshaping cognitive work, but Human Resource Development scholarship has treated this transformation as an organizational training challenge, leaving the collective regeneration of professional expertise unexamined. This conceptual paper introduces the Cognitive Commons framework, integrating commons theory, HRD scholarship, and distributed cognition to explain how rational AI adoption decisions can deplete the shared expertise pool professions require for renewal. The framework distinguishes Internalized Mastery (deep ",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Triangulating Across U.S. Federal AI Transparency Regimes",
+      "url": "https://arxiv.org/abs/2607.29540",
+      "summary": "arXiv:2607.29540v1 Announce Type: new Abstract: Federal AI systems can deny benefits or flag individuals for deportation, but the public disclosures meant to make those systems visible are fragmented and unevenly detailed. This paper examines three existing U.S. federal transparency regimes---System of Records Notices (SORNs), Information Collection Requests (ICRs), and the AI Use Case Inventory---and asks how well they, individually and together, describe government AI use. We find that no single regime fully reveals how the government constructs or deploys AI: each discloses different aspect",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations",
+      "url": "https://arxiv.org/abs/2607.29624",
+      "summary": "arXiv:2607.29624v1 Announce Type: new Abstract: Traditional static assessments rely on a subtractive, deficit-based grading model that often penalizes ambition and obscures diagnostic feedback. Conversely, traditional face-to-face oral examinations introduce severe construct-irrelevant variance by exacerbating performative anxiety and the sociological power imbalances inherent to academic hierarchies. This paper presents the theoretical foundation for the \"Socratic Test,\" an automated, computer-mediated conversational assessment. By integrating Dynamic Assessment principles, multimodal workspa",
+      "published": "2026-08-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
