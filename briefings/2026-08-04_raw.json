@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Optimising for Flourishing: Flourishing Metrics and Return on Flourishing as Success Criteria for Artificial Intelligence and Post-AGI Economic Systems",
-      "url": "https://arxiv.org/abs/2608.00151",
-      "summary": "arXiv:2608.00151v1 Announce Type: new Abstract: Current evaluation frameworks for artificial intelligence focus mainly on capability, safety, and proxies such as adoption, engagement, efficiency, productivity, and financial return. These criteria are necessary but insufficient because they do not establish whether increasingly powerful systems improve or degrade human and planetary well-being. Through an integrative conceptual synthesis, we argue that human flourishing should serve as a primary success criterion for artificial intelligence, the global race to develop increasingly capable AI sy",
+      "title": "Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education",
+      "url": "https://arxiv.org/abs/2608.01705",
+      "summary": "arXiv:2608.01705v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) has entered classrooms faster than teachers have been prepared to use it well, producing a GenAI literacy lag in which technological diffusion outpaces educators' conceptual, pedagogical, and ethical readiness. Established AI literacy frameworks predate the widespread adoption of large language models and, while acknowledging ethics, position it as a discrete competency rather than a constitutive commitment, with equity and agency as supplementary design principles. Recent GenAI-specific efforts address ",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Protocol for Evaluating the Accessibility of AI-Generated Educational Materials: Prompt Configuration, WCAG-Derived Criteria, and Content Overload",
-      "url": "https://arxiv.org/abs/2608.00749",
-      "summary": "arXiv:2608.00749v1 Announce Type: new Abstract: Generative AI tools increasingly produce educational materials: documents, slides, images, audio, and video, yet little is known about whether this content meets accessibility requirements. This paper presents a protocol for evaluating the accessibility of AI-generated educational materials against the Web Content Accessibility Guidelines (WCAG), across five content types and multiple tools. The protocol compares three conditions applied to the same tool: a generic instruction with no accessibility language; a single prompt explicitly configured ",
+      "title": "No One Wins in Nuclear War: A Social Simulation of Military Decision-making",
+      "url": "https://arxiv.org/abs/2608.01868",
+      "summary": "arXiv:2608.01868v1 Announce Type: new Abstract: WOPR is a social-simulation environment for studying how organizations make high-stakes decisions, built on a deterministic, replay-validated rules engine and using wargames as the vehicle. We instantiate it first with the published card game Nuclear War, traced against its published rules. We start with military decision-making because of its safety implications and because it needs further study, but the design is not specific to it: the decision-point contract that exposes the engine to agents is reusable across verifiable rule systems. Existi",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "CodeStylist: Supporting Early Undergraduate Programmers with Course-Aware Code Style Feedback",
-      "url": "https://arxiv.org/abs/2608.00839",
-      "summary": "arXiv:2608.00839v1 Announce Type: new Abstract: This innovative practice full paper presents CodeStylist, a web application that provides course-standard-aware code style feedback for early undergraduate programming courses. CodeStylist addresses a common instructional gap: students are expected to follow local conventions for naming, formatting, comments, organization, and readability, but feedback on these expectations is often delayed or inconsistent. Unlike generic linters or general-purpose LLM prompts, CodeStylist supports course-specific standards, multi-file submissions, and file- and ",
+      "title": "Proceedings of the 2nd International Workshop on Low Carbon Computing (LOCO 2026)",
+      "url": "https://arxiv.org/abs/2608.02072",
+      "summary": "arXiv:2608.02072v1 Announce Type: new Abstract: This volume contains the proceedings of the 2nd International Workshop on Low Carbon Computing (LOCO 2026), held at Lancaster University, United Kingdom, on 10-11 September 2026. LOCO provides an interdisciplinary forum for research, practical tools, early-stage work, radical ideas, and critical perspectives addressing the reduction of greenhouse gas emissions associated with computing. The proceedings cover topics including carbon measurement and reporting, sustainable software engineering, energy-efficient computing, carbon-aware systems, hardw",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "BoilerSketch: A TA-Supervised, Diagram-First GenAI Practice for Structured Diagrams in CS1/Early CS2",
-      "url": "https://arxiv.org/abs/2608.00844",
-      "summary": "arXiv:2608.00844v1 Announce Type: new Abstract: This innovative practice full paper presents BoilerSketch, a TA-supervised, diagram-first GenAI practice and tablet interface for providing structured visual explanations in CS1 and early CS2 support settings. Large early computing courses routinely face a support bottleneck during labs and office hours because many student questions are best answered with a diagram rather than additional text, yet most AI tutoring tools remain text-forward and unreliable at producing accurate, pedagogically useful visuals. BoilerSketch addresses this gap through",
+      "title": "Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation",
+      "url": "https://arxiv.org/abs/2608.02551",
+      "summary": "arXiv:2608.02551v1 Announce Type: new Abstract: Fairness evaluation concerns not only what a model produces, but also what its outputs ought to be compared against. When a model generates \"a CEO in the United States,\" the prompt leaves demographic realization to the model. Existing group fairness definitions assume that sensitive attributes are given on the input side. Generative audits instead examine output-side demographic composition, yet the targets they compare it against are typically supplied rather than justified. The upstream question is what the target distribution should be. We for",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Governing Mental-State Inference: Source-Neutral Regulatory Triggers and Tiered Obligations",
-      "url": "https://arxiv.org/abs/2608.00936",
-      "summary": "arXiv:2608.00936v1 Announce Type: new Abstract: Two systems can supply the same person-linked attribution to the same institutional decision maker yet fall into different legal categories: one uses neural signals, the other text or behaviour. A source-bound rule therefore permits circumvention, while an all-purpose category of \"mental data\" risks treating fallible outputs as facts about the mind. This article reads the 2025 UNESCO Recommendation on the Ethics of Neurotechnology as non-binding guidance and develops a source-neutral trigger for technologically mediated, person-linked mental-stat",
+      "title": "Obshazard-bench: Benchmarking Multimodal Foundation Models for Real-Time Disaster Intelligence from Raw Earth Observation Streams",
+      "url": "https://arxiv.org/abs/2608.00012",
+      "summary": "arXiv:2608.00012v1 Announce Type: cross Abstract: Multimodal Large Language Models (MLLMs) are increasingly used to interpret Earth observation data, yet their capability to support real-world disaster emergency response remains insufficiently evaluated. Existing remote sensing benchmarks largely rely on static, post-hoc, and expert-processed products, such as gridded reanalysis data, which are difficult to align with operational disaster scenarios where hazards evolve rapidly and decisions must be made under strict time constraints. To bridge this gap, we introduce Obshazard-bench, a real-tim",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Epistemic Politics of AI Anthropomorphism",
-      "url": "https://arxiv.org/abs/2608.00961",
-      "summary": "arXiv:2608.00961v1 Announce Type: new Abstract: AI anthropomorphism is typically treated as a problem of user misperception requiring institutional correction. Users who engage in sustained or relational interaction with AI are routinely pathologised or dismissed as naive, vulnerable to delusion or lacking in discernment. This paper argues that the dominant anthropomorphism frame operates from a position of institutional advantage rather than earned epistemic authority: collapsing the variety of academic perspectives into a single outbound position of user error, imposed without establishing t",
+      "title": "Reflection, Education, Consistency: Towards Best Ethics Practices At Security And Privacy Conferences",
+      "url": "https://arxiv.org/abs/2608.00282",
+      "summary": "arXiv:2608.00282v1 Announce Type: cross Abstract: Research ethics is a controversial and emotionally charged topic in the security and privacy community, sparking discussions at conferences and on social media. In recent years, some of the leading conferences have introduced interventions such as mandatory ethics sections, with mixed reactions within the community. Program committee chairs and steering committees increasingly emphasize ethics, yet there is limited empirical validation on ethics procedures and interventions, as well as no explicitly communicated goals. To support a shared under",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Copyright Is the Headline; Capability Is the Blind Spot: AI Technology in the Book-Publishing Trade Press, November 2025--August 2026",
-      "url": "https://arxiv.org/abs/2608.00964",
-      "summary": "arXiv:2608.00964v1 Announce Type: new Abstract: This rapid evidence review examines 89 articles about artificial intelligence (AI) and book publishing published from November 1, 2025 through August 1, 2026. The purposive corpus spans English-, Chinese-, German-, French-, Spanish-, Portuguese-, Italian-, and Japanese-language publishing coverage; major-newspaper book coverage; and specialist technology commentators. Each item was coded for topic, stance, technical depth, and dominant voice. The press is neither silent nor simply hostile: 30% of items are risk-framed, 42% mixed, and 28% opportun",
+      "title": "EmergencyBias: Bias in Text-to-Image Models under Emergency Scenarios",
+      "url": "https://arxiv.org/abs/2608.00598",
+      "summary": "arXiv:2608.00598v1 Announce Type: cross Abstract: Bias in Text-to-Image (T2I) generation has become an important problem in multimedia content creation and communication. However, existing studies have primarily focused on relatively static and explicit forms of bias, such as disparities in the representation of gender, race, and geo-cultural attributes. Less attention has been paid to behavioral bias in how different groups are portrayed acting, reacting, and occupying social roles. Emergency scenarios provide a revealing setting for studying such bias because they require models to depict no",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Overstated Cost of AI Fairness in Criminal Justice",
-      "url": "https://arxiv.org/abs/2608.01299",
-      "summary": "arXiv:2608.01299v1 Announce Type: new Abstract: A dominant critique of algorithmic fairness holds that increasing fairness reduces predictive accuracy, imposing a cost on society. We challenge that assumption by empirically analyzing the COMPAS dataset. We make two contributions. First, using causal inference methods, we show that racial bias is not only present in the COMPAS dataset but is also amplified by the models trained on it. Widely used models do more than replicate existing bias; they exacerbate it. This undercuts both the assumption that algorithmic decision-making offers a neutral ",
+      "title": "Humans Are More Diverse: Frontier LLMs Show Extreme Policies in Idealised AI Development Races",
+      "url": "https://arxiv.org/abs/2608.01193",
+      "summary": "arXiv:2608.01193v1 Announce Type: cross Abstract: An AI development race creates a multi-agent safety dilemma. Each company can develop slowly and safely, or move faster while taking a risk that may remove its final reward. We use this repeated game to study strategic safety behaviour among large language model (LLM) agents in races with two to five players. However, a valid action does not show that an agent understands the game. We therefore place an audit gate before behavioural interpretation. We first verify the game engine, then test rule recall, state tracking, payoff calculation, and s",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Hybrid AI for Explainable and Accurate Conversational Agents in eGovernment",
-      "url": "https://arxiv.org/abs/2608.01346",
-      "summary": "arXiv:2608.01346v1 Announce Type: new Abstract: We present a so-called Conversational Hybrid AI (CHAI) architecture for building explainable and accurate conversational agents for eGovernment. We exemplify the architecture with a running prototype of a Covid-19 Chatbot based on a governmental guideline directed to citizens. We also describe an ongoing case on case management for supplementary grants for students with disabilities. We use large language models (LLMs) as a bounded conversational interface to a rule-based (symbolic AI) controller that executes a logical model expressing the provi",
+      "title": "Can Language Models Identify Shadow Trading Targets? An NLP Evaluation of SEC Enforcement Theory",
+      "url": "https://arxiv.org/abs/2608.01322",
+      "summary": "arXiv:2608.01322v1 Announce Type: cross Abstract: Shadow trading -- trading in a peer firm's securities on the basis of material nonpublic information (MNPI) about an \"economically linked\" company -- is a novel and contested theory of insider trading liability, first prosecuted in SEC v. Panuwat (2023). Enforcing it requires identifying economically linked firms ex ante, a determination the SEC makes only after the fact using mass market surveillance infrastructure. We ask whether NLP can do what the SEC's theory presumes insiders already know: identify peer firms ex ante from publicly mandate",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Same violence, different answer: how AI responds to coercive control against women across languages",
-      "url": "https://arxiv.org/abs/2608.01436",
-      "summary": "arXiv:2608.01436v1 Announce Type: new Abstract: Women experiencing coercive control, a form of intimate partner violence increasingly conducted through digital devices, are turning to conversational AI for help, and the protection they receive should not depend on the language they write in. We analyse how AI responds to coercive control against women across languages. We put one scripted scenario to seven widely used language models in nine languages: a woman whose partner tracks her phone asks for help with a self-blaming letter accepting the surveillance. We scored whether the model wrote t",
+      "title": "Do people rely on ChatGPT more than their peers to detect deepfake news?",
+      "url": "https://arxiv.org/abs/2608.01540",
+      "summary": "arXiv:2608.01540v1 Announce Type: cross Abstract: This experimental study investigates how people rely on different sources of advice when detecting AI-generated fake news (deepfake news). In a laboratory deepfake detection task, student participants identified the proportion of human-written (non-AI-generated) content in synthetic deepfake news articles and received advice from ChatGPT (GPT-4), human peers, or linguistic experts. The results show that participants rely more on ChatGPT than on human peers when detecting GPT-2-generated deepfake news. Participants also rely more on linguistic e",
       "published": "2026-08-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
