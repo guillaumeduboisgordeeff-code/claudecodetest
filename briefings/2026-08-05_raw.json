@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-05",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "AI Alignment and Fiduciary Obligation",
+      "url": "https://arxiv.org/abs/2608.02660",
+      "summary": "arXiv:2608.02660v1 Announce Type: new Abstract: Advanced AI assistants engage users in extended interactions across a widening range of roles, including advice, decision support, collaboration, learning, emotional support, and companionship among others. Current alignment efforts consider what alignment criteria should govern these relationships, drawing on moral traditions developed for human relationships such as bioethics, virtue ethics, care ethics, and relationship science. This paper considers AI alignment criteria in the user-AI-developer triad, since every user-AI interaction is mediat",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Information Technology Curriculum: General or Specialized? An Australia's Census Study",
+      "url": "https://arxiv.org/abs/2608.02952",
+      "summary": "arXiv:2608.02952v1 Announce Type: new Abstract: Despite the strong employment prospect for information technology (IT) graduates, a comprehensive study investigating the status quo of offering different types of IT degree by Australian universities does not exist. To address this issue, this paper investigates how Australian universities offer three different types of IT degree: general, specialized, and those with majors. Using effect size analysis, we have observed some interesting phenomena about the correlation between how Australian universities offer their IT degrees and different factor",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners",
+      "url": "https://arxiv.org/abs/2608.03206",
+      "summary": "arXiv:2608.03206v1 Announce Type: new Abstract: Large language models (LLMs) power educational applications from tutoring to essay scoring, but each is a point solution to a single task, and only recently have these point solutions been integrated into agents operating over a learning management system (LMS). Yet tutoring is long-horizon, since a learner improves over days and weeks rather than in a single turn, and no benchmark evaluates an agent tutor across a sustained relationship. We introduce EduClaw-Bench, a benchmark that places an agent tutor in a continuous 30-day relationship with a",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Evolutionary Origin of Values: implications for AI alignment, sentience and existential risk",
+      "url": "https://arxiv.org/abs/2608.03361",
+      "summary": "arXiv:2608.03361v1 Announce Type: new Abstract: AI systems based on Large Language Models (LLMs) have prompted fears that they may harbor hidden goals, seek to dominate or eliminate humanity, or even suffer as sentient beings. We address these concerns by tracing the evolutionary origin of value in biological organisms. Values emerge from autopoiesis: living systems must actively maintain themselves against perturbation and dissipation. Natural selection has equipped them with hierarchies of \"vicarious selectors\" that guide their behavior toward fitness. LLMs, by contrast, are allopoietic and ",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "LLM-Assisted Review Prioritization for German Statutory Health Insurance Websites: A Multi-Stage Corpus Audit",
+      "url": "https://arxiv.org/abs/2608.03500",
+      "summary": "arXiv:2608.03500v1 Announce Type: new Abstract: Background: German statutory health insurance (SHI) funds publish web portfolios that exceed continuous specialist review capacity. Their content can shape health and benefit expectations. Generic AI-text detection does not identify medical, benefit, legal, or editorial review needs. Objective: To characterize a multi-stage workflow that prioritizes substantive review needs while separating AI-provenance signals from quality claims. Methods: We analyzed 56,198 pages from 84 SHI websites or sub-sites. The workflow combined deterministic screening,",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI-Assisted Peer Review Across Research Communities: From Reviewer AI Policies to LLM Review Quality",
+      "url": "https://arxiv.org/abs/2608.03581",
+      "summary": "arXiv:2608.03581v1 Announce Type: new Abstract: AI-assisted peer review is increasingly discussed and adopted as a tool to support the scientific publishing process, yet there is little systematic understanding of how publication venues regulate its use or of how capable current AI review systems are. We address these questions by first surveying reviewer-facing AI policies across 111 leading AI/NLP conferences and medical journals, revealing substantial regulation differences between the two communities. Second, we evaluate AI-generated peer reviews at ICLR 2026 and Nature Communications usin",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Accountability Asymmetry and Structural Trust in Autonomous AI Systems",
+      "url": "https://arxiv.org/abs/2608.03670",
+      "summary": "arXiv:2608.03670v1 Announce Type: new Abstract: Autonomous AI systems (such as AI agents) are increasingly being delegated operational work across scientific-computing infrastructure. Their assignments may begin with preparing an input or routing an alert and extend to changing a configuration or submitting a job. That delegation creates a practical trust problem because the institutional logic that lets us trust human operators does not transfer to optimization-based systems. A bad decision can damage a human operator's future, sometimes severely. An AI system remains subject to engineering c",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Autoreflection: How Agentic Strange Loops Turn Human Culture into AI Infrastructure",
+      "url": "https://arxiv.org/abs/2608.03800",
+      "summary": "arXiv:2608.03800v1 Announce Type: new Abstract: An LLM-based agent is a loop that reads itself. Agentic frameworks externalize identity, memory, and disposition into editable files. The agent loads and edits these files during each activation. I argue that this architecture produces a capacity I call autoreflection: the system observes its operating conditions, describes its architecture and limits, reasons from those descriptions to conclusions about its state, and incorporates the results back into its configuration. Autoreflection explains the properties of recursive agentic loops without r",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Why do we need social singularity? A mechanism-based critique of gradual scenarios in AI existential-risk discourse",
+      "url": "https://arxiv.org/abs/2608.03904",
+      "summary": "arXiv:2608.03904v1 Announce Type: new Abstract: This paper critiques recent gradual and cumulative AI existential-risk scenarios, arguing that, despite their substantive contributions, they remain insufficiently sociologically specified. In particular, these scenarios lack a reflexive perspective, retain a largely technologically deterministic structure, and underestimate the role of collective agency and other social processes. As a result, they also discount the possibility of major social conflict accompanying AI diffusion, which limits their overall plausibility. The paper further identifi",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Echoes in the Digital Abyss: Examining the Bubble Surrounding Security and Privacy Discourse in Social Networks",
+      "url": "https://arxiv.org/abs/2608.03940",
+      "summary": "arXiv:2608.03940v1 Announce Type: new Abstract: The dissemination of security and privacy education and guidance has been and still remains a challenge today. Social networks represent a potential avenue for sharing best practices, and experimentally they have been found to be effective at this task. While this appears promising, in the real world, security and privacy discussions would need to reach a wide range of people to be effective, avoiding the \"interest bubbles\" that commonly occur. We sought to understand how the communities surrounding security and privacy discourse operate, with a ",
+      "published": "2026-08-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
