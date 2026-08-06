@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Towards a New Grammar of Reasoning for Artificial Legal Intelligence and the Mecelle as Its Semantic Protocol",
-      "url": "https://arxiv.org/abs/2608.04011",
-      "summary": "arXiv:2608.04011v1 Announce Type: new Abstract: This article examines the enduring epistemic and methodological crisis of traditional legal practice in light of the opportunities and constraints introduced by artificial intelligence. It proposes an ontologically grounded framework termed the Mecellem semantic protocol as a response to this crisis. The analysis focuses on the structural tension within law between maintaining normative coherence and adapting to evolving social and institutional conditions, and shows why approaches based solely on codification, positivist systematization, or quan",
+      "title": "Exploring Fraction Comprehension and Interest in Elementary Education Through AI-Powered Personalized Learning",
+      "url": "https://arxiv.org/abs/2608.04892",
+      "summary": "arXiv:2608.04892v1 Announce Type: new Abstract: Artificial intelligence systems that adapt instruction to individual learners are increasingly deployed in K-12 classrooms, yet empirical evidence on their effects in authentic elementary settings remains limited, particularly for students with mathematics learning difficulties. This dissertation examines AI-powered personalized learning during primary school fraction instruction, a domain that is foundational to later mathematics and STEM achievement. The first manuscript presents a systematic review of research on artificial intelligence in mat",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-driven Multimodal Representation Learning for Latent Mediation Structure Discovery of Socioeconomic Disadvantage, Psychosocial Factors, and Cardiometabolic Multimorbidity: Insights from the All of Us Research Program",
-      "url": "https://arxiv.org/abs/2608.04016",
-      "summary": "arXiv:2608.04016v1 Announce Type: new Abstract: Social disadvantage is associated with multimorbidity, but the pathways linking social conditions to disease burden remain poorly understood. We developed an AI-driven multimodal mediation framework that integrates socioeconomic, psychosocial, clinical, laboratory, behavioral, and genomic data from the All of Us Research Program. Modality-specific variational autoencoders were used to derive latent representations of each data domain, and mediation analyses were subsequently performed in latent space to evaluate indirect associations between soci",
+      "title": "The Beginning of ChatGPT Ads",
+      "url": "https://arxiv.org/abs/2608.05008",
+      "summary": "arXiv:2608.05008v1 Announce Type: new Abstract: This paper presents the first empirical study of advertising content being rolled out in the user-facing online interfaces of large language models (LLMs). We systematically examine possible demographic differences in ad content shown to U.S. users of ChatGPT using a sock puppet audit methodology. We create and deploy 91 sock puppets in a 3x3 factorial design, using geolocation cues (account IP proxies and location-signaling prompts) to signal three racial/ethnic groups (Black, Hispanic, and White) and three income terciles (low, medium, and high",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Qualitative Comparative Study of Communication in Higher Distance Education",
-      "url": "https://arxiv.org/abs/2608.04017",
-      "summary": "arXiv:2608.04017v1 Announce Type: new Abstract: The rise of open and distance education has made it more important than ever to have communication tools that are simple, flexible, and good for helping students work together, talk to each other, and feel connected. Researchers have already looked at how instant messaging apps like WhatsApp and Telegram can be used for learning. Viber, on the other hand, has not been studied as much, especially when it comes to its use in higher education at a distance. This article builds on a previously published conference case study conducted at the Hellenic",
+      "title": "The Effect of Perceived Race and Gender on Police Language Use: Experimental Evidence from VR Simulations",
+      "url": "https://arxiv.org/abs/2608.05050",
+      "summary": "arXiv:2608.05050v1 Announce Type: new Abstract: Against the backdrop of violence in police interactions with the U.S. public, we explore how deferentially police officers speak to virtual characters depicted as Black adult males in vir- tual reality (VR) simulations. We evaluate the effect of seeing and communicating with these characters through a causal in- ference lens, where the assignment of the Black man character to a police officer and simulation is the treatment variable. Our (marginal) average treatment effect AT E measures the social impact of the character on the deference of offic",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Governing Execution Risk in Agentic AI Systems: A Trajectory-Guided Framework for Red Teaming",
-      "url": "https://arxiv.org/abs/2608.04018",
-      "summary": "arXiv:2608.04018v1 Announce Type: new Abstract: AI agents are increasingly embedded in organizational workflows, where they interact with external information sources and invoke digital tools to perform operational tasks. As organizations adopt such systems, a critical challenge is identifying and mitigating risks arising from malicious or untrusted external information that can steer agents toward unintended actions. Existing red-teaming approaches largely rely on fixed attack templates or final attack outcomes, providing limited visibility into how attacks unfold through multi-step reasoning",
+      "title": "NuclearDiffusion: Text-to-Image Foundation Models for Learning Nuclear Energy Concepts",
+      "url": "https://arxiv.org/abs/2608.04030",
+      "summary": "arXiv:2608.04030v1 Announce Type: cross Abstract: Generative artificial intelligence (AI) has transformed text-to-image synthesis, yet its ability to represent specialized engineering domains remains largely unexplored. As an exmaple in nuclear engineering, general-purpose foundation models frequently generate physically incorrect or conceptually inconsistent images because they lack domain-specific knowledge. This work presents one of the first systematic studies of domain adaptation for nuclear text-to-image generation through fine-tuning of open-source diffusion models. We curate a dataset ",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Hidden Underbelly of the Silicon Valley: Algorithmic Exploitation and Health in Data Work Value Chains",
-      "url": "https://arxiv.org/abs/2608.04019",
-      "summary": "arXiv:2608.04019v1 Announce Type: new Abstract: With robots expected to replace humans in some professions, AI presents a new development prospect through the provisions of data work. For over a decade, large Silicon Valley technology firms have been relying on outsourcing of data work via a host of intermediary suppliers and labour platforms to different parts of the globe often the Global South region, such as East Africa. Much of this work is often shrouded in secrecy as firms rarely reveal the extent of their value chains. This results in the poor and marginalised forming the hidden underb",
+      "title": "Learning Sexism Detection Using Multi-Agent Perspectivist Preference Optimization",
+      "url": "https://arxiv.org/abs/2608.04056",
+      "summary": "arXiv:2608.04056v1 Announce Type: cross Abstract: When people label text for sexism, they often disagree, and not because some of them are wrong: they genuinely perceive sexism differently. Most NLP systems discard this disagreement by collapsing it into a majority vote. We propose the Multi-Agent Perspectivist Preference Optimization (MAP-PO) framework to keep these different perspectives. On the EXIST 2024 dataset of labeled English and Spanish tweets, we first cluster annotators by their labeling behavior rather than their demographic attributes. We then fine-tune one Large Language Model a",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Artificial Institutions: How Institutional Design Shapes LLM Simulations",
-      "url": "https://arxiv.org/abs/2608.04020",
-      "summary": "arXiv:2608.04020v1 Announce Type: new Abstract: Artificial societies built from large language model (LLM) agents are becoming a practical research tool in economics, political science, sociology, and computer science. Most attention has focused on the properties of the agents: their prompts, personas, memory, reasoning, and similarity to human subjects. This paper argues that the institutional architecture of a simulation is equally important. I demonstrate the point in a small repeated induced-value market experiment. The same LLM agents face the same private values, costs, history, and payo",
+      "title": "Manipulation-Proof Oblivious Audits against Deceptive Model Providers",
+      "url": "https://arxiv.org/abs/2608.04365",
+      "summary": "arXiv:2608.04365v1 Announce Type: cross Abstract: Audits have emerged as a critical instrument for algorithmic governance, providing a mechanism for external scrutiny and governance of machine learning models. However, ensuring the integrity of such assessments remains a challenging issue. For instance in regulatory contexts, audits are typically declared or easily detected, thus enabling model providers to manipulate the process, whether intentionally or inadvertently. This vulnerability is particularly acute in the context of fairness evaluations, in which providers can often infer sensitive",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Scarcity and Predictive Uncertainty: Implications for Societal Resource Allocation",
-      "url": "https://arxiv.org/abs/2608.04251",
-      "summary": "arXiv:2608.04251v1 Announce Type: new Abstract: An emerging literature examines the critical question of when and how prediction can be useful in allocating scarce societal resources. We examine a novel variant of this question: What happens when predictive uncertainty differs systematically across the population? This can occur in several situations; for example, when machine learning models have significantly different accuracies across different demographics. We show that this uncertainty has serious implications for resource allocation when coupled with commonly used binary measures of soc",
+      "title": "Circular Economy Synergies and Trade-offs in Data Centres",
+      "url": "https://arxiv.org/abs/2608.04571",
+      "summary": "arXiv:2608.04571v1 Announce Type: cross Abstract: This report analyses data centre (DC) sustainability and circularity, revealing existing synergies and trade-offs: The PUE is too coarse, mixing cooling and power provisioning. It wrongly attributes server fan consumption and transformation losses to IT energy. It does not measure compute but infrastructure efficiency, which is already outstanding. Compute energy, however, is exploding. Better energy metrics for DCs would thus cover i) compute efficiency, ii) transformation efficiency, and iii) cooling overhead. Trade-offs exist between cooling",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Building and Governing AI Systems: Advancing Social Workers' Roles across the Technology Industry, Human Service Organizations, and Policy Institutions",
-      "url": "https://arxiv.org/abs/2608.04273",
-      "summary": "arXiv:2608.04273v1 Announce Type: new Abstract: Artificial intelligence is moving the technology sector into domains social work has long served, including crisis response, mental health care, benefits administration, vocational rehabilitation, and child welfare. Social workers meet technology teams as users of their tools, as subjects in their datasets, and as first responders to what those systems deploy, yet they study these systems from outside the settings where the decisions are made. This paper introduces the standard roles on a technology product team and the decisions each one control",
+      "title": "AI Literacy for Legal Translation: Developing Digital Resilience",
+      "url": "https://arxiv.org/abs/2608.04641",
+      "summary": "arXiv:2608.04641v1 Announce Type: cross Abstract: Generative AI is transforming legal translation by introducing opportunities alongside linguistic, technical, legal, ethical and cognitive risks. This chapter examines the implications of AI for professional legal translation and proposes an AI literacy framework tailored to the profession. It argues that AI does not change the fundamental objectives of legal translation but requires an extension of professional competence through AI literacy. The proposed framework comprises four mutually reinforcing dimensions, foundational, procedural, criti",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Large-Scale Analysis of Discussions by CS Educators Across the Stack Exchange Network",
-      "url": "https://arxiv.org/abs/2608.04352",
-      "summary": "arXiv:2608.04352v1 Announce Type: new Abstract: Stack Exchange is a widely used question-and-answer network that facilitates knowledge exchange across diverse domains. Within this network, the Computer Science (CS) Educators Stack Exchange provides a dedicated platform where CS educators exchange ideas, seek advice, and discuss teaching practices. In this study, we analyzed 79,854,463 Stack Exchange posts, comprising 32,187,805 questions and 47,666,658 answers, with a particular focus on English-language posts contributed by CS Educators participants. Using topic modeling, we identified, manua",
+      "title": "Review Text as a Leading Indicator of Displayed Reputation in Platform Rating Systems: Evidence from 34 U.S. Short-Term Rental Markets",
+      "url": "https://arxiv.org/abs/2504.14053",
+      "summary": "arXiv:2504.14053v2 Announce Type: replace Abstract: Rating systems on accommodation platforms suffer from a familiar problem: nearly every listing displays a nearly perfect score, so the number that is supposed to separate good listings from bad ones barely varies. Whether the review text accumulating beneath those scores still carries usable information is an open question. I ask a dynamic version of it: does the text guests have already written predict where a listing's displayed rating moves next? Treating text and ratings as parallel channels that aggregate guest experience at different sp",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Decentralization of Agenda-Setting Power and Domain-Selective Bridging: Algorithm Design Beyond the Echo Chamber Debate",
-      "url": "https://arxiv.org/abs/2608.04774",
-      "summary": "arXiv:2608.04774v1 Announce Type: new Abstract: Echo chambers are an inevitable consequence of the human cognitive system being evolutionarily designed to prioritize processing of high-relevance information at the small-group scale, combined with algorithms that optimize engagement as their sole objective. Conventional prescriptions that normatively criticize echo chambers and demand individual behavioral change have low feasibility given these cognitive constraints. This paper constructs an Agenda Democratization Index (ADI) that quantities the decentralization of agenda-setting power using f",
+      "title": "How Should AI Safety Benchmarks Benchmark Safety?",
+      "url": "https://arxiv.org/abs/2601.23112",
+      "summary": "arXiv:2601.23112v3 Announce Type: replace Abstract: AI safety benchmarks are pivotal for safety in advanced AI systems; however, they have significant technical, epistemic, and sociotechnical shortcomings. We present a review of 210 safety benchmarks that maps out common challenges in safety benchmarking, documenting failures and limitations by drawing from engineering sciences and long-established theories of risk and safety. We argue that adhering to established risk management principles, mapping the space of what can(not) be measured, developing robust probabilistic metrics, and efficientl",
       "published": "2026-08-06T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
