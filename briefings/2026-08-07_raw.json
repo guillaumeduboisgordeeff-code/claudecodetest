@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-07",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Beyond Information Retrieval: Generative AI as an Epistemic Arbiter to Enhance Collaborative Problem-Solving",
+      "url": "https://arxiv.org/abs/2608.05171",
+      "summary": "arXiv:2608.05171v1 Announce Type: new Abstract: Generative AI (GAI) creates new opportunities for collaborative problem-solving (CPS), yet its role in shaping student interaction remains unclear. To address this gap, we conducted a six-week quasi-experimental study with 201 fifth-grade students in two conditions: with and without GAI. Chi-square analysis showed significant differences in CPS behavior distributions between groups. Compared with the control group, the GAI-supported group demonstrated more social behaviors, particularly engagement and conflict management, but less frequent cognit",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Estimating time spent on work tasks",
+      "url": "https://arxiv.org/abs/2608.05172",
+      "summary": "arXiv:2608.05172v1 Announce Type: new Abstract: The task-based framework in economics models occupations as bundles of tasks. It is the standard lens for understanding how technology affects work: a new technology changes the cost or time each task requires and these task-level effects aggregate to occupation-level effects. We study how tasks should be weighted in this aggregation. Prior work has relied on idiosyncratic or ill-justified choices for task weights. While recent work suggests weighting tasks by time spent, existing time shares are either based on coarse ONET data not intended for ",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Closing Window: How Governments Could Lose Their Ability to Restrain Advanced AI",
+      "url": "https://arxiv.org/abs/2608.05173",
+      "summary": "arXiv:2608.05173v1 Announce Type: new Abstract: As AI capabilities advance, AI systems will pose greater risks to national security and potentially humanity as a whole. Governments may eventually conclude that these risks warrant restraining AI development. This motivates the question: will governments still be able to restrain AI development in the future, should they want to do so? In this paper we analyze which world events and changes to the state of AI development would make future governance more difficult or even effectively impossible. Our analysis surfaces likely pathways that would l",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Art in Humanity's Code",
+      "url": "https://arxiv.org/abs/2608.05174",
+      "summary": "arXiv:2608.05174v1 Announce Type: new Abstract: Artist-led open-source libraries such as Processing or openFrameworks have had a major impact on artists and designers who use code as a creative medium. In this work, we conduct the first large-scale empirical study of public code repositories that use these libraries. Our study dives into 1,613,571 code repositories collected from the Software Heritage archive. Combining quantitative and qualitative methods, we investigate the diversity of practices and practitioners in terms of code hosting, geographical distribution, characteristics of code-b",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights",
+      "url": "https://arxiv.org/abs/2608.05175",
+      "summary": "arXiv:2608.05175v1 Announce Type: new Abstract: Large language models can complete most of the assignments in an introductory artificial intelligence course. This paper is an experience report on redesigning one such course, CSS~382 at the University of Washington Bothell, in response. Rather than freeze the curriculum, the redesign retained the course's classical core (search, adversarial search, Markov decision processes, reinforcement learning) and added a strand in which students build a large language model from scratch, so that a tool they are required to use is also one they are require",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Challenges for Musical Education in the Age of AI and Digital Transformation",
+      "url": "https://arxiv.org/abs/2608.05176",
+      "summary": "arXiv:2608.05176v1 Announce Type: new Abstract: Music education has never been a static discipline. Each major technological shift has forced educators and institutions to reconsider what they teach, how they teach it, and why. We now stand at what may be the most consequential of such turning points. Three deeply intertwined transformations have been converging simultaneously: 1. The very nature of music has changed: how it is made, distributed, consumed, and valued; 2. The public for music has changed: listening habits are now shaped by streaming algorithms and the boundary between consumer ",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency",
+      "url": "https://arxiv.org/abs/2608.05177",
+      "summary": "arXiv:2608.05177v1 Announce Type: new Abstract: Research indicates students require customized written composition feedback to enhance critical thinking and writing competence, yet teachers face barriers to delivering timely personalized guidance due to heavy workloads. To address this gap, this study developed the Writing Improvement and Smart Evaluation Agent (WISE Agent), an artificial intelligence (AI) feedback tool targeting textual logic and perspective biases in student essays. We conducted a three-month intervention with 260 Chinese sixth-grade students, each completing seven themed es",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Who Gets Access? Global Region and Academic Status Bias in AI-Generated Academic Gatekeeping Scenarios",
+      "url": "https://arxiv.org/abs/2608.05178",
+      "summary": "arXiv:2608.05178v1 Announce Type: new Abstract: Equitable access to scientific knowledge often depends on informal gatekeeping decisions, particularly when resources such as paywalled articles, datasets, or professional materials such as curriculum vitae (CV) must be shared selectively. We introduce a controlled simulation framework in which large language model (LLM)-based professors must grant access to only one requestor. Across prompts, requesters vary systematically by global region (Global North vs. Global South) and academic seniority (undergraduate student, PhD candidate, postdoctoral ",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Autonomous Research Agents: A Survey of AI Scientists and the Verification Gap",
+      "url": "https://arxiv.org/abs/2608.05179",
+      "summary": "arXiv:2608.05179v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used across the scientific research lifecycle: ideation, literature search, experiment design and execution, analysis, manuscript drafting, and review. End-to-end AI scientist systems can now produce paper-like manuscripts, but their claims are often harder to verify than their code is to run. This survey studies that gap in computational AI/ML research, where code, benchmarks, experiments, and write-ups are most visible. We screen 125 candidate works and include 35, with full-text coding of 26 e",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Nuclear Decision-Making Benchmark: Evaluating Frontier LLMs on Nuclear Tendencies",
+      "url": "https://arxiv.org/abs/2608.05180",
+      "summary": "arXiv:2608.05180v1 Announce Type: new Abstract: The integration of large language models into defense and national-security workflows raises urgent questions about whether frontier models exhibit stable, consistent, and policy-appropriate preferences in high-stakes contexts. We introduce the Nuclear Decision-Making Benchmark (NDM Bench), a targeted evaluation framework of 151 scenarios authored by PhD-credentialed scholars in international relations spanning four domains: escalation (76), arms control (25), non-proliferation (25), and proliferation (25). Scenarios are actor-agnostic, enabling ",
+      "published": "2026-08-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
