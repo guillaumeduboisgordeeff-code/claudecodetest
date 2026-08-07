@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Beyond Information Retrieval: Generative AI as an Epistemic Arbiter to Enhance Collaborative Problem-Solving",
-      "url": "https://arxiv.org/abs/2608.05171",
-      "summary": "arXiv:2608.05171v1 Announce Type: new Abstract: Generative AI (GAI) creates new opportunities for collaborative problem-solving (CPS), yet its role in shaping student interaction remains unclear. To address this gap, we conducted a six-week quasi-experimental study with 201 fifth-grade students in two conditions: with and without GAI. Chi-square analysis showed significant differences in CPS behavior distributions between groups. Compared with the control group, the GAI-supported group demonstrated more social behaviors, particularly engagement and conflict management, but less frequent cognit",
+      "title": "Beyond Demographics: BIM Engagement and Job Satisfaction Among AEC Professionals, A Machine Learning Pilot Study",
+      "url": "https://arxiv.org/abs/2608.05181",
+      "summary": "arXiv:2608.05181v1 Announce Type: new Abstract: Building Information Modeling (BIM) has transformed workflows across the Architecture, Engineering, and Construction (AEC) industry, yet its relationship with employee job satisfaction remains insufficiently understood. This pilot study investigates whether BIM engagement or demographic characteristics better predict job satisfaction among AEC professionals. Survey responses from 104 participants were analyzed using Spearman rank correlations, logistic regression, and Classification and Regression Tree (CART) modeling. 27 items Job Satisfaction I",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Estimating time spent on work tasks",
-      "url": "https://arxiv.org/abs/2608.05172",
-      "summary": "arXiv:2608.05172v1 Announce Type: new Abstract: The task-based framework in economics models occupations as bundles of tasks. It is the standard lens for understanding how technology affects work: a new technology changes the cost or time each task requires and these task-level effects aggregate to occupation-level effects. We study how tasks should be weighted in this aggregation. Prior work has relied on idiosyncratic or ill-justified choices for task weights. While recent work suggests weighting tasks by time spent, existing time shares are either based on coarse ONET data not intended for ",
+      "title": "School network reorganization under educational and spatial constraints using classical and quantum optimization",
+      "url": "https://arxiv.org/abs/2608.05427",
+      "summary": "arXiv:2608.05427v1 Announce Type: new Abstract: School network reorganization is a strategic planning problem that requires balancing demographic trends, territorial accessibility, educational requirements, and institutional constraints while ensuring an efficient allocation of public resources. This paper proposes an optimization framework for school dimensioning decisions based on a novel Integer Linear Programming formulation integrating geographical, administrative, and educational criteria. A synthetic benchmark generator is introduced to evaluate the scalability and computational perform",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Closing Window: How Governments Could Lose Their Ability to Restrain Advanced AI",
-      "url": "https://arxiv.org/abs/2608.05173",
-      "summary": "arXiv:2608.05173v1 Announce Type: new Abstract: As AI capabilities advance, AI systems will pose greater risks to national security and potentially humanity as a whole. Governments may eventually conclude that these risks warrant restraining AI development. This motivates the question: will governments still be able to restrain AI development in the future, should they want to do so? In this paper we analyze which world events and changes to the state of AI development would make future governance more difficult or even effectively impossible. Our analysis surfaces likely pathways that would l",
+      "title": "A Vision for the Future of an AI-Integrated Research Ecosystem",
+      "url": "https://arxiv.org/abs/2608.05438",
+      "summary": "arXiv:2608.05438v1 Announce Type: new Abstract: Generative AI has infiltrated every stage of the research lifecycle: how scholarship is conducted, written, published, and reviewed. Recent policy responses, such as ACM's authorship policy, address an immediate concern about responsible and transparent disclosure of AI use. We argue that a focus on authorship and disclosure, although necessary, risks obscuring and ballooning a set of entrenched problems and strains within publication systems. The central question is not about how papers and other research artifacts should incorporate AI, but how",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Art in Humanity's Code",
-      "url": "https://arxiv.org/abs/2608.05174",
-      "summary": "arXiv:2608.05174v1 Announce Type: new Abstract: Artist-led open-source libraries such as Processing or openFrameworks have had a major impact on artists and designers who use code as a creative medium. In this work, we conduct the first large-scale empirical study of public code repositories that use these libraries. Our study dives into 1,613,571 code repositories collected from the Software Heritage archive. Combining quantitative and qualitative methods, we investigate the diversity of practices and practitioners in terms of code hosting, geographical distribution, characteristics of code-b",
+      "title": "Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-",
+      "url": "https://arxiv.org/abs/2608.05545",
+      "summary": "arXiv:2608.05545v1 Announce Type: new Abstract: Generative AI used as a capable servant has greatly accelerated intellectual work, but it also risks eroding human epistemic agency by encouraging uncritical acceptance of AI-generated reasoning. This creates a need for mechanisms that preserve human agency by augmenting metacognition during AI-assisted intellectual work. To address this, we propose the Synthesis-Analysis Reciprocity Model, which views intellectual construction as a reciprocal interaction between Synthesis, which combines components into an artifact, and Analysis, which criticall",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Teaching Intro AI When the Tools Can Do the Homework: A Course Redesign and a Student Bill of Rights",
-      "url": "https://arxiv.org/abs/2608.05175",
-      "summary": "arXiv:2608.05175v1 Announce Type: new Abstract: Large language models can complete most of the assignments in an introductory artificial intelligence course. This paper is an experience report on redesigning one such course, CSS~382 at the University of Washington Bothell, in response. Rather than freeze the curriculum, the redesign retained the course's classical core (search, adversarial search, Markov decision processes, reinforcement learning) and added a strand in which students build a large language model from scratch, so that a tool they are required to use is also one they are require",
+      "title": "The Judgment-Consequence Gap: LLM Moral Reasoning in Healthcare Decisions",
+      "url": "https://arxiv.org/abs/2608.05583",
+      "summary": "arXiv:2608.05583v1 Announce Type: new Abstract: As large language models (LLMs) enter high-stakes domains such as healthcare, understanding their moral reasoning becomes essential. Decisions about scarce medical resources often hinge on judgments of responsibility, particularly when patients' own actions contribute to illness. We investigate how LLMs reason about responsibility and its consequences, tracing their judgments across successive levels, from the behavior, to the resulting illness, to the denial of care. We evaluate a wide range of LLMs, spanning different model families and capabil",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Challenges for Musical Education in the Age of AI and Digital Transformation",
-      "url": "https://arxiv.org/abs/2608.05176",
-      "summary": "arXiv:2608.05176v1 Announce Type: new Abstract: Music education has never been a static discipline. Each major technological shift has forced educators and institutions to reconsider what they teach, how they teach it, and why. We now stand at what may be the most consequential of such turning points. Three deeply intertwined transformations have been converging simultaneously: 1. The very nature of music has changed: how it is made, distributed, consumed, and valued; 2. The public for music has changed: listening habits are now shaped by streaming algorithms and the boundary between consumer ",
+      "title": "Studying People to Study AI: Expert Perspectives on the Epistemic Fit and Barriers of Human Research in AI Safety & Ethics",
+      "url": "https://arxiv.org/abs/2608.05656",
+      "summary": "arXiv:2608.05656v1 Announce Type: new Abstract: Safety risks of AI are becoming increasingly evident in human interactions with AI technologies. The prominent approaches to evaluating these risks favor technical methods, such as model benchmarks and LLM simulations, often sidelining empirical research with human subjects. To examine this apparent gap in the acceptance of human research, we conduct an expert survey (n=93) and expert interviews (n=17) with AI Safety & Ethics (AISE) researchers from Technical, Sociotechnical, Governance, and Normative backgrounds. Our findings suggest that althou",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Using AI-Generated Feedback to Improve Critical Thinking and Writing Proficiency",
-      "url": "https://arxiv.org/abs/2608.05177",
-      "summary": "arXiv:2608.05177v1 Announce Type: new Abstract: Research indicates students require customized written composition feedback to enhance critical thinking and writing competence, yet teachers face barriers to delivering timely personalized guidance due to heavy workloads. To address this gap, this study developed the Writing Improvement and Smart Evaluation Agent (WISE Agent), an artificial intelligence (AI) feedback tool targeting textual logic and perspective biases in student essays. We conducted a three-month intervention with 260 Chinese sixth-grade students, each completing seven themed es",
+      "title": "Validity, Reliability, and Transparency in Artificial Intelligence Regulation",
+      "url": "https://arxiv.org/abs/2608.05800",
+      "summary": "arXiv:2608.05800v1 Announce Type: new Abstract: Artificial intelligence (AI) systems increasingly mediate decisions affecting individuals and societies. Existing data protection frameworks address certain privacy-related harms, particularly those arising from data leakage, re-identification, and profiling. However, they inadequately capture a more fundamental risk: unreliable or unjustified inference produced by AI systems even when data collection and processing are legitimate. This article argues that modern AI raises distinct concerns of construct validity, confounding, representativeness, ",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Who Gets Access? Global Region and Academic Status Bias in AI-Generated Academic Gatekeeping Scenarios",
-      "url": "https://arxiv.org/abs/2608.05178",
-      "summary": "arXiv:2608.05178v1 Announce Type: new Abstract: Equitable access to scientific knowledge often depends on informal gatekeeping decisions, particularly when resources such as paywalled articles, datasets, or professional materials such as curriculum vitae (CV) must be shared selectively. We introduce a controlled simulation framework in which large language model (LLM)-based professors must grant access to only one requestor. Across prompts, requesters vary systematically by global region (Global North vs. Global South) and academic seniority (undergraduate student, PhD candidate, postdoctoral ",
+      "title": "The Algorithmic Flattening of Sound: Computational Evidence and Justice Implications of AI Music Homogenization",
+      "url": "https://arxiv.org/abs/2608.06106",
+      "summary": "arXiv:2608.06106v1 Announce Type: new Abstract: This paper audits whether large-scale generative music systems exhibit measurable musical homogenization relative to human-produced music, and develops a justice-centered account of why this matters. We audit two commercially deployed systems (Suno and Lyria 3) across four genres (Afrobeats, K-pop, Dance Pop, and Heavy Metal). For each system and genre, we generate 100 tracks and compare them against human corpora of equal size, using 72 music information retrieval (MIR) features and multiple diagnostics of dispersion, redundancy, and separabilit",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Autonomous Research Agents: A Survey of AI Scientists and the Verification Gap",
-      "url": "https://arxiv.org/abs/2608.05179",
-      "summary": "arXiv:2608.05179v1 Announce Type: new Abstract: Large language model (LLM) agents are increasingly used across the scientific research lifecycle: ideation, literature search, experiment design and execution, analysis, manuscript drafting, and review. End-to-end AI scientist systems can now produce paper-like manuscripts, but their claims are often harder to verify than their code is to run. This survey studies that gap in computational AI/ML research, where code, benchmarks, experiments, and write-ups are most visible. We screen 125 candidate works and include 35, with full-text coding of 26 e",
+      "title": "What out-of-the-box LLMs can(t) do in law? A Turing test in Italian exams for lawyers, judges and notaries",
+      "url": "https://arxiv.org/abs/2608.06166",
+      "summary": "arXiv:2608.06166v1 Announce Type: new Abstract: The article reports on a blind Turing Test experiment, assessing the performance of out-of-the-box leading LLMs on three Italian legal professional exams: the Bar, Judges and Notary exams. Leading LLMs were asked to generate full written exam papers, which were made indistinguishable from human submissions and anonymously evaluated by expert examiners, using the same criteria applied in real examinations. Results reveal marked differences across both models and tasks. While some LLMs match or exceed top human performance in adversarial legal argu",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Nuclear Decision-Making Benchmark: Evaluating Frontier LLMs on Nuclear Tendencies",
-      "url": "https://arxiv.org/abs/2608.05180",
-      "summary": "arXiv:2608.05180v1 Announce Type: new Abstract: The integration of large language models into defense and national-security workflows raises urgent questions about whether frontier models exhibit stable, consistent, and policy-appropriate preferences in high-stakes contexts. We introduce the Nuclear Decision-Making Benchmark (NDM Bench), a targeted evaluation framework of 151 scenarios authored by PhD-credentialed scholars in international relations spanning four domains: escalation (76), arms control (25), non-proliferation (25), and proliferation (25). Scenarios are actor-agnostic, enabling ",
+      "title": "From Precision Medicine to Precision Education: A Vision for AI-Powered Student Digital Twins, Preventive Student Success, and Career-Aligned Academic Pathways",
+      "url": "https://arxiv.org/abs/2608.06322",
+      "summary": "arXiv:2608.06322v1 Announce Type: new Abstract: Higher education remains largely reactive in its approach to student success. Institutions frequently identify academic problems only after students have failed courses, fallen behind in degree progression, accumulated excessive debt, or departed without a credential. Healthcare faced a similar challenge decades ago. It responded by shifting from reactive treatment to preventive care powered by predictive models, risk stratification, electronic health records, and artificial intelligence (AI). This paper argues that higher education stands at an ",
       "published": "2026-08-07T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
