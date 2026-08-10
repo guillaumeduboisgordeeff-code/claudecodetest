@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-10",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Organizational and Socio-Technical Challenges in UAV Incidents: Evidence from a Practitioner Focus Group",
+      "url": "https://arxiv.org/abs/2608.06472",
+      "summary": "arXiv:2608.06472v1 Announce Type: new Abstract: Unmanned Aerial Vehicles are now widely used across business, government, and recreational contexts, creating new challenges for incident response and digital forensics. While previous forensics research has largely focused on the extraction of technical data from UAV systems, minimal empirical work has examined how UAV incidents are handled in real-world settings or what challenges incident handlers face during this response. To address this gap, this paper reports findings from an in-person focus group with UAV and counter-UAV practitioners fro",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Agentic AI: User Empowerment or Enclosure?",
+      "url": "https://arxiv.org/abs/2608.06510",
+      "summary": "arXiv:2608.06510v1 Announce Type: new Abstract: Agentic AI promises a more flexible form of digital agency: systems that can act on users' behalf, from filtering content to negotiating prices to selecting services. Whether it will empower users is an open question, and we argue that the answer depends on more than the technology. We conduct a comparative case analysis of four more mature domains where similar forms of agency arose: browser-based ad blockers, platform recommender systems, financial robo-advisors, and email spam governance. Across the cases, decisions about whose interests agent",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Accelerating Accurate Assignment Authoring Using Solution-Generated Autograders",
+      "url": "https://arxiv.org/abs/2608.06572",
+      "summary": "arXiv:2608.06572v1 Announce Type: new Abstract: Students learning to program benefit from access to large numbers of practice problems. Autograders are commonly used to support programming questions by providing quick feedback on submissions. But authoring accurate autograders remains challenging. Autograders are frequently created by enumerating test cases--a tedious process that can produce inaccurate autograders that fail to correctly classify submissions. When authoring accurate autograders is slow, it is difficult to create large banks of practice problems to support beginning programmers",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Implementation of Split Deadlines in a Large CS1 Course",
+      "url": "https://arxiv.org/abs/2608.06753",
+      "summary": "arXiv:2608.06753v1 Announce Type: new Abstract: Office hour utilization in computer science courses can spike near deadlines, producing long wait times, frustrated students, and overworked staff. To address this problem, a large CS1 course implemented a split deadlines policy. Students were randomly divided into two groups with staggered release and due dates. Each group had the same amount of time to complete assignments, but the number of students with each due date was reduced by half. Our study evaluates the effectiveness of this policy. We measure office hour utilization and staff efficie",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Investigating the Presence and Development of Student Instructor Preferences in a Large-Scale CS1 Course",
+      "url": "https://arxiv.org/abs/2608.06782",
+      "summary": "arXiv:2608.06782v1 Announce Type: new Abstract: Prior research has established the importance of student instructor preferences and identified various influencing factors. However, the dynamics of how student instructor preferences develop and change are less well understood, due to the limitations of common course structures and reliance on one-time measurements. To bridge this gap, we utilize data from a novel learning platform that provides students with access to instructional content created by multiple instructors. This platform enables the quantification of preference emergence and evol",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "\"Death by a thousand taxonomies?\": AI Risk Classification In Practice",
+      "url": "https://arxiv.org/abs/2608.06831",
+      "summary": "arXiv:2608.06831v1 Announce Type: new Abstract: The harms in which AI is implicated range in nature and scope from unsafe user interactions through to the societal-wide consequences of AI adoption. Classification of the diverse risks of AI is foundational to AI governance: regulators, technology firms, and policymakers need structured accounts of risk upon which to act. Researchers and practitioners have accordingly developed many Sociotechnical Outcome Taxonomies (SOT). This paper presents an empirical study of SOT development and use, drawing on 25 interviews with researchers and practitione",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Where Does AI Innovation Go? Measuring Research Attention Imbalance in AI Music",
+      "url": "https://arxiv.org/abs/2608.06903",
+      "summary": "arXiv:2608.06903v1 Announce Type: new Abstract: The rapid growth of artificial intelligence (AI) in music has expanded research from generation and information retrieval to education, health, and governance. Yet this growth does not necessarily imply balanced research attention. Where is research attention directed across diverse music tasks, and how can such imbalance be systematically measured? Existing studies examine AI music from separate technical, application-specific, or bibliometric perspectives, but lack a systematic framework for measuring field-level imbalance. To address this gap,",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Educational Short Videos: Bibliometric Trends, Thematic Structure, and Operationalisation",
+      "url": "https://arxiv.org/abs/2608.06932",
+      "summary": "arXiv:2608.06932v1 Announce Type: new Abstract: Educational short-video research spans disciplines, platforms and learning contexts, but the same label is applied to resources differing in function, activity, context and evaluation, complicating comparison and evidence synthesis. This study mapped the development, thematic organisation and operationalisation of educational short-video research. We analysed 2,169 records indexed in Web of Science and Scopus up to 11 June 2026 using bibliometric analysis, non-negative matrix factorisation topic modelling and structured content analysis. Publicat",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Data Annotation as Measurement",
+      "url": "https://arxiv.org/abs/2608.07297",
+      "summary": "arXiv:2608.07297v1 Announce Type: new Abstract: Modern AI systems depend on annotated data, but annotation is rarely treated as the act of measurement that it is. Instead, annotation quality is commonly reduced to agreement: if multiple annotators assign the same annotation to a data instance, the annotations are taken to be high-quality. Yet agreement does not establish whether annotations validly capture the underlying concept they are meant to represent. In this paper, we argue that data annotation should be understood as a measurement problem. Like other forms of measurement, annotation re",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Forensics to Ecosystems: Rethinking Watermarks for Generative AI Oversight",
+      "url": "https://arxiv.org/abs/2608.07337",
+      "summary": "arXiv:2608.07337v1 Announce Type: new Abstract: The arrival of generative AI as a cheap, widely accessible commercial service, and the tidal wave of AI-generated synthetic content it has unleashed, have provoked deep epistemic and social anxieties and raised difficult governance questions that policymakers are struggling to address. One approach that has attracted both enthusiasm from regulators and skepticism from researchers is digital watermarking. Signals embedded in a synthetically-generated piece of content indicating that it was AI-generated---possibly even identifying the specific syst",
+      "published": "2026-08-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
