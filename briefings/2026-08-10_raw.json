@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Organizational and Socio-Technical Challenges in UAV Incidents: Evidence from a Practitioner Focus Group",
-      "url": "https://arxiv.org/abs/2608.06472",
-      "summary": "arXiv:2608.06472v1 Announce Type: new Abstract: Unmanned Aerial Vehicles are now widely used across business, government, and recreational contexts, creating new challenges for incident response and digital forensics. While previous forensics research has largely focused on the extraction of technical data from UAV systems, minimal empirical work has examined how UAV incidents are handled in real-world settings or what challenges incident handlers face during this response. To address this gap, this paper reports findings from an in-person focus group with UAV and counter-UAV practitioners fro",
+      "title": "Against Explainable Artificial Intelligence In Law: Why Justifiable Ai Matters. A Credit Scoring Example",
+      "url": "https://arxiv.org/abs/2608.07452",
+      "summary": "arXiv:2608.07452v1 Announce Type: new Abstract: Artificial intelligence-based solutions offer new efficiency-increasing possibilities in many applications, including credit scoring. Yet, the increasing sophistication of machine-learning models in use raises concerns regarding many of their aspects, explainability notwithstanding. We review the relevant EU legal background and integrate this review with insights from technical sciences to interpret relevant legal provisions in the light of technological possibilities. We reject the narrow interpretations of the right to explanation and suggest ",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Agentic AI: User Empowerment or Enclosure?",
-      "url": "https://arxiv.org/abs/2608.06510",
-      "summary": "arXiv:2608.06510v1 Announce Type: new Abstract: Agentic AI promises a more flexible form of digital agency: systems that can act on users' behalf, from filtering content to negotiating prices to selecting services. Whether it will empower users is an open question, and we argue that the answer depends on more than the technology. We conduct a comparative case analysis of four more mature domains where similar forms of agency arose: browser-based ad blockers, platform recommender systems, financial robo-advisors, and email spam governance. Across the cases, decisions about whose interests agent",
+      "title": "The Theory of Strategic Evolution: Games with Endogenous Players and Strategic Replicators",
+      "url": "https://arxiv.org/abs/2512.07901",
+      "summary": "arXiv:2512.07901v3 Announce Type: cross Abstract: Von Neumann founded both game theory and the theory of self-reproducing automata, but the two programs never merged. This paper provides the synthesis. The Theory of Strategic Evolution analyzes strategic replicators: entities that optimize under resource constraints and spawn copies of themselves. We introduce Games with Endogenous Players (GEPs), where lineages (not instances) are the fundamental strategic units, and define Evolutionarily Stable Distributions of Intelligence (ESDIs) as the resulting equilibrium concept. The central mathematic",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Accelerating Accurate Assignment Authoring Using Solution-Generated Autograders",
-      "url": "https://arxiv.org/abs/2608.06572",
-      "summary": "arXiv:2608.06572v1 Announce Type: new Abstract: Students learning to program benefit from access to large numbers of practice problems. Autograders are commonly used to support programming questions by providing quick feedback on submissions. But authoring accurate autograders remains challenging. Autograders are frequently created by enumerating test cases--a tedious process that can produce inaccurate autograders that fail to correctly classify submissions. When authoring accurate autograders is slow, it is difficult to create large banks of practice problems to support beginning programmers",
+      "title": "TradeVerse: A Longitudinal Benchmark of Political Negotiation in International Trade",
+      "url": "https://arxiv.org/abs/2608.06549",
+      "summary": "arXiv:2608.06549v1 Announce Type: cross Abstract: LLMs are increasingly being applied to tasks involving institutional and political texts, but existing benchmarks evaluate them on isolated documents or single tasks. In realpolitik, negotiations are longitudinal data, where participating parties can align or argue over multiple iterations and each turn is an outcome of the previous turns, hence, understanding one turn requires tracking everything before it. We introduce TradeVerse, a benchmark built from the World Trade Organisation (WTO) specific trade concerns, where member states challenge ",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Implementation of Split Deadlines in a Large CS1 Course",
-      "url": "https://arxiv.org/abs/2608.06753",
-      "summary": "arXiv:2608.06753v1 Announce Type: new Abstract: Office hour utilization in computer science courses can spike near deadlines, producing long wait times, frustrated students, and overworked staff. To address this problem, a large CS1 course implemented a split deadlines policy. Students were randomly divided into two groups with staggered release and due dates. Each group had the same amount of time to complete assignments, but the number of students with each due date was reduced by half. Our study evaluates the effectiveness of this policy. We measure office hour utilization and staff efficie",
+      "title": "Calibrating WEAT Against Anisotropy: ZCA Whitening as a Geometric Pre-Processing Step for Embedding Association Tests",
+      "url": "https://arxiv.org/abs/2608.06908",
+      "summary": "arXiv:2608.06908v1 Announce Type: cross Abstract: We propose Zero-phase Component Analysis (ZCA) whitening as a geometric pre-processing step for the Word Embedding Association Test (WEAT). WEAT is a bias measurement method widely used in both computational social science and AI fairness research. It relies on cosine similarity as a measure of semantic association, which assumes that the embedding space is approximately isotropic. However, prior work has reported that many widely used language models do not satisfy this assumption, raising concerns about the reliability of bias measurements. Z",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Investigating the Presence and Development of Student Instructor Preferences in a Large-Scale CS1 Course",
-      "url": "https://arxiv.org/abs/2608.06782",
-      "summary": "arXiv:2608.06782v1 Announce Type: new Abstract: Prior research has established the importance of student instructor preferences and identified various influencing factors. However, the dynamics of how student instructor preferences develop and change are less well understood, due to the limitations of common course structures and reliance on one-time measurements. To bridge this gap, we utilize data from a novel learning platform that provides students with access to instructional content created by multiple instructors. This platform enables the quantification of preference emergence and evol",
+      "title": "Critical Acclaim Orientation in Large Language Models: Evidence from Film Preference Elicitation",
+      "url": "https://arxiv.org/abs/2608.06955",
+      "summary": "arXiv:2608.06955v1 Announce Type: cross Abstract: Large language models (LLMs) are trained on corpora that contain expressions of human judgment about films, books, music, and more. Yet whether LLMs systematically reproduce evaluative hierarchies remains unclear. Prior research on cultural bias in LLMs suggests competing expectations: models may mirror the popularity signals of internet texts, or may reproduce forms of prestige embedded in critical discourse. We probe this question through a study of film evaluations with eight models from four families (Anthropic, OpenAI, Alibaba, and Mistral",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "\"Death by a thousand taxonomies?\": AI Risk Classification In Practice",
-      "url": "https://arxiv.org/abs/2608.06831",
-      "summary": "arXiv:2608.06831v1 Announce Type: new Abstract: The harms in which AI is implicated range in nature and scope from unsafe user interactions through to the societal-wide consequences of AI adoption. Classification of the diverse risks of AI is foundational to AI governance: regulators, technology firms, and policymakers need structured accounts of risk upon which to act. Researchers and practitioners have accordingly developed many Sociotechnical Outcome Taxonomies (SOT). This paper presents an empirical study of SOT development and use, drawing on 25 interviews with researchers and practitione",
+      "title": "Same physical state, different collective dynamics: state encodings select synchronization outcomes in language-model agents",
+      "url": "https://arxiv.org/abs/2608.06968",
+      "summary": "arXiv:2608.06968v1 Announce Type: cross Abstract: Language-model agents act on state encodings of their environment, yet these are treated as interchangeable interfaces. Using pretrained language models, we designed a circular-synchronization experiment applying a state-encoding intervention while holding the physical system fixed: each agent sees only a summary of its neighbours' relative phases and chooses to advance, stay or retard. Encoding that state as low-order circular moments rather than as a histogram selected different collective outcomes. In GPT the moment encoding synchronized the",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Where Does AI Innovation Go? Measuring Research Attention Imbalance in AI Music",
-      "url": "https://arxiv.org/abs/2608.06903",
-      "summary": "arXiv:2608.06903v1 Announce Type: new Abstract: The rapid growth of artificial intelligence (AI) in music has expanded research from generation and information retrieval to education, health, and governance. Yet this growth does not necessarily imply balanced research attention. Where is research attention directed across diverse music tasks, and how can such imbalance be systematically measured? Existing studies examine AI music from separate technical, application-specific, or bibliometric perspectives, but lack a systematic framework for measuring field-level imbalance. To address this gap,",
+      "title": "Invisible to the Machine: Auditing AI Restaurant, Cafe, and Bar Recommendation Against a Complete Market Census",
+      "url": "https://arxiv.org/abs/2608.07069",
+      "summary": "arXiv:2608.07069v1 Announce Type: cross Abstract: AI assistants are becoming a primary interface for local discovery, yet almost nothing is known about which venues they surface -- especially in food and drink, where recommendations carry direct revenue consequences. We present the first census-denominated audit of AI venue recommendation: a complete enumeration of 4,776 cafes, restaurants, and bars across two bounded markets (Canggu and Ubud, Bali), against which we evaluate 2,208 search-grounded responses from four production AI systems (ChatGPT, Claude, Gemini, Perplexity) to 96 persona-con",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Educational Short Videos: Bibliometric Trends, Thematic Structure, and Operationalisation",
-      "url": "https://arxiv.org/abs/2608.06932",
-      "summary": "arXiv:2608.06932v1 Announce Type: new Abstract: Educational short-video research spans disciplines, platforms and learning contexts, but the same label is applied to resources differing in function, activity, context and evaluation, complicating comparison and evidence synthesis. This study mapped the development, thematic organisation and operationalisation of educational short-video research. We analysed 2,169 records indexed in Web of Science and Scopus up to 11 June 2026 using bibliometric analysis, non-negative matrix factorisation topic modelling and structured content analysis. Publicat",
+      "title": "Curriculum as Code: An AI-Assisted Architecture for Instructional Design in STEM Education",
+      "url": "https://arxiv.org/abs/2608.07364",
+      "summary": "arXiv:2608.07364v1 Announce Type: cross Abstract: Contribution: This paper presents a six-phase AI-assisted instructional design architecture based on the Curriculum as Code paradigm, integrating Generative AI with LaTeX and Python to automate the creation of reproducible, visually consistent, and technically precise materials for STEM education. Background: Creating customized instructional materials for active learning imposes a heavy workload on faculty. Standard presentation tools lack robust support for technical content, while current AI applications often hallucinate and fail to formali",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Data Annotation as Measurement",
-      "url": "https://arxiv.org/abs/2608.07297",
-      "summary": "arXiv:2608.07297v1 Announce Type: new Abstract: Modern AI systems depend on annotated data, but annotation is rarely treated as the act of measurement that it is. Instead, annotation quality is commonly reduced to agreement: if multiple annotators assign the same annotation to a data instance, the annotations are taken to be high-quality. Yet agreement does not establish whether annotations validly capture the underlying concept they are meant to represent. In this paper, we argue that data annotation should be understood as a measurement problem. Like other forms of measurement, annotation re",
+      "title": "Taxonomy-Driven Analysis of Open-Source AI Risk Mitigation Tools",
+      "url": "https://arxiv.org/abs/2608.07446",
+      "summary": "arXiv:2608.07446v1 Announce Type: cross Abstract: Rapid adoption of large language models (LLMs) in enterprise settings has introduced operational, security, and governance risks. As generative AI applications move from pilot to production, manual harm identification and mitigation are becoming difficult to scale. Although many tools support model evaluation, adversarial testing, runtime guardrails, and observability, the tooling landscape remains fragmented. Tools are typically designed for specific engineering tasks and described in technical terms that do not align with governance framework",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Forensics to Ecosystems: Rethinking Watermarks for Generative AI Oversight",
-      "url": "https://arxiv.org/abs/2608.07337",
-      "summary": "arXiv:2608.07337v1 Announce Type: new Abstract: The arrival of generative AI as a cheap, widely accessible commercial service, and the tidal wave of AI-generated synthetic content it has unleashed, have provoked deep epistemic and social anxieties and raised difficult governance questions that policymakers are struggling to address. One approach that has attracted both enthusiasm from regulators and skepticism from researchers is digital watermarking. Signals embedded in a synthetically-generated piece of content indicating that it was AI-generated---possibly even identifying the specific syst",
+      "title": "Playing Games with My Heart: An Evaluation of AI Companion Apps",
+      "url": "https://arxiv.org/abs/2605.08093",
+      "summary": "arXiv:2605.08093v2 Announce Type: replace Abstract: The use of chatbots for various forms of companionship is growing rapidly, raising a myriad of questions about simulated relationships, emotional dependence, and psychological harm. While major platforms such as ChatGPT, Grok, and Character AI are the subject of a growing body of research and legal inquiries, apps explicitly built for simulating intimate interpersonal relationships remain under-explored. In this work, we evaluate the five most popular AI companion mobile applications for factors that encourage parasocial interaction and may m",
       "published": "2026-08-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
