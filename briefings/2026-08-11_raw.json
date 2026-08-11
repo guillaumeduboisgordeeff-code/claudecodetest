@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-11",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Positioning Generative Artificial Intelligence in STEM Assessment: When to Require, Scaffold, or Restrict Its Use",
+      "url": "https://arxiv.org/abs/2608.07475",
+      "summary": "arXiv:2608.07475v1 Announce Type: new Abstract: Generative Artificial Intelligence (GenAI) presents a governance challenge for STEM assessment. Unrestricted access can enable task outsourcing that undermines the validity of traditional assessments, while blanket prohibitions are difficult to enforce, may drive use underground, and do little to prepare students for workplaces where GenAI supported workflows are increasingly common. This paper proposes a student focused framework grounded in Evidence Centered Design (ECD) that specifies when to restrict, scaffold, or require GenAI use in STEM as",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Position: We Need Large Language Models Optimized For Our Well-Being",
+      "url": "https://arxiv.org/abs/2608.07505",
+      "summary": "arXiv:2608.07505v1 Announce Type: new Abstract: Large language models are increasingly used not just for productivity tasks like coding and summarizing but also for advice, emotional support, and everyday-life guidance. In these settings, what a user approves in the moment can diverge from what is helpful to them over time, yet models are largely trained to win immediate approval. This explains documented patterns of sycophancy, in which assistants affirm questionable framings rather than offer more candid responses. We argue this is partly a problem of objective: short-horizon preference opti",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Open Technical Problems in Open-Weight AI Model Risk Management",
+      "url": "https://arxiv.org/abs/2608.07514",
+      "summary": "arXiv:2608.07514v1 Announce Type: new Abstract: Frontier AI models with openly available weights are steadily becoming more powerful and widely adopted. However, compared to proprietary models, open-weight models pose different opportunities and challenges for effective risk management. For example, they allow for more open research and testing. However, managing their risks is also challenging because they can be modified arbitrarily, used without oversight, and spread irreversibly. Currently, there is limited research on safety tooling specific to open-weight models. Addressing these gaps wi",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Bridging AI Risk Frameworks: Reconciling ISO/IEC 42001, the NIST AI Risk Management Framework, and the EU AI Act into a Uni ed Governance Taxonomy",
+      "url": "https://arxiv.org/abs/2608.07515",
+      "summary": "arXiv:2608.07515v1 Announce Type: new Abstract: Artificial intelligence governance is consolidating around three structurally heterogeneous instruments: ISO/IEC 42001:2023, the first certifiable Artificial Intelligence Management System (AIMS) standard; the United States NIST AI Risk Management Framework (AI RMF 1.0), a voluntary, socio-technical risk model; and the European Union Artificial Intelligence Act (Regulation (EU) 2024/1689), a binding, risk-tiered law. Although these instruments share the goal of trustworthy AI, they differ fundamentally in legal status, governance subject, and con",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Survey Personas to LLM Agents: A Generative Agent-based Simulation of Mobility Policy Preference Dynamics",
+      "url": "https://arxiv.org/abs/2608.07519",
+      "summary": "arXiv:2608.07519v1 Announce Type: new Abstract: Large language models (LLMs) have been increasingly used to simulate socially complex and interaction-driven tasks. However, most existing studies rely on hand-crafted personas. Since persona design strongly shapes how agents interpret context and make decisions, developing empirically grounded agent profiles is a significant aspect in this underexplored research area. To address this limitation, we propose a survey-grounded generative agent-based modeling (GABM) simulation framework that translates real survey respondents into generative LLM age",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "KumbhDoot: A Scale-Ready, LLM-Bounded Architecture for Mass-Gathering Public-Service Assistants",
+      "url": "https://arxiv.org/abs/2608.07520",
+      "summary": "arXiv:2608.07520v1 Announce Type: new Abstract: Mass religious gatherings such as the Kumbh Mela concentrate tens of millions of people into a single region over a few weeks, producing intense, repetitive, multilingual, and safety-critical demand for information. The default response, a conversational assistant that routes every query to a large language model (LLM), is poorly matched to this setting: it is costly at scale, slow on emergency paths, prone to hallucination on facts that can cause physical harm, and unusable when connectivity fails. We describe KumbhDoot, an agentic pilgrim assis",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Explainable Machine Learning in Healthcare: Methods, Interpretation, and Applications for Clinical Research",
+      "url": "https://arxiv.org/abs/2608.07522",
+      "summary": "arXiv:2608.07522v1 Announce Type: new Abstract: We present a structured review of commonly used Explainable machine learning (XML) methodologies, including global and local interpretability tools such as SHapley Additive exPlanations (SHAP), Local Interpretable Model-Agnostic Explanations (LIME), Partial Dependence Plots (PDP), and Individual Conditional Expectation (ICE) plots. For each method, we explain the underlying mechanism at a high level, visualize representative outputs, and provide structured guidance on interpretation, appropriate use, and limitations, illustrated using the publicl",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Evaluated Models to Evaluation Aids: A Multi-Evidence Study of LLM-Based Difficulty Calibration for Programming Examinations",
+      "url": "https://arxiv.org/abs/2608.07523",
+      "summary": "arXiv:2608.07523v1 Announce Type: new Abstract: Difficulty differences across parallel-class programming examinations affect the fairness of course assessment. This study repositions large language models from benchmark evaluation targets to auxiliary evidence sources for interpreting exam difficulty, combining AI evidence with aggregated student performance, item exposure, online-judge process data, and teacher interpretation. First, ten models solved an eight-problem final exam synchronously with 120 students: AI pass rate correlated positively with student pass rate (Spearman rho = 0.866, e",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI as a Democratizing Force in Indie Game Development",
+      "url": "https://arxiv.org/abs/2608.07825",
+      "summary": "arXiv:2608.07825v1 Announce Type: new Abstract: The video game industry of 2024-2026 shows the deepest AAA-level contraction in its modern history alongside the largest-ever expansion of independent output. We examine AI's role in that divergence across four research questions, using public marketplace data, a title-level Steam catalog dataset cross-referenced with Steam's generative-AI disclosure records, and a fourteen-month log from an agentic AI game-production platform. RQ1 (barriers to entry): production planning, historically a salaried producer role at roughly $59 per hour, is generate",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Hardware is an AI Ethics Problem: Expert Visions for a Sustainable and Equitable Semiconductor Industry",
+      "url": "https://arxiv.org/abs/2608.07830",
+      "summary": "arXiv:2608.07830v1 Announce Type: new Abstract: As the foundation of contemporary AI systems, the semiconductor industry is increasingly shaped by critical social, environmental, and geopolitical challenges. Nonetheless, prior research has often examined these issues in isolation and within disciplinary silos, leaving a gap in understanding them through an integrative socio-technical, cross-disciplinary lens. To address this gap, we conducted a participatory futuring workshop with experts from academia, industry, and policy. The results of our analysis show that the aforementioned challenges a",
+      "published": "2026-08-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
