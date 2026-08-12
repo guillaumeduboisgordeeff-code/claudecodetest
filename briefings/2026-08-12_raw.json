@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-12",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Context and Symmetry in Auditing: A Case Study of Skeleton Inference in Motion Capture",
+      "url": "https://arxiv.org/abs/2608.10194",
+      "summary": "arXiv:2608.10194v1 Announce Type: new Abstract: Humans are increasingly expected to interact with AI systems that observe and make inferences about them - but do these systems actually work? A standard approach to answering this question is AI auditing. Conducting an AI audit requires identifying how a system behaves (i.e., determining what types of inputs to audit it with and then observing and documenting actual system behavior) and contrasting that with how a system should behave (i.e., determining what the nominal outputs of a system should look like). We argue that this is best done throu",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Who Gets Heeded? An Obligation-Level Audit of Responsiveness in EPA Rulemaking",
+      "url": "https://arxiv.org/abs/2608.10329",
+      "summary": "arXiv:2608.10329v1 Announce Type: new Abstract: Notice-and-comment rulemaking gives any affected party the same formal right to influence federal regulation, but formal access is not substantive capacity to shape rule text. Existing strategies operate at the rule or aggregate-corpus level, too coarse to capture the discrete regulatory obligations where commenters seek change. We introduce obligation-level responsiveness auditing, an auditable, AI-assisted framework for measuring whether public-comment engagement co-occurs with changes to specific regulatory duties. The framework extracts propo",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Inferential Capability Does Not Determine Legal Scope",
+      "url": "https://arxiv.org/abs/2608.10601",
+      "summary": "arXiv:2608.10601v1 Announce Type: new Abstract: Two instruments of EU digital law place inference at their centre and mean different things by it. Article 3(1) of the AI Act uses the capability to infer constitutively: it is the central feature separating the regulated category from conventional software. The GDPR never defines inference, yet governs it protectively: the consequences follow from the processing of personal data and from what the inference says about, or does to, a person, whether or not the technology that produced it qualifies as an AI system. The two perimeters are not concen",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Smart Enough to Go Extinct? An Evolutionary Challenge to the Value of General Intelligence and Its Ethical Implications for AGI",
+      "url": "https://arxiv.org/abs/2608.10730",
+      "summary": "arXiv:2608.10730v1 Announce Type: new Abstract: The pursuit of artificial general intelligence (AGI) rests on a seemingly self-evident premise: that general intelligence, the kind of flexible, domain-general cognitive capacity exemplified by Homo sapiens, is extraordinarily valuable. This paper subjects this premise to critical scrutiny. We first present the intuitive case for the value of general intelligence before mounting an evolutionary challenge. We argue that, on evolutionary timescales, its adaptive value is far from empirically established. Numerous taxa, from cyanobacteria to horsesh",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The GenAI Catch-22: Use of Generative Artificial Intelligence in Norwegian Newsrooms During the 2025 Parliamentary Election",
+      "url": "https://arxiv.org/abs/2608.10773",
+      "summary": "arXiv:2608.10773v1 Announce Type: new Abstract: The increasing use of Generative Artificial Intelligence (GenAI) in journalism raises concerns about possible detrimental effects both on journalism and its democratic function. We explore these risks through a case study of GenAI in Norwegian Newsrooms during the 2025 parliamentary election campaign. Based on interviews with managers and journalists over a ten-month period, we analyse how ambitious visions fared in the face of technological and practical challenges. We highlight the risk of an internal threat stemming from the journalists' own u",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Technology, education and critical media literacy: potential, challenges, and opportunities",
+      "url": "https://arxiv.org/abs/2608.10778",
+      "summary": "arXiv:2608.10778v1 Announce Type: new Abstract: This study examines the impact of technology within media education, media literacy, and educommunication, and explores how these fields are perceived and understood by students and academic experts, focusing on the development of critical competencies and critical media literacy. Based on semi-structured in-depth interviews with leading experts in the field of critical media literacy, and a survey conducted with 141 university students in Communication and Education programs, this study explores how recent technological advances are linked to ch",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Policy Convergence and Divergence Across National and Within Regional AI Strategies: A Policy Design Element Analysis",
+      "url": "https://arxiv.org/abs/2608.11006",
+      "summary": "arXiv:2608.11006v1 Announce Type: new Abstract: Governments worldwide have responded to the rapid expansion of AI by publishing national and regional AI strategies. Comparing national and regional AI strategies to identify their convergences and divergences can uncover their common practices, understand regional variations, and provide policy designers a comprehensive set of policy design elements for their ongoing AI strategy developments. Yet, existing work has not examined their underlying policy design elements or assessed whether those elements are horizontally (country-to-country) or ver",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Who Uses Open-Weight Models? China and the Shifting Geography of AI in Science",
+      "url": "https://arxiv.org/abs/2608.11090",
+      "summary": "arXiv:2608.11090v1 Announce Type: new Abstract: As LLMs have become a flashpoint for scientific research, computer scientists and STS scholars have advocated the use of open-weight models. Since LLM research has matured and more high-quality model families are available, have researchers adopted open-weight models? We present the first systematic study of model selection in scientific research, analyzing 21 million full-text articles through June 2026 from the Semantic Scholar Open Research Corpus (S2ORC). We employ a mixed NLP pipeline to extract model occurrences in article full text and det",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Mediatised Participation: Citizen Journalism and the Decline in User-Generated Content in Online News Media",
+      "url": "https://arxiv.org/abs/2608.11159",
+      "summary": "arXiv:2608.11159v1 Announce Type: new Abstract: The second generation of web tools shook the journalist profession approximately two decades ago with the proactive incorporation of audiences into the media. Citizen journalism and user-generated content arose as an object of interest due to the democratising value of participation attributed to them, with empowered citizens who could emulate the professional and institutional practises of journalists. However, difficulties soon came to the surface, and audience participation in news media began to be limited. Within this context, this article c",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Carefully Considering Culture: Analyzing LLM Alignment in Single- and Multi-Cultural Settings using Cultural Consensus Theory",
+      "url": "https://arxiv.org/abs/2608.09937",
+      "summary": "arXiv:2608.09937v1 Announce Type: cross Abstract: Recent work in NLP has probed large language models for their understanding of cultural norms across countries. However, this work typically considers distributional patterns, ignoring group consensus or possible multicultural environments within a country. In this work, we leverage cultural consensus theory (CCT) from cultural anthropology to model such multidimensional nuance. Applying CCT to the World Values Survey (WVS) across 10 countries and 12 domains, we demonstrate that models frequently misrepresent cultural structures by either faili",
+      "published": "2026-08-12T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
