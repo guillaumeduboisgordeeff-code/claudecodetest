@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-13",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Variable Selection in the Context of AI Fairness",
+      "url": "https://arxiv.org/abs/2608.11251",
+      "summary": "arXiv:2608.11251v1 Announce Type: new Abstract: Fairness in AI systems has become more important with recent regulatory demands, such as the EU AI Act. Traditional approaches often do not take into account philosophical ethics and social awareness. Variable selection processes, in particular, can introduce implicit bias, affecting equity across different subgroups. We discuss a mathematical approach that evaluates fairness in AI, aligning mathematical methodologies with ethical considerations and regulatory requirements. Our aim is to advocate for interdisciplinary collaboration to address fai",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Methodologies for Improving the Quality of AI Tutoring in K-12 Education",
+      "url": "https://arxiv.org/abs/2608.11259",
+      "summary": "arXiv:2608.11259v1 Announce Type: new Abstract: Many AI tutors leverage large language models (LLMs) today. Given that LLMs are opaque black boxes, robust evaluation and live experimentation to measure the impact of every change are essential. We pioneered AI-powered tutoring for K-12 with the launch of Khanmigo (Khan Academy, 2023). We describe the metrics we use to measure AI tutoring quality and student engagement as well as various experiments we have run. We highlight the changes that have moved our metrics, including models, prompting, personalization and agents.",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Governing Agentic AI in FinTech",
+      "url": "https://arxiv.org/abs/2608.11344",
+      "summary": "arXiv:2608.11344v1 Announce Type: new Abstract: Financial institutions are delegating consequential decisions to agentic AI systems that decompose goals, coordinate models and tools, and act with little oversight. Yet agentic AI governance in FinTech is under-investigated. We argue the binding governance constraint is not capability but verifiability. We define the Verifiability Gap as the shortfall between the verification delegated authority demands and the explainability and reproducibility retained after a decision. It is indexed to a verifier, evidentiary standard, and audit lag. We devel",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Accuracy Trap: Structural Scarcity Amplifies Relative Inequality in Algorithmic Allocation",
+      "url": "https://arxiv.org/abs/2608.11491",
+      "summary": "arXiv:2608.11491v1 Announce Type: new Abstract: Algorithmic systems increasingly rank individuals for access to scarce public resources, from child welfare interventions to cancer treatment referrals. The prevailing fairness frame treats disparity as a property of biased data or deficient models, with remedies through calibration and debiasing. Under structural scarcity, where demand exceeds supply by an order of magnitude, allocation becomes a rationing problem, and the statistical properties of ranking diverge sharply from those of classification. We derive a scaling law $D \\propto \\exp(t \\c",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Cheap, Fallible Cognition and the Political Economy of Expertise",
+      "url": "https://arxiv.org/abs/2608.11512",
+      "summary": "arXiv:2608.11512v1 Announce Type: new Abstract: The question of whether artificial intelligence will \"destroy jobs\" is too coarse to guide economic analysis or institutional design. A job is not an indivisible object, and machine cognition is not a uniform substitute for human labor. This paper develops a task-based and institutionally grounded framework for analyzing generative AI as cheap, scalable, and fallible cognition. The relevant margins are exposure, adoption, verification, question selection, workflow redesign, demand elasticity, apprenticeship, and rent allocation. We distinguish th",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Toward Meaningful Transparency for AI Chatbots: Disclosing Persuasive Intent Reduces Persuasion",
+      "url": "https://arxiv.org/abs/2608.11794",
+      "summary": "arXiv:2608.11794v1 Announce Type: new Abstract: The growing role of AI-generated content and AI-enabled systems in public communication has led regulators to demand clear disclosure of content provenance and AI involvement. But the effects of such disclosures remain uncertain. We test two disclosure approaches in their impact on an AI chatbot's persuasive appeal. In a preregistered experiment, 1,500 UK adults held a short conversation with a persuasive chatbot about one of 60 policy issues. The chatbot was identical for everyone. We randomized the disclosure that people received: nothing (cont",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Silent Updates: Measuring and Closing the Post-Deployment Disclosure Gap",
+      "url": "https://arxiv.org/abs/2608.11803",
+      "summary": "arXiv:2608.11803v1 Announce Type: new Abstract: Deployed foundation models are often not static systems, with providers able to modify system behavior through fine-tuning, classifier updates, system prompt revisions, retrieval changes, and routing changes. These updates can be made silently -- that is, without public disclosure, a version increment, or re-evaluation. Such silent updates challenge a core assumption behind current AI governance frameworks that an externally verifiable chain of custody links the model referred to in evaluation results or a system card to the model served to users",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Understanding Content Moderation in Large Language Models through Restricted Books: From Refusal to Warning",
+      "url": "https://arxiv.org/abs/2608.11806",
+      "summary": "arXiv:2608.11806v1 Announce Type: new Abstract: As large language models enter everyday information pipelines, understanding how they handle sensitive topics matters as much as understanding whether they handle them at all. We study this question through a large-scale, systematic experiment using restricted versus unrestricted books as a controlled testbed: 40,800 query-response pairs, 400 books, 17 prompt designs, and six frontier models spanning six AI providers (Claude Sonnet 4.5, GPT-4o, Gemini 2.5 Flash, DeepSeek-V3, Qwen-Plus, and Grok-4.1-Fast). Our restricted set is drawn from the Amer",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Quantifying the Relationship Between Clinical Safety and Environmental Impact in Therapeutic LLMs",
+      "url": "https://arxiv.org/abs/2608.11830",
+      "summary": "arXiv:2608.11830v1 Announce Type: new Abstract: The deployment of large language models (LLMs) in mental health contexts raises questions about the relationship between clinical safety and environmental cost. In this paper, we examine this relationship by combining K-Bench clinical safety scores with EcoLogits life-cycle assessment estimates across 47 supported model configurations. We evaluate model performance and environmental impact across four dimensions: energy use, carbon emissions, water consumption, and abiotic depletion. The results indicate a non-linear trade-off at the upper end of",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Benchmark-Based Comparative Assessment of Publicly Benchmarked Indian Foundation Models: A Capability and Evaluation-Maturity Framework",
+      "url": "https://arxiv.org/abs/2608.11891",
+      "summary": "arXiv:2608.11891v1 Announce Type: new Abstract: Governments increasingly fund indigenous foundation models to strengthen national AI capability, digital sovereignty, and multilingual computing. Assessing the progress of such national ecosystems is complicated by inconsistent benchmark reporting, proprietary evaluation methodologies, and rapidly evolving model releases. This paper presents a structured, benchmark-based comparative assessment of publicly benchmarked Indian foundation models against global frontier and comparable-scale models, across eight capability domains: general-purpose reas",
+      "published": "2026-08-13T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
