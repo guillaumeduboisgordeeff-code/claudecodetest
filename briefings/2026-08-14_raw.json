@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "The AI Accountability Ecosystem in the Era of Language Models",
-      "url": "https://arxiv.org/abs/2608.12320",
-      "summary": "arXiv:2608.12320v1 Announce Type: new Abstract: This article reviews and updates the framework for accountability in AI based on account- ability ecosystems. We update the framework in light of the latest developments since the release of Large Language Models for general public use. We propose three interlinked updates to the original AI accountability ecosystem: (i) reorienting the accountability ecosystem to AI infrastructure and supply chains, (ii) providing greater emphasis on outcomes monitoring and identification of issues that support decentralized system improvement, and (iii) incorpo",
+      "title": "From Fair Representation to Just Recognition in Generative AI",
+      "url": "https://arxiv.org/abs/2608.12669",
+      "summary": "arXiv:2608.12669v1 Announce Type: new Abstract: The fair AI/ML literature has long distinguished distributive fairness, concerning how automated systems allocate resources and opportunities, from representational fairness, concerning how they shape the ways individuals and social groups are perceived, understood, and accorded social status. Generative AI is rebalancing these normative dimensions. Unlike predictive systems, large language models (LLMs) and related technologies are fundamentally expressive: their primary function is to convey meaning rather than automate domain-specific decision",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When AI Is Your Pastor: A Benchmark for Theological Triage and Pastoral Guidance in Large Language Models",
-      "url": "https://arxiv.org/abs/2608.12324",
-      "summary": "arXiv:2608.12324v1 Announce Type: new Abstract: People increasingly ask large language models (LLMs) for counsel on questions of faith, doctrine, and pastoral care. These questions are not ordinary information requests. Some ask about core Christian beliefs, some ask about real disagreements among faithful traditions, some require humility because the issue is prudential, and some are pastoral situations where safety and human referral matter more than theological completeness. Existing benchmarks do not evaluate this structure. We introduce FMG-Bench, the Faith & Moral Guidance Benchmark, a 1",
+      "title": "A Generative Framework for the Creation of Multi-Attribute Geographically-Explicit Synthetic Population",
+      "url": "https://arxiv.org/abs/2608.12768",
+      "summary": "arXiv:2608.12768v1 Announce Type: new Abstract: Generating multi-attribute synthetic populations with realistic joint distributions and geographic variation is a foundational requirement for geo-simulation techniques, such as micro-simulation and agent-based modeling. However, it remains challenging for existing methods to reconstruct region-specific joint distributions from aggregated-level data alone. Thus, we propose a hierarchical diffusion-based generative framework that utilizes a realistic region-specific joint distribution of multiple attributes as the training target to create a synth",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Caveman to Expert Analyst: Energy Consumption of Variable LLM Tasks",
-      "url": "https://arxiv.org/abs/2608.12350",
-      "summary": "arXiv:2608.12350v1 Announce Type: new Abstract: The energy demand growth and environmental impacts of artificial intelligence (AI) have generated substantial interest in supplying sufficient low-cost electricity for AI-driven data center development. Research on the ability of demand-side management to address these challenges has been more limited. Shifting the amount or timing of demand from retail, corporate, and other organizational behaviors is a plausible option but only if changes in demand-related behavior have important effects on the envi- ronmental and electricity effects of AI. Thi",
+      "title": "Impact of introducing \"Informatics I\" to the common university entrance examination in Japan: a longitudinal study on students' perceptions of their information-related knowledge and skills from 2006 to 2026",
+      "url": "https://arxiv.org/abs/2608.12924",
+      "summary": "arXiv:2608.12924v1 Announce Type: new Abstract: Despite the recent intensive development of secondary education curricula and assessments in informatics, the impact of assessments has not been well studied in this field. Since informatics education covers a diverse range of content, from computer science knowledge to ICT skills, careful consideration is needed to prevent assessments from distorting education. This study investigates the impact of introducing ``Informatics I'' into the Common Test for University Admissions in Japan, as an example of a large-scale, standardized, high-stakes asse",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Assessment Design in the GenAI Era: The X1-X2-X3 Assessment Pattern for Testing Students' AI Literacy, Learning Outcomes, and Reflection",
-      "url": "https://arxiv.org/abs/2608.12351",
-      "summary": "arXiv:2608.12351v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) has challenged the validity of unsupervised online assessment, especially in technical subjects where plausible answers can be produced with little effort. This paper reports lessons from designing and implementing an AI-aware, AI-testing assessment in a large second-year undergraduate database systems module. The design combined two linked elements: (1) a structured three-part response format (X1-X2-X3) in which students documented a sourced answer, produced their own answer, and evaluated the sourced o",
+      "title": "Applied and Filtered: An End-to-End Algorithmic Fairness Audit of A Public Employment Agency",
+      "url": "https://arxiv.org/abs/2608.13022",
+      "summary": "arXiv:2608.13022v1 Announce Type: new Abstract: Algorithmic fairness evaluation commonly assesses AI systems as bounded technical components, abstracting away the organizational context in which they operate. We present, to our knowledge, the first independent end-to-end fairness audit of a semi-automated hiring system operated by Barcelona Activa, a public employment agency using the third-party TalentClue platform for candidate search and shortlisting. We analyze approximately 497,000 candidate-vacancy pipeline entries from September 2017 to September 2022, covering seven pipeline stages tha",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Why AI Governance Frameworks Are Hard to Adopt: A Role-Based Stress Test of the NIST AI RMF",
-      "url": "https://arxiv.org/abs/2608.12352",
-      "summary": "arXiv:2608.12352v1 Announce Type: new Abstract: AI governance frameworks can be known, used, and implemented in form without becoming governance in practice. This paper examines that problem through a role-based stress test of the NIST Artificial Intelligence Risk Management Framework (AI RMF) in consumer lending. We treat framework adoption as a governance translation problem: whether RMF language can become role-usable, cross-level, authority-connected governance over the AI system-in-use, rather than producing governance-looking artifacts. The study uses LLM-based role simulation as a struc",
+      "title": "Follow the Norm: Accounting for Fine-Tuning and Prompt Effects on Model Rationales",
+      "url": "https://arxiv.org/abs/2608.13250",
+      "summary": "arXiv:2608.13250v1 Announce Type: new Abstract: Normative datasets are often used to train and align AI systems, but the norms they contain can function as action-guiding patterns rather than neutral moral knowledge. We propose treating the AI system as a proxy actor and test whether dataset-level norms can shift it away from its baseline safety behavior when it faces high-conflict dilemmas. We make three contributions. First, we demonstrate in controlled experiments that norm-breaking fine-tuning yields norm-divergent actions justified by self-interested rationales, suggesting a systematic sh",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Measuring Curriculum-Labor Market Alignment at the Scale of a Program Portfolio",
-      "url": "https://arxiv.org/abs/2608.12356",
-      "summary": "arXiv:2608.12356v1 Announce Type: new Abstract: A college offering several overlapping computing degrees implicitly assumes that its programs are differentiated in line with how the labor market segments computing work and that, together, they prepare graduates for that market. Testing this is difficult, because the instruments available to curriculum committees, namely advisory boards, tracer studies, and employer surveys, are slow, narrow, and hard to reproduce. We apply one uniform, taxonomy-anchored alignment analysis across all five undergraduate programs of a College of Information Techn",
+      "title": "The Use of Learning Management Systems for Self-paced Learning: The Case at a South African Public Access Centre",
+      "url": "https://arxiv.org/abs/2608.13351",
+      "summary": "arXiv:2608.13351v1 Announce Type: new Abstract: This study investigates the use of a Learning Management System (LMS) to support self-paced learning at a South African Public Access Centre (PAC), using the I-CAN Centre as a case study. Through semi-structured interviews with thirty-eight learners and thematic analysis, the research explores opportunities and challenges associated with LMS adoption. Findings reveal that PACs play a critical role in promoting ICT skills and digital inclusion, offering learners flexible access to learning resources and fostering empowerment. While LMS use enhance",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Can We Trust AI Agents in the Supermarket? Sugar Content Inference from Product Images",
-      "url": "https://arxiv.org/abs/2608.12359",
-      "summary": "arXiv:2608.12359v1 Announce Type: new Abstract: Nutritional labels are legally permitted to appear in very small print, reducing real-world readability and encouraging consumers to rely on 'AI nutrition lens' and vision-capable conversational agents for dietary guidance. We evaluate whether such AI-mediated advice can meaningfully substitute for regulated labeling using a bounded, verifiable task: inferring which of two packaged foods contains less sugar from front-of-pack images alone. A Two-Alternative Forced Choice game was used to evaluate AI agent systems across four national supermarket ",
+      "title": "Credible, Not Always Correct: How Reddit Users Verify AI-Generated Legal Advice",
+      "url": "https://arxiv.org/abs/2608.13369",
+      "summary": "arXiv:2608.13369v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used by laypeople to resolve real legal problems, against a backdrop of persistent access-to-justice deficits. This article presents evidence that the practical force of AI-generated legal advice depends not on its accuracy but on the social production of its credibility. While existing research has assessed the accuracy of legal AI, less is known about how machine-generated guidance is verified and made credible enough for lay users to act on. Drawing on a dual-method analysis of 153 Reddit narrative",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Regulatory Approval Is Not Enough: Gaps in Trustworthy AI Reporting in FDA-Cleared Medical Devices",
-      "url": "https://arxiv.org/abs/2608.12360",
-      "summary": "arXiv:2608.12360v1 Announce Type: new Abstract: Background: AI/ML-enabled medical devices are increasingly deployed in healthcare under evolving regulatory frameworks. As these systems become more integrated into clinical decision-making, there is growing expectation that they demonstrate key dimensions of trustworthy AI to support clinician, patient, and public trust. Whether publicly available regulatory documentation provides sufficient evidence to independently assess the trustworthiness of cleared AI systems remains unclear. Methods: We analysed FDA AI/ML-enabled medical device summary re",
+      "title": "Algorithmic Gender Prediction Is Illegitimate, But Gender Imputation Can Yield Valid Measurements",
+      "url": "https://arxiv.org/abs/2608.13444",
+      "summary": "arXiv:2608.13444v1 Announce Type: new Abstract: Machine learning ethics researchers and critical HCI scholars have argued that algorithmically predicting gender is wrong. At the same time, other researchers rely on predicted gender labels to study gender disparities and develop algorithmic fairness techniques. How do we reconcile these two seemingly contradictory intuitions? We differentiate two ways gender prediction may be wrong: being illegitimate, thereby contributing to harm; and being invalid, thereby producing unusable measurements. Our analysis translates arguments against gender predi",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Strategy-Oriented Feedback for Fostering Systematic Problem-Solving in Machine Learning Education",
-      "url": "https://arxiv.org/abs/2608.12362",
-      "summary": "arXiv:2608.12362v1 Announce Type: new Abstract: Enabling students to develop systematic problem-solving strategies is a central goal in computing education and of particular relevance in the emerging field of machine learning (ML) education. While exploratory approaches are common in ML learning tasks, fostering the development and persistence of structured problem-solving strategies remains challenging, as these demand considerable metacognitive regulation and persistence, causing learners to often revert to exploratory trial-and-error behavior. To address this challenge, we augmented a digit",
+      "title": "Why Do AI Agents Break Rules? How Framing, Context, and Social Signals Shape Compliance",
+      "url": "https://arxiv.org/abs/2608.12323",
+      "summary": "arXiv:2608.12323v1 Announce Type: cross Abstract: Specifying a penalty can paradoxically convert a legal obligation into a cost-benefit calculation that favors violation. We demonstrate that this enforcement information paradox systematically occurs in AI agents. While most AI safety evaluations test whether models fail, we investigate why, applying compliance theory from law and economics as a diagnostic tool. We treat compliance theories not as metaphors but as empirical hypotheses and show that each predicts the behavior of a distinct model class. We evaluate our hypotheses across twelve in",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Proactive Computing",
-      "url": "https://arxiv.org/abs/2608.12649",
-      "summary": "arXiv:2608.12649v1 Announce Type: new Abstract: Computing systems are moving from reactive tools toward systems that sense, interpret, predict, and act before explicit user requests. This transition is enabled by the global scale of mobile connectivity, the rapid expansion of wearable and ambient sensing, advances in machine learning and foundation models, distributed edge infrastructure, and physical actuation. We define \\emph{proactive computing} as a paradigm in which systems infer user context, anticipate future needs or risks, and initiate information delivery or actions at an appropriate",
+      "title": "Predicting consumer-technology ownership without a diffusion history",
+      "url": "https://arxiv.org/abs/2608.12344",
+      "summary": "arXiv:2608.12344v1 Announce Type: cross Abstract: We test whether the perceived attributes of a consumer technology predict how widely it is owned. In a 2022 Prolific survey of US adults (n = 678), respondents rated 65 consumer technologies on six attributes. We then elicited the same ratings from two frontier language models, Anthropic Claude Opus 4.7 and OpenAI GPT-5.5. We regress ownership prevalence on four UTAUT2 acceptance attributes plus a log-age covariate with a sign-constrained penalized regression and evaluate it by holding out one technology at a time. The attribute model improves ",
       "published": "2026-08-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
