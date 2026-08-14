@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-14",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "The AI Accountability Ecosystem in the Era of Language Models",
+      "url": "https://arxiv.org/abs/2608.12320",
+      "summary": "arXiv:2608.12320v1 Announce Type: new Abstract: This article reviews and updates the framework for accountability in AI based on account- ability ecosystems. We update the framework in light of the latest developments since the release of Large Language Models for general public use. We propose three interlinked updates to the original AI accountability ecosystem: (i) reorienting the accountability ecosystem to AI infrastructure and supply chains, (ii) providing greater emphasis on outcomes monitoring and identification of issues that support decentralized system improvement, and (iii) incorpo",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When AI Is Your Pastor: A Benchmark for Theological Triage and Pastoral Guidance in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.12324",
+      "summary": "arXiv:2608.12324v1 Announce Type: new Abstract: People increasingly ask large language models (LLMs) for counsel on questions of faith, doctrine, and pastoral care. These questions are not ordinary information requests. Some ask about core Christian beliefs, some ask about real disagreements among faithful traditions, some require humility because the issue is prudential, and some are pastoral situations where safety and human referral matter more than theological completeness. Existing benchmarks do not evaluate this structure. We introduce FMG-Bench, the Faith & Moral Guidance Benchmark, a 1",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Caveman to Expert Analyst: Energy Consumption of Variable LLM Tasks",
+      "url": "https://arxiv.org/abs/2608.12350",
+      "summary": "arXiv:2608.12350v1 Announce Type: new Abstract: The energy demand growth and environmental impacts of artificial intelligence (AI) have generated substantial interest in supplying sufficient low-cost electricity for AI-driven data center development. Research on the ability of demand-side management to address these challenges has been more limited. Shifting the amount or timing of demand from retail, corporate, and other organizational behaviors is a plausible option but only if changes in demand-related behavior have important effects on the envi- ronmental and electricity effects of AI. Thi",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Assessment Design in the GenAI Era: The X1-X2-X3 Assessment Pattern for Testing Students' AI Literacy, Learning Outcomes, and Reflection",
+      "url": "https://arxiv.org/abs/2608.12351",
+      "summary": "arXiv:2608.12351v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) has challenged the validity of unsupervised online assessment, especially in technical subjects where plausible answers can be produced with little effort. This paper reports lessons from designing and implementing an AI-aware, AI-testing assessment in a large second-year undergraduate database systems module. The design combined two linked elements: (1) a structured three-part response format (X1-X2-X3) in which students documented a sourced answer, produced their own answer, and evaluated the sourced o",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Why AI Governance Frameworks Are Hard to Adopt: A Role-Based Stress Test of the NIST AI RMF",
+      "url": "https://arxiv.org/abs/2608.12352",
+      "summary": "arXiv:2608.12352v1 Announce Type: new Abstract: AI governance frameworks can be known, used, and implemented in form without becoming governance in practice. This paper examines that problem through a role-based stress test of the NIST Artificial Intelligence Risk Management Framework (AI RMF) in consumer lending. We treat framework adoption as a governance translation problem: whether RMF language can become role-usable, cross-level, authority-connected governance over the AI system-in-use, rather than producing governance-looking artifacts. The study uses LLM-based role simulation as a struc",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Measuring Curriculum-Labor Market Alignment at the Scale of a Program Portfolio",
+      "url": "https://arxiv.org/abs/2608.12356",
+      "summary": "arXiv:2608.12356v1 Announce Type: new Abstract: A college offering several overlapping computing degrees implicitly assumes that its programs are differentiated in line with how the labor market segments computing work and that, together, they prepare graduates for that market. Testing this is difficult, because the instruments available to curriculum committees, namely advisory boards, tracer studies, and employer surveys, are slow, narrow, and hard to reproduce. We apply one uniform, taxonomy-anchored alignment analysis across all five undergraduate programs of a College of Information Techn",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Can We Trust AI Agents in the Supermarket? Sugar Content Inference from Product Images",
+      "url": "https://arxiv.org/abs/2608.12359",
+      "summary": "arXiv:2608.12359v1 Announce Type: new Abstract: Nutritional labels are legally permitted to appear in very small print, reducing real-world readability and encouraging consumers to rely on 'AI nutrition lens' and vision-capable conversational agents for dietary guidance. We evaluate whether such AI-mediated advice can meaningfully substitute for regulated labeling using a bounded, verifiable task: inferring which of two packaged foods contains less sugar from front-of-pack images alone. A Two-Alternative Forced Choice game was used to evaluate AI agent systems across four national supermarket ",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Regulatory Approval Is Not Enough: Gaps in Trustworthy AI Reporting in FDA-Cleared Medical Devices",
+      "url": "https://arxiv.org/abs/2608.12360",
+      "summary": "arXiv:2608.12360v1 Announce Type: new Abstract: Background: AI/ML-enabled medical devices are increasingly deployed in healthcare under evolving regulatory frameworks. As these systems become more integrated into clinical decision-making, there is growing expectation that they demonstrate key dimensions of trustworthy AI to support clinician, patient, and public trust. Whether publicly available regulatory documentation provides sufficient evidence to independently assess the trustworthiness of cleared AI systems remains unclear. Methods: We analysed FDA AI/ML-enabled medical device summary re",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Strategy-Oriented Feedback for Fostering Systematic Problem-Solving in Machine Learning Education",
+      "url": "https://arxiv.org/abs/2608.12362",
+      "summary": "arXiv:2608.12362v1 Announce Type: new Abstract: Enabling students to develop systematic problem-solving strategies is a central goal in computing education and of particular relevance in the emerging field of machine learning (ML) education. While exploratory approaches are common in ML learning tasks, fostering the development and persistence of structured problem-solving strategies remains challenging, as these demand considerable metacognitive regulation and persistence, causing learners to often revert to exploratory trial-and-error behavior. To address this challenge, we augmented a digit",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Proactive Computing",
+      "url": "https://arxiv.org/abs/2608.12649",
+      "summary": "arXiv:2608.12649v1 Announce Type: new Abstract: Computing systems are moving from reactive tools toward systems that sense, interpret, predict, and act before explicit user requests. This transition is enabled by the global scale of mobile connectivity, the rapid expansion of wearable and ambient sensing, advances in machine learning and foundation models, distributed edge infrastructure, and physical actuation. We define \\emph{proactive computing} as a paradigm in which systems infer user context, anticipate future needs or risks, and initiate information delivery or actions at an appropriate",
+      "published": "2026-08-14T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
