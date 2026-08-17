@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-17",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Asymmetric Discourse Homogenization and Shared Language Technology: Evidence from Reddit",
+      "url": "https://arxiv.org/abs/2608.13674",
+      "summary": "arXiv:2608.13674v1 Announce Type: new Abstract: I document an ideologically asymmetric break in the pre-existing diversification trend of political discourse, emerging around late 2022, using 6 million Reddit comments from two cross-partisan forums, 2019-2025. Conservative users experienced an interruption of their prior diversification trajectory; progressive users showed no comparable change. The asymmetry is consistent across estimation strategies (ITS, DiD, RDiT, propensity-score matching) and temporal aggregations. A daily-frequency permutation test over 2,377 candidate cutoff dates shows",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Language-Specific Gaps in AI Safety Training Datasets",
+      "url": "https://arxiv.org/abs/2608.13695",
+      "summary": "arXiv:2608.13695v1 Announce Type: new Abstract: Large language model providers routinely cite multilingual safety benchmarks spanning a dozen or more languages as evidence that their models are safe for non-English-speaking users. We show that these collection-level coverage claims frequently do not survive inspection at the level of an individual language. Auditing 21 resources across 25 language slices, of which 20 count as datasets under our counting rules, spanning three languages chosen to represent low- (Hausa), mid- (Swahili), and high-resource (French) tiers, we find that gaps in prove",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Reading Between The Lines: Modeling and Evaluating Behavioral Realism in Legal Simulation",
+      "url": "https://arxiv.org/abs/2608.13712",
+      "summary": "arXiv:2608.13712v1 Announce Type: new Abstract: Deposition training requires attorneys to manage dynamic witness behavior, yet legal-AI evaluations largely focus on factual accuracy, reasoning, or response-level plausibility. We introduce WitnessSim, a deposition simulator driven by controllable legal personas. We use an evaluation framework separating behavioral realism from pedagogical usefulness. We assess realism through adversarial testing, blinded attorney comparison, and analysis of longitudinal behavioral trajectories. WitnessSim generally maintained plausible behavioral boundaries, an",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Meteorology-driven Causal Nowcasting of Fugitive Landfill Emissions Enables Proactive Public Health Response",
+      "url": "https://arxiv.org/abs/2608.14254",
+      "summary": "arXiv:2608.14254v1 Announce Type: new Abstract: Fugitive emissions from waste sites increasingly expose communities to toxic and odorous gases, yet public-health responses remain largely retrospective, with episodes investigated only after residents have been exposed. Here we show that the meteorological drivers of elevated hydrogen sulphide (HS) at a long-monitored European landfill, and the timescales over which they act, can be identified directly from routine monitoring data. We introduce CAIRN (Causal-Anchored Inference for Receptor Nowcasting), a machine-learning framework whose internal",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Designing Inclusive Crypto-Asset Dispute Resolution A Hybrid AI and Smart Contract Online Dispute Resolution Framework for Vulnerable Users",
+      "url": "https://arxiv.org/abs/2608.14356",
+      "summary": "arXiv:2608.14356v1 Announce Type: new Abstract: The growing use of crypto-assets has generated disputes that sit uneasily within existing legal redress mechanisms. Their resolution is complicated by the technical features of blockchain transactions, the cross-border nature of many relationships, and fragmented legal rules. These difficulties are particularly acute for users without legal or technical expertise, who may struggle to identify their rights, organise relevant evidence, or pursue an effective remedy. Crypto-assets may therefore produce new forms of digital exclusion, despite their a",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Whose doctor does the AI recommend? An algorithm audit of reputation and demographic signals in large language model-assisted physician choice",
+      "url": "https://arxiv.org/abs/2608.14399",
+      "summary": "arXiv:2608.14399v1 Announce Type: new Abstract: Patients increasingly ask large language model (LLM) assistants which doctor to see, making these systems AI infomediaries: algorithms that intermediate one person's choice among other people and thereby decide, silently and at scale, which physicians become visible. We report a prespecified randomized algorithm audit of what causally moves those recommendations. Seven models (six open-weight; gpt-4o-mini) each chose among five synthetic family-medicine physician cards whose attributes were independently randomized across 3,024 choice sets, three",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Estimating the growth in emissions from AI data centres",
+      "url": "https://arxiv.org/abs/2608.14421",
+      "summary": "arXiv:2608.14421v1 Announce Type: new Abstract: The advent of agentic AI is driving an unprecedented growth in data centre expansion. Using state-of-the-art life cycle assessment models for operational and embodied emissions from AI servers, we estimate the ensuing growth in overall CO2 emissions of AI data centres. The main contribution of this work is a rigorous quantification of emissions arising from projected AI data centre expansion using scenarios by the IEA and McKinsey. We show that the scenarios promoted by the AI industry would result in a dramatic rise in overall emissions and that",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Fortune's Bounty: Taming Complexity by Trimming Trees --- A Hands-On Problem-Solving Experience in Advanced Complexity Suitable for Introductory Students",
+      "url": "https://arxiv.org/abs/2608.12976",
+      "summary": "arXiv:2608.12976v1 Announce Type: cross Abstract: This article provides an assignment designed to let undergraduate students who have completed an undergraduate CS1/CS2 sequence try to themselves, in groups, prove Fortune's Theorem. (Fortune's Theorem states that if the complement of the Boolean satisfiability problem polynomial-time reduces to a sparse set, then the Boolean satisfiability problem is polynomial-time computable. The assignment does not assume that students have previously seen the Boolean satisfiability problem, polynomial-time reductions, or sparse sets. Rather, it teaches tho",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Regulation, Power, and the Compliance 1 Paradox: A Longitudinal Study of Smart Homes",
+      "url": "https://arxiv.org/abs/2608.13582",
+      "summary": "arXiv:2608.13582v1 Announce Type: cross Abstract: Smart home technologies are becoming increasingly embedded in domestic environments, yet their implications for power, privacy, and inequality remain insufficiently understood, particularly in non-Western contexts. This paper presents a longitudinal socio-technical study of smart home adoption in Jordan, examining how cultural norms, regulatory frameworks, and everyday technological practices shape domestic power dynamics. Building on our 2022 study, we employ a two-phase grounded theory approach comprising (1) a secondary analysis of 30 interv",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Tool-to-Entity Threshold: Parasocial Dynamics of Personalised AI Agents in Shared Social Spaces",
+      "url": "https://arxiv.org/abs/2608.13586",
+      "summary": "arXiv:2608.13586v1 Announce Type: cross Abstract: As AI agents acquire names, avatars, phone numbers, and persistent personalities, they increasingly inhabit the same messaging platforms and group conversations as the humans they serve, crossing from tools their users operate into social entities their users relate to. This reclassification carries under-explored consequences for consent, emotional attachment, and group dynamics, yet no existing framework identifies the specific infrastructural markers that cause it. We propose the identity marker framework: six design variables (naming, visua",
+      "published": "2026-08-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
