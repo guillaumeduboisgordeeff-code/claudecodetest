@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-18",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Recommended Selves: Authenticity and Algorithmic Filtering",
+      "url": "https://arxiv.org/abs/2608.14602",
+      "summary": "arXiv:2608.14602v1 Announce Type: new Abstract: By allocating their attention to pieces of content, algorithmic filtering shapes the daily behavior of billions of users when they interact with a digital platform. Beyond conditioning what we do, can recommendation algorithms influence who we are? This article suggests that they do. Specifically, I contend that recommender systems affect users' capacity to be their authentic selves in both positive and negative ways. I start by offering an account of authenticity that builds on two central concepts: volitional alignment and self-understanding. I",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Psychological Determinants of Academic Integrity in the Use of Generative AI in Higher Education",
+      "url": "https://arxiv.org/abs/2608.14605",
+      "summary": "arXiv:2608.14605v1 Announce Type: new Abstract: This paper examines the psychological determinants that shape academically honest and dishonest uses of generative artificial intelligence (GenAI) in higher education. Rather than treating academic misconduct as a purely technological problem, the study conceptualizes academic integrity as a psychologically mediated decision process influenced by moral reasoning, perceived social norms, policy clarity, academic self-efficacy, AI literacy, performance pressure, and beliefs about authorship. Methodologically, the paper adopts a focused narrative re",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respondents",
+      "url": "https://arxiv.org/abs/2608.14606",
+      "summary": "arXiv:2608.14606v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used as synthetic survey respondents, but existing evaluations ask whether answers look plausible at the individual level. We argue the right question is psychometric: do LLMs preserve the joint distribution, latent structure, reliability, mediation pathways, and demographic effects of real human survey data? We introduce a Lithuanian organisational-psychology dataset (n=263 employees; Dunham Attitudes Toward Change, UWES-17, Koopmans IWPQ; 68 items, 12 subscales) and condition a 37-model lineup spann",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Understanding AI Anxiety in the Workplace: A Multimethod Investigation Using Fear Acquisition Theory and the Technology Acceptance Model",
+      "url": "https://arxiv.org/abs/2608.14609",
+      "summary": "arXiv:2608.14609v1 Announce Type: new Abstract: As artificial intelligence (AI) rapidly diffuses and concerns about job displacement intensify, the psychological mechanisms underlying AI job replacement anxiety remain insufficiently understood. Drawing on Integrated Fear Acquisition Theory and the Technology Acceptance Model, the present research investigates whether AI job replacement anxiety can be elicited through vicarious exposure to narratives emphasizing AI-over-human control, and whether perceived usefulness and perceived ease of use of AI moderate this response. Across two studies, we",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The 2026 Singapore Consensus on Global AI Safety Research Priorities",
+      "url": "https://arxiv.org/abs/2608.14611",
+      "summary": "arXiv:2608.14611v1 Announce Type: new Abstract: Frontier AI capabilities and autonomy are advancing rapidly. A growing number of real-world incidents make a trusted AI ecosystem essential to embracing AI with confidence. The 2026 Singapore Consensus is an outcome of the second International Scientific Exchange on AI Safety, bringing together over 100 contributors spanning 13 countries from frontier developers, government safety institutes, academia, and civil society. Building on the 2025 report, it presents a global understanding of technical AI safety research problems of top priority, now w",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Traces of Abuse: How Generative AI Impacts Image-Based Sexual Abuse (IBSA) Investigations",
+      "url": "https://arxiv.org/abs/2608.14616",
+      "summary": "arXiv:2608.14616v1 Announce Type: new Abstract: The introduction of generative AI (GAI) into the workflow of image-based sexual abuse (IBSA) only worsened the ease of creation and distribution, victimizing more people than ever. We outline how the introduction of generative AI (GAI-IBSA) impacts the creation of traces and the type of reasoning they allow. We illustrate the impact by comparing the forensic traces available in four different IBSA scenarios. We discuss the impacts on the (possibility of) investigation, arguing that the advent of generative AI overall benefits abusers by making pe",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Local AI pre-screening for human triple-blind peer review in health sciences",
+      "url": "https://arxiv.org/abs/2608.14625",
+      "summary": "arXiv:2608.14625v1 Announce Type: new Abstract: Academic peer review is under mounting strain: NeurIPS 2025 received 21,575 submissions, ICLR 2025 received 11,603, and ICML 2025 received 12,107. This volume has outpaced the supply of qualified reviewers, and large language models (LLMs) are already filling the gap, largely undisclosed. An independent analysis of ICLR 2026 found roughly 21% of its 75,800 peer reviews were fully AI-generated, with over half showing some AI involvement (up from 15.8% in 2024). Documented risks include hallucinated citations in accepted papers and hidden prompt-in",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Identifying Harm in Personalized, Generative AI Systems Requires User-Centered Auditing at the Interaction Level",
+      "url": "https://arxiv.org/abs/2608.14692",
+      "summary": "arXiv:2608.14692v1 Announce Type: new Abstract: Personalized, generative AI systems increasingly adapt their behavior to individual users over time, fundamentally changing model behavior. While existing auditing approaches have been effective at surfacing harms in non-personalized contexts, they often rely on static, simulated evaluations and definitions of harm that aggregate across broad, group categories. In this position paper, we argue that such approaches can fail to capture emergent harms in personalized generative AI systems, where harms surface through interpretations of ongoing inter",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Agent Inheritance Protocol: Speculating on Feralized Agents After Principals Die",
+      "url": "https://arxiv.org/abs/2608.15403",
+      "summary": "arXiv:2608.15403v1 Announce Type: new Abstract: You will die eventually. Your agents may not. An AI agent operating on decentralized blockchain infrastructure has no concept of death; it can only go bankrupt -- frozen when its wallet can no longer pay for its next transaction -- and revived the moment anyone, decades later, tops it up. These agents may be originally deployed by a human principal, but when that principal dies, loses the keys needed to access the agent, or belongs to a decentralized autonomous organization that dissolves into apathy, the agent can keep trading, hiring, and repli",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Afterlife Delegation Protocol: Speculative Design of Self-Sovereign Agents that Outlive Their Principals",
+      "url": "https://arxiv.org/abs/2608.15405",
+      "summary": "arXiv:2608.15405v1 Announce Type: new Abstract: Afterlife Delegation Protocol is a speculative design project that asks what death becomes when a will can act eternally. We design a speculative protocol through which a living person signs an agentic will: upon a verified death, a self-sovereign AI agent spawns on blockchain -- an immutable, resistant, decentralized, infrastructural substrate that could last forever -- endowed with the funds and memories its principal attached to it, and persists indefinitely to execute the will, overridable by no custodian. Rather than argue about this future,",
+      "published": "2026-08-18T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
