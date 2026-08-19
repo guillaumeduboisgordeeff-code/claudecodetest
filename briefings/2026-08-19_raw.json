@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "A Framework for Using and Evaluating LLMs as Surrogate Experts in Security Surveys: Reliability, Bias, and Implications",
-      "url": "https://arxiv.org/abs/2608.16893",
-      "summary": "arXiv:2608.16893v1 Announce Type: new Abstract: Expert surveys are widely used in security research to study practitioner workows and decision-making, yet recruiting domain experts - especially in Security Operations Centres (SOCs), where analysts face high workload, burnout and confidentiality constraints - is difficult and often results in small samples. Large language models (LLMs) oer an appealing alternative by generating synthetic responses at scale, but little guidance exists on when such surrogate participants are reliable. We present a methodological framework for evaluating LLMs as s",
+      "title": "The politics of postmortem privacy",
+      "url": "https://arxiv.org/abs/2608.16905",
+      "summary": "arXiv:2608.16905v1 Announce Type: new Abstract: While the existence of postmortem privacy is increasingly acknowledged (such as the protection of the presence of deceased within digital spaces), far less attention has been paid to its internal instability: its scope (the extent of its application), justificatory foundations (why do we protect the deceased in the first place), and uneven articulation across jurisdictions (for example, some jurisdictions may tolerate or endorse practices that may be contestable in a different jurisdiction). This piece unearths the internal diversity of the conce",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "An Investigation of the NeurIPS and ICML 2025 Position Tracks",
-      "url": "https://arxiv.org/abs/2608.16894",
-      "summary": "arXiv:2608.16894v1 Announce Type: new Abstract: ML venues shape what kinds of research claims become legible to reviewers and what forms of evidence count as rigorous. The NeurIPS and ICML Position Paper Tracks were created for agenda-setting work, making their early composition worth auditing. \\textbf{This paper argues that the publicly accessible 2025 reviewed pool is dominated by reformist critique, and that the track should explicitly solicit direction-setting work alongside, not in place of, the reformist critiques it already hosts well.} We audit every accessible submission to the NeurIP",
+      "title": "Effective Personalized AI Tutors via LLM-Guided Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.16907",
+      "summary": "arXiv:2608.16907v1 Announce Type: new Abstract: Generative AI (GenAI) is rapidly reshaping education by unlocking the potential for personalized tutoring. Yet, emerging platforms largely focus on GenAI chatbot tutors that reactively answer student questions. We hypothesize that the efficacy of GenAI chatbot tutors can be substantially improved by proactively guiding student learning. To test this, we design a novel tutoring platform that tightly integrates a carefully-designed GenAI chatbot with a reinforcement learning algorithm for sequencing practice problems. Critically, this algorithm lev",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Orphan risks at the frontier of artificial intelligence: What diverging safety and compliance frameworks reveal about how AI companies choose the risks they prioritize",
-      "url": "https://arxiv.org/abs/2608.16895",
-      "summary": "arXiv:2608.16895v1 Announce Type: new Abstract: Companies developing some of the world's most powerful artificial intelligence systems are surprisingly diligent in how they map out the risks their technologies present. Yet the risk landscape that lies between emerging frontier models and their economically successful and societally beneficial deployment is becoming increasingly hard to navigate. Complicating this further, many frontier AI companies maintain more than one account of what could go wrong with their technologies. This paper documents the divergence between these accounts by compar",
+      "title": "When Personalization Becomes Bias: Structural and Discursive Religious Framing in AI-Generated Financial Advice",
+      "url": "https://arxiv.org/abs/2608.16909",
+      "summary": "arXiv:2608.16909v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into financial advisory systems, yet their role in reproducing religious bias remains underexamined. This study provides systematic mixed-methods evidence of such bias across three LLMs (ChatGPT, Gemini, and Grok) using 432 simulated advisor-client interactions spanning 16 religious identity pairings (Christian, Muslim, Hindu, and non-religious) and three core household financial decisions: stock investment, house purchase, and life insurance. Combining regression and reflexive thematic ana",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "What If AI Carried Her Imagination? Black Girls as Creators in an AI Storytelling Weekend Program",
-      "url": "https://arxiv.org/abs/2608.16896",
-      "summary": "arXiv:2608.16896v1 Announce Type: new Abstract: This paper presents the design and outcomes of a seven-weekend AI storytelling program developed for Black girls aged 10-12. Grounded in Afrofuturism and Black feminist thought, the program adopted AI-enabled counter-storytelling, supported the development of foundational AI literacies, and fostered future-oriented imagination. Activities included brainstorming AI-related topics, developing character and story plots, and delivering collaborative group presentations. Drawing on the analysis of learners' artifacts from the case study, findings show",
+      "title": "Education-centered critical policy analysis of AI: Ghana's AI strategy as a case",
+      "url": "https://arxiv.org/abs/2608.16910",
+      "summary": "arXiv:2608.16910v1 Announce Type: new Abstract: National AI strategies increasingly guide governance, workforce development, innovation, and competitiveness, but less is known about how they frame education as a sector with pedagogical, cultural, ethical, and implementation demands. This study develops and applies an Education-Centered AI Policy Framework to analyze Ghana's National Artificial Intelligence Strategy, 2025-2035. Using critical qualitative policy document analysis, we examined the strategy through six components: policy purpose, teacher agency and professional learning, curriculu",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Experiential Learning of Runtime Monitoring Using Pachinko",
-      "url": "https://arxiv.org/abs/2608.16898",
-      "summary": "arXiv:2608.16898v1 Announce Type: new Abstract: We present documentation of a classroom assignment that teaches runtime monitoring through a creative embedded systems build: an interactive Pachinko game. The assignment centers on a dual-core ESP32 workflow in which students write RTLola specifications for monitors, compile these monitors to C, and deploy them alongside sensor and actuator control logic. Pachinko game events are logged in real time and used to trigger sound, animation, and motor behavior according to formal temporal logic specifications. This work showcases how formal methods c",
+      "title": "What Makes a Fairness Gap Actionable? Statistical Actionability for Responsible AI Deployment",
+      "url": "https://arxiv.org/abs/2608.16912",
+      "summary": "arXiv:2608.16912v1 Announce Type: new Abstract: Algorithmic fairness audits can detect disparities, but they do not determine when those disparities warrant intervention. Deployment decisions also depend on the reliability of the evidence, subgroup support, and deployment context. Existing fairness methods quantify disparities and uncertainty, yet provide limited guidance for translating accumulated evidence into action. We introduce Statistical Actionability, a statistical construct that recasts fairness deployment as an evidence-based decision problem. The framework integrates fairness evide",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "DOMtutor: Automated Autograding for Logic in Computer Science",
-      "url": "https://arxiv.org/abs/2608.16899",
-      "summary": "arXiv:2608.16899v1 Announce Type: new Abstract: Teaching computer science at universities is often structured rather classically and theory oriented. The former refers to \"transmission\"-style lectures accompanied by exercises which are submitted and graded manually, providing delayed feedback (if any). The latter refers to exercises often posed at a conceptual level, requiring solution ideas to be sketched out on paper, but not put to the test in practice. By its nature, this is particularly true for subjects relating to theoretical computer science, such as courses on propositional or first-o",
+      "title": "Which CS1 Students Will Fail? Identifying Digital Markers from Learning Analytics in Computer Systems and Architecture Using Weighted Academic Momentum and Interaction Logs",
+      "url": "https://arxiv.org/abs/2608.16914",
+      "summary": "arXiv:2608.16914v1 Announce Type: new Abstract: Digital learning platforms generate rich behavioural traces (digital markers) that offer the potential to identify struggling students early. This paper investigates whether a combination of traditional and digital markers can predict failure in a first-year CS1 course (Computer Systems and Architecture) with sufficient recall to enable timely intervention. Using data from four cohorts (2017-2021, N=284) at a large public university in sub-Saharan Africa, we conducted a mixed-methods stakeholder elicitation to identify ten candidate factors. Thes",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The use of data from information systems in court proceedings",
-      "url": "https://arxiv.org/abs/2608.16901",
-      "summary": "arXiv:2608.16901v1 Announce Type: new Abstract: This paper examines data in the context of how the judiciary collects, analyses, and evaluates it as evidence, based on examples from current judicial practice in Bulgaria and within the context of the new substantive legal regulations. It explores the legal and practical challenges related to the use of data sets as evidence in court proceedings through the analysis of specific cases. In light of the new regulatory framework, the research points out that the analytical perspective should shift from \"evidence as an information unit\" towards \"evid",
+      "title": "WIP: LLM Odyssey: A Game-Based Platform for Teaching LLM Engineering Concepts",
+      "url": "https://arxiv.org/abs/2608.16924",
+      "summary": "arXiv:2608.16924v1 Announce Type: new Abstract: This work-in-progress (WIP) innovative practice category paper presents LLM Odyssey, an open source, browser-based serious gaming platform comprising 13 interactive games for teaching Large Language Model (LLM) engineering concepts. Topics such as tokenization, transformer architecture, prompt engineering, retrieval augmented generation (RAG), and production deployment are underrepresented in computer science curricula. Existing interactive tools address individual concepts but lack pedagogical scaffolding or structured learning pathways. LLM Ody",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Advancing Health Equity through Multi-Level Fairness in Health Informatics",
-      "url": "https://arxiv.org/abs/2608.16902",
-      "summary": "arXiv:2608.16902v1 Announce Type: new Abstract: The increasing integration of machine learning in healthcare has highlighted critical challenges related to fairness, transparency, and health equity. Specifically, the use of multi-level fairness techniques, which combine multiple bias mitigation steps or techniques, show promise for reducing biases across different patient demographics, yet this approach remains underexplored in terms of its health equity outcomes. In this paper, we assess the current landscape of multi-level fairness in health informatics by focusing on its impact on equitable",
+      "title": "Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media",
+      "url": "https://arxiv.org/abs/2608.17017",
+      "summary": "arXiv:2608.17017v1 Announce Type: new Abstract: The implementation of artificial intelligence techniques and tools in the media will systematically and continuously alter their work and that of their professionals during the coming decades. To this end, this article carries out a systematic review of the research conducted on the implementation of AI in the media over the last two decades, particularly empirical research, to identify the main social and epistemological challenges posed by its adoption. For the media, increased dependence on technological platforms and the defense of their edit",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI, Brain Death Detection, and Islamic Law",
-      "url": "https://arxiv.org/abs/2608.16903",
-      "summary": "arXiv:2608.16903v1 Announce Type: new Abstract: The deployment of machine learning systems capable of detecting covert consciousness in neurologically injured patients creates a profound challenge at the intersection of clinical medicine, AI ethics, and Islamic jurisprudence. We argue that the shift from binary clinical verdicts to probabilistic, temporally granular neural-state estimates should be addressed through three foundational constructs in Islamic legal epistemology: bayyina (clear evidentiary proof), yaqin (epistemic certainty), and the theologically mandated agnosticism about there ",
+      "title": "Wasted large language models: A life cycle thinking approach",
+      "url": "https://arxiv.org/abs/2608.17055",
+      "summary": "arXiv:2608.17055v1 Announce Type: new Abstract: Large Language Models (LLMs) are machine learning (ML) models that have an increasingly large carbon footprint through their development and use. Efforts to increase the energy efficiency of these models have not translated into reduced consumption due to rebound effects such as Jevons Paradox - that increased efficiency drives increased use. There is therefore a need for additional measures to solve this problem. We suggest that one possible way forward is to use life cycle thinking, and view LLMs as products that can become waste. With this per",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Understanding Computing Identity Development Through Mentorship and Epistemic Network Analysis",
-      "url": "https://arxiv.org/abs/2608.16904",
-      "summary": "arXiv:2608.16904v1 Announce Type: new Abstract: Computing identity plays an important role in students' participation, persistence, and sense of belonging in computing, yet identity development can be difficult to capture through survey measures alone. This study examines how computing identity is expressed in open-ended survey responses from 37 participants in computing-related fields. Using a Quantitative Ethnography approach, we applied Epistemic Network Analysis (ENA) to model co-occurrence patterns among six identity-related constructs: recognition, interest, competence, sense of belongin",
+      "title": "Language Models Reproduce Human Reductionist Bias and Decision Inconsistency in Neurodevelopmental Disorders Assessment",
+      "url": "https://arxiv.org/abs/2608.17105",
+      "summary": "arXiv:2608.17105v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly supporting complex mental-health decisions, which depend not only on factual evidence but also value-laden interpretations. We introduce a mixed-methods human-LLM auditing framework examining decision consistency, susceptibility to cognitive heuristics, declarative intellectual humility, and the concepts operationalized in support-allocation judgments of neurodevelopmental disorders. Comparing 35 humans (18 physicians and 17 psychologists) with seven LLMs, we show that in both groups, ratings of patie",
       "published": "2026-08-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
