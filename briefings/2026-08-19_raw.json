@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-19",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "A Framework for Using and Evaluating LLMs as Surrogate Experts in Security Surveys: Reliability, Bias, and Implications",
+      "url": "https://arxiv.org/abs/2608.16893",
+      "summary": "arXiv:2608.16893v1 Announce Type: new Abstract: Expert surveys are widely used in security research to study practitioner workows and decision-making, yet recruiting domain experts - especially in Security Operations Centres (SOCs), where analysts face high workload, burnout and confidentiality constraints - is difficult and often results in small samples. Large language models (LLMs) oer an appealing alternative by generating synthetic responses at scale, but little guidance exists on when such surrogate participants are reliable. We present a methodological framework for evaluating LLMs as s",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "An Investigation of the NeurIPS and ICML 2025 Position Tracks",
+      "url": "https://arxiv.org/abs/2608.16894",
+      "summary": "arXiv:2608.16894v1 Announce Type: new Abstract: ML venues shape what kinds of research claims become legible to reviewers and what forms of evidence count as rigorous. The NeurIPS and ICML Position Paper Tracks were created for agenda-setting work, making their early composition worth auditing. \\textbf{This paper argues that the publicly accessible 2025 reviewed pool is dominated by reformist critique, and that the track should explicitly solicit direction-setting work alongside, not in place of, the reformist critiques it already hosts well.} We audit every accessible submission to the NeurIP",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Orphan risks at the frontier of artificial intelligence: What diverging safety and compliance frameworks reveal about how AI companies choose the risks they prioritize",
+      "url": "https://arxiv.org/abs/2608.16895",
+      "summary": "arXiv:2608.16895v1 Announce Type: new Abstract: Companies developing some of the world's most powerful artificial intelligence systems are surprisingly diligent in how they map out the risks their technologies present. Yet the risk landscape that lies between emerging frontier models and their economically successful and societally beneficial deployment is becoming increasingly hard to navigate. Complicating this further, many frontier AI companies maintain more than one account of what could go wrong with their technologies. This paper documents the divergence between these accounts by compar",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "What If AI Carried Her Imagination? Black Girls as Creators in an AI Storytelling Weekend Program",
+      "url": "https://arxiv.org/abs/2608.16896",
+      "summary": "arXiv:2608.16896v1 Announce Type: new Abstract: This paper presents the design and outcomes of a seven-weekend AI storytelling program developed for Black girls aged 10-12. Grounded in Afrofuturism and Black feminist thought, the program adopted AI-enabled counter-storytelling, supported the development of foundational AI literacies, and fostered future-oriented imagination. Activities included brainstorming AI-related topics, developing character and story plots, and delivering collaborative group presentations. Drawing on the analysis of learners' artifacts from the case study, findings show",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Experiential Learning of Runtime Monitoring Using Pachinko",
+      "url": "https://arxiv.org/abs/2608.16898",
+      "summary": "arXiv:2608.16898v1 Announce Type: new Abstract: We present documentation of a classroom assignment that teaches runtime monitoring through a creative embedded systems build: an interactive Pachinko game. The assignment centers on a dual-core ESP32 workflow in which students write RTLola specifications for monitors, compile these monitors to C, and deploy them alongside sensor and actuator control logic. Pachinko game events are logged in real time and used to trigger sound, animation, and motor behavior according to formal temporal logic specifications. This work showcases how formal methods c",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "DOMtutor: Automated Autograding for Logic in Computer Science",
+      "url": "https://arxiv.org/abs/2608.16899",
+      "summary": "arXiv:2608.16899v1 Announce Type: new Abstract: Teaching computer science at universities is often structured rather classically and theory oriented. The former refers to \"transmission\"-style lectures accompanied by exercises which are submitted and graded manually, providing delayed feedback (if any). The latter refers to exercises often posed at a conceptual level, requiring solution ideas to be sketched out on paper, but not put to the test in practice. By its nature, this is particularly true for subjects relating to theoretical computer science, such as courses on propositional or first-o",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The use of data from information systems in court proceedings",
+      "url": "https://arxiv.org/abs/2608.16901",
+      "summary": "arXiv:2608.16901v1 Announce Type: new Abstract: This paper examines data in the context of how the judiciary collects, analyses, and evaluates it as evidence, based on examples from current judicial practice in Bulgaria and within the context of the new substantive legal regulations. It explores the legal and practical challenges related to the use of data sets as evidence in court proceedings through the analysis of specific cases. In light of the new regulatory framework, the research points out that the analytical perspective should shift from \"evidence as an information unit\" towards \"evid",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Advancing Health Equity through Multi-Level Fairness in Health Informatics",
+      "url": "https://arxiv.org/abs/2608.16902",
+      "summary": "arXiv:2608.16902v1 Announce Type: new Abstract: The increasing integration of machine learning in healthcare has highlighted critical challenges related to fairness, transparency, and health equity. Specifically, the use of multi-level fairness techniques, which combine multiple bias mitigation steps or techniques, show promise for reducing biases across different patient demographics, yet this approach remains underexplored in terms of its health equity outcomes. In this paper, we assess the current landscape of multi-level fairness in health informatics by focusing on its impact on equitable",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI, Brain Death Detection, and Islamic Law",
+      "url": "https://arxiv.org/abs/2608.16903",
+      "summary": "arXiv:2608.16903v1 Announce Type: new Abstract: The deployment of machine learning systems capable of detecting covert consciousness in neurologically injured patients creates a profound challenge at the intersection of clinical medicine, AI ethics, and Islamic jurisprudence. We argue that the shift from binary clinical verdicts to probabilistic, temporally granular neural-state estimates should be addressed through three foundational constructs in Islamic legal epistemology: bayyina (clear evidentiary proof), yaqin (epistemic certainty), and the theologically mandated agnosticism about there ",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Understanding Computing Identity Development Through Mentorship and Epistemic Network Analysis",
+      "url": "https://arxiv.org/abs/2608.16904",
+      "summary": "arXiv:2608.16904v1 Announce Type: new Abstract: Computing identity plays an important role in students' participation, persistence, and sense of belonging in computing, yet identity development can be difficult to capture through survey measures alone. This study examines how computing identity is expressed in open-ended survey responses from 37 participants in computing-related fields. Using a Quantitative Ethnography approach, we applied Epistemic Network Analysis (ENA) to model co-occurrence patterns among six identity-related constructs: recognition, interest, competence, sense of belongin",
+      "published": "2026-08-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
