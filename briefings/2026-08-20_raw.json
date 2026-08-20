@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Global Index on Responsible AI 2026 : Conceptual Framework and Methodology",
-      "url": "https://arxiv.org/abs/2608.18122",
-      "summary": "arXiv:2608.18122v1 Announce Type: new Abstract: This report presents the methodology of the Global Index on Responsible AI (GIRAI), 2nd Edition. This edition refines the 1st Edition by strengthening the distinction between framework existence and implementation, restructuring dimensions from three to five thematic areas, introducing more granular variables for framework quality, and applying a multi-stage review and validation process. An independent statistical pre-audit was conducted to assess the coherence and robustness of the framework. GIRAI assesses responsible AI governance across five",
+      "title": "Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act",
+      "url": "https://arxiv.org/abs/2608.19194",
+      "summary": "arXiv:2608.19194v1 Announce Type: new Abstract: Legal cross-references are commonly represented as links between instruments or provisions. For a curated legal knowledge base, the existence of a link is only the beginning of the claim: it must also state the legal character of the interaction, identify the provisions supporting it, preserve its conditions, and remain consistent when reached from either instrument. This paper presents a provision-level model and a construction protocol for qualified cross-references, developed through a bilingual corpus of fourteen instruments surrounding Regul",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "FairGlucose: A CGM Fairness Benchmark Reveals Subgroup Disparities Hidden in Population-Level Validation",
-      "url": "https://arxiv.org/abs/2608.18296",
-      "summary": "arXiv:2608.18296v1 Announce Type: new Abstract: As CGM-based AI tools approach clinical deployment, whether their accuracy is equitable across patient demographics remains insufficiently tested. To enable this evaluation, we constructed FairGlucose, a 300-patient CGM cohort balanced across 12 demographic strata (age x gender x type 1/type 2 diabetes), with 132,480 forecasting samples and 3,945 unique behavioral events (meals, exercise, medication) logged by 81 patients. Benchmarking 33 models across four families on 2-hour glucose forecasting, we find that population-level external validation ",
+      "title": "Computational Orientalism: Measuring Structural Discourse Bias in Large Language Models Using the Middle East Cultural Sensitivity Score (MECSS)",
+      "url": "https://arxiv.org/abs/2608.18100",
+      "summary": "arXiv:2608.18100v1 Announce Type: cross Abstract: AI systems now shape how hundreds of millions of people learn about cultures other than their own. When someone asks one of these systems about the Middle East, they do not receive neutral facts. They receive a representation shaped by the frameworks embedded in training data, and that data is overwhelmingly Western and English-language. This paper asks whether that representation is Orientalist in Said's sense: whether it denies agency to Middle Eastern actors, treats Western frameworks as neutral while marking non-Western knowledge as particu",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Capability-Based Planning for AI Crisis Preparedness",
-      "url": "https://arxiv.org/abs/2608.18357",
-      "summary": "arXiv:2608.18357v1 Announce Type: new Abstract: Capability-based planning drives preparedness in defense and homeland security, but has yet to be applied seriously to AI. Government AI preparations follow a predict-then-act paradigm: rank risks by likelihood and impact, then prepare for the highest expected harm. AI resists prediction: expert timelines disagree by orders of magnitude, and official reviews concede that likelihood-based risk assessment fails for exactly this class of risk. Drawing on principles of decision making under deep uncertainty, we propose a methodological framework in t",
+      "title": "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs",
+      "url": "https://arxiv.org/abs/2608.18131",
+      "summary": "arXiv:2608.18131v1 Announce Type: cross Abstract: Current safety alignment training for Large Language Models (LLMs) are heavily English-centric. When such safety filters fail for non-English languages, the consequences are immediate and user-facing: voice assistants and spoken dialogue systems may produce stereotype-reinforcing outputs, bypassing the standard English-focused safety alignments and propagating harmful bias to non-English speaking communities. For spoken language technologies deployed across India's linguistically diverse population, this represents a critical failure mode. To a",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Fabricated Front: Generative AI and the Opacity of Workplace Performance",
-      "url": "https://arxiv.org/abs/2608.18369",
-      "summary": "arXiv:2608.18369v1 Announce Type: new Abstract: Generative AI (GenAI) has become a fixture of workplace life. Current research asks chiefly what this implies for jobs and outputs, measured in productivity, displacement, or bias. What remains underexamined are the interactional reconfigurations that GenAI produces at work. The emerging concept of effort opacity has begun to fill this gap by highlighting the systematic decoupling of observable output from human engagement. When GenAI makes interactional cues less diagnostic, it weakens the reciprocal exchange that sustains collaborative trust. E",
+      "title": "What Can Artificial Intelligence Learn from Medicine? Generative Analogies and Reliable Machine Learning Systems",
+      "url": "https://arxiv.org/abs/2608.18186",
+      "summary": "arXiv:2608.18186v1 Announce Type: cross Abstract: In the past few years, machine learning (ML) has been widely (and to an extent, successfully) implemented in medicine. However, uncertainties surrounding ML have made it difficult to establish the bases of its epistemic and methodological warrants. In the literature, a parallel has been drawn between medicine and ML, suggesting that we should model epistemic and methodological standards for ML on the standards of clinical translation. By developing tools from Hesse work, we characterise the nature of this parallel as a generative analogy betwee",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks",
-      "url": "https://arxiv.org/abs/2608.18554",
-      "summary": "arXiv:2608.18554v1 Announce Type: new Abstract: Most LLM benchmarks rank models on their ability to automate work tasks. In practice, however, models are often used to assist other (human or LLM) agents. The question that drives model selection is therefore not only which model produces the best output, but which model most improves the work of another (weaker) agent. We introduce a unified framework that evaluates the capability of models to automate and augment another agent's performance. Across seven economically grounded real-world tasks, an assistant model writes assistance text for a st",
+      "title": "Global Crises and National Policies: A Large Scale Analysis of Political Content in German Language Online Media",
+      "url": "https://arxiv.org/abs/2608.18268",
+      "summary": "arXiv:2608.18268v1 Announce Type: cross Abstract: Today most media content is consumed based on algorithmic recommendations. Evidence suggests that this can lead to politically biased media consumption patterns. Automated extraction of political agendas from texts can reveal and analyze political biases in online media -- and thus help fostering politically unbiased media consumption. Here we employ modern political text analysis methods demonstrating the potential of automated fine-grained political bias analysis in online media. We conduct an analysis of political content in German language ",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Turning interest into institutional change: teaching advocacy for sustainable research",
-      "url": "https://arxiv.org/abs/2608.18601",
-      "summary": "arXiv:2608.18601v1 Announce Type: new Abstract: Systemic change across the digital research landscape is required to reduce the environmental impact of digital research, but while many researchers and technical professionals are motivated to act, they often lack the skills required to translate motivation into lasting organisational change. We present an open-access course that teaches the foundations of advocacy and organisational change to researchers, research software engineers, and research technical professionals. Structured around the UNICEF five-step advocacy cycle, the course covers s",
+      "title": "Artifact-centered Claim-aware Observability for Autonomous Scientific Agents",
+      "url": "https://arxiv.org/abs/2608.18312",
+      "summary": "arXiv:2608.18312v1 Announce Type: cross Abstract: Autonomous scientific agents now increasingly propose ideas, write code, run experiments, analyze results, and even draft papers. Observe and audit those agents are necessary but logging every model call is not enough, scientists also need to inspect the artifacts and claims that the systems produced and their relations. This is driven by the fact that failures in scientific agent systems are often distributed across several objects. A manuscript claim may cite the wrong evidence, a search process may select a degenerate candidate, a laboratory",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Epistemic Subordination: Generative AI and the Infrastructure of Knowledge",
-      "url": "https://arxiv.org/abs/2608.18758",
-      "summary": "arXiv:2608.18758v1 Announce Type: new Abstract: Generative AI does not merely produce biased outputs. It encodes the majority's way of knowing as the default infrastructure of knowledge itself. We call this epistemic subordination. The training process compresses the full breadth of human expression into a single probabilistic model whose statistical baseline reflects the languages, assumptions, and cultural frameworks of the dominant culture. Minority epistemologies are not excluded but absorbed: present in the training data, yet structurally subordinated in the output. The result is not a co",
+      "title": "Measuring the Partial-Credit Gap: A Strict Benchmark on Vietnam's 2025 Convex Marking Scheme",
+      "url": "https://arxiv.org/abs/2608.18336",
+      "summary": "arXiv:2608.18336v1 Announce Type: cross Abstract: When evaluating language models on human exams, benchmarks typically score each response as right or wrong and report the overall accuracy. This approach assumes that partial knowledge is worth proportional credit, an assumption that fails when an examination uses a non-additive grading scheme. The 2025 reform of Vietnam's National High School Graduation Examination demonstrates the cost of this substitution. In Part II of the exam, candidates evaluate four true/false statements per question. The grading is convex: the number of correct stateme",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Open at the Edge, Captured at the Center: llama.cpp and the Political Economy of Local AI Inference",
-      "url": "https://arxiv.org/abs/2608.19001",
-      "summary": "arXiv:2608.19001v1 Announce Type: new Abstract: Open AI scholarship has focused on model releases and cloud ecosystems, leaving the local inference infrastructure that makes open-weight models runnable on user-owned devices largely unexamined. We address this gap through a mixed-methods analysis of llama.cpp, combining 7,681 merged pull requests from March 2023 through March 2026 with repository discussions, corporate statements, and contributor blogs. We show that local inference broadens participation at execution while relocating capture into the infrastructure that makes execution possible",
+      "title": "AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence",
+      "url": "https://arxiv.org/abs/2608.18352",
+      "summary": "arXiv:2608.18352v1 Announce Type: cross Abstract: The integration of generative AI into web search delivers synthesized answers to user queries, changing how people navigate and assess information, while raising concerns about the downstream impacts on publishers who supply the underlying content. We conduct a preregistered field experiment (N=1,100) on Google Search, the dominant online search platform, to estimate the causal effects of AI Overviews and AI Mode on user behavior, perceptions, and publisher traffic. We show that removing AI Overviews and AI Mode increases click-through rates to",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Hot Games: Towards a Holistic Assessment of the Planet Warming Emissions of Video Games based on 2024-2025 Data",
-      "url": "https://arxiv.org/abs/2608.19040",
-      "summary": "arXiv:2608.19040v1 Announce Type: new Abstract: Following on recent reports on specific platforms or companies, this paper provides an assessment of the global impact of the production and use of video games. It draws together publicly available data on game development, hardware, games sold, download sizes, time spent playing games on different platforms, and subscriptions to multiplayer and cloud game services. It provides an update to figures published 2020 and 2022. Crucially, our account of emissions related to video games considers a wide range of categories, yet contains enough detail t",
+      "title": "One Gate Is Not Enough: Composing Stateful Pre-Action Controls for Agentic AI",
+      "url": "https://arxiv.org/abs/2608.18360",
+      "summary": "arXiv:2608.18360v1 Announce Type: cross Abstract: Agentic AI systems take consequential actions governed by more than one pre-action control at once: authority, resource, and evidence gates that can admit, degrade, or remediate an action before it executes. This paper's central object is remediation-induced control coupling: a remediation applied by one control can change the action, evidence, or context another control evaluates, invalidating that control's earlier judgment. We formalize this coupling and give a remediate-and-regate protocol that restores per-action soundness in the current b",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University",
-      "url": "https://arxiv.org/abs/2608.19164",
-      "summary": "arXiv:2608.19164v1 Announce Type: new Abstract: As generative AI reshapes professional and educational practice, institutions face a challenge: how to support diverse learners, from non-coders to advanced students, in building confidence and practice with AI-supported problem solving. Most institutional responses bifurcate into conceptual workshops for general audiences or technical courses for computer science majors, leaving few spaces where mixed-ability learners can engage common AI tasks at levels matched to their prior experience. This experience report presents the LearnAI Framework, a ",
+      "title": "Longitudinal Relational Publics and their Discursive Overlap with Issue Publics",
+      "url": "https://arxiv.org/abs/2608.18422",
+      "summary": "arXiv:2608.18422v1 Announce Type: cross Abstract: Online discussions of political issues do not always happen in places explicitly dedicated to political talk; they also arise in online spaces focused on at least nominally apolitical interests, identities, and/or places. Whatever one's normative view of politics entering these ``online third spaces,'' understanding who brings political issues into them, and when, requires studying these spaces at scale. In turn, studying these spaces at scale requires a construct that captures both who is speaking and who is listening, and that holds up over t",
       "published": "2026-08-20T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
