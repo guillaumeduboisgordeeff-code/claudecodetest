@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-21",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Mapping General-Purpose AI Governance in Twenty AI Middle-Power Jurisdictions",
+      "url": "https://arxiv.org/abs/2608.19278",
+      "summary": "arXiv:2608.19278v1 Announce Type: new Abstract: The most capable general-purpose AI (GPAI) models are mostly built in two jurisdictions, the United States and China, but the risks they carry land globally. Regionally advanced economies hosting no frontier developer, which we call AI middle-powers, are writing their own rules to govern GPAI. This paper investigates which GPAI-relevant provisions these AI middle-powers have enacted, mapping twenty jurisdictions including the European Union at the level of the individual provision, across four governance areas that trace the accountability chain ",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Multi-Tier Mentorship with AI-Assisted Development: Authentic Engineering for K-12 and Undergraduates",
+      "url": "https://arxiv.org/abs/2608.19379",
+      "summary": "arXiv:2608.19379v1 Announce Type: new Abstract: K-12 students often possess creative engineering ideas but lack technical skills to build them, while undergraduates have coding expertise but few opportunities to lead real-world projects or mentor others. The rapid development of AI-assisted tools offers a potential bridge to connect these groups, yet the structure for effective K-12 and university collaborations remains underexplored. This paper introduces a multi-tiered mentorship framework enabling high school students to engage in authentic engineering through AI-assisted development using ",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Navigating Epistemic Monocultures in AI-Driven Science: A Simulation Study",
+      "url": "https://arxiv.org/abs/2608.19390",
+      "summary": "arXiv:2608.19390v1 Announce Type: new Abstract: AI integration into scientific communities promises accelerated discovery but raises concerns about detrimental homogenization. We develop an NK landscape model to explore these promises and risks. We find that non-personalized AI systems that offer uniform guidance yield benefits only under a narrow conjunction of problem structure, practices, and baseline research capabilities, becoming harmful otherwise. We implement two proposed mitigations: randomization and personalization. While randomization's utility remains restricted to decomposable pr",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Scoping Review of Methods to Measure the Energy and Carbon Footprint of Web Tracking and Advertising",
+      "url": "https://arxiv.org/abs/2608.19495",
+      "summary": "arXiv:2608.19495v1 Announce Type: new Abstract: The environmental impact of web tracking and advertising is increasingly receiving attention as the ICT sector's carbon footprint keeps rising. Yet the scholarship addressing this question remains scattered across disciplines and inconsistent in its terminology. This paper presents a scoping review of the literature on methods for measuring the energy and carbon footprint of web tracking and advertising. From an initial pool of 46 articles identified through a structured title-based search on Google Scholar, we arrived at a final corpus of 15 pap",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love",
+      "url": "https://arxiv.org/abs/2608.19545",
+      "summary": "arXiv:2608.19545v1 Announce Type: new Abstract: Autonomous conversational agents and generative-AI features are being added to online dating platforms faster than public evidence about user attitudes can accumulate, and the scarcest evidence concerns the receiving side: how people react when the profiles, messages, or conversation partners they encounter are machine-generated. We release two anonymized survey datasets collected from active users of Fledge.Love, a dating platform serving an international user base. The first (N = 2,617; Russian and English forms) measures receptivity to autonom",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Modeling AI Overreliance as a Complex Adaptive System",
+      "url": "https://arxiv.org/abs/2608.19616",
+      "summary": "arXiv:2608.19616v1 Announce Type: new Abstract: Whether AI assistance helps or harms a population depends less on the model's accuracy than on whether people rely on it appropriately trusting it when it is right and checking it when it is not. Yet reliance is usually studied one user at a time. We model it as a population process: agents repeatedly solve a task alone, accept an AI answer, or verify it, updating a Bayesian belief about AI quality and, when networked, learning from peers. Four results form one story. The environment sets the baseline: task difficulty and AI quality fix both over",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "ChatGPT Solves All Tested Qiskit Homework Assignments",
+      "url": "https://arxiv.org/abs/2608.19707",
+      "summary": "arXiv:2608.19707v1 Announce Type: new Abstract: Generative AI creates an assessment challenge in quantum software education: a student can provide a homework notebook to ChatGPT and request a completed submission. This study examined whether introductory Qiskit homework could remain autogradable while requiring students to run, review, and discuss results rather than banning AI. Three packages were tested: seeded basis-state circuits with bit flips and customized measurement mappings; Quantum Fourier Transform followed by inverse-transform recovery; and seeded Deutsch-Jozsa with customized ora",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Understanding as an Explicit and Assessable Component of Frontier AI Safety Decisions",
+      "url": "https://arxiv.org/abs/2608.19816",
+      "summary": "arXiv:2608.19816v1 Announce Type: new Abstract: Decision makers need sufficient understanding to make good decisions about complex AI systems. However, AI deployment decisions are increasingly made under time-pressure, and this combined with the use of AI generated artefact creation, can mean that the existence of safety cases and system cards may no longer demonstrate that sufficient understanding exists. Our provisional methodology for making understanding explicit and assessable requires the production of an explicit description of 4 objects of understanding (decision, decision-frame, safet",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Bounded Sovereignty and the Control Tax: Pricing AI Oversight When the Deployer Does Not Own the Model",
+      "url": "https://arxiv.org/abs/2608.19216",
+      "summary": "arXiv:2608.19216v1 Announce Type: cross Abstract: AI control research asks how to deploy models safely even when they may be misaligned, but many control protocols assume that the deployer can instrument the model and its surrounding pipeline. That assumption often fails for regulated organisations using frontier models through APIs or managed endpoints, where the deployer may control the business process but not the model weights, serving infrastructure, internal traces, update process, or full interaction logs. This paper introduces bounded sovereignty: partial technical and contractual acce",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Causal Inference under Interference with Learned Exposure Mappings",
+      "url": "https://arxiv.org/abs/2608.19224",
+      "summary": "arXiv:2608.19224v1 Announce Type: cross Abstract: Exposure mappings are often assumed to be known in causal spillover analyses. In environmental settings, however, they are typically induced by transport processes that are not directly observed and must instead be learned from pollution data. We study how uncertainty in learned transport processes propagates into exposure mappings and downstream spillover inference under interference. We compare mechanistic transport models with modern operator-learning approaches, including PDE, PINO, FNO, and GeoPT, using both simulation studies and an empir",
+      "published": "2026-08-21T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
