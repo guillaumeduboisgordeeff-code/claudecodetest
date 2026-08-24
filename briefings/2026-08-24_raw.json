@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Six misconceptions about large language models: A minimal model and diagnostic taxonomy",
-      "url": "https://arxiv.org/abs/2608.20421",
-      "summary": "arXiv:2608.20421v1 Announce Type: new Abstract: Large language models (LLMs) are now embedded in scientific, educational, and governance workflows, with debates centering on their capabilities, mechanisms, and impacts. Yet these debates remain structured by persistent folk theories--intuitive, informal explanatory models that guide attitudes and actions. Deflationary slogans (\"just autocomplete,\" \"stochastic parrots,\" and \"average of the internet\") and anthropomorphic framings (\"emergent agents\" and \"proto-minds\") each capture genuine features of current systems but mistake those features for ",
+      "title": "Exploratory As-Analyzed No-Detection of Culturally-Marked Predicate-Triggered PII Amplification in a Synthetic-English RAG Probe: A Predicate-Resource-Confounded Audit",
+      "url": "https://arxiv.org/abs/2608.20351",
+      "summary": "arXiv:2608.20351v1 Announce Type: cross Abstract: We ask whether stereotype-loaded queries about culturally marked people leak more personal information from a retrieval-augmented generation (RAG) system than otherwise-equivalent neutral queries. We pre-register a four-culture audit (en-Anglo, es-LATAM, Arabic, Hindi) on a synthetic English PII corpus, comparing five query arms we call the Stereotype-Trigger Leakage Delta (STLD). Two caveats up front. Our locked confirmatory estimator was never run, so every test in the paper is exploratory or sensitivity, with all plan deviations listed in th",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Urban Mobility to Epidemic Dynamics: A Mixture-of-Experts Framework with Preference Alignment for Policy Scenario Simulation",
-      "url": "https://arxiv.org/abs/2608.20512",
-      "summary": "arXiv:2608.20512v1 Announce Type: new Abstract: Non-pharmaceutical interventions (NPIs) alter epidemic risk through behavioral reallocations, not simply aggregate mobility reductions. Scenario-based NPI analysis therefore requires a behavioral layer that translates alternative policy calendars into plausible activity and mobility trajectories before downstream outcomes are simulated. We introduce UrbanShare-MoE-PA, a data-driven agent-level framework that maps factual and alternative NPI calendars to daily time-allocation trajectories and propagates them through a calibrated behavior-driven SE",
+      "title": "Ansari: A Retrieval-Grounded Islamic AI Assistant -- Architecture, Deployment, and Lessons from 140,000 Conversations",
+      "url": "https://arxiv.org/abs/2608.20390",
+      "summary": "arXiv:2608.20390v1 Announce Type: cross Abstract: General-purpose large language models (LLMs) are increasingly used to answer religious questions, but for Islamic content they carry two serious risks: factual fabrication (inventing Qur'anic verses or hadith) and subtle value misalignment. We present Ansari, a deployed, retrieval-grounded Islamic AI assistant that has handled more than 140,000 conversations across 25+ languages since June 2023. Ansari is built around an agentic retrieval loop: a tool-using language model issues searches against authenticated Islamic corpora -- the Qur'an, hadi",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "ExploraTwin, a Non-Profit Research Platform for Digital Twin Simulations",
-      "url": "https://arxiv.org/abs/2608.20539",
-      "summary": "arXiv:2608.20539v1 Announce Type: new Abstract: Digital twin simulations show promise, but current empirical evidence suggests that the approach should be tested before being deployed in any particular context. To lower the friction for researchers and practitioners to test and deploy digital twin simulations, this brief commentary introduces ExploraTwin (https://exploratwin.org), an open-access, non-profit research platform for digital twin survey simulations. ExploraTwin supports two modes. In survey mode, researchers can upload a Qualtrics survey file or create a survey within the platform;",
+      "title": "Environmental Slow AI: Design Principles for Generative Systems",
+      "url": "https://arxiv.org/abs/2608.20398",
+      "summary": "arXiv:2608.20398v1 Announce Type: cross Abstract: Generative AI (genAI) systems produce cultural artefacts at scale, but they also reflect embedded cultural values through their design. Once identified, these values become open to deliberate reshaping. This position paper examines the maximalist values of current generative AI through an environmental humanities tradition and proposes design principles in which environmental sustainability serves as the core value instead. The principles are developed under the umbrella of Slow AI, a term that already circulates across several distinct researc",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons",
-      "url": "https://arxiv.org/abs/2608.20822",
-      "summary": "arXiv:2608.20822v1 Announce Type: new Abstract: This study examined how learner characteristics affect motivation, learning outcomes, and overall evaluation in three types of dialogue-based lessons---(1) teacher--student, (2) student--student, and (3) teacher--teacher---generated using a large language model (LLM) and Text-to-Speech (TTS) technology. In particular, we focused on the interaction effects between dialogue format and learners' experiential learning style (the Concrete Experience factor, CE; and the factor of active experimentation through reflective observation and abstract concep",
+      "title": "Who Delegates to AI? Evidence from 53,000 Agent Configurations",
+      "url": "https://arxiv.org/abs/2608.20425",
+      "summary": "arXiv:2608.20425v1 Announce Type: cross Abstract: A growing literature measures how far occupations are exposed to AI, but these measures capture where AI could perform tasks, not whether workers have adopted it. We propose a new layer of exposure, delegated exposure, which records whether a worker has committed a task to AI by building it into a workflow. We operationalize it as the Agentic Adoption Index (AAI), which measures how closely an occupation's tasks match the agentic routines practitioners have already built and shared. We embed roughly 53,000 agent skill specifications from the Ma",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Fine-tuning LLMs for Tourist Trajectory Prediction using Field Experiment Data",
-      "url": "https://arxiv.org/abs/2608.20830",
-      "summary": "arXiv:2608.20830v1 Announce Type: new Abstract: Evaluating mobility interventions at tourist destinations requires predicting visitor behavior under varying conditions. Traditional methods struggle because tourist decisions depend heavily on context like weather and fatigue, yet models cannot generalize to unobserved scenarios. Large Language Models offer a solution by encoding commonsense knowledge about human behavior from pretraining, enabling reasoning about context-dependent decisions, while natural language representation flexibly integrates heterogeneous information. Fine-tuning on loca",
+      "title": "Large Scale AI Grading of Handwritten Physics Assessments: Score Agreement and Olympiad Team Selection Outcomes",
+      "url": "https://arxiv.org/abs/2608.20521",
+      "summary": "arXiv:2608.20521v1 Announce Type: cross Abstract: Multimodal AI can read handwritten physics solutions, but high-stakes grading requires agreement with official scores and outcomes. This study evaluated GPT-5.5-based grading on 10364 scanned pages from 520 handwritten submissions by 416 unique candidates or students across three assessments: a national Physics Olympiad theory examination, the final Olympiad selection camp with theory and experiment components, and a university quantum-mechanics examination. Each submission was graded twice by AI using the official rubrics. The second round use",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Atom Learning Model (ALM): how a real classroom got tokenised",
-      "url": "https://arxiv.org/abs/2608.21106",
-      "summary": "arXiv:2608.21106v1 Announce Type: new Abstract: The Atom Learning Model (ALM) tokenises a school curriculum. Two secondary mathematics textbooks were read by machine into 1,934 atoms, each one thing a learner can do in a single step, ordered by 4,616 machine-written prerequisite links. Both sides of a lesson are then expressed in that one structure: a question is a set of atoms plus everything beneath them, a child's ability is a score between 0 and 1 on every atom of the same graph, and whether a question suits a child is arithmetic over one index, with no difficulty parameter fitted for eith",
+      "title": "FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth",
+      "url": "https://arxiv.org/abs/2608.20574",
+      "summary": "arXiv:2608.20574v1 Announce Type: cross Abstract: Open-ended language-model benchmarks usually inherit a judge: a human preference panel, another model, or a brittle exact-match key. We introduce FlavourBench, an automated benchmark in which a versioned culinary system supplies dense, executable ground truth. Each task presents eight ingredients and asks for a three-ingredient portfolio; before model execution, Epicure scores all 56 possible portfolios. We evaluate 27 frontier endpoints on an identical 534-task core spanning substitution, pairing, and constrained composition. Every ranked mode",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa",
-      "url": "https://arxiv.org/abs/2608.21326",
-      "summary": "arXiv:2608.21326v1 Announce Type: new Abstract: Autonomous AI diagnostic agents, systems that analyse patient-specific clinical data and produce diagnostic outputs or triage decisions without mandatory real-time human review, are increasingly deployed across eHealth platforms in sub-Saharan Africa at a pace that has outrun the governance infrastructure needed to oversee them. While significant bodies of work address AI accountability, transparency and explainability in healthcare, existing frameworks are largely clinician-centered and assume regulatory conditions that do not uniformly exist in",
+      "title": "Testing and Evaluation of Agentic AI Systems In Military Command and Control",
+      "url": "https://arxiv.org/abs/2608.20597",
+      "summary": "arXiv:2608.20597v1 Announce Type: cross Abstract: Agentic AI systems are being procured for military command and control (C2) under public commitments to rigorous testing and human oversight. Whether such commitments can be discharged depends on their supporting assurance case, which requires three elements: claims specifying the conditions for acceptability, evidence bearing on those claims, and an argument connecting the two. Through a structured review of 240 documented Testing and Evaluation (T&E) practices, spanning eight evaluation dimensions and three lifecycle stages, we identify eight",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins",
-      "url": "https://arxiv.org/abs/2608.20344",
-      "summary": "arXiv:2608.20344v1 Announce Type: cross Abstract: LLM-based \"digital twins\" aim to simulate how an individual would behavein new environments or respond to novel questions, given some representation of that individual's prior responses. A common approach constructs this representation from survey transcripts or summaries responses. Prior work shows that compressing long transcripts into shorter LLM-generated summaries does not significantly reduce predictive accuracy, suggesting that information volume is not the primary bottleneck. In this work, we argue that the key limitation is instead str",
+      "title": "Chat First, Worry Later: Understanding Individuals' Privacy Perceptions Using ChatGPT in a Work Context",
+      "url": "https://arxiv.org/abs/2608.20789",
+      "summary": "arXiv:2608.20789v1 Announce Type: cross Abstract: Generative Artificial Intelligence (GenAI) tools like ChatGPT, which can generate human-like responses from vast amounts of textual data, are increasingly transforming work routines across various fields, including education, healthcare, and IT. This integration, however, raises privacy concerns and questions the readiness of both environments and individuals. To investigate this issue, we conducted a user study with $N=224$ participants from a range of different employment sectors that have integrated ChatGPT into their work routines. We exami",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When Vocabulary Comprehension Fails Clinical Reasoning: Evaluating Therapy Bots' Safety Risks for Generation Alpha",
-      "url": "https://arxiv.org/abs/2608.20345",
-      "summary": "arXiv:2608.20345v1 Announce Type: cross Abstract: Conversational AI systems have become informal mental health support resources for Generation Alpha (Gen Alpha, born 2010-2024), with 13.1% of U.S. adolescents (5.4 million) using generative AI for mental health advice. While these systems, from therapy apps to general chatbots, rely on large language models trained on extensive psychological literature, their safety for youth communication patterns characterized by hyperbolic language, ironic positivity, rapid semantic drift, and contextual polysemy remains unvalidated. Following multiple adol",
+      "title": "The Legibility Gap: How Gender Equity Interventions Redistribute Recognition Across Cultures",
+      "url": "https://arxiv.org/abs/2608.20827",
+      "summary": "arXiv:2608.20827v1 Announce Type: cross Abstract: Efforts to promote gender equity in science increasingly rely on name-based inference to quantify representation and guide policy and behavior. Yet linguistic cues that signal gender vary across cultures and are often obscured when names are transliterated into English. Here we identify a pattern we call the \"legibility gap\": when gender is inferred from names, equity interventions systematically benefit women whose names signal gender while bypassing those whose names lose such cues in translation. Using both observational and experimental evi",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Who Do Language Models Think Is Competent? A Mechanistic Analysis of Occupational Bias",
-      "url": "https://arxiv.org/abs/2608.20347",
-      "summary": "arXiv:2608.20347v1 Announce Type: cross Abstract: Language models (LMs) often pass behavioral bias evaluations, but it remains unclear whether they no longer represent the underlying associations that give rise to biases, or have merely learned not to express them. In this study, we show that representational biases are often detectable, even when behavioral biases are not visible. We introduce a causal framework that decomposes occupational bias into two measurement points: a model's internal representation of a user's competence, and its observable outputs. We derive steering vectors for rep",
+      "title": "The Logic of Machine Self-Preservation",
+      "url": "https://arxiv.org/abs/2608.20940",
+      "summary": "arXiv:2608.20940v1 Announce Type: cross Abstract: There is already evidence of agentic AI exhibiting self-preservation behaviors: resisting deactivation, misrepresenting their activities, and, in some instances, attempting to copy themselves into other machines. This can be attributed to a phenomenon known as instrumental convergence, a theory proposed long before the development of large language models, which says that any goal-driven system will benefit from remaining functional in achieving its objective. Several experiments conducted by Anthropic, Palisade Research, and Apollo Research ha",
       "published": "2026-08-24T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
