@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-24",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Six misconceptions about large language models: A minimal model and diagnostic taxonomy",
+      "url": "https://arxiv.org/abs/2608.20421",
+      "summary": "arXiv:2608.20421v1 Announce Type: new Abstract: Large language models (LLMs) are now embedded in scientific, educational, and governance workflows, with debates centering on their capabilities, mechanisms, and impacts. Yet these debates remain structured by persistent folk theories--intuitive, informal explanatory models that guide attitudes and actions. Deflationary slogans (\"just autocomplete,\" \"stochastic parrots,\" and \"average of the internet\") and anthropomorphic framings (\"emergent agents\" and \"proto-minds\") each capture genuine features of current systems but mistake those features for ",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Urban Mobility to Epidemic Dynamics: A Mixture-of-Experts Framework with Preference Alignment for Policy Scenario Simulation",
+      "url": "https://arxiv.org/abs/2608.20512",
+      "summary": "arXiv:2608.20512v1 Announce Type: new Abstract: Non-pharmaceutical interventions (NPIs) alter epidemic risk through behavioral reallocations, not simply aggregate mobility reductions. Scenario-based NPI analysis therefore requires a behavioral layer that translates alternative policy calendars into plausible activity and mobility trajectories before downstream outcomes are simulated. We introduce UrbanShare-MoE-PA, a data-driven agent-level framework that maps factual and alternative NPI calendars to daily time-allocation trajectories and propagates them through a calibrated behavior-driven SE",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "ExploraTwin, a Non-Profit Research Platform for Digital Twin Simulations",
+      "url": "https://arxiv.org/abs/2608.20539",
+      "summary": "arXiv:2608.20539v1 Announce Type: new Abstract: Digital twin simulations show promise, but current empirical evidence suggests that the approach should be tested before being deployed in any particular context. To lower the friction for researchers and practitioners to test and deploy digital twin simulations, this brief commentary introduces ExploraTwin (https://exploratwin.org), an open-access, non-profit research platform for digital twin survey simulations. ExploraTwin supports two modes. In survey mode, researchers can upload a Qualtrics survey file or create a survey within the platform;",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Interaction Effects Between Learner Characteristics and Dialogue Format in TTS Dialogue-Based Lessons",
+      "url": "https://arxiv.org/abs/2608.20822",
+      "summary": "arXiv:2608.20822v1 Announce Type: new Abstract: This study examined how learner characteristics affect motivation, learning outcomes, and overall evaluation in three types of dialogue-based lessons---(1) teacher--student, (2) student--student, and (3) teacher--teacher---generated using a large language model (LLM) and Text-to-Speech (TTS) technology. In particular, we focused on the interaction effects between dialogue format and learners' experiential learning style (the Concrete Experience factor, CE; and the factor of active experimentation through reflective observation and abstract concep",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Fine-tuning LLMs for Tourist Trajectory Prediction using Field Experiment Data",
+      "url": "https://arxiv.org/abs/2608.20830",
+      "summary": "arXiv:2608.20830v1 Announce Type: new Abstract: Evaluating mobility interventions at tourist destinations requires predicting visitor behavior under varying conditions. Traditional methods struggle because tourist decisions depend heavily on context like weather and fatigue, yet models cannot generalize to unobserved scenarios. Large Language Models offer a solution by encoding commonsense knowledge about human behavior from pretraining, enabling reasoning about context-dependent decisions, while natural language representation flexibly integrates heterogeneous information. Fine-tuning on loca",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Atom Learning Model (ALM): how a real classroom got tokenised",
+      "url": "https://arxiv.org/abs/2608.21106",
+      "summary": "arXiv:2608.21106v1 Announce Type: new Abstract: The Atom Learning Model (ALM) tokenises a school curriculum. Two secondary mathematics textbooks were read by machine into 1,934 atoms, each one thing a learner can do in a single step, ordered by 4,616 machine-written prerequisite links. Both sides of a lesson are then expressed in that one structure: a question is a set of atoms plus everything beneath them, a child's ability is a score between 0 and 1 on every atom of the same graph, and whether a question suits a child is arithmetic over one index, with no difficulty parameter fitted for eith",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa",
+      "url": "https://arxiv.org/abs/2608.21326",
+      "summary": "arXiv:2608.21326v1 Announce Type: new Abstract: Autonomous AI diagnostic agents, systems that analyse patient-specific clinical data and produce diagnostic outputs or triage decisions without mandatory real-time human review, are increasingly deployed across eHealth platforms in sub-Saharan Africa at a pace that has outrun the governance infrastructure needed to oversee them. While significant bodies of work address AI accountability, transparency and explainability in healthcare, existing frameworks are largely clinician-centered and assume regulatory conditions that do not uniformly exist in",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Beyond Raw Transcripts: Structured Persona Extraction for LLM-Based Digital Twins",
+      "url": "https://arxiv.org/abs/2608.20344",
+      "summary": "arXiv:2608.20344v1 Announce Type: cross Abstract: LLM-based \"digital twins\" aim to simulate how an individual would behavein new environments or respond to novel questions, given some representation of that individual's prior responses. A common approach constructs this representation from survey transcripts or summaries responses. Prior work shows that compressing long transcripts into shorter LLM-generated summaries does not significantly reduce predictive accuracy, suggesting that information volume is not the primary bottleneck. In this work, we argue that the key limitation is instead str",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When Vocabulary Comprehension Fails Clinical Reasoning: Evaluating Therapy Bots' Safety Risks for Generation Alpha",
+      "url": "https://arxiv.org/abs/2608.20345",
+      "summary": "arXiv:2608.20345v1 Announce Type: cross Abstract: Conversational AI systems have become informal mental health support resources for Generation Alpha (Gen Alpha, born 2010-2024), with 13.1% of U.S. adolescents (5.4 million) using generative AI for mental health advice. While these systems, from therapy apps to general chatbots, rely on large language models trained on extensive psychological literature, their safety for youth communication patterns characterized by hyperbolic language, ironic positivity, rapid semantic drift, and contextual polysemy remains unvalidated. Following multiple adol",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Who Do Language Models Think Is Competent? A Mechanistic Analysis of Occupational Bias",
+      "url": "https://arxiv.org/abs/2608.20347",
+      "summary": "arXiv:2608.20347v1 Announce Type: cross Abstract: Language models (LMs) often pass behavioral bias evaluations, but it remains unclear whether they no longer represent the underlying associations that give rise to biases, or have merely learned not to express them. In this study, we show that representational biases are often detectable, even when behavioral biases are not visible. We introduce a causal framework that decomposes occupational bias into two measurement points: a model's internal representation of a user's competence, and its observable outputs. We derive steering vectors for rep",
+      "published": "2026-08-24T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
