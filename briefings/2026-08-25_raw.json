@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Self-Reported AI Usage for Learning in Computer Science Education: Relationships with Goal Orientation and Academic Help-Seeking",
-      "url": "https://arxiv.org/abs/2608.21373",
-      "summary": "arXiv:2608.21373v1 Announce Type: new Abstract: Artificial intelligence (AI) is becoming an increasingly integral part of higher education, yet the factors shaping students' use of AI for learning remain insufficiently understood. This study examines how students' goal orientation and academic help-seeking behavior are associated with AI use in a computer science context, while also accounting for individual, behavioral, and contextual characteristics. Data were collected from 236 university students enrolled in a database course using a self-report survey. AI use was operationalized through t",
+      "title": "Evaluation in the Age of AI: Output as Evidence of Learning",
+      "url": "https://arxiv.org/abs/2608.22660",
+      "summary": "arXiv:2608.22660v1 Announce Type: new Abstract: The rapid adoption of artificial intelligence (AI), particularly large language models (LLMs), has fundamentally disrupted how learning is demonstrated and evaluated in higher education. Tasks that once served as proxies for understanding-such as writing essays, solving problem sets, or producing computer code-can now be generated superficially by AI systems with minimal human effort. This paradigm shift raises a critical ethical question: how should learning be evaluated when traditional indicators of competence are easily outsourced? This paper",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "PersonaMem-v3: Toward Omni-Platform Personal Intelligence for Holistic User Understanding, Recommendation, and Agentic Tasks",
-      "url": "https://arxiv.org/abs/2608.21381",
-      "summary": "arXiv:2608.21381v1 Announce Type: new Abstract: Personal intelligence is becoming a central frontier for user-facing AI agents. To be helpful in everyday life, agents must understand users across the digital contexts where their preferences, intents, habits, social relationships, and needs unfold over time. Today's systems can personalize within individual apps or tasks, but personal intelligence as a whole remains under-measured: how agents build cross-context user understanding, support steerable recommendation systems, act proactively across platforms, and avoid over-personalization. We int",
+      "title": "Large language models simulate intersectional synthetic identities with a budget of one to two dimensions",
+      "url": "https://arxiv.org/abs/2608.23005",
+      "summary": "arXiv:2608.23005v1 Announce Type: new Abstract: Large language models are increasingly used as synthetic survey respondents, promising cheap access to rare intersectional populations. We test standard demographic-persona methods against every real intersectional subgroup across 15 waves of Pew's American Trends Panel -- 21 million simulated response distributions from eight models. In real respondents, subgroup opinion is approximately the additive sum of its single-identity components, yet grows 2.5x more distinctive as identities intersect. Simulated respondents show no such composition: a s",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Determinants of Starting Salaries for Filipino Graduates: An Explainable Machine Learning Approach",
-      "url": "https://arxiv.org/abs/2608.21383",
-      "summary": "arXiv:2608.21383v1 Announce Type: new Abstract: Filipino graduates face a persistent disconnect between educational preparation and labor market outcomes, where starting salary is a key signal of entry-level valuation. Current Philippine research is dominated by descriptive tracer studies that document employment rates but do not explain the determinants of pay. We address this gap using a crowd-sourced survey dataset of graduate responses whose noisy, self-reported nature makes it a challenging prediction target. Applying machine learning to this problem, we identify job role and industry as ",
+      "title": "Expectations and Practices around AI Disclosure in CS Research",
+      "url": "https://arxiv.org/abs/2608.23271",
+      "summary": "arXiv:2608.23271v1 Announce Type: new Abstract: As generative AI tools find increasing use in research workflows, ongoing debates on their impact, appropriateness and responsible use have led policymakers to enact policies to disclose AI use at multiple publishing venues. However, are current AI disclosure policies and practices reflective of their purpose? In this work, we first investigate disclosure policies of top computer science venues and find that despite their prevalence, they remain highly under-specified. Secondly, through a survey of computer science researchers (N=$109$), we chara",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Interrupting the Chain: Human Perception of AI-Generated Disinformation Through a Kill Chain Lens",
-      "url": "https://arxiv.org/abs/2608.21389",
-      "summary": "arXiv:2608.21389v1 Announce Type: new Abstract: Generative AI enables customized misinformation at scale, yet defenses remain largely reactive. We present empirical findings from a human-subject study (n=504 participants, n=2,438 judgments) in which users classified news fragments by origin (human vs. machine) and veracity (real vs. fake). We organize results using an adapted cybersecurity kill chain as a taxonomy for intervention, mapping perception data onto stages of a cognitive attack lifecycle. Three key findings emerge: (1) a perception-accuracy gap where heightened suspicion does not im",
+      "title": "Enabling Organisational Change Through Ground-Up Initiatives: A Case Study from the STFC Scientific Computing Department",
+      "url": "https://arxiv.org/abs/2608.23374",
+      "summary": "arXiv:2608.23374v1 Announce Type: new Abstract: Transforming digital research infrastructure (DRI) to align with UK Net Zero targets requires significant action from organisations in this space. Although high level strategies and recommendations exist, it is not always obvious how to translate these into concrete results. Here we present a case study from the Science and Technology Facilities Council's Scientific Computing Department (SCD). This department consists of over 200 staff supporting tens of thousands of researchers, and is spread over significant cloud and high performance computing",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Survey Instrument to Assess Students' AI and Generative AI Knowledge",
-      "url": "https://arxiv.org/abs/2608.21391",
-      "summary": "arXiv:2608.21391v1 Announce Type: new Abstract: In this research-to-practice paper we present a survey that can be used to assess students' AI knowledge. As the use of artificial intelligence (AI), including generative artificial intelligence (GenAI), has proliferated, so has the need to educate students about the topic. A range of AI literacy frameworks have been proposed, outlining the essential knowledge that students should have. Alongside, different ways of assessing AI knowledge have been developed. As yet, there is a lack of assessment instruments capable of evaluating multiple forms of",
+      "title": "Whose readiness counts? Disagreement within and between sectors in perceived AI and robotics preparedness",
+      "url": "https://arxiv.org/abs/2608.23406",
+      "summary": "arXiv:2608.23406v1 Announce Type: new Abstract: AI and Industry 4.0 readiness assessments often summarise preparedness using a single score for an organisation, application domain or sector. Those summaries can conceal disagreement about the same technology and variation among applications grouped under one sector label. We test how much information is lost through this aggregation using a card-based survey in which 982 respondents provided 15,200 readiness evaluations across 17 named AI and robotics challenges. Readiness is perceived community preparedness and available resources, not persona",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Generative Gap Filling",
-      "url": "https://arxiv.org/abs/2608.21401",
-      "summary": "arXiv:2608.21401v1 Announce Type: new Abstract: Most contract litigation turns on contracts that imperfectly record parties' bargains. When the parties' dispute can't be solved by interpreting the text, courts fill the gap. Scholars have long assumed that the remaining text runs out quickly, and provides thin evidence of the actual deal on the disputed point. On that view, a judge who supplies the missing term must be drawing on something else, from commercial defaults to her own policy preferences. Despite generations of work, courts have no real alternative to such unruly methods. We tested ",
+      "title": "Energy and CO2 Footprint of Climate Model Intercomparison Projects",
+      "url": "https://arxiv.org/abs/2608.23509",
+      "summary": "arXiv:2608.23509v1 Announce Type: new Abstract: Earth System Models (ESMs) rely heavily on High-Performance Computing (HPC) resources to simulate global climate. As these models evolve, their computational demands continue to grow, driven by three factors: (1) finer spatial grid resolutions, (2) the integration of complex biogeochemical processes (e.g., atmospheric chemistry, interactive vegetation, land use, and ice sheets), and (3) larger climate ensembles to manage uncertainty. Historically, growth in peak computing performance (FLOP/s) has outpaced improvements in energy efficiency (FLOP/W",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Sycophants in the Courtroom: Are LLMs Fragile to Juridical Authority and Evolving Legal Standards?",
-      "url": "https://arxiv.org/abs/2608.21409",
-      "summary": "arXiv:2608.21409v1 Announce Type: new Abstract: In medicine, claims remain valid when supported by empirical evidence grounded in stable biological reality. In law, by contrast, truth is contingent, defined by jurisdiction, temporal validity, and the hierarchy of authoritative sources. The recent success of large language models (LLMs) on medical licensing examinations has encouraged an expectation of comparable legal competence. This analogy, however, obscures a critical distinction between domains. Unlike in medicine, legal performance often depends less on inference than on determining when",
+      "title": "A Social Media Analysis of Discourse on the Israel--Palestine Conflict on Telegram",
+      "url": "https://arxiv.org/abs/2608.21385",
+      "summary": "arXiv:2608.21385v1 Announce Type: cross Abstract: Social media has become a central arena in which armed conflicts are contested, yet the pro-Israel and pro-Palestine communities on Telegram, whose broadcast architecture yields an unusually direct record of deliberate political communication, have not been systematically compared at scale. This study presents a multi-method computational analysis of 87,617 messages from sixteen Telegram channels, eight pro-Israel and eight pro-Palestine, spanning May 2021 to June 2026 and covering multiple conflict escalations. It combines sentiment analysis, ",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Counterfactual, Per-Decision Bias Auditing for Automated Hiring: Localizing and Explaining Disparate Impact in Applicant Tracking Systems",
-      "url": "https://arxiv.org/abs/2608.21537",
-      "summary": "arXiv:2608.21537v1 Announce Type: new Abstract: Automated applicant tracking systems increasingly decide who advances in hiring, and litigation and regulation now demand that those decisions be auditable. Existing tools sit at two extremes. Group fairness metrics such as the disparate impact ratio summarize a whole population but cannot say which individual decisions were unfair or why, while local explainers such as SHAP attribute a single prediction but are not connected to the legal standard by which hiring bias is judged. We present the AI Bias Firewall (AIBF), a method that audits an appl",
+      "title": "Runtime Action Interference for AI Control of AlphaStar in StarCraft II",
+      "url": "https://arxiv.org/abs/2608.21398",
+      "summary": "arXiv:2608.21398v1 Announce Type: cross Abstract: A trained reinforcement learning policy does not determine the complete behavior that users encounter: deployment code still schedules, admits, suppresses, or replaces its proposed actions. We contribute \\emph{runtime action interference} (RAI), an AI control mechanism that preserves policy parameters while regulating action pacing and filtering configured action patterns after inference. RAI releases a proposed action only when its cooldown condition is satisfied and its content detector does not flag the action; otherwise, it dispatches a no-",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Consistently Good vs. Occasionally Great: A Rubric for Open-Ended Feedback Quality from Humans and Machines",
-      "url": "https://arxiv.org/abs/2608.21850",
-      "summary": "arXiv:2608.21850v1 Announce Type: new Abstract: Providing high-quality feedback on student work is essential for learning, yet delivering such feedback at scale remains challenging. In this paper, we focus on feedback for open-ended short answer questions in introductory programming, with the goal of nudging students toward success on reattempts without revealing the correct answer. We develop a five-criteria rubric grounded in educational literature for evaluating feedback quality: (1) acknowledging correct portions of the student answer, (2) identifying at least one flaw (if present), (3) pr",
+      "title": "Evaluating Multimodal Narrative Understanding of Popular Hollywood Films",
+      "url": "https://arxiv.org/abs/2608.21430",
+      "summary": "arXiv:2608.21430v1 Announce Type: cross Abstract: Multimodal language models increasingly show promise for enabling the large-scale computational analysis of film, opening up new avenues for learning about film history and the evolution of narrative techniques. But the creation of stable benchmarks built around Hollywood films is complicated by copyright protections. In this work, we address these concerns directly, by building a new collection of Hollywood films defined by two criteria: box office popularity (where we publish the first large-scale, open collection of weekly box office earning",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Unfolding the Interdisciplinary Complexities of Climate Science: Fuxi-Climate Foundational Model",
-      "url": "https://arxiv.org/abs/2608.22242",
-      "summary": "arXiv:2608.22242v1 Announce Type: new Abstract: Climate research and decision-making require integrating evidence across physical processes, socio-economic dynamics and policy responses. Large language models (LLMs) have been explored for accessing and synthesizing climate knowledge, but their ability to support structured interdisciplinary reasoning is still limited. Here we present the Fuxi-Climate Foundation Model (CFM), a climate-specialized LLM designed to support consistent reasoning across domains. CFM maintains more stable analytical behavior as interdisciplinary complexity increases, ",
+      "title": "Explainable Adaptive Zero Trust Framework for AWS with Adversarial Robustness Evaluation",
+      "url": "https://arxiv.org/abs/2608.21477",
+      "summary": "arXiv:2608.21477v1 Announce Type: cross Abstract: Cloud environments built on Amazon Web Services face a structural security vulnerability: once a credential passes authentication, the resulting session is often treated as trusted for its entire duration. This assumption fails when credentials are stolen. We introduce the Explainable Adaptive Zero Trust Framework (EAZTF), a cloud-native security layer that continuously reevaluates the legitimacy of API actions throughout a session. EAZTF combines Isolation Forest and XGBoost to evaluate eight CloudTrail and IAM-derived behavioral features in r",
       "published": "2026-08-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
