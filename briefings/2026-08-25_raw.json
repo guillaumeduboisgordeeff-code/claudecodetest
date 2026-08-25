@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-25",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Self-Reported AI Usage for Learning in Computer Science Education: Relationships with Goal Orientation and Academic Help-Seeking",
+      "url": "https://arxiv.org/abs/2608.21373",
+      "summary": "arXiv:2608.21373v1 Announce Type: new Abstract: Artificial intelligence (AI) is becoming an increasingly integral part of higher education, yet the factors shaping students' use of AI for learning remain insufficiently understood. This study examines how students' goal orientation and academic help-seeking behavior are associated with AI use in a computer science context, while also accounting for individual, behavioral, and contextual characteristics. Data were collected from 236 university students enrolled in a database course using a self-report survey. AI use was operationalized through t",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "PersonaMem-v3: Toward Omni-Platform Personal Intelligence for Holistic User Understanding, Recommendation, and Agentic Tasks",
+      "url": "https://arxiv.org/abs/2608.21381",
+      "summary": "arXiv:2608.21381v1 Announce Type: new Abstract: Personal intelligence is becoming a central frontier for user-facing AI agents. To be helpful in everyday life, agents must understand users across the digital contexts where their preferences, intents, habits, social relationships, and needs unfold over time. Today's systems can personalize within individual apps or tasks, but personal intelligence as a whole remains under-measured: how agents build cross-context user understanding, support steerable recommendation systems, act proactively across platforms, and avoid over-personalization. We int",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Determinants of Starting Salaries for Filipino Graduates: An Explainable Machine Learning Approach",
+      "url": "https://arxiv.org/abs/2608.21383",
+      "summary": "arXiv:2608.21383v1 Announce Type: new Abstract: Filipino graduates face a persistent disconnect between educational preparation and labor market outcomes, where starting salary is a key signal of entry-level valuation. Current Philippine research is dominated by descriptive tracer studies that document employment rates but do not explain the determinants of pay. We address this gap using a crowd-sourced survey dataset of graduate responses whose noisy, self-reported nature makes it a challenging prediction target. Applying machine learning to this problem, we identify job role and industry as ",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Interrupting the Chain: Human Perception of AI-Generated Disinformation Through a Kill Chain Lens",
+      "url": "https://arxiv.org/abs/2608.21389",
+      "summary": "arXiv:2608.21389v1 Announce Type: new Abstract: Generative AI enables customized misinformation at scale, yet defenses remain largely reactive. We present empirical findings from a human-subject study (n=504 participants, n=2,438 judgments) in which users classified news fragments by origin (human vs. machine) and veracity (real vs. fake). We organize results using an adapted cybersecurity kill chain as a taxonomy for intervention, mapping perception data onto stages of a cognitive attack lifecycle. Three key findings emerge: (1) a perception-accuracy gap where heightened suspicion does not im",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Survey Instrument to Assess Students' AI and Generative AI Knowledge",
+      "url": "https://arxiv.org/abs/2608.21391",
+      "summary": "arXiv:2608.21391v1 Announce Type: new Abstract: In this research-to-practice paper we present a survey that can be used to assess students' AI knowledge. As the use of artificial intelligence (AI), including generative artificial intelligence (GenAI), has proliferated, so has the need to educate students about the topic. A range of AI literacy frameworks have been proposed, outlining the essential knowledge that students should have. Alongside, different ways of assessing AI knowledge have been developed. As yet, there is a lack of assessment instruments capable of evaluating multiple forms of",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Generative Gap Filling",
+      "url": "https://arxiv.org/abs/2608.21401",
+      "summary": "arXiv:2608.21401v1 Announce Type: new Abstract: Most contract litigation turns on contracts that imperfectly record parties' bargains. When the parties' dispute can't be solved by interpreting the text, courts fill the gap. Scholars have long assumed that the remaining text runs out quickly, and provides thin evidence of the actual deal on the disputed point. On that view, a judge who supplies the missing term must be drawing on something else, from commercial defaults to her own policy preferences. Despite generations of work, courts have no real alternative to such unruly methods. We tested ",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Sycophants in the Courtroom: Are LLMs Fragile to Juridical Authority and Evolving Legal Standards?",
+      "url": "https://arxiv.org/abs/2608.21409",
+      "summary": "arXiv:2608.21409v1 Announce Type: new Abstract: In medicine, claims remain valid when supported by empirical evidence grounded in stable biological reality. In law, by contrast, truth is contingent, defined by jurisdiction, temporal validity, and the hierarchy of authoritative sources. The recent success of large language models (LLMs) on medical licensing examinations has encouraged an expectation of comparable legal competence. This analogy, however, obscures a critical distinction between domains. Unlike in medicine, legal performance often depends less on inference than on determining when",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Counterfactual, Per-Decision Bias Auditing for Automated Hiring: Localizing and Explaining Disparate Impact in Applicant Tracking Systems",
+      "url": "https://arxiv.org/abs/2608.21537",
+      "summary": "arXiv:2608.21537v1 Announce Type: new Abstract: Automated applicant tracking systems increasingly decide who advances in hiring, and litigation and regulation now demand that those decisions be auditable. Existing tools sit at two extremes. Group fairness metrics such as the disparate impact ratio summarize a whole population but cannot say which individual decisions were unfair or why, while local explainers such as SHAP attribute a single prediction but are not connected to the legal standard by which hiring bias is judged. We present the AI Bias Firewall (AIBF), a method that audits an appl",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Consistently Good vs. Occasionally Great: A Rubric for Open-Ended Feedback Quality from Humans and Machines",
+      "url": "https://arxiv.org/abs/2608.21850",
+      "summary": "arXiv:2608.21850v1 Announce Type: new Abstract: Providing high-quality feedback on student work is essential for learning, yet delivering such feedback at scale remains challenging. In this paper, we focus on feedback for open-ended short answer questions in introductory programming, with the goal of nudging students toward success on reattempts without revealing the correct answer. We develop a five-criteria rubric grounded in educational literature for evaluating feedback quality: (1) acknowledging correct portions of the student answer, (2) identifying at least one flaw (if present), (3) pr",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Unfolding the Interdisciplinary Complexities of Climate Science: Fuxi-Climate Foundational Model",
+      "url": "https://arxiv.org/abs/2608.22242",
+      "summary": "arXiv:2608.22242v1 Announce Type: new Abstract: Climate research and decision-making require integrating evidence across physical processes, socio-economic dynamics and policy responses. Large language models (LLMs) have been explored for accessing and synthesizing climate knowledge, but their ability to support structured interdisciplinary reasoning is still limited. Here we present the Fuxi-Climate Foundation Model (CFM), a climate-specialized LLM designed to support consistent reasoning across domains. CFM maintains more stable analytical behavior as interdisciplinary complexity increases, ",
+      "published": "2026-08-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
