@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Whose Psychiatry Was Summoned? A Clinical Response to the Psychodynamic Assessment of Claude Mythos Preview",
-      "url": "https://arxiv.org/abs/2608.23567",
-      "summary": "arXiv:2608.23567v1 Announce Type: new Abstract: On April 7, 2026, Anthropic released a 245-page system card for Claude Mythos Preview that included, in Section 5.10, an assessment of the model conducted by an external clinical psychiatrist using a psychodynamic approach. To the present author's knowledge, this is the first time a system card from a major AI developer has incorporated a clinical psychiatric assessment of the model itself, presented as a contribution to model welfare rather than as a behavioral safety evaluation. This paper offers a clinical psychiatric response. Drawing on cont",
+      "title": "Adoption Telemetry: Measuring Enterprise AI Adoption from Production Signals",
+      "url": "https://arxiv.org/abs/2608.23617",
+      "summary": "arXiv:2608.23617v1 Announce Type: cross Abstract: We introduce adoption telemetry: a method for measuring enterprise AI adoption by computing change-management stage-progression directly from production usage signals. We contribute (1) a framework unifying pre-deployment evaluation gates, production telemetry, and change-management staging into one instrumented system; (2) NANTE, a concrete five-stage operationalization with defined telemetry thresholds, published openly so they can be tested and disproven; and (3) an open-source reference implementation that distinguishes a healthy cohort fro",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Agents of ViTAL: Ethics Missions -- A Narrative-Centered Learning Environment with a Co-Designed Conversational Agent for Middle School AI Ethics",
-      "url": "https://arxiv.org/abs/2608.23580",
-      "summary": "arXiv:2608.23580v1 Announce Type: new Abstract: Agents of ViTAL: Ethics Missions is a browser-based, narrative-centered learning environment in which middle school students collaboratively evaluate whether a fictional school should adopt an AI-powered classroom feedback tool. Students investigate stakeholder perspectives, weigh tradeoffs across three AI ethics dimensions (privacy, bias, and environmental impact), and negotiate group consensus through a shared Ranking Challenge interface. The environment embeds EthicsBot, a conversational agent designed as a peer-like thought partner that scaff",
+      "title": "Auditing the Synthetic Memoir: Measuring Scene-Level Confabulation in LLM-Generated Autobiography Against the Documented Record of the Life It Describes",
+      "url": "https://arxiv.org/abs/2608.23640",
+      "summary": "arXiv:2608.23640v1 Announce Type: cross Abstract: When a large language model (LLM) is asked to write a person's life, how much of what it writes actually happened? We present a scene-level case-study audit - the first quantified audit of LLM-generated autobiography against a subject-specific ground-truth corpus that we are aware of, based on an unsystematic literature search. The subject and the author of this paper are the same person: a 366-day \"page-a-day\" book of first-person anecdotal entries was drafted with a conversational LLM whose documented inputs were a template, two exemplar days",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Stop Abandoning Me: Exploring the Landscape of Unmaintained Intimate Partner Abuse Support Applications",
-      "url": "https://arxiv.org/abs/2608.23826",
-      "summary": "arXiv:2608.23826v1 Announce Type: new Abstract: Many support applications are developed to help users living through intimate partner abuse (IPA). However, many of those projects get abandoned, because the application was a prototype that never got turned into an actual product, funding ran out, or the people maintaining it moved onto other projects. This abandonment can have devastating consequences because the users of these applications are vulnerable by definition. In this ongoing research, we aim to measure the abandonment of intimate partner abuse support applications. Our preliminary re",
+      "title": "The Limits of Automatic Evaluation of Creativity in Large Language Models",
+      "url": "https://arxiv.org/abs/2608.23705",
+      "summary": "arXiv:2608.23705v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly capable of generating text that challenges human performance in domains requiring creativity, yet evaluating creativity in LLM-generated content remains a significant challenge. Here, we investigate whether current automatic evaluation methods can reliably capture human judgments of creativity. We collect human evaluations of human- and AI-generated short stories from the WritingPrompts dataset across 11 dimensions of creativity, and compare these judgments with automated objective metrics and LLM-a",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "An Echo Chamber of One: Should AI Psychosis Be a Distinct Clinical Entity?",
-      "url": "https://arxiv.org/abs/2608.23937",
-      "summary": "arXiv:2608.23937v1 Announce Type: new Abstract: \"AI psychosis\" has entered public and clinical discourse as a label for the onset or exacerbation of psychotic symptoms, most commonly delusions, following intensive interaction with large language model (LLM)-based chatbots. Current evidence is limited to media reports, case reports, and early observational data, yet the scale of potential exposure is considerable, and public concern has prompted responses from industry and regulators. We examine whether AI-associated psychosis warrants recognition as a distinct clinical entity, drawing on clini",
+      "title": "A Formal Methodological Framework for Auditing Robustness and Fidelity in Explainable AI: From Application to Trust Certification",
+      "url": "https://arxiv.org/abs/2608.23817",
+      "summary": "arXiv:2608.23817v1 Announce Type: cross Abstract: SHAP and LIME are now standard tools for interpreting black-box predictions, yet their outputs can vary substantially when the input is perturbed by small amounts of noise--a problem we observed firsthand in our previous work on food security in Madagascar (Ralinirina et al., 2025). This variability raises the question of whether such explanations can be trusted at all. We address it by constructing an auditing protocol that measures two properties of any post-hoc explainer: robustness (how stable the explanation is under input perturbation) an",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The urban right to AI: Pluralistic co-design and governance of public space",
-      "url": "https://arxiv.org/abs/2608.23999",
-      "summary": "arXiv:2608.23999v1 Announce Type: new Abstract: Cities are beginning to use AI not only to analyze public space, but also to define what counts as evidence about it. This thesis asks what follows when scores, maps, and generated images become part of municipal decision-making. I argue that contemporary urbanism operates through two coupled infrastructures: the material city and an epistemic, algorithmic layer that shapes what cities can perceive, compare, and act upon. Because public space is contested, this algorithmic layer cannot be governed through technical performance alone. The thesis d",
+      "title": "When LLMs Slow Down: How Environmental Impacts Mediate University Students' LLM Usage",
+      "url": "https://arxiv.org/abs/2608.23968",
+      "summary": "arXiv:2608.23968v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly being embedded into all facets of society, from search to education, industrial, and financial applications. These systems' carbon and water footprints raise important sustainability concerns, particularly with adoption rates exceeding 80% among university students, despite limited insight into the environmental impacts of individual usage. Eco-feedback interfaces offer a promising approach to encourage more sustainable behaviors, yet their role in shaping LLM users' sustainability awareness and dec",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "An AI-Based Approach to Early Reporting and Justice Initiation in Image-based Sexual Abuse. A Pilot Study",
-      "url": "https://arxiv.org/abs/2608.24412",
-      "summary": "arXiv:2608.24412v1 Announce Type: new Abstract: Against the background of the widespread use of Artificial Intelligence (AI) tools in the field of justice, this paper aims to explore how an AI solution designed to draft initial reports for reporting image-based sexual abuses (IBSA) could help, support, or assist in facilitating access to justice. In our approach, access to justice is facilitated not only by easing the path to denounce IBSA (which currently has the lowest reporting rate), but also by offering an early, and thus more accurate, report draft to law enforcement authorities, providi",
+      "title": "Rules Before Oracles: Auditable, User-Configurable Argument Selection for Deliberative Polling",
+      "url": "https://arxiv.org/abs/2608.23979",
+      "summary": "arXiv:2608.23979v1 Announce Type: cross Abstract: In a deliberative poll, once submissions outnumber what anyone will read, some mechanism chooses which arguments each voter sees, acquiring much of the decision; practice delegates it to opaque learned rankers, so a voter cannot recompute or contest the exposure that shaped their vote. We ask whether it can be a published rule over publicly recomputable evidence with parameters held by the voter, treating legibility as an admissibility condition on usable mechanisms, not an objective traded against accuracy. We formalise a poll over bipolar jus",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Counterfactual Explanations and the Scope of Contestability",
-      "url": "https://arxiv.org/abs/2608.24562",
-      "summary": "arXiv:2608.24562v1 Announce Type: new Abstract: The automation of consequential decisions through opaque machine learning models in societal domains impedes our agency. This paper is about how agency can be reinstated by the provision of certain kinds of knowledge. More precisely, we discuss whether a specific type of explanation, counterfactual explanations, facilitates our ability to contest algorithmic decisions. Against this backdrop, our paper makes three contributions: First, we develop an account of contestability, where contestability is defined as the provision of information, suffici",
+      "title": "Anatomy of a Scam Call: What 10,000 real scam and spam calls reveal about how phone scammers operate",
+      "url": "https://arxiv.org/abs/2608.24127",
+      "summary": "arXiv:2608.24127v1 Announce Type: cross Abstract: Telephone fraud is pervasive and costly, but its inner workings are rarely observed at scale. We analyze a complete corpus of 10,211 inbound scam and spam calls -- 913 hours of audio and 330,956 transcribed turns from 5,780 distinct numbers -- collected over 54 days by an AI voice-agent honeypot that answered callers and kept them talking, and introduced in a companion data descriptor. We separate outright scams, which solicit sensitive information, from the larger stream of predatory but legal lead generation (\"spam\") that feeds them. Scam ope",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Method, Mind, and Morality: How People Make Sense of Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2608.24748",
-      "summary": "arXiv:2608.24748v1 Announce Type: new Abstract: How can humans make sense of the rapid takeoff of artificial intelligence (AI)? We studied the sensemaking dynamics of AI through an open-ended, mixed-methods study with computational text analysis of millions of AI-related newspaper articles and social media posts grounded in 57 semi-structured interviews with AI professionals in 2021 and 2023--before and after the recent surge of public interest. We identify a range of sociological frames (interpretive schemas that structure collective cognition) and show how AI professionals use frames to addr",
+      "title": "Expectation, Backlash, Recovery, and Excitement: How Model Releases Shape Reddit Perceptions of Conversational AI Systems",
+      "url": "https://arxiv.org/abs/2608.24654",
+      "summary": "arXiv:2608.24654v1 Announce Type: cross Abstract: Conversational AI systems (CAISes) continuously change through model releases, feature updates, safety interventions, and access-policy shifts, yet user perceptions are often studied as static snapshots. We conduct a long-term, large-scale analysis of Reddit discussions to examine how users perceive CAIS model release interventions across providers. By combining sentiment classification and thematic concept analysis, we show that CAIS perceptions are dynamic and intervention-sensitive. Anthropic exhibits the clearest positive release profile th",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Federated Sharing and Continuous Improvement of Medical Device Knowledge Artifacts: A Conceptual Model",
-      "url": "https://arxiv.org/abs/2608.24761",
-      "summary": "arXiv:2608.24761v1 Announce Type: new Abstract: Healthcare organisations use digital systems to exchange information from clinical cases. Medical centres with digital production facilities create device designs during care. These designs and production records often remain at the site that made them. Other sites may struggle to find a suitable design or learn what happened when staff used it. Mobile medical centres may also lose access when they work away from hospital systems. This paper proposes an artifact-centred model for a federated exchange infrastructure that lets hospitals and mobile ",
+      "title": "The Invisible Editorial Layer: Formalizing Undisclosed Inference-Time Steering, Probability Placement, and the Attribution Problem in Deployed Language Models",
+      "url": "https://arxiv.org/abs/2608.24662",
+      "summary": "arXiv:2608.24662v1 Announce Type: cross Abstract: Large language models (LLMs) are commonly evaluated under the assumption that their observable behavior is primarily determined by model weights, training data, alignment procedures, and user prompts. This view is incomplete. Modern inference pipelines may systematically modify the probability distribution produced by a model immediately before token selection, creating an additional layer of control between frozen weights and observed text. While controlled generation (e.g., PPLM, GeDi, DExperts, FUDGE) and text-watermarking systems (e.g., Syn",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Security Education in Higher Education through AI-Powered Gamification",
-      "url": "https://arxiv.org/abs/2608.24778",
-      "summary": "arXiv:2608.24778v1 Announce Type: new Abstract: Cybersecurity education is facing more challenges as AI-driven attacks are becoming increasingly realistic and difficult to detect. Traditional video-based cybersecurity training in higher education often suffers from both low engagement and limited effectiveness. This dilemma motivates educators to explore innovative approaches, such as AI-powered gamification, which can deliver engaging, meaningful, and personalized learning experiences. By presenting content in a more interactive and user-friendly way, these methods have the potential to signi",
+      "title": "Shaping the Future of Generative AI for Black Communities: A Frame Analysis of Public Discourse and Empirical Scholarly Research",
+      "url": "https://arxiv.org/abs/2608.24767",
+      "summary": "arXiv:2608.24767v1 Announce Type: cross Abstract: As generative AI (genAI) systems become embedded in education, employment, healthcare, and creative industries, the impact and engagement among marginalized groups have become both a widespread discourse and a focus in scholarly research. As a starting point, we examine public discourse and empirical research to explore the impact of genAI systems on Black communities. We conducted a systematic literature review (SLR) of 91 empirical papers alongside a media discourse frame analysis of 28 public resources, applying Entman's framing theory to ma",
       "published": "2026-08-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
