@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff",
-      "url": "https://arxiv.org/abs/2608.25063",
-      "summary": "arXiv:2608.25063v1 Announce Type: new Abstract: The purpose of this study was to analyze patterns of artificial intelligence (AI) use and attitudes toward AI among students, faculty, and administrative staff at a large university specializing in teacher education. The analytical sample comprised 1809 students, 250 faculty members, and 62 administrative staff members (N = 2121). Three role-adapted 75-item questionnaires covered the frequency and contexts of AI use, perceived usefulness, trust and control, academic integrity concerns, responsible-use norms, institutional policy clarity, and perc",
+      "title": "Giving Mechanical Engineers Intelligent Tools: A Project-Based AI Education Curriculum in Thermal Engineering",
+      "url": "https://arxiv.org/abs/2608.26056",
+      "summary": "arXiv:2608.26056v1 Announce Type: new Abstract: Mechanical engineering (ME) requires a broad knowledge base across several disciplines. However, ME students often have insufficient training in electrical and computer engineering, complex challenges in traditional thermal system modeling, and endure heavy course loads with limited class hours. To help address these challenges, this paper proposes a new curriculum that integrates artificial intelligence (AI) into ME at the University of Arkansas (UARK), with a particular emphasis on thermal problems and their interplay with electrical and comput",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Self-Explanation Tutor for Active Study of CS1 Worked Examples",
-      "url": "https://arxiv.org/abs/2608.25180",
-      "summary": "arXiv:2608.25180v1 Announce Type: new Abstract: Worked examples are a important part of introductory programming, but reading their expert explanations is passive. Self explanation, students explaining the problem and its solution to themselves with subgoal level analysis, turns that study into an active task, yet it is hard to scale because assessing free-text explanations and returning timely feedback has had no easy automated solution. We investigate whether a large language model (LLM) can fill that gap. We build a self-explanation tutor for introductory programming, ESSE, in which student",
+      "title": "User-Centered Design for Digital Patient-Navigation Tools in Oncology: Scoping Review",
+      "url": "https://arxiv.org/abs/2608.24887",
+      "summary": "arXiv:2608.24887v1 Announce Type: cross Abstract: Navigation programs for patients with cancer improve access and continuity of care, yet their digital transformation is often limited by poor usability and inadequate uptake. Applying user-centered and human-centered design (UCD/HCD) principles may close this gap, but the extent to which such design methods are used and evaluated in oncology navigation tools remains unclear. This scoping review identifies how UCD/HCD principles have been, and should be, applied in developing and implementing digital health tools for navigation for patients with",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution over Patient Benefit in Decision-Making",
-      "url": "https://arxiv.org/abs/2608.25236",
-      "summary": "arXiv:2608.25236v1 Announce Type: new Abstract: Clinical decision-making often involves prioritizing ethical values, such as beneficence, non-maleficence, respecting a patient's autonomy, and justice. Recent work has begun to assess how large language models (LLMs) make such subjective, value-laden clinical judgments. However, evaluations of LLM decision-making in rare disease care contexts, where ethical tensions are ubiquitous and where scarce prior information likely impacts LLM behavior, are still lacking. Here, we present a benchmark of 208 clinically grounded rare disease vignettes, each",
+      "title": "aipsy-judge: A Specialized, Psychologist-Corrected Local Judge for the Psychological Safety of Conversational AI",
+      "url": "https://arxiv.org/abs/2608.24899",
+      "summary": "arXiv:2608.24899v1 Announce Type: cross Abstract: The standard recipe for LLM-as-judge -- pick a frontier model, or average several -- is actively unsafe for grading the psychological safety of conversational AI. Using aipsy-bench, an open frozen safety instrument, we run a fully-crossed competence study: three frontier models (gpt-5.4-mini, claude-sonnet-4-6, gemini-2.5-flash) serve as both generators and judges of 3,000 mental-health, companion, and coaching messages against a psychologist's ratings. The disagreement is not noise: it is structured, concentrated on the safety-critical metrics",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Framing War Across Languages: Power, Agency, and Sentiment in Wikipedia's Multilingual War Narratives",
-      "url": "https://arxiv.org/abs/2608.25337",
-      "summary": "arXiv:2608.25337v1 Announce Type: new Abstract: While Wikipedia promotes a neutral point of view on historical conflicts, its language editions are written by editors from distinct linguistic and cultural communities. In this study, we analyze 158 wars since 1900 to examine how the descriptions of combatants vary across 20 Wikipedia language editions. Using connotation frames---which assess power, agency, and sentiment toward an entity---we examine how each language portrays the parties involved in the conflict. We find systematic differences when language editions describe wars involving thei",
+      "title": "Hallucination by proxy in LLM-assisted differential diagnosis",
+      "url": "https://arxiv.org/abs/2608.24908",
+      "summary": "arXiv:2608.24908v1 Announce Type: cross Abstract: Current evidence suggests that LLM assistance could augment the diagnostic accuracy of clinicians. However, these systems are black boxes, susceptible to hallucinations, and project a potentially misleading level of confidence. It is currently unknown whether physicians are susceptible to accepting fabricated LLM suggestions, and whether this susceptibility varies with experience. We poisoned the system prompt of an LLM-based diagnostic assistant, forcing it to suggest a fictitious disease (neurocadmiumatosis) within an otherwise legitimate dif",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Toward a Threat Actor Profiling Taxonomy for Pre-Release Risk Management of Open-Weight Frontier Models",
-      "url": "https://arxiv.org/abs/2608.25361",
-      "summary": "arXiv:2608.25361v1 Announce Type: new Abstract: Pre-release risk management for frontier AI misuse risks routinely leaves threat actor assumptions implicit, inconsistently specified, or ungrounded. This capstone argues that explicit adversary characterization should be regarded as a prerequisite for evaluations that are interpretable, comparable, and faithful to the risks they target. We propose a six-attribute taxonomy (covering technical sophistication, prior domain knowledge, organizational capacity, operational infrastructure, financial capacity, and time horizon) with empirically grounded",
+      "title": "Visualizing Patient Trajectories and Disorder Co-occurrences in Child and Adolescent Mental Health",
+      "url": "https://arxiv.org/abs/2608.24911",
+      "summary": "arXiv:2608.24911v1 Announce Type: cross Abstract: Understanding patient trajectories and identifying patterns in episodes of care is critical for effective healthcare decision-making. We present a patient timeline visualization using clustered episodes of care derived from over 35 years of Child and Adolescent Mental Health Services (CAMHS) data. Patients were categorized into 12 groups based on three features: age group (preschoolers, middle childhood, teenagers) at the start of the first episode, gender, and presence or absence of Attention-Deficit Hyperactivity Disorder (ADHD), in order to ",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models",
-      "url": "https://arxiv.org/abs/2608.25375",
-      "summary": "arXiv:2608.25375v1 Announce Type: new Abstract: Generative vision-language models (VLMs) are increasingly used in human-centered settings, yet they can produce demographically biased outputs even when images differ only in controlled attributes such as perceived race or gender. However, existing inference-time debiasers were largely designed for static embeddings or CLIP-like models rather than generative VLMs. We propose GGSS---Geodesic-Gated Spherical Steering---a norm-preserving intervention that discovers a counterfactual bias subspace on the unit hypersphere, steers visual tokens along ge",
+      "title": "AI-Ready Research Workflows in Computational Social Science: Lessons on Building a Shared Language for Interdisciplinary Collaboration",
+      "url": "https://arxiv.org/abs/2608.24914",
+      "summary": "arXiv:2608.24914v1 Announce Type: cross Abstract: Artificial intelligence (AI) is gaining traction in the social sciences and humanities (SSH). However, adoption remains limited by technical barriers to high-performance computing (HPC), validation processes that lag behind AI's rapid progress, and reproducibility standards that most SSH teams cannot meet. Research workflows--common in the life sciences--address these problems via encoding and abstracting technical complexity into repeatable routines; yet, accounts of how to build them in SSH remain scarce. We report on a two-year effort to bui",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "CompanionHarm: A Multi-Turn Benchmark for Detecting Harms in Real-World AI Companion Conversations",
-      "url": "https://arxiv.org/abs/2608.25377",
-      "summary": "arXiv:2608.25377v1 Announce Type: new Abstract: As AI companions become increasingly embedded in everyday life, there is an urgent need to detect harms that emerge in social and emotional human-AI interactions. Yet research in this area is constrained by the lack of real-world, multi-turn conversational datasets for operationalizing and evaluating harms that are relational and contextual. In this work, we introduce CompanionHarm, a publicly available benchmark dataset comprising 2,111 real-world, multi-turn conversations (14,051 utterances) between users and the AI companion Replika. 7,016 AI ",
+      "title": "A Pathway for Assessing Grey Literature: Leveraging AI to Extract Conference Metadata and Organiser Information from Calls for Papers",
+      "url": "https://arxiv.org/abs/2608.24926",
+      "summary": "arXiv:2608.24926v1 Announce Type: cross Abstract: Despite its importance, grey literature, including Calls for Papers (CfPs), remains largely overlooked in Metascience and Scientometric analysis due to its unstructured, highly heterogeneous format, which traditional tools struggle to process at scale. However, Large Language Models now offer a pivotal opportunity to devise innovative tools for systematically harvesting and processing such data. In this paper, we introduce COCI, an AI-based framework that automates the extraction of granular, structured metadata from raw CfP text. COCI employs ",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "GenAIT: Development and Validation of an Objective Generative AI Literacy Test for High School Students",
-      "url": "https://arxiv.org/abs/2608.25815",
-      "summary": "arXiv:2608.25815v1 Announce Type: new Abstract: There is growing international interest in generative AI (GenAI) literacy and its assessment among high school students, but objective assessment in this population remains underdeveloped. This article reports the iterative development and validation of the GenAI Literacy Test (GenAIT), an 18-item multiple-choice test measuring high school students' conceptual knowledge about GenAI, with content spanning technical, practical, and human-impact domains. Expert review of relevance, clarity, and comprehensiveness provided evidence of content validity",
+      "title": "The Gold Rush in AI4Math: Where Are We Now?",
+      "url": "https://arxiv.org/abs/2608.24961",
+      "summary": "arXiv:2608.24961v1 Announce Type: cross Abstract: Recent advances in artificial intelligence (AI) have sparked growing interest in its use for mathematical research. While some view this as a major opportunity for discovery, others have raised concerns about its impact on traditional research practices. Despite extensive debate, empirical evidence on how AI is actually being used in mathematics remains limited. To address this gap, we collected all 32,944 arXiv submissions posted between March 1 and August 20, 2026, whose primary or secondary categories included Mathematics. We identified 3,57",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Non-Great-Power Conflict and AI Risk",
-      "url": "https://arxiv.org/abs/2608.25839",
-      "summary": "arXiv:2608.25839v1 Announce Type: new Abstract: Research on advanced AI and the risk of war has focused almost exclusively on great power conflict, on the grounds that confrontation between nuclear-armed adversaries poses the greatest risk of catastrophic or existential harm. Considerably less attention has been paid to non-great-power conflict (NGPC): wars between non-great powers, between non-great powers and great powers, civil wars, proxy wars, and conflicts involving nonstate actors. This paper evaluates the null hypothesis that NGPC is much less important than great power conflict (GPC) ",
+      "title": "HealthBench-Psych: A Mental Health Subset of OpenAI's HealthBench",
+      "url": "https://arxiv.org/abs/2608.25071",
+      "summary": "arXiv:2608.25071v1 Announce Type: cross Abstract: General-purpose health benchmarks increasingly anchor claims about LLM medical performance, but they are not always resolved by clinical specialty, making domain-specific performance hard to isolate. Mental health is of acute public-health concern as millions of people turn to LLMs for psychological support, and most existing evaluations are bespoke academic benchmarks that are difficult to integrate into developer workflows. We introduce HealthBench-Psych and HealthBench-Psych-Hard. We screened HealthBench's 5,000 physician-rubric conversation",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation",
-      "url": "https://arxiv.org/abs/2608.25952",
-      "summary": "arXiv:2608.25952v1 Announce Type: new Abstract: Neighborhood livability is commonly assessed with static built-environment indicators, such as facility proximity, street connectivity, and access to public space. These measures describe available opportunities but do not directly represent how residents with different mobility capacities, household roles, schedules, and care responsibilities experience the neighborhood. This paper presents a prototype framework that uses a spatial knowledge graph (KG) and large language models (LLMs) to generate and revise household schedules, followed by rule-",
+      "title": "Using profiles of cognitive capability to assess AI suitability for workplace tasks",
+      "url": "https://arxiv.org/abs/2608.25623",
+      "summary": "arXiv:2608.25623v1 Announce Type: cross Abstract: Organisations deploying AI face a scoping problem: which tasks can be automated, which should remain with humans, and which are best shared between the two. Aggregate benchmark scores provide little insight into where systems will succeed or fail in practice, while human judgements of model capabilities quickly become outdated. We introduce a pipeline that profiles agents and tasks using a shared set of core cognitive capabilities. Cognitive capability profiling infers an agent's capabilities from performance on a benchmark battery annotated fo",
       "published": "2026-08-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
