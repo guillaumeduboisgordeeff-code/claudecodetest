@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-27",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "The AI Adaptation Gap in Higher Education: Students, Faculty, and Administrative Staff",
+      "url": "https://arxiv.org/abs/2608.25063",
+      "summary": "arXiv:2608.25063v1 Announce Type: new Abstract: The purpose of this study was to analyze patterns of artificial intelligence (AI) use and attitudes toward AI among students, faculty, and administrative staff at a large university specializing in teacher education. The analytical sample comprised 1809 students, 250 faculty members, and 62 administrative staff members (N = 2121). Three role-adapted 75-item questionnaires covered the frequency and contexts of AI use, perceived usefulness, trust and control, academic integrity concerns, responsible-use norms, institutional policy clarity, and perc",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Self-Explanation Tutor for Active Study of CS1 Worked Examples",
+      "url": "https://arxiv.org/abs/2608.25180",
+      "summary": "arXiv:2608.25180v1 Announce Type: new Abstract: Worked examples are a important part of introductory programming, but reading their expert explanations is passive. Self explanation, students explaining the problem and its solution to themselves with subgoal level analysis, turns that study into an active task, yet it is hard to scale because assessing free-text explanations and returning timely feedback has had no easy automated solution. We investigate whether a large language model (LLM) can fill that gap. We build a self-explanation tutor for introductory programming, ESSE, in which student",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Rare Diseases, Common Dilemmas: LLMs Prioritize Equal Resource Distribution over Patient Benefit in Decision-Making",
+      "url": "https://arxiv.org/abs/2608.25236",
+      "summary": "arXiv:2608.25236v1 Announce Type: new Abstract: Clinical decision-making often involves prioritizing ethical values, such as beneficence, non-maleficence, respecting a patient's autonomy, and justice. Recent work has begun to assess how large language models (LLMs) make such subjective, value-laden clinical judgments. However, evaluations of LLM decision-making in rare disease care contexts, where ethical tensions are ubiquitous and where scarce prior information likely impacts LLM behavior, are still lacking. Here, we present a benchmark of 208 clinically grounded rare disease vignettes, each",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Framing War Across Languages: Power, Agency, and Sentiment in Wikipedia's Multilingual War Narratives",
+      "url": "https://arxiv.org/abs/2608.25337",
+      "summary": "arXiv:2608.25337v1 Announce Type: new Abstract: While Wikipedia promotes a neutral point of view on historical conflicts, its language editions are written by editors from distinct linguistic and cultural communities. In this study, we analyze 158 wars since 1900 to examine how the descriptions of combatants vary across 20 Wikipedia language editions. Using connotation frames---which assess power, agency, and sentiment toward an entity---we examine how each language portrays the parties involved in the conflict. We find systematic differences when language editions describe wars involving thei",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Toward a Threat Actor Profiling Taxonomy for Pre-Release Risk Management of Open-Weight Frontier Models",
+      "url": "https://arxiv.org/abs/2608.25361",
+      "summary": "arXiv:2608.25361v1 Announce Type: new Abstract: Pre-release risk management for frontier AI misuse risks routinely leaves threat actor assumptions implicit, inconsistently specified, or ungrounded. This capstone argues that explicit adversary characterization should be regarded as a prerequisite for evaluations that are interpretable, comparable, and faithful to the risks they target. We propose a six-attribute taxonomy (covering technical sophistication, prior domain knowledge, organizational capacity, operational infrastructure, financial capacity, and time horizon) with empirically grounded",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models",
+      "url": "https://arxiv.org/abs/2608.25375",
+      "summary": "arXiv:2608.25375v1 Announce Type: new Abstract: Generative vision-language models (VLMs) are increasingly used in human-centered settings, yet they can produce demographically biased outputs even when images differ only in controlled attributes such as perceived race or gender. However, existing inference-time debiasers were largely designed for static embeddings or CLIP-like models rather than generative VLMs. We propose GGSS---Geodesic-Gated Spherical Steering---a norm-preserving intervention that discovers a counterfactual bias subspace on the unit hypersphere, steers visual tokens along ge",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "CompanionHarm: A Multi-Turn Benchmark for Detecting Harms in Real-World AI Companion Conversations",
+      "url": "https://arxiv.org/abs/2608.25377",
+      "summary": "arXiv:2608.25377v1 Announce Type: new Abstract: As AI companions become increasingly embedded in everyday life, there is an urgent need to detect harms that emerge in social and emotional human-AI interactions. Yet research in this area is constrained by the lack of real-world, multi-turn conversational datasets for operationalizing and evaluating harms that are relational and contextual. In this work, we introduce CompanionHarm, a publicly available benchmark dataset comprising 2,111 real-world, multi-turn conversations (14,051 utterances) between users and the AI companion Replika. 7,016 AI ",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "GenAIT: Development and Validation of an Objective Generative AI Literacy Test for High School Students",
+      "url": "https://arxiv.org/abs/2608.25815",
+      "summary": "arXiv:2608.25815v1 Announce Type: new Abstract: There is growing international interest in generative AI (GenAI) literacy and its assessment among high school students, but objective assessment in this population remains underdeveloped. This article reports the iterative development and validation of the GenAI Literacy Test (GenAIT), an 18-item multiple-choice test measuring high school students' conceptual knowledge about GenAI, with content spanning technical, practical, and human-impact domains. Expert review of relevance, clarity, and comprehensiveness provided evidence of content validity",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Non-Great-Power Conflict and AI Risk",
+      "url": "https://arxiv.org/abs/2608.25839",
+      "summary": "arXiv:2608.25839v1 Announce Type: new Abstract: Research on advanced AI and the risk of war has focused almost exclusively on great power conflict, on the grounds that confrontation between nuclear-armed adversaries poses the greatest risk of catastrophic or existential harm. Considerably less attention has been paid to non-great-power conflict (NGPC): wars between non-great powers, between non-great powers and great powers, civil wars, proxy wars, and conflicts involving nonstate actors. This paper evaluates the null hypothesis that NGPC is much less important than great power conflict (GPC) ",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Spatial-Knowledge-Graph-Grounded LLM Agents for Neighborhood Livability Evaluation",
+      "url": "https://arxiv.org/abs/2608.25952",
+      "summary": "arXiv:2608.25952v1 Announce Type: new Abstract: Neighborhood livability is commonly assessed with static built-environment indicators, such as facility proximity, street connectivity, and access to public space. These measures describe available opportunities but do not directly represent how residents with different mobility capacities, household roles, schedules, and care responsibilities experience the neighborhood. This paper presents a prototype framework that uses a spatial knowledge graph (KG) and large language models (LLMs) to generate and revise household schedules, followed by rule-",
+      "published": "2026-08-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
