@@ -1,83 +1,59 @@
 {
   "date": "2026-08-28",
-  "articles_count": 10,
+  "articles_count": 7,
   "articles": [
     {
-      "title": "Revision-Aware Success Prediction from Multi-Attempt Programming Trajectories",
-      "url": "https://arxiv.org/abs/2608.26169",
-      "summary": "arXiv:2608.26169v1 Announce Type: new Abstract: Programming outcome prediction plays a central role in data-driven programming education, supporting learner modeling, timely intervention, and adaptive assistance. Yet predicting submission success is difficult due to heterogeneous error states, short-term revisions, and uneven future-horizon availability in programming trajectories. This study examines three prediction tasks under a unified formulation: whether the current attempt is accepted (Task~1), whether the next attempt is accepted (Task~2), and whether acceptance is reached within a thr",
+      "title": "Research Design Tracking and Assessment for the Social Sciences",
+      "url": "https://arxiv.org/abs/2608.27049",
+      "summary": "arXiv:2608.27049v1 Announce Type: cross Abstract: Reliable assessment of causal research designs in the social sciences is critical for evidence-based policy-making, yet has so far relied entirely on manual expert analysis. We introduce Automated Research Design Tracking and Assessment (ARDTrA), a task that involves detecting the research design used in a paper and assessing the quality of its application. We create an expert-annotated dataset of papers covering six families of counterfactual research designs and evaluate the task using a multi-turn RAG-based conversational pipeline. Across fo",
       "published": "2026-08-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Mitigating Fabrication in Multi-Stage LLM Pipelines for Hiring: An Empirical Evaluation of Prompt Guardrails and Human-in-the-Loop Checkpoints",
-      "url": "https://arxiv.org/abs/2608.26171",
-      "summary": "arXiv:2608.26171v1 Announce Type: new Abstract: Multi-stage LLM hiring pipelines (resume improvement, interview question generation, answer feedback) can fabricate credentials, inflate qualifiers, and invent experience. We evaluate two mitigations, prompt guardrails and human-in-the-loop (HITL) checkpoints, against a fully automated baseline. In a controlled experiment (10 synthetic resumes x 2 job descriptions x 3 repetitions x 3 conditions; 180 runs), the baseline (C1) produced at least one unsupported claim in 96.7% of outputs (mean 6.80 findings/output). Prompt guardrails (C2) reduced find",
+      "title": "Difference-in-Differences on a Censored Rating Scale Can Manufacture an Effect: Evidence from a Pre-Registered LLM-Judge Audit",
+      "url": "https://arxiv.org/abs/2608.27309",
+      "summary": "arXiv:2608.27309v1 Announce Type: cross Abstract: Audits of LLM judges certify a bias by contrasting matched conditions, and the strongest designs difference twice: a within-item contrast between two candidate responses, differenced again across a manipulated attribute, read off a bounded rating scale. We show that this endpoint is not identified on the scale that reports it. Each term of the double difference is censored by its own share, so the observed statistic confounds differential preference with differential attenuation: a severity shift common to both responses manufactures an interac",
       "published": "2026-08-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "ClassVision: AI-Powered Classroom Attendance System",
-      "url": "https://arxiv.org/abs/2608.26173",
-      "summary": "arXiv:2608.26173v1 Announce Type: new Abstract: Students and working professionals have to go through the attendance process every day. Traditional methods of marking attendance using pen and paper or online platforms are human-intensive and time-consuming. To address the challenges in manual attendance processes, this research explores the use of face detection (FD) and face recognition (FR) technology to automate the attendance process, particularly in educational settings, and build a ClassVision course attendance system. We also propose an automated attendance system featuring a human-comp",
+      "title": "Testing Fairness with Utility Tradeoffs: A Wasserstein Projection Approach",
+      "url": "https://arxiv.org/abs/2505.11678",
+      "summary": "arXiv:2505.11678v4 Announce Type: replace Abstract: Ensuring fairness in data driven decision making has become a central concern across domains such as marketing, lending, and healthcare, but fairness constraints often come at the cost of utility. We propose a statistical hypothesis testing framework that jointly evaluates approximate fairness and utility, relaxing strict fairness requirements while ensuring that overall utility remains above a specified threshold. Our framework builds on the strong demographic parity (SDP) criterion and incorporates a utility measure motivated by the potenti",
       "published": "2026-08-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "How Does Science Education Research Respond to Sociopolitical Change? A BERTopic Analysis of Korean Research",
-      "url": "https://arxiv.org/abs/2608.26675",
-      "summary": "arXiv:2608.26675v1 Announce Type: new Abstract: Research fields do not evolve in isolation: their questions and priorities shift with policy, curriculum reform, and broader social change. Analyzing published literature can reveal not only how a field matures but also how it responds to these conditions. Prior work in science education has focused on identifying research topics and their trends, but paid less attention to the external conditions in which research is produced. We examine Korean science education research from 2008 to 2025, a case in which centralized curriculum revision, governm",
+      "title": "Exploring the Role of Automated Feedback in Programming Education: A Systematic Literature Review",
+      "url": "https://arxiv.org/abs/2602.00089",
+      "summary": "arXiv:2602.00089v2 Announce Type: replace Abstract: Automated feedback systems have become increasingly integral to programming education, where learners engage in iterative cycles of code construction, testing, and refinement. Despite its wider integration in practices and technical advancements into AI, research in this area remains fragmented, lacking synthesis across technological and instructional dimensions. This systematic literature review synthesizes 61 empirical studies published by September 2024, offering a conceptually grounded analysis of automated feedback systems across five di",
       "published": "2026-08-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education",
-      "url": "https://arxiv.org/abs/2608.26937",
-      "summary": "arXiv:2608.26937v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) has been primarily framed as an impartial educational tool. However, this framing overlooks an even larger shift: the reassignment of epistemological authority from teachers to students to machines. This paper presents a conceptual evaluation of the extent to which GenAI redistributes students' and teachers' ability to act in classrooms to produce knowledge, validate each other's claims, and create evidence of student learning while collaborating with and competing against humans. This evaluation draws o",
+      "title": "Small Changes, Big Impact: Demographic Bias in LLM-Based Hiring Through Subtle Sociocultural Markers in Anonymised Resumes",
+      "url": "https://arxiv.org/abs/2603.05189",
+      "summary": "arXiv:2603.05189v3 Announce Type: replace Abstract: Large Language Models (LLMs) are increasingly deployed in resume screening pipelines. Although explicit PII (e.g., names) is commonly redacted, resumes typically retain subtle sociocultural markers (languages, co-curricular activities, volunteering, hobbies) that can act as demographic proxies. We introduce a generalisable stress-test framework for hiring fairness instantiated in the Singapore context: 100 neutral job-aligned resumes are augmented into 4100 variants spanning four ethnicities and two genders, differing only in job-irrelevant m",
       "published": "2026-08-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Animarium: an open, reproducible pipeline for synthetic populations of Italian cities, from ISTAT sources to open data (Tech Report v1)",
-      "url": "https://arxiv.org/abs/2608.27111",
-      "summary": "arXiv:2608.27111v1 Announce Type: new Abstract: Synthetic populations of eleven Italian municipalities (1,814,317 individuals in 887,937 households) generated from published aggregates alone: ISTAT census and register tables, census-section counts, the national civic-address register, public-use survey microdata, and six municipal open-data portals, every source certified in a registry with licence, fingerprint and declared affordances. Four rings give every attribute a declared place: a maximum-entropy joint model of up to nine demographic attributes; whole-vector donation of twenty-three att",
+      "title": "LLM Analysis of 150+ years of German Parliamentary Debates on Migration Reveals Shift from Post-War Solidarity to Anti-Solidarity in the Last Decade",
+      "url": "https://arxiv.org/abs/2509.07274",
+      "summary": "arXiv:2509.07274v4 Announce Type: replace-cross Abstract: Migration has been a core topic in German political debate, from postwar expellee displacement to labor migration and recent refugee movements. Large-scale analysis of such political discourse has traditionally required extensive manual annotation, limiting coverage. Large language models (LLMs) offer a scalable alternative. Using a theory-driven annotation scheme, we examine how well LLMs annotate subtypes of solidarity and anti-solidarity in German parliamentary debates and whether the resulting labels support valid downstream inferen",
       "published": "2026-08-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Assessing Company Contributions to Societal Resilience: Extending the Societal Capacity Assessment Framework to Agentic AI",
-      "url": "https://arxiv.org/abs/2608.27238",
-      "summary": "arXiv:2608.27238v1 Announce Type: new Abstract: Companies that deploy AI agents and make them available to others are creating the sociotechnical circumstances under which this technology integrates into existing social and economic structures. AI-deploying companies are institutional actors that actively shape society's capacity to withstand and govern the consequences of agentic AI. In view of these societal impacts, companies can build societal resilience by designing and promoting safer implementations of AI agents. To operationalize this goal, this paper adapts the indicator-based Societa",
-      "published": "2026-08-28T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Decolonial Discourse in Postcolonial Contexts: How YouTubers Negotiate Audience Tensions, Platform Governance, and State Influence",
-      "url": "https://arxiv.org/abs/2608.26351",
-      "summary": "arXiv:2608.26351v1 Announce Type: cross Abstract: Decolonial discourse on online platforms is often framed in terms of creator motivations and expressive possibilities. In this paper, we examine what it takes to sustain such discourse under layered sociotechnical constraints. Drawing on semi-structured interviews with YouTubers engaging in Bengali decolonial discourse, we analyze how audience publics, platform governance, and state influences shape what becomes sayable, visible, and viable. We show how fragmented postcolonial identities among audiences produce legitimacy policing, harassment, ",
-      "published": "2026-08-28T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "DIRECT: Decomposing Audience Preference and Creative Effect in Visual Content Analytics",
-      "url": "https://arxiv.org/abs/2608.26584",
-      "summary": "arXiv:2608.26584v1 Announce Type: cross Abstract: Which visual choices make a post perform better? A growing literature answers this question with pooled coefficients estimated across many creators, which platforms translate into creative recommendations. We show that these coefficients blend two distinct patterns that can point in opposite directions for the same attribute. The first, audience preference, arises because creators who favor a style attract differently composed audiences, so their posts perform differently because of who is watching, not what any single post does. The second, cr",
-      "published": "2026-08-28T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "LiveSim: Simulating Environment-Shaped Users in Multi-Agent Live-Stream Ecosystems",
-      "url": "https://arxiv.org/abs/2608.26849",
-      "summary": "arXiv:2608.26849v1 Announce Type: cross Abstract: User behavior simulation with large language models~(LLMs) is increasingly used to support multi-agent ecosystem simulation. Existing simulators typically rely on static user profiles inferred from historical observations, which become inadequate in socially intensive environments such as live streaming where interaction dynamics continuously reshape user behavior. We propose \\textbf{LiveSim}, an LLM-based framework for live-stream ecosystem simulation. It represents users as editable behavioral hypotheses and progressively refines them through",
+      "title": "NRCD: An Open Database of Collegiate Running with Unified Performance Standardization",
+      "url": "https://arxiv.org/abs/2608.14776",
+      "summary": "arXiv:2608.14776v2 Announce Type: replace-cross Abstract: Collegiate running in the United States generates thousands of race results annually in cross country and track and field, yet no large-scale dataset has been publicly available for research. Existing websites such as Athletic.net, MileSplit, and TFRRS host results but do not support bulk download, restricting prior analyses to ~500 performances, often skewing studies toward male athletes. We introduce the National Running Club Database (NRCD), the first openly available collegiate running dataset at scale: 143,868 approved performances",
       "published": "2026-08-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
