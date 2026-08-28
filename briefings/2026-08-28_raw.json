@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-28",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Revision-Aware Success Prediction from Multi-Attempt Programming Trajectories",
+      "url": "https://arxiv.org/abs/2608.26169",
+      "summary": "arXiv:2608.26169v1 Announce Type: new Abstract: Programming outcome prediction plays a central role in data-driven programming education, supporting learner modeling, timely intervention, and adaptive assistance. Yet predicting submission success is difficult due to heterogeneous error states, short-term revisions, and uneven future-horizon availability in programming trajectories. This study examines three prediction tasks under a unified formulation: whether the current attempt is accepted (Task~1), whether the next attempt is accepted (Task~2), and whether acceptance is reached within a thr",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Mitigating Fabrication in Multi-Stage LLM Pipelines for Hiring: An Empirical Evaluation of Prompt Guardrails and Human-in-the-Loop Checkpoints",
+      "url": "https://arxiv.org/abs/2608.26171",
+      "summary": "arXiv:2608.26171v1 Announce Type: new Abstract: Multi-stage LLM hiring pipelines (resume improvement, interview question generation, answer feedback) can fabricate credentials, inflate qualifiers, and invent experience. We evaluate two mitigations, prompt guardrails and human-in-the-loop (HITL) checkpoints, against a fully automated baseline. In a controlled experiment (10 synthetic resumes x 2 job descriptions x 3 repetitions x 3 conditions; 180 runs), the baseline (C1) produced at least one unsupported claim in 96.7% of outputs (mean 6.80 findings/output). Prompt guardrails (C2) reduced find",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "ClassVision: AI-Powered Classroom Attendance System",
+      "url": "https://arxiv.org/abs/2608.26173",
+      "summary": "arXiv:2608.26173v1 Announce Type: new Abstract: Students and working professionals have to go through the attendance process every day. Traditional methods of marking attendance using pen and paper or online platforms are human-intensive and time-consuming. To address the challenges in manual attendance processes, this research explores the use of face detection (FD) and face recognition (FR) technology to automate the attendance process, particularly in educational settings, and build a ClassVision course attendance system. We also propose an automated attendance system featuring a human-comp",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "How Does Science Education Research Respond to Sociopolitical Change? A BERTopic Analysis of Korean Research",
+      "url": "https://arxiv.org/abs/2608.26675",
+      "summary": "arXiv:2608.26675v1 Announce Type: new Abstract: Research fields do not evolve in isolation: their questions and priorities shift with policy, curriculum reform, and broader social change. Analyzing published literature can reveal not only how a field matures but also how it responds to these conditions. Prior work in science education has focused on identifying research topics and their trends, but paid less attention to the external conditions in which research is produced. We examine Korean science education research from 2008 to 2025, a case in which centralized curriculum revision, governm",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Reclaiming Epistemic Agency: A Critical Framework for Human-Generative AI Co-Agency in Education",
+      "url": "https://arxiv.org/abs/2608.26937",
+      "summary": "arXiv:2608.26937v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) has been primarily framed as an impartial educational tool. However, this framing overlooks an even larger shift: the reassignment of epistemological authority from teachers to students to machines. This paper presents a conceptual evaluation of the extent to which GenAI redistributes students' and teachers' ability to act in classrooms to produce knowledge, validate each other's claims, and create evidence of student learning while collaborating with and competing against humans. This evaluation draws o",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Animarium: an open, reproducible pipeline for synthetic populations of Italian cities, from ISTAT sources to open data (Tech Report v1)",
+      "url": "https://arxiv.org/abs/2608.27111",
+      "summary": "arXiv:2608.27111v1 Announce Type: new Abstract: Synthetic populations of eleven Italian municipalities (1,814,317 individuals in 887,937 households) generated from published aggregates alone: ISTAT census and register tables, census-section counts, the national civic-address register, public-use survey microdata, and six municipal open-data portals, every source certified in a registry with licence, fingerprint and declared affordances. Four rings give every attribute a declared place: a maximum-entropy joint model of up to nine demographic attributes; whole-vector donation of twenty-three att",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Assessing Company Contributions to Societal Resilience: Extending the Societal Capacity Assessment Framework to Agentic AI",
+      "url": "https://arxiv.org/abs/2608.27238",
+      "summary": "arXiv:2608.27238v1 Announce Type: new Abstract: Companies that deploy AI agents and make them available to others are creating the sociotechnical circumstances under which this technology integrates into existing social and economic structures. AI-deploying companies are institutional actors that actively shape society's capacity to withstand and govern the consequences of agentic AI. In view of these societal impacts, companies can build societal resilience by designing and promoting safer implementations of AI agents. To operationalize this goal, this paper adapts the indicator-based Societa",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Decolonial Discourse in Postcolonial Contexts: How YouTubers Negotiate Audience Tensions, Platform Governance, and State Influence",
+      "url": "https://arxiv.org/abs/2608.26351",
+      "summary": "arXiv:2608.26351v1 Announce Type: cross Abstract: Decolonial discourse on online platforms is often framed in terms of creator motivations and expressive possibilities. In this paper, we examine what it takes to sustain such discourse under layered sociotechnical constraints. Drawing on semi-structured interviews with YouTubers engaging in Bengali decolonial discourse, we analyze how audience publics, platform governance, and state influences shape what becomes sayable, visible, and viable. We show how fragmented postcolonial identities among audiences produce legitimacy policing, harassment, ",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "DIRECT: Decomposing Audience Preference and Creative Effect in Visual Content Analytics",
+      "url": "https://arxiv.org/abs/2608.26584",
+      "summary": "arXiv:2608.26584v1 Announce Type: cross Abstract: Which visual choices make a post perform better? A growing literature answers this question with pooled coefficients estimated across many creators, which platforms translate into creative recommendations. We show that these coefficients blend two distinct patterns that can point in opposite directions for the same attribute. The first, audience preference, arises because creators who favor a style attract differently composed audiences, so their posts perform differently because of who is watching, not what any single post does. The second, cr",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "LiveSim: Simulating Environment-Shaped Users in Multi-Agent Live-Stream Ecosystems",
+      "url": "https://arxiv.org/abs/2608.26849",
+      "summary": "arXiv:2608.26849v1 Announce Type: cross Abstract: User behavior simulation with large language models~(LLMs) is increasingly used to support multi-agent ecosystem simulation. Existing simulators typically rely on static user profiles inferred from historical observations, which become inadequate in socially intensive environments such as live streaming where interaction dynamics continuously reshape user behavior. We propose \\textbf{LiveSim}, an LLM-based framework for live-stream ecosystem simulation. It represents users as editable behavioral hypotheses and progressively refines them through",
+      "published": "2026-08-28T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
