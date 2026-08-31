@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-31",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "It Takes Three to Converse: Empirical Observations on How the Developer, the Convener and the Participant Shaped 119 Polis Conversations",
+      "url": "https://arxiv.org/abs/2608.28368",
+      "summary": "arXiv:2608.28368v1 Announce Type: new Abstract: Polis is a popular democratic innovation tool that allows asynchronous citizen engagement through atomic statements: short statements that together describe a complex question, inviting the citizen to vote Agree or Disagree on each. This paper uses 119 conversations with 100 or more participants and an extensive data export, drawn from a wider set of 271 collected processes. The paper asks what determines the output of such a process. Three parties shape the result. The developer of the platform has made important design choices that restrict the",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Guided Inquiry Approach to Students Co-Designing Generative AI Course Policies",
+      "url": "https://arxiv.org/abs/2608.28501",
+      "summary": "arXiv:2608.28501v1 Announce Type: new Abstract: As generative AI (GenAI) use among students increases, educators face growing questions about how to support learning while addressing ethical and institutional concerns. This exploratory study examines a guided inquiry activity in which students co-designed a GenAI course policy. Students first developed individual policy proposals focused on appropriate and ethical use of GenAI, then collaboratively refined them by incorporating diverse stakeholder perspectives. The following research questions guided the study: 1) what practical factors do stu",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Effect of Emotional Context on Large Language Models' Endorsement of Premature Decisions: Comparing Emotional Vulnerability Across Six Commercial Models",
+      "url": "https://arxiv.org/abs/2608.27465",
+      "summary": "arXiv:2608.27465v1 Announce Type: cross Abstract: As large language models (LLMs) are increasingly used for everyday decision-making advice, whether a model shifts the direction of its advice according to the user's emotional state has become an important safety problem. We test whether emotional expression increases a model's endorsement (encouragement to proceed) when a user, holding the same objective information, is overconfident about a premature decision (e.g., quitting a stable job on weak evidence). As a key control, we include a no-emotion multi-turn (neutral) condition that holds fac",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Measuring the Installed Base: Nordic Health Dataset Catalogues Against HealthDCAT-AP Release 7",
+      "url": "https://arxiv.org/abs/2608.27720",
+      "summary": "arXiv:2608.27720v1 Announce Type: cross Abstract: The European Health Data Space requires member states to publish machine readable descriptions of the health datasets available for secondary use, and the European Commission publishes HealthDCAT-AP as the metadata profile those descriptions are meant to satisfy. The profile has been designed and validated against curated examples, never against the catalogues already live. We report that measurement for the Nordic region. On 25 August 2026 the 11 Nordic national catalogues harvested by the European data portal held 2,811 dataset descriptions c",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Generative AI Alignment with Hinduism's Theological Plurality and Sacred Representation",
+      "url": "https://arxiv.org/abs/2608.28228",
+      "summary": "arXiv:2608.28228v1 Announce Type: cross Abstract: Generative AI systems are increasingly used to answer personal questions and mediate everyday practices, including religion. However, existing discussions around AI alignment and ethics have largely centered secular, Western, and Abrahamic assumptions about religion, offering limited attention to other faith-based traditions. In this paper, we examine how Hindu users engage with generative AI systems in relation to their religious knowledge, belief, and practice. Drawing on 15 semi-structured interviews with Bangladeshi Hindu participants, we a",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "CultureConverse: A Multilingual Multi-turn Simulation Harness for Culturally Grounded Assistance in East and Southeast Asia",
+      "url": "https://arxiv.org/abs/2608.28405",
+      "summary": "arXiv:2608.28405v1 Announce Type: cross Abstract: Current cultural evaluations for large language models (LLMs) often reduce culture to single-turn factual recall via MCQs, failing to capture a common use case: users seeking practical help over multiple turns in culturally grounded scenarios. We introduce CultureConverse, a scalable, multilingual simulation and evaluation harness for culturally grounded assistant dialogue that covers 10 East and Southeast Asian regions, 58 subgroup identities, and 7 domains. Each simulated and evaluated episode produces a scored interaction where the assistant",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Challenging Techno-Solutionism: The Role of ICT Innovation and the Value of Technological Growth",
+      "url": "https://arxiv.org/abs/2309.12355",
+      "summary": "arXiv:2309.12355v2 Announce Type: replace Abstract: Innovation in Information and Communication Technology (ICT) has become one of the key economic drivers of our technology-dependent world. Digital devices/systems have become so pervasive that it is hard to imagine new technology developments that are not totally or partially influenced by ICT innovations. Furthermore, the pace of innovation in ICT sector over the last few decades has been unprecedented in human history. In this paper, we argue that the ICT innovation paradigm has crucially shaped collective expectations and imagination about",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Comparing Apples to Oranges: A Taxonomy for Navigating the Global Landscape of AI Regulation",
+      "url": "https://arxiv.org/abs/2505.13673",
+      "summary": "arXiv:2505.13673v2 Announce Type: replace Abstract: AI governance has transitioned from soft law, such as national AI strategies and voluntary guidelines, to binding regulation at an unprecedented pace. This evolution has produced a complex legislative landscape: blurred definitions of \"AI regulation\" mislead the public and create a false sense of safety; divergent regulatory frameworks risk fragmenting international cooperation; and uneven access to key information heightens the danger of regulatory capture. Clarifying the scope and substance of AI regulation is vital to uphold democratic rig",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Digital Engagement, Income Disparities, and Job Seeking in the United States since 2010",
+      "url": "https://arxiv.org/abs/2511.05294",
+      "summary": "arXiv:2511.05294v3 Announce Type: replace Abstract: Surveys often record how frequently people use the internet without measuring the infrastructures, skills, and support systems that make digital participation possible. Using the U.S. National Longitudinal Survey of Youth 1997 cohort, we study how internet-use frequency relates to labor income, employment attachment, and job seeking after 2010. The main digital-engagement analysis uses the comparable 2011, 2013, and 2015 waves, with 2017 retained as later labor-market context. Across repeated cross sections, daily internet use consistently ma",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Cognitive Chain-of-Thought (CoCoT): Structured Multimodal Reasoning about Social Situations",
+      "url": "https://arxiv.org/abs/2507.20409",
+      "summary": "arXiv:2507.20409v3 Announce Type: replace-cross Abstract: Chain-of-Thought (CoT) prompting helps models think step by step. But naive CoT breaks down in visually grounded social tasks, where models must perceive, understand, and judge all at once; bridging perception with norm-grounded reasoning. Recent work has introduced structured reasoning for multi-turn agent planning and visual QA, decomposing tasks into sequential sub-goals. To extend this to single-shot multimodal social reasoning, we introduce Cognitive Chain-of-Thought (CoCoT), a reasoning framework that structures vision-language-mo",
+      "published": "2026-08-31T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
