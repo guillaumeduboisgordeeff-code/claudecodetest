@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "The Brand War: A Gamified AI-Feedback System for Time-Limited EFL Writing",
-      "url": "https://arxiv.org/abs/2608.28604",
-      "summary": "arXiv:2608.28604v1 Announce Type: new Abstract: Writing is cognitively demanding and anxiety-provoking for English as a Foreign Language (EFL) learners, especially under time pressure. This paper presents The Brand War, a web-based gamified writing application combining competitive game mechanics with iterative GPT-4.1-powered formative feedback for undergraduate EFL learners completing a timed narrative writing task. Students role-play as marketing interns competing for a job offer, using review passes to receive AI feedback, attack opponents, or shield their own passes while drafting a 500-w",
+      "title": "Free Speech and Artificial Intelligence",
+      "url": "https://arxiv.org/abs/2608.28973",
+      "summary": "arXiv:2608.28973v1 Announce Type: new Abstract: Philosophers and legal scholars are engaged in debates about the implications of artificial intelligence for freedom of expression. This paper analyzes the free speech issues raised by two distinct AI technologies: social media recommendation algorithms and conversational AI (i.e., chatbots powered by large language models). The first part shows that, through their recommendation algorithms, social media platforms control the dynamics of speech visibility in the digital public sphere, making algorithmic recommendation relevant to the philosophy o",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "On-Screen Inertia: Persistent Racial and Gender Disparities in Hollywood Film (1900-2024)",
-      "url": "https://arxiv.org/abs/2608.28613",
-      "summary": "arXiv:2608.28613v1 Announce Type: new Abstract: Hollywood has diversified its casts. Whether this has translated into structural change in how those actors are positioned within narratives remains largely unexamined. Drawing on 76,815 U.S. English-language films (1900-2024) and over 3.1 million cast and crew entries, we move beyond headcounts to examine long-term inclusion trends through network centrality, occupational stereotypes, crew-to-cast diversity pathways, and financial outcomes. We find evidence of what we term on-screen inertia. While the raw inclusion of women and racial minorities",
+      "title": "Why Organizational Rules Fail AI: O-I-B-A-R and the Externalization of Decision Boundaries",
+      "url": "https://arxiv.org/abs/2608.29055",
+      "summary": "arXiv:2608.29055v1 Announce Type: new Abstract: AI systems increasingly enter organizations through policies, procedures, playbooks, prompts, and other explicit representations of work. Yet formal descriptions often differ from situated practice, and captured know-what can omit the contextual know-how experts use when judgments are uncertain. We argue that a recurring class of organizational AI failures arises partly from a knowledge representation problem at the sociotechnical interface: the AI receives the procedure, while the organization operates on the procedure plus negative boundaries, ",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Distributional Validity and Calibration of a Korean Synthetic Persona Panel for Digital and AI Service Use: A Secondary-Data Validation Against the Korea Media Panel Survey",
-      "url": "https://arxiv.org/abs/2608.28615",
-      "summary": "arXiv:2608.28615v1 Announce Type: new Abstract: Synthetic personas based on large language models (LLMs) are increasingly proposed as substitutes for human survey respondents, yet systematic validation outside English-speaking contexts remains scarce. This secondary-data study evaluates how well a Korean synthetic persona panel (NVIDIA Nemotron-Personas-Korea), conditioned into Gemini 3.5 Flash (primary) and EXAONE (comparison), reproduces digital and AI service-use distributions from the KISDI Korea Media Panel Survey. Sex-and-age-stratified panels of about 8,000 personas per model answered t",
+      "title": "The relationship between professional and general ethics in generative AI",
+      "url": "https://arxiv.org/abs/2608.29306",
+      "summary": "arXiv:2608.29306v1 Announce Type: new Abstract: Recent years have seen a growing discrepancy in the field of AI alignment: research and policy recommendations on AI ethics tend to assume a general set of ethical values, yet proliferating practice-specific uses of AI systems on the ground - in the legal, medical and translation domains, among others - have been effectively manifesting ethics of professional practice. This article begins by outlining the reasons why general and professional ethics are increasingly conflicted in contemporary AI systems, and by surveying how the research literatur",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Advisor career stage and PhD advisee outcomes",
-      "url": "https://arxiv.org/abs/2608.28616",
-      "summary": "arXiv:2608.28616v1 Announce Type: new Abstract: PhD advisors are central to doctoral training, but their influence may vary across career stages. Early-, mid-, and late-career advisors may differ in research activity, mentoring capacity, professional networks and access to resources. However, little is known about how PhD advisor career stage is associated with PhD student development outcomes. Drawing on multiple large-scale datasets comprising 250,838 advisor-advisee pairs from 312 U.S. PhD-granting institutions, we examine the relationship between advisor career stage and PhD advisee outcom",
+      "title": "Applications of Risk Science to AI Fairness Evaluation: Principles, Challenges, and Best Practices",
+      "url": "https://arxiv.org/abs/2608.29478",
+      "summary": "arXiv:2608.29478v1 Announce Type: new Abstract: Scholarly work which aims to describe potential societal impacts (e.g., risks) of proliferating technology (especially related to artificial intelligence or other algorithmic systems) is likely to have an impact beyond the scientific communities it was written for, given that general society itself is a primary object of study. However, it is an open question whether the current practices of AI evaluation scholarship follow the principles and best practices established by risk science, which aims to systematically generate knowledge related to un",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Can AI-Assisted Inquiry Enhance Students' Decision-Making Skills in Socio-Scientific Issues? A Three-Group Experimental Study on Climate Change",
-      "url": "https://arxiv.org/abs/2608.28617",
-      "summary": "arXiv:2608.28617v1 Announce Type: new Abstract: Climate change is a socio-scientific issue: it rests on science but cannot be settled by science, because any serious response forces people to weigh costs, values, and competing interests under uncertainty. Helping students make such decisions well is a central aim of science education, and the arrival of generative artificial intelligence raises a sharp question: does a conversational AI partner deepen students' reasoning, or simply do the thinking for them? This study tested whether AI-assisted inquiry improves secondary students' decision-mak",
+      "title": "MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual MultiModal Misinformation",
+      "url": "https://arxiv.org/abs/2608.29681",
+      "summary": "arXiv:2608.29681v1 Announce Type: new Abstract: Multimodal misinformation on social media is highly prevalent, potent, and harmful, yet difficult to detect and counter, and still poorly understood compared to its text-only counterpart. Research on the properties and deceptive strategies of multimodal misinformation is hindered by a lack of taxonomies grounded in real-world contexts and by the limitations of current multimodal machine learning models, which prevent the automation of annotation and analysis at scale. We address these shortcomings in three steps. First, we collect a large-scale, ",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Predicting Student Attrition in Competitive Programming: A Large-Scale Study Integrating Survey Insights and Global Behavioral Logs",
-      "url": "https://arxiv.org/abs/2608.28618",
-      "summary": "arXiv:2608.28618v1 Announce Type: new Abstract: Competitive programming (CP) offers computer science students an environment for developing algorithmic reasoning skills. However, sustained participation remains a challenge, as many students disengage after encountering skill plateaus or performance anxiety. While educational data mining (EDM) has studied dropout in MOOCs and academic courses, CP attrition remains understudied. This paper presents a dual-layer framework combining large-scale Codeforces activity logs (n=1,816) with a multi-institutional psychographic survey across 10 universitie",
+      "title": "Large-Scale Qualitative Research with AI: Infrastructure, Management and Operation of the Socioscope Data Pipeline",
+      "url": "https://arxiv.org/abs/2608.29751",
+      "summary": "arXiv:2608.29751v1 Announce Type: new Abstract: The Socioscope project is a pioneering effort in Large-Scale Qualitative Research (LSQR) collecting comparable, open-ended, multimedia field data on hundreds of cases and using AI to make the material analysable at scale. The domain studied is the food system. The entities documented are the organisations that act in it: farms, processors, distributors, retailers, restaurants; and, at meso level, the actors that shape their environment, such as municipalities, government programmes, banks, NGOs and universities. This paper provides the technical ",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Experts Disagree on How to Fight AI Disinformation, but Agree That Health and Politics Need Different Solutions",
-      "url": "https://arxiv.org/abs/2608.28621",
-      "summary": "arXiv:2608.28621v1 Announce Type: new Abstract: When 54 international experts assessed AI-generated disinformation threats, they revealed a surprising pattern: while video deepfakes received the highest average threat ratings in the political domain (M = 6.31/7), the pattern differed in the health domain, where AI-generated text received the highest average rating (M = 5.80). Experts also diverge on what to do: government regulation drew both the most \"most effective\" (30%) and the most \"least effective\" (15%) votes, though rating distributions were contested rather than polarized, indicating ",
+      "title": "Do LLMs Change Their Minds Like Humans? Diagnosing Human--LLM Divergence in Single-Turn Persuasion Judgments",
+      "url": "https://arxiv.org/abs/2608.29803",
+      "summary": "arXiv:2608.29803v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly deployed as proxies for human participants in social simulations, yet whether they update their beliefs in response to persuasive arguments, as humans do, remains poorly understood. We conduct a systematic comparison using a naturally occurring online persuasion corpus in which original posters explicitly verify whether a reply changed their view. Our results show that LLMs achieve only slight agreement with humans (Cohen's kappa ranging from 0.079 to 0.178). Content-level analyses show that humans an",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Reference-Distribution Dependence in LLM-Based Synthetic Persona Data: Diagnosis and Post Hoc Adjustment of Demographic Distributions",
-      "url": "https://arxiv.org/abs/2608.28668",
-      "summary": "arXiv:2608.28668v1 Announce Type: new Abstract: We diagnose how closely the demographic distributions in LLM-based synthetic persona data match external reference distributions. For the three variables examined, we show that most of the observed error is attributable to the choice of reference rather than to the generator. Using total variation distance (TVD), we compare the sex x age group x province joint distribution of 1,000,000 records from Nemotron-Personas-Korea (NPK) with Korean official statistics. Against resident-registration figures for April 2026, the time of use, the bias bound, ",
+      "title": "Verification-Time Dependency on a Disappearing Evaluator",
+      "url": "https://arxiv.org/abs/2608.29912",
+      "summary": "arXiv:2608.29912v1 Announce Type: new Abstract: AI governance and assurance often assume that a consequential model-mediated decision can be reconstructed or tested after the fact. That assumption may fail when the evaluator that produced the decision is no longer accessible in the same version and execution context. This paper develops three verification-time constructs derived from Execution Governance (EG) 3.0: Decision-State Commitment, Independent Verifiability, and Counterfactual Auditability. Independent reprocessing of released Study 2 artifacts reproduces two original within-family be",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Filling holes in science draws collective attention, but most higher-order holes remain unexplored",
-      "url": "https://arxiv.org/abs/2608.28822",
-      "summary": "arXiv:2608.28822v1 Announce Type: new Abstract: Much scientific discovery involves filling holes between ideas and arguments that unleash techno-scientific advance. Representing knowledge as high-dimensional concept embeddings, we use persistent homology to detect holes of increasing order, from gaps between disconnected ideas to higher-order cavities, and identify the research works that fill them. We find two empirical asymmetries. Researchers who fill anticipated holes are poised to draw collective attention by staging outsized novelty and foresight, indicating that bridging holes anticipat",
+      "title": "AMINA: The Inclusive and Accountable AI for Marginalized Immigrant Nonprofit Assistance",
+      "url": "https://arxiv.org/abs/2608.30084",
+      "summary": "arXiv:2608.30084v1 Announce Type: new Abstract: Immigrant-led nonprofit groups, particularly those operating in politically sensitive contexts, face exclusion from formal registries and digital platforms. This paper reports a three-phase mixed-methods study with Iranian immigrant nonprofit practitioners: 27 semi-structured interviews, a co-design session, and 7 evaluation and feedback interviews on a prototyped AI assistant, AMINA. Our findings highlight how legitimacy barriers, capacity gaps, and politically charged misinformation constrain nonprofit operations. We translate these insights in",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Stress-testing university AI governance: A prospective method for locating policy breakpoints",
-      "url": "https://arxiv.org/abs/2608.28925",
-      "summary": "arXiv:2608.28925v1 Announce Type: new Abstract: Universities are producing AI principles and use policies faster than they are building decision pathways for unfamiliar forms of AI agency. This study develops Institutional AI Governance Stress Testing (IAGST), a prospective documentary method for locating where publicly documented governance ceases to yield an accountable response. IAGST adapts established policy stress-testing and wind-tunneling logic. Its originality lies in combining controlled capability escalation, a frozen documentary corpus, a six-dimensional governance response chain, ",
+      "title": "Taking the Whys Seriously: Limitations of Counterfactual Explanations in Justification and Recourse",
+      "url": "https://arxiv.org/abs/2608.30956",
+      "summary": "arXiv:2608.30956v1 Announce Type: new Abstract: Counterfactual explanations (CEs) are widely used in explainable artificial intelligence (AI) to show how a model's outputs would change if the input features were manipulated. This technique is used for a range of tasks such as debugging models, explaining predictions, justifying decisions, and providing algorithmic recourse. In this paper, we explore the normative legitimacy of employing counterfactuals in real-life model deployment settings. We discuss the different stakes involved in these different purposes for which CEs are commonly employe",
       "published": "2026-09-01T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
