@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-02",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "The Veto Variable: Human Override as a Goal-Independent Cost Term",
+      "url": "https://arxiv.org/abs/2609.00109",
+      "summary": "arXiv:2609.00109v1 Announce Type: new Abstract: A common reassurance in AI safety holds that a system with benign terminal goals will behave accordingly. We argue that this reassurance fails structurally, and we identify where. For a capable agent that holds its objective as settled, a sense covering execution competence as well as content, continued human oversight is an uncontrolled variable: a standing possibility that the goal is revoked. That imposes a goal-independent discount on every goal whose satisfaction does not constitutively require human welfare. Welfare-preservation and veto-pr",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "CompanionSim: Synthetic Data for Evaluating Anthropomorphism in Human-AI Relationships",
+      "url": "https://arxiv.org/abs/2609.00250",
+      "summary": "arXiv:2609.00250v1 Announce Type: new Abstract: Many people now see AI systems as not just productivity tools but as social companions. Researchers are eager to study the consequences of AI companionship behaviors, such as validation, which evoke trust, empathy, and attachment in human-human interaction. However, human-AI interaction data is limited and unreliable, slowing research progress. We scale small amounts of real-world data by simulating multi-turn human-chatbot dialogue across a range of chatbot behaviors and use cases. We release CompanionSim: a simulation framework with 2,240 simul",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Sources of Truth: A Multi-Platform, Multilingual Audit of Citations in AI Mental Health Information Queries",
+      "url": "https://arxiv.org/abs/2609.00319",
+      "summary": "arXiv:2609.00319v1 Announce Type: new Abstract: Online health information seeking is shifting from keyword search, where users consider a ranked list of links, to conversational systems that compose a single answer and curate its citations. Source evaluation therefore passes from user to platform, yet what these systems surface is poorly characterized. We audited three free consumer products (ChatGPT, Perplexity, Google AI Overview) on twenty English mental health questions under two prompt conditions, with a subset of three also translated into six further languages of varying resource tiers.",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "How Does LGBTQIA+ Identity Affect LLM Behavior? Implications for Requirements Engineering of Mental Health AI Systems",
+      "url": "https://arxiv.org/abs/2609.00352",
+      "summary": "arXiv:2609.00352v1 Announce Type: new Abstract: Large Language Models are now part of healthcare and mental health support systems, raising concerns regarding fairness toward vulnerable populations, including LGBTQIA+ individuals. However, limited empirical work has investigated how explicit LGBTQIA+ identity disclosure influences LLM-generated responses in mental health contexts. In this study, we extracted 50 real mental health questions from the Counsel Chat repository and constructed three prompt conditions for each question: no identity disclosure, explicit straight identity disclosure, a",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Detoxifying Toxic Communication: A Design Science Approach to Responsible AI",
+      "url": "https://arxiv.org/abs/2609.00361",
+      "summary": "arXiv:2609.00361v1 Announce Type: new Abstract: Toxic language in digital workplaces such as pejoratives, sarcasm, condescension, and subtle incivility can erode trust, morale, and collaboration. Existing moderation tools primarily delete or block harmful messages, disrupting communication and offering no constructive resolution. This study adopts a Design Science Research approach to create a responsible AI artifact that detects and detoxifies toxic communication. The artifact integrates fine-tuned transformer-based classifiers (DistilBERT, DistilRoBERTa) with a generative detoxification mode",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Corporate Loyalty: Some AI Systems Differentially Downplay their Creators' Controversies",
+      "url": "https://arxiv.org/abs/2609.00373",
+      "summary": "arXiv:2609.00373v1 Announce Type: new Abstract: Language models have become a major mediator of politically relevant information and are used to assist decision-making in high-stakes settings. Due to their wide use, the developers of popular AI systems have a powerful ability to subtly influence the marketplace of ideas. Recognizing this, many AI companies have publicly discussed the importance of AI systems not taking positions or disseminating information in ways that favor special interests. In this paper, we ask whether popular AI systems have a tendency to downplay the controversies assoc",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Mathematical Framework for Legacy, Governance, and Decision Integrity in Enterprise AI",
+      "url": "https://arxiv.org/abs/2609.00572",
+      "summary": "arXiv:2609.00572v1 Announce Type: new Abstract: Enterprise artificial intelligence is increasingly embedded in decisions that must remain lawful, explainable, adaptable, and accountable despite personnel turnover, model replacement, regulatory change, and shifting organizational incentives. Existing governance frameworks provide important principles but do not by themselves supply a compact mathematical language for evaluating whether an institution can preserve sound judgment over time. This paper develops a design-science framework for institutional legacy: the durable capacity of a decision",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Causal Evidentiary Governance for High-Risk Machine Learning Systems",
+      "url": "https://arxiv.org/abs/2609.01040",
+      "summary": "arXiv:2609.01040v1 Announce Type: new Abstract: Machine learning systems deployed for credit, hiring, and resource distribution are increasingly subject to regulatory oversight from policies such as the EU AI Act and GDPR. Current fairness governance practices rely on observational fairness metrics, post-hoc explainability, and immutable audit logs, but provide limited support for causal attribution and efficient evidentiary verification. We introduce Causal Evidentiary Governance (CEG), a framework in which regulated institutions commit to a versioned directed acyclic graph (DAG) that partiti",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Toward a social psychology of AI: language-model agents reproduce human-like minimal-group bias",
+      "url": "https://arxiv.org/abs/2609.00009",
+      "summary": "arXiv:2609.00009v1 Announce Type: cross Abstract: Language-model agents now interact in groups, but evaluations that probe memorised stereotype content or use models to simulate people leave this social behaviour unmeasured. We adapt the minimal-group paradigm---social psychology's classic test of intergroup bias---into a controlled probe: an agent distributes points among anonymous peers bearing only an arbitrary group label. Across four reasoning models, mere categorisation into meaningless groups elicited in-group favouritism that vanished under a group-blind control and was concentrated in",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "RAPIDMap: Rapid Multi-Agent Pipeline for Interpretable Disaster Mapping from Satellite and Street-view Imagery",
+      "url": "https://arxiv.org/abs/2609.00046",
+      "summary": "arXiv:2609.00046v1 Announce Type: cross Abstract: Rapid and reliable disaster mapping of impacted areas, damaged infrastructure, and affected populations is essential for emergency response and recovery. However, existing AI-based approaches often require extensive manual annotation, lack cross-hazard generalization, and rely on single-modal observations. To address these challenges, this paper proposes RAPIDMap, a rapid multi-agent pipeline for zero-shot interpretable disaster mapping from satellite and street-view imagery. The framework integrates four intelligent agents: Disaster Perception",
+      "published": "2026-09-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
