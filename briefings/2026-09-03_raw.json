@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-03",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "From Open Standards to Openly Governed: Standards-Setting Organizations as Stewards of Openness amid Platformization and Digital Sovereignty",
+      "url": "https://arxiv.org/abs/2609.01773",
+      "summary": "arXiv:2609.01773v1 Announce Type: new Abstract: Open geospatial standards let data, services, and systems work across platforms. But openness is not just a property of specifications. It also depends on the institutions that produce them and the infrastructures in which they operate. Standards may function as digital public goods and, once embedded in public systems, as digital public infrastructure. Those roles can diverge. This paper asks when open geospatial standards remain public infrastructure rather than becoming channels of enclosure. It makes two claims. First, standards-setting gover",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Accurate in space, unreliable in time: how LLMs represent national cultural change",
+      "url": "https://arxiv.org/abs/2609.01902",
+      "summary": "arXiv:2609.01902v1 Announce Type: new Abstract: Assessments of cultural alignment have become an important part of the development and improvement of large language models (LLMs). However, the majority of the evaluations treat culture as a single snapshot, investigating only whether a model represents a society accurately at the current time. Research in cultural psychology shows that cultural values change at different rates and directions over time. Therefore, a \"culturally aware\" model should capture not only where a culture is today but also how it has changed over time. We examine this mi",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Privacy Washing: Detecting Internal Contradictions in Privacy Policies",
+      "url": "https://arxiv.org/abs/2609.02055",
+      "summary": "arXiv:2609.02055v1 Announce Type: new Abstract: Privacy policies may contain internal contradictions in which commitments are undermined by practices documented elsewhere in the same policy. We operationalize this phenomenon, privacy washing, through a four-stage pipeline: statement extraction, compatibility filtering and natural language inference screening, multi-model judge verification, and thematic analysis, with contradictions confirmed by majority vote of a three-model LLM panel. Applied to two corpora of website privacy policies, 123 collected in 2026 (OPPT) and 115 collected in 2015 (",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation",
+      "url": "https://arxiv.org/abs/2609.02232",
+      "summary": "arXiv:2609.02232v1 Announce Type: new Abstract: Automated student-attention estimation can support learning analytics, but aggregate predictive metrics can conceal demographic disparities. This study evaluates fairness-aware multimodal temporal models on DIPSER, a naturalistic classroom dataset combining facial images, wearable-sensor measurements, attention annotations, and automatically inferred demographic metadata. Three baselines are compared across 10 training seeds: a Visual GRU, a Sensor GRU, and a Residual Fusion Transformer. The multimodal model achieves the best mean test performanc",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Meeting the Coming Wave: The Emerging Politics of AI and Work across 33 Parliaments",
+      "url": "https://arxiv.org/abs/2609.02296",
+      "summary": "arXiv:2609.02296v1 Announce Type: new Abstract: A new politics of artificial intelligence and work is taking shape across party systems, but comparative politics has yet to map it. Using 1,514,950 parliamentary speeches from 33 parliaments (2023-2026), we show this politics follows a different logic than political economy expects. Research anticipates that technological disruption generates demands for compensation; instead, compensation accounts for just 2.3% of response-frame mentions, while enablement and investment dominate (55.2%), regulation and restriction follow (21.8%), and training (",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Addressing Trust in AI Systems through Education: A Didactic Perspective",
+      "url": "https://arxiv.org/abs/2609.02453",
+      "summary": "arXiv:2609.02453v1 Announce Type: new Abstract: Machine learning (ML) education faces two persistent and connected obstacles: many educational tools present ML as an opaque black box, which leaves learners with a superficial understanding, and this same opacity prevents users from forming the calibrated trust that appropriate reliance on AI systems requires. We present ICE-T, a didactic framework that integrates three mutually reinforcing facets: intermodal transfer grounded in Bruner's enactive, iconic, and symbolic modes of representation, computational thinking operationalized through the U",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Rights by Architecture: A Human-Compatible Sociotechnical Layer for Digital Protection Across Regulatory Regimes",
+      "url": "https://arxiv.org/abs/2609.02455",
+      "summary": "arXiv:2609.02455v1 Announce Type: new Abstract: Digital rights increasingly exist in law but remain difficult to exercise through the information systems that mediate them. Using disciplined conceptual synthesis and problematization, this critical-conceptual IS paper explains the gap through the interaction of legal heterogeneity, conflicting organizational and commercial incentives, fragmented architectures, and asymmetrical control over rights-relevant acts. It then theorizes a human-compatible rights layer: a governed sociotechnical capability for standardized, machine-readable, bidirection",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Whose Judgments Count? Representation Gaps in Crowdsourced Content Moderation Produce Unequal Protection from Perceived Toxicity",
+      "url": "https://arxiv.org/abs/2609.01625",
+      "summary": "arXiv:2609.01625v1 Announce Type: cross Abstract: Content moderation is a central form of digital governance, yet people disagree over what content should be removed from shared online spaces. While platforms aggregate human judgments to build moderation systems, it remains unclear how this process shapes which users are protected from content they perceive as toxic. We address this gap by combining large-scale judgment data with counterfactual simulations that trace how the demographic composition of moderator pools shapes the distribution of protection across users. Applying this framework t",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Reinforcement Learning and Rule-Based Peer-to-Peer Pricing in Residential PV-BES Communities",
+      "url": "https://arxiv.org/abs/2609.01680",
+      "summary": "arXiv:2609.01680v1 Announce Type: cross Abstract: This paper compares rule-based and learning-based pricing mechanisms for peer-to-peer (P2P) electricity trading in residential photovoltaic communities. The rule-based benchmarks comprise bill-sharing as an ex post allocation mechanism, the mid-market rate, and supply-demand-ratio pricing. The reinforcement-learning (RL) formulation is implemented through a Deep Q-Network and evaluated under multiplier-based and learnable SDR-shaped pricing, with a fixed-parameter SDR variant as a non-learning control. Performance is assessed through community ",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Meta-ethics and AI: exploring the novel meta-ethical questions in the era of AI",
+      "url": "https://arxiv.org/abs/2609.01685",
+      "summary": "arXiv:2609.01685v1 Announce Type: cross Abstract: With the development of artificial intelligence (AI), the landscape of meta-ethics, which has largely centred on human ethics, faces pressures that may significantly reconfigure it. In particular, if future AI systems were to exhibit sufficiently integrated capacities for moral reasoning, moral intentionality, and moral reflection, novel meta-ethical questions would arise concerning what I call \"AI's own ethics\", as distinct from ethical principles merely imposed on AI by human designers. This paper offers a conditional and methodological frame",
+      "published": "2026-09-03T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
