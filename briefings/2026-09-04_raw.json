@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Open Problems in AI Risk Modeling: Insights from a Workshop on the Technical Foundations of AI Risk Modeling",
-      "url": "https://arxiv.org/abs/2609.03178",
-      "summary": "arXiv:2609.03178v1 Announce Type: new Abstract: We investigate the design of robust risk models to assess societal risks posed by advanced AI systems, an emerging area in AI governance. Many regulatory proposals increasingly require systemic risk assessment, but in the absence of rigorous quantitative methods, the question remains what state of the art risk modeling should look like in practice. We identify the key methodological and institutional challenges that currently limit the adoption of risk modeling. We review five research traditions that inform this problem: probabilistic risk asses",
+      "title": "LLM Judges as Raters: A Pre-Registered Audit of Severity, Halo, Reliability, and Version Instability in LLM Essay Scoring on Public Corpora",
+      "url": "https://arxiv.org/abs/2608.29517",
+      "summary": "arXiv:2608.29517v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used as essay graders in learning analytics, evaluated almost exclusively with agreement statistics. Educational measurement warns that raters also differ in severity, show halo, and drift as instruments. We treat LLM judges as raters and run a pre-registered rater-effects battery (many-facet Rasch severity, residual halo, generalizability/decision studies, cross-version shifts, differential functioning) on public corpora in two languages (ENEM/Essay-BR; ASAP): 2,377 essays, 12 judges, 4 providers, ",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression",
-      "url": "https://arxiv.org/abs/2609.03189",
-      "summary": "arXiv:2609.03189v1 Announce Type: new Abstract: This article presents a structured framework of behavioral indicators that may signal progression toward potentially catastrophic threats from artificial intelligence systems. We adopt a pragmatic approach, inspired by established methodologies in cybersecurity and national security. By establishing clear metrics, indicators, and thresholds across multiple dimensions of AI capability and behavior, this framework enables researchers and policymakers to implement evidence-based monitoring protocols.",
+      "title": "Evaluating GNNs for Success Prediction in Artist Collaboration Networks",
+      "url": "https://arxiv.org/abs/2609.02920",
+      "summary": "arXiv:2609.02920v1 Announce Type: cross Abstract: As the music industry becomes an increasingly collaborative effort, understanding the underlying structures of the artist network has become a focal point in cultural data analytics. This study expands on the previous analyses of the Italian and Danish networks by introducing a novel dataset of the Polish music scene. By utilizing methodologies used in the prior studies, this work enables a direct comparison between three distinct European music landscapes and allows to merged the created networks into one. Furthermore, this research introduces",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Affective publics in Arabic YouTube",
-      "url": "https://arxiv.org/abs/2609.03269",
-      "summary": "arXiv:2609.03269v1 Announce Type: new Abstract: What is the emotional register of Arabic YouTube's affective publics? To investigate this, we analyzed 67,725 YouTube comments collected around socio-political topics associated with Yemen, Saudi Arabia, Iraq, Jordan, and Syria using a unified sentiment-and-emotion pipeline. Our results profile a single regional affective public rather than five separate national ones. Sentiment is overwhelmingly negative across all five country-oriented corpora, and the country-level emotion profiles are structurally similar. This shared register still accommoda",
+      "title": "Less Is Moral: A CHARMing Framework for Moral Foundations Detection in Endorsement Behaviour",
+      "url": "https://arxiv.org/abs/2609.03330",
+      "summary": "arXiv:2609.03330v1 Announce Type: cross Abstract: Moral language plays a central role in shaping online endorsement and the diffusion of information, yet existing moral foundation detection systems often suffer from poor cross-domain generalization, weak rationale grounding, and reliance on costly prompting-based large language models (LLMs). We introduce CHARM, a MA\\textbf{C}- and \\textbf{H}ate-speech-\\textbf{A}ware \\textbf{R}ationale-aligned \\textbf{M}oral foundation detection framework built on a lightweight fine-tuned LLM, which integrates complementary moral grounding, rationale alignment",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Multilingual Agent System for Inclusive Wildfire Evacuation Guidance",
-      "url": "https://arxiv.org/abs/2609.03301",
-      "summary": "arXiv:2609.03301v1 Announce Type: new Abstract: Wildfire seasons have become 84 days longer in the current days than in the 1970s, causing enormous threats to one's financial status and short- and long-term health. During the fire, public agencies send out emergency messages to provide warnings and orders. Although 26 million people in the US have limited English proficiency, over 80% of those messages are only delivered in English, which can cause disproportionate information distribution and awareness. In order to better serve marginalized communities during emergencies, the authors develope",
+      "title": "Large-Language Models as a Cognitive Virus",
+      "url": "https://arxiv.org/abs/2609.03344",
+      "summary": "arXiv:2609.03344v1 Announce Type: cross Abstract: Large-language models (LLMs) are rapidly becoming part of human culture, reshaping how information is produced, transmitted, and used. Here we propose that their diffusion can be understood through a viral analogy, with LLM use spreading through populations, becoming embedded in cognitive and cultural practices. We model transitions among uncoupled, coupled, and persistently dependent users, and show that the interplay between social transmission, recovery, and collective reinforcement can generate tipping points and technological lock-in. A ce",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The 5P Reflection Model for Education in the Generative Artificial Intelligence (GenAI) Era",
-      "url": "https://arxiv.org/abs/2609.03413",
-      "summary": "arXiv:2609.03413v1 Announce Type: new Abstract: Contributions: A reflection model suitable for the era of Generative Artificial Intelligence (GenAI) is introduced. The proposed model is an integrated model that extracts features from various existing models and also incorporates technological aspects of GenAI. Background: Universities worldwide are facing challenges in adopting GenAI into their curricula, as it has impacted academic integrity and the scholarship of teaching and research. Traditional reflection models are struggling to authenticate student reflection as GenAI is incorporated in",
+      "title": "Accountable AI with Grounded, Faithful, Consistent, Actionable Rationales: A Case Study in Clinical Trial Matching with VERDICT",
+      "url": "https://arxiv.org/abs/2609.03366",
+      "summary": "arXiv:2609.03366v1 Announce Type: cross Abstract: Accountability means a decision can be examined, justified, and contested. LLMs make this hard: fluent output may be ungrounded, incomplete, or unfaithful to the decision process. Achieving accountability requires verified rationales (how was the decision reached), assumptions (what was assumed rather than known), policy consistency (the same treatment for the same facts), and pivotal conditions (what would change the outcome). We introduce self-faithfulness as an automatic test of accountability: changing the pivotal conditions should change t",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Open WebXR versus Commercial Game Engines: A Socio-Technical Position Analysis for an Open, Sustainable, and Interoperable Metaverse",
-      "url": "https://arxiv.org/abs/2609.03666",
-      "summary": "arXiv:2609.03666v1 Announce Type: new Abstract: The Metaverse is often framed as a persistent, interoperable, and embodied network of virtual and augmented environments. Yet, most contemporary XR applications are developed through commercial game engines and distributed through proprietary app stores, creating tensions between openness and platform dependency. This paper critically examines open WebXR technologies with conventional commercial game-engine pipelines, with particular attention to XR hardware, software architectures, developer workflows, governance, ethics, and sustainability. We ",
+      "title": "GPS-Bench: A Governance Policy Benchmark for Automating Policy Analysis",
+      "url": "https://arxiv.org/abs/2609.03553",
+      "summary": "arXiv:2609.03553v1 Announce Type: cross Abstract: Policy analysis requires more than predicting whether a proposal will pass: it requires identifying who will be affected, how those actors respond, and what follows. LLM-based policy simulations model these processes at scale, but their validity is hard to establish when plausible behaviour is never compared with observed outcomes. We introduce GPS-Bench, an evidence-grounded benchmark for governance policy simulation that links policies to relevant actors, actor actions and downstream impacts using legislative records, lobbying disclosures, re",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Bridging Formal and Perceived Fairness: Development of an Interdisciplinary Framework in Algorithmic Decision-Making",
-      "url": "https://arxiv.org/abs/2609.03853",
-      "summary": "arXiv:2609.03853v1 Announce Type: new Abstract: While fairness has become a central concern in research on algorithmic systems, the field remains predominantly shaped by Computer Science, resulting in a strong emphasis on formal fairness metrics and bias mitigation strategies. Nevertheless, this focus may obscure a fundamental challenge: fairness is not merely a technical property, but a subjective, context-sensitive human judgment shaped by cognitive heuristics, mental models, normative expectations, and sociotechnical factors. Crucially, users' perceptions of fairness may diverge substantial",
+      "title": "OBER+: Continuity-Aware Reporting and Traceable Continuous Improvement in Outcome-Based Education",
+      "url": "https://arxiv.org/abs/2609.03770",
+      "summary": "arXiv:2609.03770v1 Announce Type: cross Abstract: Institutions practising outcome-based education compute learning outcome attainment routinely, while reviews of curriculum analytics report an absence of evidence on how that computation informs decisions. This paper presents OBER+, an extension of a deployed institutional attainment platform that computes the step from a measured shortfall to an evaluated corrective action. Five connected stages accumulate attainment across deliveries of a course, signal a shortfall and a persistent shortfall, grade it on cutoffs the regulator already uses, re",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Making Gender-Inclusive Practices Actionable: Evaluating a Research-Informed Computing Education Toolkit",
-      "url": "https://arxiv.org/abs/2609.03936",
-      "summary": "arXiv:2609.03936v1 Announce Type: new Abstract: The persistent gender imbalance in computing remains a global concern, and universities offer a key part of the pipeline to address it. Although research has identified practices that support under-represented student groups, translating this evidence into actionable guidance remains challenging. This paper first presents a novel web- based toolkit (TechMate) designed to address this gap by helping computing educators implement gender- inclusive initiatives through practical research-informed guidance. The toolkit defines over 25 actions, ranging",
+      "title": "The Landscape of Generative AI in Information Systems: A Synthesis of Secondary Reviews and Research Agendas",
+      "url": "https://arxiv.org/abs/2603.11842",
+      "summary": "arXiv:2603.11842v3 Announce Type: replace Abstract: The post-ChatGPT surge has rapidly reframed IS research and practice. As organizations and society grapple with GenAI adoption, a body of secondary studies and research agendas has emerged to synthesize early evidence and chart directions for future inquiry. This study reviews secondary and roadmap papers to synthesize the state of knowledge on GenAI's benefits and challenges in IS, and to identify future research directions. We performed a systematic search across Scopus, WoS, and eAIS for publications from 2023 onwards. Following a rigorous",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Shifting from Injection to Interaction: Rethinking Web Security in the Age of LLMs and Beyond",
-      "url": "https://arxiv.org/abs/2609.03999",
-      "summary": "arXiv:2609.03999v1 Announce Type: new Abstract: Large language models (LLMs) are becoming integral to web applications and browser agents, transforming online interactions while introducing new attack vectors and reshaping longstanding web vulnerabilities. Classical threats such as cross-site scripting (XSS) can be amplified through LLM-mediated interactions, while LLM-specific vulnerabilities can propagate across web applications, introducing attacks such as prompt injection. Securing modern web systems therefore requires understanding interactions between traditional and LLM-specific threats",
+      "title": "A Visionary Look at Vibe Researching",
+      "url": "https://arxiv.org/abs/2604.00945",
+      "summary": "arXiv:2604.00945v2 Announce Type: replace Abstract: Vibe researching is an emerging paradigm in which human researchers provide high-level direction and critical judgment while LLM-based agents handle the labor-intensive execution of literature review, experimentation, data analysis, and manuscript drafting. Inspired by the \"vibe coding\" movement in software engineering, it occupies a middle ground between traditional manual research and fully autonomous AI research systems. This paper defines the concept, describes its methodology (multi-agent architectures, memory, tool use, retrieval-augmen",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Decreasing Digital Distraction in College Students: Associated Online Learning Strategies Identified by Unsupervised Data Mining Approaches",
-      "url": "https://arxiv.org/abs/2609.04125",
-      "summary": "arXiv:2609.04125v1 Announce Type: new Abstract: The proliferation of digital tools in education offers numerous benefits but also introduces significant challenges, notably digital distractions that hinder academic performance, especially in online learning contexts. This study employed unsupervised data mining techniques, specifically association rule mining and clustering analysis, to identify effective learning strategies associated with lower levels of digital distractions among college students. Data from 530 participants revealed that self-regulated learning strategies (i.e., goal settin",
+      "title": "WELD: The First Naturalistic Long-Period Small-Team Workplace Emotion Dataset for Ubiquitous Affective Computing",
+      "url": "https://arxiv.org/abs/2510.15221",
+      "summary": "arXiv:2510.15221v3 Announce Type: replace-cross Abstract: Affective computing has matured rapidly in laboratory settings, yet no prior dataset combines (i) months-to-years of duration, (ii) a naturalistic workplace context, (iii) a stable small-team social structure, and (iv) a fully passive sensing protocol that survives institutional review. We introduce WELD, the first dataset to satisfy all four. WELD comprises 733,780 per-frame seven-class facial-expression probability vectors from 49 employees of a Chinese software company over 30.1 months (Nov 2021 - May 2024) -- the longest naturalisti",
       "published": "2026-09-04T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
