@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-07",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Controversy and Group Certainty Jointly Shape Everyday Moral Judgments",
+      "url": "https://arxiv.org/abs/2609.04750",
+      "summary": "arXiv:2609.04750v1 Announce Type: new Abstract: Everyday moral life rarely resembles a trolley problem. It involves disputes about families, relationships, work, money, and care, situations in which people often encounter the judgments of others. We examined how judgments about nuanced interpersonal dilemmas respond to social information that conveys collective opinion without revealing the arguments behind it. Specifically, we studied two signals: controversy, the extent to which community judgments are divided between two opposing verdicts; and group certainty, the confidence expressed by ea",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When Does an Interpretation Count as Established? The Formation, Evaluation, and Responsibility of Interpretation in Generative AI",
+      "url": "https://arxiv.org/abs/2609.04766",
+      "summary": "arXiv:2609.04766v1 Announce Type: new Abstract: Generative AI research has increasingly evaluated factuality, citation, coverage, and report structure. Yet passing such local checks does not by itself show that a humanistic interpretation has been established. This paper asks how an interpretation comes to be recognized within sociotechnical processes. It introduces three connected concepts. Interpretive appearance names the gap between the finished form of an output and the publicly traceable process through which materials, counterevidence, and revisions constrained the judgment. The evaluat",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "On Being Prepared: Automated Vehicle Incident Management Exercise Practices",
+      "url": "https://arxiv.org/abs/2609.04777",
+      "summary": "arXiv:2609.04777v1 Announce Type: new Abstract: Incident management (IM) has evolved over recent decades to cover an ever-expanding array of hazards and systems. Barring real-life experience, exercises are a key tool in developing an effective IM program. As part of enterprise resilience and operational readiness, IM practitioners design exercises to understand and build capabilities for efficiently and effectively responding to incidents. Combining research and policy on an emerging transportation technology, automated vehicles (AVs), with established practices for IM, we describe what makes ",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Students' Perception of Big Data Engineering in Higher Education Curricula: Expectations, Interest and Ethical Implications",
+      "url": "https://arxiv.org/abs/2609.05160",
+      "summary": "arXiv:2609.05160v1 Announce Type: new Abstract: The study investigates students' interest and expectations in a Big Data Engineering course integrated with a Master curricula, as well as ethical implications of using Big Data. An anonymous online survey was conducted with 42 of the 67 students enrolled in the Big Data course offered to Computer Science and Bioinformatics Master's programs. The responses were analyzed and interpreted using thematic analysis, highlighting interesting aspects related to students' expectations, interest, and their perspective of the ethical implications of working",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Moral Advice as Interactional Negotiation: Framing, User Pressure, and Social Position in Large Language Model Responses",
+      "url": "https://arxiv.org/abs/2609.05345",
+      "summary": "arXiv:2609.05345v1 Announce Type: new Abstract: As conversational AI becomes a source of everyday guidance, LLMs increasingly participate in the interpretation and legitimation of morally contested choices. We examine LLM moral advice as an interactional negotiation shaped by framing, sustained user pressure, and the moral subject's social position. Using GPT-4o-mini as an illustrative case, we conducted a factorial vignette experiment with a pre-specified three-round protocol. The model received eldercare dilemmas that varied in framing and persona, followed by two user challenges. We analyze",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Course design in the age of AI",
+      "url": "https://arxiv.org/abs/2607.18735",
+      "summary": "arXiv:2607.18735v3 Announce Type: cross Abstract: I develop a model of learning-by-doing and course design, and use it to study the impacts of artificial intelligence (AI). A myopic student faces a sequence of tasks that he can work on or delegate to AI. Work requires costly effort but builds skill; delegation requires no effort but builds no skill. A teacher designs the task sequence (\"course\") to maximize the student's skill development, given his choices to work or delegate. Without AI, the teacher makes earlier tasks more effort-intensive and later tasks more skill-intensive. With AI, the ",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Auditing Bias and Safety in Voice AI Customer Care",
+      "url": "https://arxiv.org/abs/2609.04206",
+      "summary": "arXiv:2609.04206v1 Announce Type: cross Abstract: Voice AI systems increasingly mediate customer care interactions where caller presentation cues such as accent, affect, fluency, and urgency are available alongside the service request. Existing fairness and safety evaluations cover speech recognition disparities, spoken dialogue bias, and voice agent capability, but rarely treat customer care voice agents as stateful, multi turn, tool mediated systems where harm can appear as additional burden before any final denial occurs. We formalize a validation gated audit framework for such systems. The",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Multi-dimensional Bias in Modeling Multi-dimensional Preferences: Evaluating the Ability of Synthetic Agents to Replace Human Participants in Conjoint Experiments",
+      "url": "https://arxiv.org/abs/2609.04243",
+      "summary": "arXiv:2609.04243v1 Announce Type: cross Abstract: Despite growing interest in using LLMs to add robustness or reduce data-collection costs in survey experiments, their efficacy in conjoint design---an increasingly popular method in political science---remains underexplored. This paper addresses that gap by investigating whether synthetic agents can reproduce the multi-dimensional human preference patterns that conjoint is designed to capture. It replicates published conjoint studies and compares the results generated by synthetic agents with original human data along three dimensions: represen",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Adapting from Downturns: Prediction of Long-Term Conversational-Skill Development in Mental-Health Crisis Counselors",
+      "url": "https://arxiv.org/abs/2609.04350",
+      "summary": "arXiv:2609.04350v1 Announce Type: cross Abstract: How do people learn to become better conversationalists? This question is especially important in the context of mental-health counseling, where conversational skills are essential, yet volunteer counselors often have limited access to supervision and structured feedback. Understanding how counselors develop their ability to steer conversations toward positive outcomes -- and identifying early which counselors are (not) on track to improve -- can help prioritize support for the counselors who need it most. In this work, we introduce the task of",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Why Better Models Can Create Riskier Systems: Evidence from LLM Agents in Financial Markets",
+      "url": "https://arxiv.org/abs/2609.04373",
+      "summary": "arXiv:2609.04373v1 Announce Type: cross Abstract: Large language models (LLMs) are being deployed at scale in consequential real-world systems, from financial markets to content moderation to hiring. We show that improving individual model capability can degrade rather than improve system-level outcomes. We hypothesize that shared training and architectures can lead more capable LLMs to behave more similarly, creating correlated actions that do not diversify away. We develop a general framework showing how this correlation creates a non-diversifiable risk floor and test its predictions in fina",
+      "published": "2026-09-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
