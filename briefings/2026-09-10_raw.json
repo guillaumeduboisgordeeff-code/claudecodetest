@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-10",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Playing Whack-a-Mole with misconceptions about memorization, extraction, and copyright",
+      "url": "https://arxiv.org/abs/2609.09320",
+      "summary": "arXiv:2609.09320v1 Announce Type: new Abstract: After careful review, I'm confident the headline fine-tuning memorization results in Alignment Whack-a-Mole use an invalid measurement procedure. The book memorization coverage metric these headline results depend on counts sequence matches far shorter than what field standards consider valid evidence of memorization, and the prompting procedure used to elicit memorization runs the risk of leaking the text being \"extracted\" in the prompt. The paper doesn't include the negative-control experiments needed to see how much the results are inflated by",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Democracy Needs Reach: Political Equality, Online Speech, and Algorithmic Recommendation",
+      "url": "https://arxiv.org/abs/2609.09465",
+      "summary": "arXiv:2609.09465v1 Announce Type: new Abstract: Within democracies, the capacity to influence political outcomes through speech depends not only on the right to express oneself, but also on the opportunity to reach relevant audiences. In this paper, I argue that the unequal distribution of algorithmic reach on social media platforms undermines equality of opportunity for political influence (EOPI), which is a central democratic ideal. Drawing on Niko Kolodny's work, I contend that current recommendation algorithms create and perpetuate informal inequalities by concentrating attention among a s",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Scalable Oversight for AI in Mental Health: Lessons from 350,000 AI Coaching Conversations between Therapy Sessions",
+      "url": "https://arxiv.org/abs/2609.09533",
+      "summary": "arXiv:2609.09533v1 Announce Type: new Abstract: Clinician review of every AI output is often proposed as a safeguard in mental healthcare, but vigilance research suggests this approach fails at scale and may paradoxically reduce safety. Drawing on our experience deploying an AI coaching tool across 350,000+ conversations between therapy sessions, we describe how we arrived at a three-layer human-on-the-loop oversight framework combining preventive design, real-time monitoring, and continuous clinician evaluation. We show how specific findings from clinical review drove iterative improvements, ",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Watermarks Without Verification: AI Text Watermarking After the EU AI Act",
+      "url": "https://arxiv.org/abs/2609.09604",
+      "summary": "arXiv:2609.09604v1 Announce Type: new Abstract: On August 2, 2026, the obligations of Article 50 of the EU AI Act took effect, requiring generative AI providers to mark the content their systems produce and ensure it can be detected as AI-generated. Days later, Anthropic disclosed that every Claude model released after that date embeds a watermark based on SynthID-Text in all generated text, enabled by default with no user opt-out; Google has deployed SynthID-Text in Gemini since 2024. Users objected that the watermark degrades quality, particularly for code, that it secretly encodes identifyi",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Who You Are Adds Nothing Detectable to Where You Go Next: Sociodemographic Conditioning in LLM Next-Location Prediction",
+      "url": "https://arxiv.org/abs/2609.09609",
+      "summary": "arXiv:2609.09609v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for individual next-location prediction, while sociodemographic conditioning is common in LLM-based travel simulation. Yet the incremental predictive value of sociodemographic attributes remains unclear. To directly test this contribution, sociodemographic records were linked with passively sensed mobility data from 5,000 Shenzhen residents to construct a closed-set benchmark in which models rank 100 candidate destinations. Each prediction instance is evaluated with and without age, gender, occup",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education",
+      "url": "https://arxiv.org/abs/2609.09856",
+      "summary": "arXiv:2609.09856v1 Announce Type: new Abstract: The rapid adoption of generative AI tools such as ChatGPT has sparked intense debate about their risks and opportunities for education, as well as the ways researchers should investigate them. In this paper, we approach these discussions through an analogy with the Thermomix, a smart kitchen appliance that has similarly provoked both enthusiasm and critique. By mapping Thermomix use cases onto examples of learning with generative AI, and situating them within the ICAP and SAMR frameworks, we show how different modes of tool use can either support",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Beyond Training: A Feasibility Taxonomy for Inference-Time AI Governance",
+      "url": "https://arxiv.org/abs/2609.10105",
+      "summary": "arXiv:2609.10105v1 Announce Type: new Abstract: Compute governance today is a governance of training: the thresholds, reporting requirements, and frontier-AI regimes now in force attach to training compute and treat the trained model as the regulatory unit. That picture is incomplete: capability increasingly migrates to the deployment stage through inference-time scaling, agentic scaffolding, and compression onto consumer hardware. This paper asks which mechanisms are available once the regulatory object shifts from the training run to the inference call. We develop a feasibility taxonomy of t",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Senseful Consense: Towards Simplified Cookie Banners using Plain Language",
+      "url": "https://arxiv.org/abs/2609.10271",
+      "summary": "arXiv:2609.10271v1 Announce Type: new Abstract: While the GDPR and ePrivacy Directive mandate that consent information must be clear and accessible, most modern cookie banners remain obscured by technical jargon, vague phrasing, and frequent content overload or underload. This feasibility study investigates the impact of applying plain language (Einfache Sprache) to cookie banners within the IAB Transparency & Consent Framework (TCF). In our study, we analysed cookie banner texts from 200 websites, using AI-based mapping to categorise extracted content into standardised processing purposes. By",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Total Simulated Survey Error: Designing and Diagnosing Survey Responses from Large Language Models",
+      "url": "https://arxiv.org/abs/2609.10280",
+      "summary": "arXiv:2609.10280v1 Announce Type: new Abstract: Large Language models (LLMs), having been trained on vast amounts of human-generated data, may encode the attitudes and behaviors of these humans. As such, LLMs show promise in mimicking human-like patterns that facilitate their use in simulating people in a wide variety of contexts. One such context is using LLMs as 'silicon samples', i.e., proxies of people in answering survey questions to establish public opinion, design policies, or use as (social) scientific data. However, several critical questions of social biases, generalization, and tech",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support",
+      "url": "https://arxiv.org/abs/2609.10421",
+      "summary": "arXiv:2609.10421v1 Announce Type: new Abstract: Background: Emergency Department (ED) return visits are commonly reviewed for quality assurance, but are often limited (e.g., to revisits within 48-72 hours) to increase actionable finding yield while minimizing chart review burden. Those limitations may lead to missed quality improvement opportunities. Methods: We conducted an exploratory, retrospective study of randomly selected ED visits to a multihospital health system having an ED revisit within 1-14 days to the same health system. Given only each visit's primary diagnosis, raters (2-3 clini",
+      "published": "2026-09-10T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
