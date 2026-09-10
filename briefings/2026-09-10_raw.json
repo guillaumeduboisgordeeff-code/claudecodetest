@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Playing Whack-a-Mole with misconceptions about memorization, extraction, and copyright",
-      "url": "https://arxiv.org/abs/2609.09320",
-      "summary": "arXiv:2609.09320v1 Announce Type: new Abstract: After careful review, I'm confident the headline fine-tuning memorization results in Alignment Whack-a-Mole use an invalid measurement procedure. The book memorization coverage metric these headline results depend on counts sequence matches far shorter than what field standards consider valid evidence of memorization, and the prompting procedure used to elicit memorization runs the risk of leaking the text being \"extracted\" in the prompt. The paper doesn't include the negative-control experiments needed to see how much the results are inflated by",
+      "title": "AgentHijack: Visual Patch Attacks on Multimodal Computer-Use Agents",
+      "url": "https://arxiv.org/abs/2609.09212",
+      "summary": "arXiv:2609.09212v1 Announce Type: cross Abstract: This paper presents an end-to-end evaluation framework for image-triggered command injection against computer-use agents (CUAs). The goal is to test whether a local visual patch can induce verifiable environmental consequences along the full chain of screenshot input, VLM generation, action parsing, and environment execution. We train and deploy patches on author-controlled GitHub Pages pages and a locally deployed CSDN clone, and evaluate them in real environments across five open-source or publicly available GUI-agent or vision-language-model",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Democracy Needs Reach: Political Equality, Online Speech, and Algorithmic Recommendation",
-      "url": "https://arxiv.org/abs/2609.09465",
-      "summary": "arXiv:2609.09465v1 Announce Type: new Abstract: Within democracies, the capacity to influence political outcomes through speech depends not only on the right to express oneself, but also on the opportunity to reach relevant audiences. In this paper, I argue that the unequal distribution of algorithmic reach on social media platforms undermines equality of opportunity for political influence (EOPI), which is a central democratic ideal. Drawing on Niko Kolodny's work, I contend that current recommendation algorithms create and perpetuate informal inequalities by concentrating attention among a s",
+      "title": "Endorsement Without New Evidence: How Sequential Voting Inflates Mandates in Online Community Governance",
+      "url": "https://arxiv.org/abs/2609.09321",
+      "summary": "arXiv:2609.09321v1 Announce Type: cross Abstract: Online communities often treat large support margins in public elections as strong mandates. We argue that such margins can overstate the independent scrutiny behind a decision. Using 198,275 free-text rationales from Wikipedia admin elections, we introduce vote-text divergence, a measure that flags a decisive vote paired with a thin, deferential rationale. Divergence rises as voters arrive later, even after controlling for voter and election fixed effects. The pattern is consistent with information saturation: once prior text is accounted for,",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Scalable Oversight for AI in Mental Health: Lessons from 350,000 AI Coaching Conversations between Therapy Sessions",
-      "url": "https://arxiv.org/abs/2609.09533",
-      "summary": "arXiv:2609.09533v1 Announce Type: new Abstract: Clinician review of every AI output is often proposed as a safeguard in mental healthcare, but vigilance research suggests this approach fails at scale and may paradoxically reduce safety. Drawing on our experience deploying an AI coaching tool across 350,000+ conversations between therapy sessions, we describe how we arrived at a three-layer human-on-the-loop oversight framework combining preventive design, real-time monitoring, and continuous clinician evaluation. We show how specific findings from clinical review drove iterative improvements, ",
+      "title": "Ephemeral Feeds and Enduring Rituals: RushTok and the Formation of Event-Based Algorithmic Communities",
+      "url": "https://arxiv.org/abs/2609.09331",
+      "summary": "arXiv:2609.09331v1 Announce Type: cross Abstract: Each August, TikTok's For You page turns the University of Alabama's sorority recruitment into RushTok. We examine RushTok as an event-based algorithmic community: a collective assembled around a bounded offline ritual and sustained by recommendation. Using a mixed-methods survey (n=71) and a reflexive account of creator outreach, we ask who participates, how, and with what stakes. Findings show an ambiguous and entertainment based throughline; many called it a community (51/71) but few claimed membership (11/71). Affiliation centered on creato",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Watermarks Without Verification: AI Text Watermarking After the EU AI Act",
-      "url": "https://arxiv.org/abs/2609.09604",
-      "summary": "arXiv:2609.09604v1 Announce Type: new Abstract: On August 2, 2026, the obligations of Article 50 of the EU AI Act took effect, requiring generative AI providers to mark the content their systems produce and ensure it can be detected as AI-generated. Days later, Anthropic disclosed that every Claude model released after that date embeds a watermark based on SynthID-Text in all generated text, enabled by default with no user opt-out; Google has deployed SynthID-Text in Gemini since 2024. Users objected that the watermark degrades quality, particularly for code, that it secretly encodes identifyi",
+      "title": "Early Epistemic Settlement in AI-Assisted Writing",
+      "url": "https://arxiv.org/abs/2609.09332",
+      "summary": "arXiv:2609.09332v1 Announce Type: cross Abstract: A language model can resolve a writer's current organizing problem while the construction needed for her own resolution remains unfinished. I call this early epistemic settlement. The supplied organization meets every demand then governing the passage, yet proceeding from it can displace work through which the writer would have changed those demands or become able to form further organizations. I distinguish the coordination needed to complete an already formable organization from construction that changes which organizations are formable in th",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Who You Are Adds Nothing Detectable to Where You Go Next: Sociodemographic Conditioning in LLM Next-Location Prediction",
-      "url": "https://arxiv.org/abs/2609.09609",
-      "summary": "arXiv:2609.09609v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly used for individual next-location prediction, while sociodemographic conditioning is common in LLM-based travel simulation. Yet the incremental predictive value of sociodemographic attributes remains unclear. To directly test this contribution, sociodemographic records were linked with passively sensed mobility data from 5,000 Shenzhen residents to construct a closed-set benchmark in which models rank 100 candidate destinations. Each prediction instance is evaluated with and without age, gender, occup",
+      "title": "Auditable Emergency Triage for Maternal and Newborn Care in India",
+      "url": "https://arxiv.org/abs/2609.09356",
+      "summary": "arXiv:2609.09356v1 Announce Type: cross Abstract: At Noora Health, our nurses answer more than 50,000 medical queries per month on our WhatsApp-based service that provides caregivers with on-demand support. Their most time-critical task is emergency triage: deciding which queries need immediate in-person attention. To support them, we built a system that uses a large language model (LLM) to classify whether a message is an emergency and provide a rationale for interpretability. But the system was opaque: analyzing mistakes meant reading reasoning chains for each message, which is infeasible at",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "With a Thermomix You Lose the Ability to Cook: A Kitchen Machine Analogy for Applications of Generative AI in Education",
-      "url": "https://arxiv.org/abs/2609.09856",
-      "summary": "arXiv:2609.09856v1 Announce Type: new Abstract: The rapid adoption of generative AI tools such as ChatGPT has sparked intense debate about their risks and opportunities for education, as well as the ways researchers should investigate them. In this paper, we approach these discussions through an analogy with the Thermomix, a smart kitchen appliance that has similarly provoked both enthusiasm and critique. By mapping Thermomix use cases onto examples of learning with generative AI, and situating them within the ICAP and SAMR frameworks, we show how different modes of tool use can either support",
+      "title": "Applying foundation model embeddings towards urban livability evaluation",
+      "url": "https://arxiv.org/abs/2609.09429",
+      "summary": "arXiv:2609.09429v1 Announce Type: cross Abstract: While accurate measurement of socioeconomic indicators remains challenging in data-scarce regions, which limits policy interventions and resource allocation, high-resolution geospatial data is widely available and can contain information on various livability statistics. We investigate which physical features are encoded within foundation model embeddings, such as AlphaEarth, AnySat, and TerraMind, and provide a systematic framework for identifying the most predictive geospatial indicators. By analyzing how different types of geospatial data in",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond Training: A Feasibility Taxonomy for Inference-Time AI Governance",
-      "url": "https://arxiv.org/abs/2609.10105",
-      "summary": "arXiv:2609.10105v1 Announce Type: new Abstract: Compute governance today is a governance of training: the thresholds, reporting requirements, and frontier-AI regimes now in force attach to training compute and treat the trained model as the regulatory unit. That picture is incomplete: capability increasingly migrates to the deployment stage through inference-time scaling, agentic scaffolding, and compression onto consumer hardware. This paper asks which mechanisms are available once the regulatory object shifts from the training run to the inference call. We develop a feasibility taxonomy of t",
+      "title": "The Mutations of Machine Speech",
+      "url": "https://arxiv.org/abs/2609.09496",
+      "summary": "arXiv:2609.09496v1 Announce Type: cross Abstract: Algorithmic outputs now populate the digital environments through which contemporary life is organized. The role of law in facilitating and constituting (rather than merely responding to) these processes is gaining increasing traction across scholarly accounts. This inquiry traces the evolution of algorithmic outputs attending to their legal underpinnings and social implications, surfacing the mutations of machine speech. The first mutation redefined speech as data to be queried: search engines transformed the web from a space of information re",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Senseful Consense: Towards Simplified Cookie Banners using Plain Language",
-      "url": "https://arxiv.org/abs/2609.10271",
-      "summary": "arXiv:2609.10271v1 Announce Type: new Abstract: While the GDPR and ePrivacy Directive mandate that consent information must be clear and accessible, most modern cookie banners remain obscured by technical jargon, vague phrasing, and frequent content overload or underload. This feasibility study investigates the impact of applying plain language (Einfache Sprache) to cookie banners within the IAB Transparency & Consent Framework (TCF). In our study, we analysed cookie banner texts from 200 websites, using AI-based mapping to categorise extracted content into standardised processing purposes. By",
+      "title": "Chance, Persistent Advantage, and the Generative-AI Era in Open-Source Package Careers",
+      "url": "https://arxiv.org/abs/2609.09687",
+      "summary": "arXiv:2609.09687v1 Announce Type: cross Abstract: Studies of careers in science, film, music, and books report a common pattern. When a person's most successful work arrives is close to a random draw over the works they produce. How large their successes tend to be, in contrast, follows a stable, person-specific factor. We test whether this pattern holds for open-source software careers and whether it changed when generative AI coding tools arrived. From the complete public record of GitHub push events (2015-2025), we reconstruct 102.2M career works by 6.15M contributors, and for the 908k cont",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Total Simulated Survey Error: Designing and Diagnosing Survey Responses from Large Language Models",
-      "url": "https://arxiv.org/abs/2609.10280",
-      "summary": "arXiv:2609.10280v1 Announce Type: new Abstract: Large Language models (LLMs), having been trained on vast amounts of human-generated data, may encode the attitudes and behaviors of these humans. As such, LLMs show promise in mimicking human-like patterns that facilitate their use in simulating people in a wide variety of contexts. One such context is using LLMs as 'silicon samples', i.e., proxies of people in answering survey questions to establish public opinion, design policies, or use as (social) scientific data. However, several critical questions of social biases, generalization, and tech",
+      "title": "A Unifying Perspective on Probabilities as Model Predictions",
+      "url": "https://arxiv.org/abs/2609.09855",
+      "summary": "arXiv:2609.09855v1 Announce Type: cross Abstract: Although probabilistic statements are ubiquitous, foundational disagreements persist about their understanding, as exemplified by debates between Bayesians and frequentists; moreover, it is unclear when and why acting on them actually leads to desirable outcomes. Here, we argue that every probability is the output of a \\emph{prediction method}, that is, it depends on both a particular way of constructing abstractions and a way of transforming them into predictions. Through this, we provide a unifying perspective on supposedly different kinds of",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Emergency Department Revisit Quality Review Screening: Exploring Human Decision-Making and Artificial Intelligence Support",
-      "url": "https://arxiv.org/abs/2609.10421",
-      "summary": "arXiv:2609.10421v1 Announce Type: new Abstract: Background: Emergency Department (ED) return visits are commonly reviewed for quality assurance, but are often limited (e.g., to revisits within 48-72 hours) to increase actionable finding yield while minimizing chart review burden. Those limitations may lead to missed quality improvement opportunities. Methods: We conducted an exploratory, retrospective study of randomly selected ED visits to a multihospital health system having an ED revisit within 1-14 days to the same health system. Given only each visit's primary diagnosis, raters (2-3 clini",
+      "title": "When Does Defendant Statement Matter? A Study of Bias and Persuasion in LLM-Simulated Jurors",
+      "url": "https://arxiv.org/abs/2609.09887",
+      "summary": "arXiv:2609.09887v1 Announce Type: cross Abstract: LLMs have been used to simulate human decision-making in professional settings, yet their behaviors in common-law jury trials remain unexplored. We study when and how a defendant's courtroom statement affects LLM-simulated jurors, focusing on persuasion, ideological bias, and background-based affinity. To support the analysis, we introduce JuryBench, a benchmark containing controversial criminal cases in U.S. criminal law. In each case, a defendant can claim various plausible justifications to support acquittal or reduced liability. We fix the ",
       "published": "2026-09-10T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
