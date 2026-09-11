@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-11",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Governing AI Research Through Peer Review: A Mixed-Methods Study of the Longitudinal Effects of Ethics Flags Across Resubmissions",
+      "url": "https://arxiv.org/abs/2609.10740",
+      "summary": "arXiv:2609.10740v1 Announce Type: new Abstract: Selective AI conferences have recently begun enforcing ethics flags and related review requirements, with the goal being to steer research towards safer and more responsible practices before publication. But do these requirements actually steer research as intended? In this paper, we show that authors more often revise how projects are presented following ethics flags than redirect their underlying research agendas. We first study the longitudinal effects of ethics flags by following rejected and withdrawn ICLR submissions with ethics flags into ",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Designing Technology for Social Wellbeing in Built Environments: A Conceptual Framework",
+      "url": "https://arxiv.org/abs/2609.10779",
+      "summary": "arXiv:2609.10779v1 Announce Type: new Abstract: Digital technologies are deployed in urban built environments with the aim of supporting social dimensions. However, the research offers no unified guidance for such digital technology design. Additionally, evidence shows that week social wellbeing contributes to mental and physical health outcomes which suggests that the technology designed to strengthen social wellbeing could also function as a form of health promoting and preventive intervention. This chapter addresses this research gap by developing a conceptual framework that supports the de",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Alternative AI Philosophy: Daoism as Method for AI in Education",
+      "url": "https://arxiv.org/abs/2609.10842",
+      "summary": "arXiv:2609.10842v1 Announce Type: new Abstract: As artificial intelligence (AI) rapidly iterates and transforms teaching, learning, and knowledge production, philosophical reflection has become increasingly indispensable to educational debates that remain predominantly shaped by Western intellectual traditions. This article proposes Daoism as an alternative philosophical framework for reimagining AI in education. Through philosophical analysis and textual interpretation of classical Daoist sources, brought into dialogue with contemporary scholarship on AI in education, it examines how the Daoi",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation",
+      "url": "https://arxiv.org/abs/2609.10856",
+      "summary": "arXiv:2609.10856v1 Announce Type: new Abstract: Large language models are becoming the first point of contact for consumer search in domains where the stakes are material and the law is explicit. Existing audits show that models steer housing seekers by perceived identity, but none can say what a user loses when a recommender overlooks a suitable option, for want of an enumerated inventory to score omissions against. We audit AI housing recommendation against a verifiable ground truth. For each of 150 synthetic renter scenarios in New York City we build a pool of 120 real listings with known r",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Work, Wellbeing, and Choice: Empirical Lessons for AI Futures",
+      "url": "https://arxiv.org/abs/2609.11019",
+      "summary": "arXiv:2609.11019v1 Announce Type: new Abstract: Advances in AI-driven automation have raised questions about how humans might find wellbeing in a world where paid employment is less necessary or less available than before. Paid work has been variously characterized as both a contributor and an impediment to human wellbeing. What is already known about the relationship between paid work and wellbeing? What factors influence wellbeing among people who do not work---or who do not need to work? And how might these factors bear upon prospective AI-induced economic transformations? To help provide e",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Digital Accountability to Accountable Digitality Through Needs-Aware Information Systems: The Case of Auditable Child-Welfare Judgments",
+      "url": "https://arxiv.org/abs/2609.11125",
+      "summary": "arXiv:2609.11125v1 Announce Type: new Abstract: Digital accountability research asks how digital systems can, among other aims, be made transparent, explainable, auditable, contestable, and supportive of ongoing learning and improvement. This paper reverses the question: how can digital transformation make established human institutions more accountable? It theorizes this reversal as accountable digitality and specifies needs-aware information systems as the mediating mechanism. The hard and paradigmatic case is child-welfare judgment, where best-interest procedures must protect children, pres",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "(Whose defaults?) Is artificial intelligence reorienting archaeological methods?",
+      "url": "https://arxiv.org/abs/2609.11198",
+      "summary": "arXiv:2609.11198v1 Announce Type: new Abstract: Generative AI and the practice of \"vibe coding\" are changing how archaeologists carry out computational research, but their effects on the discipline's range of methods is still understudied. In this paper, we evaluate whether large language models (LLMs) are narrowing the variety of methods archaeologists use. We first analysed approximately 119,000 archaeology abstracts from Scopus, covering publications from 2010 to 2025. Using a locally run LLM, we identified the computational methods reported in each abstract and organised them into 25 broad",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "SoulAuth: An Actor-native Identity Architecture and Rust Reference Implementation for Humans and Long-lived AI Actors",
+      "url": "https://arxiv.org/abs/2609.11258",
+      "summary": "arXiv:2609.11258v1 Announce Type: new Abstract: As AI systems move from transient model invocations toward long-lived actors that persist across credentials, clients, sessions, and runtime instances, identity infrastructure must answer a basic question: where should the canonical continuity boundary be placed? This paper introduces Actor-native Identity and presents SoulAuth, an open-source Rust reference implementation for Humans and long-lived AIActors. We argue that any subject that must persist under its own identity and remain independently attributable should have an ActorIdentity that i",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A global mobile network coverage raster product at 1km resolution, 1999--2030",
+      "url": "https://arxiv.org/abs/2609.11320",
+      "summary": "arXiv:2609.11320v1 Announce Type: new Abstract: Where a mobile signal is available shapes who can work, learn, bank, seek health care and respond to crises in the digital age, yet no globally consistent, sub-national record of mobile network coverage exists. We present such a record: annual 1km maps of the probability of 2G, 3G and 4G coverage for 214 countries and territories for the years 1999 to 2030. The maps are produced by three independent models: a calibrated machine-learning model, a techno-economic simulator of network build-out, and a spatial deep-learning model. The three estimates",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Characterizing Bluesky Content Moderation Service: From Automation of Service to Landscape of Harms",
+      "url": "https://arxiv.org/abs/2609.11373",
+      "summary": "arXiv:2609.11373v1 Announce Type: new Abstract: Empirical research on content moderation is fundamentally constrained by the opaque deployment of moderation systems on major social media platforms. To this end, the recent emergence of decentralized platforms with transparent, public moderation logs presents an unprecedented opportunity for independent audits. In this work, we leverage this architectural transparency to conduct the first large-scale audit of the default moderation system on Bluesky, the Bluesky Moderation Service (BMS). Analyzing its 10.6M moderation labels from 2025, we invest",
+      "published": "2026-09-11T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
