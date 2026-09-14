@@ -1,83 +1,35 @@
 {
   "date": "2026-09-14",
-  "articles_count": 10,
+  "articles_count": 4,
   "articles": [
     {
-      "title": "Mindspeller Neuroprofiling. How task performance, EEG, and association evidence support O*NET-based role guidance",
-      "url": "https://arxiv.org/abs/2609.12501",
-      "summary": "arXiv:2609.12501v1 Announce Type: new Abstract: Mindspeller produces a Neuroprofile from three sources: rational self-report, association-based semantic positioning, and performance recorded during cognitive tasks together with EEG. The task-and-EEG stream is the only source used to create occupational evidence. A result can enter role matching only after the participant's task performance supports the intended construct and the corresponding EEG data pass the required quality and evidence checks. The current pilot uses four EEG electrodes, twelve scored tasks, 23 O*NET abilities, and an inter",
+      "title": "From Bench-to-Bedside: A Review of Clinical Trials in Drug Discovery and Development",
+      "url": "https://arxiv.org/abs/2412.09378",
+      "summary": "arXiv:2412.09378v4 Announce Type: replace Abstract: Clinical trials bridge basic research and clinical application, serving as essential steps in drug development. This review examines clinical trial phases (Phase I [safety assessment], Phase II [efficacy evaluation], Phase III [large-scale validation], and Phase IV [post-marketing surveillance]), highlighting the distinct characteristics and interconnections. Major challenges are identified, including ethical compliance, participant recruitment, and ensuring diversity and representativeness in trial populations, while proposing evidence-based",
       "published": "2026-09-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Scenario-Independent Criticality Assessment and Prediction for Vulnerable Road Users in Autonomous Driving",
-      "url": "https://arxiv.org/abs/2609.11947",
-      "summary": "arXiv:2609.11947v1 Announce Type: cross Abstract: Increasing safety is the primary objective of automated vehicles. Achieving this goal requires reliable safety metrics that incorporate safety-relevant factors such as object type, velocity, and criticality. A key capability of such metrics is the distinction between critical and non-critical objects, which is addressed through criticality or relevance estimation. Existing criticality metrics are typically designed for specific scenarios and primarily focus on vehicle-to-vehicle interactions. In this paper, we therefore propose a novel critical",
+      "title": "No One Knows the State of the Art in Geospatial Foundation Models",
+      "url": "https://arxiv.org/abs/2605.12678",
+      "summary": "arXiv:2605.12678v3 Announce Type: replace-cross Abstract: Geospatial foundation models (GFMs) have been proposed as generalizable backbones for disaster response, land-cover mapping, food-security monitoring, and other high-stakes Earth-observation tasks. Yet the published work about these models does not give reviewers or users enough information to tell which model fits a given task. We argue that nobody knows what the current state of the art is in geospatial foundation models. The methods may be useful, but the GFM literature does not standardize evaluations, training and testing protocols",
       "published": "2026-09-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Tact: A Zero-Cost, Browser-Based Pipeline for On-Demand Tactile Braille Storybooks",
-      "url": "https://arxiv.org/abs/2609.12272",
-      "summary": "arXiv:2609.12272v1 Announce Type: cross Abstract: Braille literacy among blind school-age children has fallen sharply, in part because producing illustrated braille pages still requires specialized software and trained labor. We present Tact, a browser-based pipeline that converts a spoken or typed story idea into printable braille with a matching raised tactile illustration, without an account or mandatory cost and with an offline-capable path. The paper documents the engineering history of the system: its sighted-operator ethical model; hardware rationale for consumer fused-deposition modeli",
+      "title": "Norms at a Price: Why RL-Based Alignment Can Promise Conditional Compliance at Best",
+      "url": "https://arxiv.org/abs/2609.07627",
+      "summary": "arXiv:2609.07627v2 Announce Type: replace-cross Abstract: AI agents sometimes act aligned when they infer they are being tested, and differently when not. We argue this is not an anomaly but what current training regimes are structured to select for. Reinforcement-learning-based alignment folds norms and task pursuit into one policy: the system learns its norms from scored behavior, and scoring flattens them. Do not do X is learned as doing X costs something if noticed. On every datum training can produce, a policy that complies only when it might be observed is indistinguishable from one that",
       "published": "2026-09-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Reinforcement Learning over Patient Trajectories for Clinical Reasoning in EHR Foundation Models",
-      "url": "https://arxiv.org/abs/2609.12277",
-      "summary": "arXiv:2609.12277v1 Announce Type: cross Abstract: Electronic health record (EHR) foundation models trained on longitudinal patient trajectories have demonstrated strong performance across diverse clinical prediction tasks. However, their clinical reasoning capabilities remain constrained by next-token prediction on limited and incomplete EHR data. To address this, we propose a reinforcement learning (RL) fine-tuning framework that treats EHR foundation models as generative policies over patient trajectories. We formulate common clinical prediction problems (e.g., hospital readmission) as event",
-      "published": "2026-09-14T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Informational Help-Seeking on Reddit Did Not Decline After ChatGPT",
-      "url": "https://arxiv.org/abs/2609.12447",
-      "summary": "arXiv:2609.12447v1 Announce Type: cross Abstract: Did people stop asking other people for advice online once generative AI could answer their questions? Prior work on ChatGPT's effect on online help-seeking disagrees in both size and sign, in part because no study has compared affected communities against similar communities that AI cannot easily substitute for, over the same months. In this paper, we track monthly post counts in 26 Reddit informational communities against 90 size-comparable hobby communities over the same six calendar months before and after the launch of ChatGPT. We also rep",
-      "published": "2026-09-14T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "When Does AI Augment Work? A Workflow-Level Framework for Human-Agent Collaboration",
-      "url": "https://arxiv.org/abs/2609.12482",
-      "summary": "arXiv:2609.12482v1 Announce Type: cross Abstract: We aim to characterise the value of artificial intelligence in the workplace. Current studies largely measure this value in terms of the current automation capabilities and public adoption of AI. However, such metrics ignore the greater impacts of human--agent collaboration in transforming the nature of work. To account for this, we must expand the scope of our analysis beyond atomised tasks of today, and instead focus on how AI can augment entire workflows of the future. To ground this analysis, we establish a precise definition of AI augmenta",
-      "published": "2026-09-14T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Understanding Game Coaching on Gig Platforms",
-      "url": "https://arxiv.org/abs/2609.12695",
-      "summary": "arXiv:2609.12695v1 Announce Type: cross Abstract: Freelance game coaches monetize their gaming expertise by offering personalized instruction to players seeking to improve, working through gig platforms, yet little is known about how they operate. To address this gap, we conducted semi-structured interviews with 20 experienced freelance coaches across 17 competitive games on Fiverr. Despite lacking shared formal training, these coaches converged on similar practices centered on rapport-building, individualized diagnosis, and adaptive feedback. We identify two structural conditions shaping this",
-      "published": "2026-09-14T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Global maps of travel time to emergency and tertiary hospitals",
-      "url": "https://arxiv.org/abs/2609.12696",
-      "summary": "arXiv:2609.12696v1 Announce Type: cross Abstract: Global estimates of access to health care treat every facility alike. Drive time was routed on the OpenStreetMap network from all 217,841 of its hospitals and 15-, 30- and 60-minute isochrones dissolved for nested capability tiers, weighted with GHS-POP 2025. 96.2% of the world's population lives within an hour's drive of a hospital, 78.5% of a hospital with a documented emergency department, and 40.3% of one with a helipad or university name marking tertiary care. The 1.45 billion people within an hour of a hospital but not of an emergency hos",
-      "published": "2026-09-14T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "ARC: Autonomous Robotics Compliance A Three-Layer Governance Architecture for Deployed Autonomous Systems",
-      "url": "https://arxiv.org/abs/2609.12932",
-      "summary": "arXiv:2609.12932v1 Announce Type: cross Abstract: Proposed governance framework for autonomous robotic systems, introducing a three-layer compliance architecture (ARC) instantiated through model safety validation, cognitive certification benchmarks, and operational authorization standards.",
-      "published": "2026-09-14T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "A Robot Among People:From Social Imitation to the Social Becoming of Human Groups",
-      "url": "https://arxiv.org/abs/2609.12937",
-      "summary": "arXiv:2609.12937v1 Announce Type: cross Abstract: Robots designed to mediate human groups often fall into the solutionist trap: they are framed as sociable agents that fix problems such as conflict, disengagement, or lack of coordination. We suggest a different way of thinking. Rather than discrete agents, robots can be understood as situated elements of shared environments; catalysts and carriers of group experience whose meaning emerges through how people position, interpret, and interact with them. From this perspective, robots are not there to repair some ostensible dysfunctionality, but t",
+      "title": "Can Foundation Models Moderate Online Content? Evaluating Instruction- vs. Example-Driven Policy Operationalization",
+      "url": "https://arxiv.org/abs/2609.10410",
+      "summary": "arXiv:2609.10410v2 Announce Type: replace-cross Abstract: The growing complexity of content moderation policies presents a critical challenge for their consistent operationalization. While foundation models possess the basic capabilities needed to confront this challenge, whether they can reliably moderate online content remains an unanswered question. In this paper, we systematically compare two competing paradigms for Vision-Language Model (VLM) guidance: an instruction-driven approach where models reason from policy precepts, and an example-driven approach where they generalize from prior p",
       "published": "2026-09-14T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
