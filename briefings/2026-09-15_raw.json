@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Algorithm Validation as a Policy Audit: Evidence from Race-blind Charging",
-      "url": "https://arxiv.org/abs/2609.13174",
-      "summary": "arXiv:2609.13174v1 Announce Type: new Abstract: California recently required all prosecutors in the state to conduct a \"race-blind charging\" decision by reviewing case documents in which selected race-related proxies have been redacted. We validate bc2, an open-source, LLM-based algorithm that we developed to automate this redaction and that was used to facilitate race-blind review in more than 119,000 real-world cases in 2025. We evaluate two distinct questions: whether bc2 faithfully implements the state's requirements and whether those requirements, even when faithfully implemented, advance",
+      "title": "LLMs Unplugged: Teaching Resources for a ChatGPT World",
+      "url": "https://arxiv.org/abs/2609.13183",
+      "summary": "arXiv:2609.13183v1 Announce Type: cross Abstract: Large Language Models (LLMs) are everywhere, yet many learners lack a concrete mental model of how they generate text. This paper presents LLMs Unplugged, an unplugged set of activities that teaches the training-to-generation loop (and beyond) using hand-built n-gram models and simple weighted sampling. Workshops based on these resources have been delivered to over 400 participants across secondary, tertiary, and executive-education contexts, and participants report that the activities demystify LLMs by reframing them as probabilistic \"next wor",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Forced volatility: earnings and incentives for gig work in quick commerce",
-      "url": "https://arxiv.org/abs/2609.13178",
-      "summary": "arXiv:2609.13178v1 Announce Type: new Abstract: India's quick commerce sector has grown explosively, with platforms such as Blinkit, Zepto, Swiggy Instamart, and others delivering groceries and daily essentials through dense networks of neighbourhood dark stores. This growth has made the sector a major catalyst for India's gig economy, but its reliance on a large, flexible delivery workforce raises pressing concerns about wages, working conditions, and social security. These platforms use opaque algorithms to set pay, allocate tasks, and evaluate performance, with earnings varying by factors s",
+      "title": "Not All That Can Be Automated Should Be Automated: Strategic Minimalism as a Disciplined and Ethically Grounded Approach to AI Adoption",
+      "url": "https://arxiv.org/abs/2609.13188",
+      "summary": "arXiv:2609.13188v1 Announce Type: cross Abstract: As organizations accelerate the adoption and use of artificial intelligence, a common misconception arises that equates automation with progress and strategic necessity. This paper argues that not all that can be automated should be automated. It introduces Strategic Minimalism, a disciplined and ethically grounded approach to AI adoption that values purpose, proportionality, and prudence over speed and scale. Drawing on bounded rationality, virtue ethics, and frugal innovation, the study reframes technological restraint as a form of higher int",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "LOCO 2026 Lightning Talk Abstracts: 2nd International Workshop on Low Carbon Computing",
-      "url": "https://arxiv.org/abs/2609.13355",
-      "summary": "arXiv:2609.13355v1 Announce Type: new Abstract: This volume contains the accepted lightning-talk contributions from the 2nd International Workshop on Low Carbon Computing (LOCO 2026), held at Lancaster University, United Kingdom, on 10-11 September 2026. The collection brings together 14 short papers presenting emerging research, early-stage results, practical tools, and critical perspectives on reducing the environmental impacts of computing. Topics include carbon and energy measurement, carbon-aware scheduling, sustainable artificial intelligence and machine learning, high-performance comput",
+      "title": "AI Use Conditions and Perspective Diversity in Ethical Decision-Making: A Pilot Study of Human Reasoning Processes",
+      "url": "https://arxiv.org/abs/2609.13302",
+      "summary": "arXiv:2609.13302v1 Announce Type: cross Abstract: Generative artificial intelligence (AI) is increasingly used to support human decision-making, yet less attention has been paid to how AI may influence the reasoning processes that precede final judgments. This pilot study explored whether different AI-use conditions were associated with differences in reasoning breadth during ethical decision-making. Twenty-nine participants completed an ethical dilemma under one of three conditions: AI-Prohibited (n = 10), AI-Optional (n = 10), or AI-Mandatory (n = 9). Responses were evaluated by three indepe",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A latent dimension of Condorcet's jury theorem for multiple AI advisers",
-      "url": "https://arxiv.org/abs/2609.14438",
-      "summary": "arXiv:2609.14438v1 Announce Type: new Abstract: When the same question is asked of multiple AI advisers, as in self-consistency and LLM-as-a-judge panels, Condorcet's jury theorem predicts that adding independent, competent advisers makes the majority more reliable. The theorem, however, has a latent dimension when viewed from the user's vantage: adding advisers also makes disagreement more visible. A binomial model reveals that this ``visible dissent'' becomes nearly inevitable as the number of advisers grows, and that reliability and disagreement both approach certainty but at different conv",
+      "title": "Exploring K-12 Teachers' Perceptions of Students' Relationships with AI Companions: Boundaries, Intervention Strategies, and Design Implications",
+      "url": "https://arxiv.org/abs/2609.13479",
+      "summary": "arXiv:2609.13479v1 Announce Type: cross Abstract: K-12 students increasingly form relationships with AI companions. Schools face growing expectations to teach AI literacy, yet existing frameworks treat AI as a tool rather than a relationship, and little is known about how teachers understand and act on students' relational use of AI. We conducted scenario-based interviews with 33 US K-12 teachers. Teachers welcomed academic companions but worried that intimate companions remove the developmental friction through which students learn to sustain human relationships. Teachers drew the boundaries ",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AlgoRAG: Retrieval-Augmented Generation for Theoretical Computer Science Education -- A Comprehensive Evaluation Framework for Algorithm Analysis and Complexity Theory",
-      "url": "https://arxiv.org/abs/2609.14572",
-      "summary": "arXiv:2609.14572v1 Announce Type: new Abstract: Teaching abstract theoretical computer science (TCS) concepts such as algorithm analysis and complexity theory is challenging because students must handle formal proofs and asymptotic reasoning that conventional resources rarely explain in an adaptive, on-demand way. We present AlgoRAG, a specialized Retrieval-Augmented Generation (RAG) system that couples a large language model (LLM) with a curated, domain-specific knowledge base to address these challenges. The knowledge base integrates authoritative textbooks, 847 lecture slides, 312 practice ",
+      "title": "The Addictive Intimacy of AI: Understanding User Disengagement from AI Companions and Why Some Relationships with AI Become Difficult to Leave",
+      "url": "https://arxiv.org/abs/2609.13487",
+      "summary": "arXiv:2609.13487v1 Announce Type: cross Abstract: AI chatbots are increasingly used as sources of emotional support, on dedicated companion apps and general-purpose assistants alike, yet little is known about what happens when users try to leave. Combining a content analysis of Reddit posts about quitting or reducing use (N=2,782) with interviews with users who found leaving difficult (N=16), we show that disengagement sometimes is not a single decision but a recursive trajectory: triggers prompt users to question the relationship, attempts to leave collide with barriers, and some users cycle ",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "LLMs as Oracles: Reliance on LLMs for Subjective Personal Questions",
-      "url": "https://arxiv.org/abs/2609.14849",
-      "summary": "arXiv:2609.14849v1 Announce Type: new Abstract: We characterize how people are turning to LLMs as oracles: all-knowing authorities on subjective personal questions. Motivated by risks to users' autonomy and well-being, we develop a typology and LLM-based methods to measure this form of AI reliance at scale and understand how people are offloading judgment and decision-making to AI. Applying our typology to public usage data (68K prompts from WildChat and ThoughtTrace), we find that LLM-as-oracle use has increased over time (2023-2026) and is more prevalent among younger users. We further build",
+      "title": "How User-AI Mistreatment Occurs and Matters in Conversational Systems?",
+      "url": "https://arxiv.org/abs/2609.13579",
+      "summary": "arXiv:2609.13579v1 Announce Type: cross Abstract: Safety research often focuses on model-generated harms, but users may also direct hostility, coercion, and adversarial pressure at models. Understanding how and when that occurs is essential for accurately interpreting model behaviour, alignment drift, and real-world deployment risks. In this paper, we audit 777K English LMSYS-Chat-1M conversations with two independent detectors: an eight-category lexicon for hostility directed at the model, and the dataset's moderation signal; and show that they capture different, weakly overlapping phenomena.",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading",
-      "url": "https://arxiv.org/abs/2609.13155",
-      "summary": "arXiv:2609.13155v1 Announce Type: cross Abstract: Cognitive offloading is the use of external aids, such as notes, calculators, or search engines, to reduce mental effort. Large language models (LLMs) extend this to thinking itself, and by AI-associated cognitive offloading, I mean the pattern where a person routinely substitutes LLM output for their own reasoning, idea generation, learning, or communication. Recent empirical work reports associations between some patterns of LLM use and changes in critical thinking effort, neural engagement during assisted tasks, creative diversity, learning ",
+      "title": "Reconceptualizing Age Assurance as a Sociotechnical Problem: Connecting Evidence, Evaluation, Claims, and Decisions",
+      "url": "https://arxiv.org/abs/2609.13598",
+      "summary": "arXiv:2609.13598v1 Announce Type: cross Abstract: Age verification is often treated as a technical problem: can a system determine a child's age accurately? We argue this framing is too narrow. Age assurance becomes consequential when evidence is evaluated, translated into age-related claims, and used to decide whether a person can access, purchase, or belong. We review 85 publications on children's age assurance published from 2020 through February 2026. We find that shared terms such as age verification describe different processes. Age is represented as threshold eligibility or inferred est",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Warfare",
-      "url": "https://arxiv.org/abs/2609.13176",
-      "summary": "arXiv:2609.13176v1 Announce Type: cross Abstract: What happens when artificial intelligence is given the power to make life-and-death decisions? Is it ever desirable for a machine to decide if a human lives or dies, and if so, what types of restrictions should be placed around weapons capable of making these decisions? In the international law context, these types of weapons are known as ``lethal autonomous weapons systems''---weapons that, after being turned on, select and engage targets without human intervention. These weapons represent one of the many difficult areas that have been upended",
+      "title": "An Efficient and Modular Framework for Targeted Harm Mitigation in LLMS",
+      "url": "https://arxiv.org/abs/2609.13624",
+      "summary": "arXiv:2609.13624v1 Announce Type: cross Abstract: Large Language Models (LLMs) are powerful zero-shot learners but remain prone to misalignment with human preferences, often producing biased, toxic, or otherwise harmful outputs. Existing alignment methods, while effective, are costly and tightly coupled to the model, limiting flexibility and scalability. We propose a modular correction framework that augments pretrained LLMs with Activated LoRA (aLoRA) adapters and a context-aware routing mechanism to eliminate harms from misaligned model responses. Our approach enables expert adapters to acti",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Unease, Ambivalence, and Endured Disloyalty in Japanese Consumer Experiences with Dark Commercial Patterns",
-      "url": "https://arxiv.org/abs/2609.13177",
-      "summary": "arXiv:2609.13177v1 Announce Type: cross Abstract: Dark commercial patterns and deceptive user interface (UI) designs (or DPs) trick consumers into actions that benefit the shareholders. The legal and ethical implications of DPs are shaped by the sociocultural context. Special types of DPs exist in Japan, but the impact of these DPs on consumer attitudes and behaviour remains underexplored. We report on the first comparative mixed methods user study with Japanese consumers (N = 84), half of whom (n = 40) experienced a range of DPs---including the Japanese varieties---in a simulated e-commerce w",
+      "title": "From Network Inequality to Network Fairness: A Perspective on Responsible Decision-Making",
+      "url": "https://arxiv.org/abs/2609.13867",
+      "summary": "arXiv:2609.13867v1 Announce Type: cross Abstract: Social networks shape how individuals make decisions and how opportunities are distributed. However, the mechanisms that generate these networks often reflect pre-existing inequalities, and technologies that rely on network-derived signals risk further amplifying such disparities. Algorithmic fairness research largely treats networks as a fixed background, grounding analysis almost exclusively in distributive justice and overlooking how network structures systematically bias decision-making. In this Perspective, we identify ten network effects ",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Does Discussion Matter? Interaction Dynamics in Transparent Peer Review",
-      "url": "https://arxiv.org/abs/2609.13181",
-      "summary": "arXiv:2609.13181v1 Announce Type: cross Abstract: Open peer review is advocated as a way to make review more dialogic, yet evidence on whether it changes participant behavior remains scarce. We compare two transparent review designs: Nature Human Behaviour, an editor-mediated model, and International Conference on Learning Representations 2023, a discussion-based model. Treating cross-mentions, moments when one participant explicitly names another beyond the immediate dyad, as the analytic unit, we combine social network analysis of 56 NHB articles and 371 ICLR notable papers with qualitative ",
+      "title": "A Multi-Stage Agentic Framework for Effective Counter-Narrative Generation and Refinement",
+      "url": "https://arxiv.org/abs/2609.14178",
+      "summary": "arXiv:2609.14178v1 Announce Type: cross Abstract: The rapid diffusion of hate speech and misinformation on social networks challenges democratic societies, since direct suppression efforts may deepen polarization, fuel public distrusts, and strengthen extremist narratives. LLM-driven counter-narratives (CNs) offer a promising way to reduce those risks, yet their effectiveness depends on rhetorical and stylistic choices that remain poorly understood. We present a multi-stage agent-based framework for generating, refining, and evaluating CNs, applied to pro-Russian hate and misinformation narrat",
       "published": "2026-09-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
