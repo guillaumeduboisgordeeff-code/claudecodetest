@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-16",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Using Codebooks to Detect Cybercrime Topics in Text Narratives",
+      "url": "https://arxiv.org/abs/2609.16000",
+      "summary": "arXiv:2609.16000v1 Announce Type: new Abstract: In the United States, management of cybercrime-related consumer complaints increasingly falls on state and city governments given de-staffing of federal agencies. AI, and in particular, large language models (LLMs), shows promise for detecting cybercrime in text complaints, but often via specialized models that local governments are not resourced to develop and maintain. We present an LLM prompting method that uses codebooks from qualitative cybercrime research to detect cybercrime topics in consumer narratives. For two cybercrime topics, imposto",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Measuring AI harms with multidimensional Lorenz Zonoids",
+      "url": "https://arxiv.org/abs/2609.16004",
+      "summary": "arXiv:2609.16004v1 Announce Type: new Abstract: While AI systems increasingly shape high-stakes societal domains, their governance is limited by the lack of risk management methods that operate on real harms, taking their severity, and not only their likelihood, into account. As a consequence, AI risk management models remain compliance-driven and provider-centric, offering limited insight into how harms are dangerous, and on what should be the priority of intervention. The problem is amplified by the nature of harm data which are typically ordinal and multidimensional. To solve the problem, a",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Beyond Cultural Knowledge: Evaluating Arabic Cultural Appropriateness of Large Language Models",
+      "url": "https://arxiv.org/abs/2609.16006",
+      "summary": "arXiv:2609.16006v1 Announce Type: new Abstract: Large language models (LLMs) increasingly serve users whose expectations are shaped by their cultural context, yet most cultural evaluations test what a model knows rather than how it behaves when giving open-ended recommendations, opinions, and guidance. We introduce AraBehave: 1,623 culturally grounded, open-ended Arabic prompts with 29,214 cultural-appropriateness judgments from native speakers across several Arab regions, plus a scoring model whose predictions correlate strongly with human judgments on unseen systems (Pearson r=0.74). Evaluat",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI-Driven Feedback Systems, Digital Labour, and Silent Quitting: Transforming African Workplaces",
+      "url": "https://arxiv.org/abs/2609.16192",
+      "summary": "arXiv:2609.16192v1 Announce Type: new Abstract: The current trend of digitalisation has revolutionised the organisation of work and the way it is measured and performed across the globe, with AI becoming more common for managing labour and performance, as well as employee communication. In African organisations, where there is increasing adoption of remote work, hybrid models of work, digital collaboration, and data-based HR management, the notion of silent quitting has become more relevant, defined as worker disengagement when employees are still doing their job but do not put any effort into",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Mapping U.S. Federal AI Governance Against Sector Vulnerability",
+      "url": "https://arxiv.org/abs/2609.16260",
+      "summary": "arXiv:2609.16260v1 Announce Type: new Abstract: Artificial intelligence (AI) poses different levels of risk across sectors, but are these differences reflected in U.S. federal AI governance? To help answer this question, we assess 684 federal AI governance documents for their coverage of 14 sectors and 24 AI risks. We measure coverage as breadth (i.e., how frequently the risk or sector is addressed across documents) and depth (i.e., how substantively the risk or sector is discussed). We then compare sector coverage patterns for each of the 24 risks with vulnerability assessments from a Delphi ",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Do job seekers value procedure in AI hiring only for error correction? Evidence from a conjoint experiment",
+      "url": "https://arxiv.org/abs/2609.16390",
+      "summary": "arXiv:2609.16390v1 Announce Type: new Abstract: Employers increasingly delegate initial screening to automated systems, which in many cases reject an application before any human reads it. Acceptance of such systems plausibly depends both on how well they perform and on the procedure that produces the decision. Prior studies rarely vary procedure and performance independently, leaving it unclear whether applicants value procedure for its own sake or for the errors it corrects. In a preregistered paired-profile conjoint experiment, 1,919 United States job seekers made eight choices between syst",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Silicon sampling answers with country-level assumptions, not individual attitudes: Cross-national evidence from the European Social Survey",
+      "url": "https://arxiv.org/abs/2609.16395",
+      "summary": "arXiv:2609.16395v1 Announce Type: new Abstract: Silicon sampling uses large language models (LLMs) to simulate survey respondents. Whether it recovers cross-national variation, and why, remains unresolved. This study evaluates it against European Social Survey Round 11 (30 countries, 42 items) with two open-weight LLMs under first- and third-person prompts, plus backstory and response-format experiments. Aggregate recovery is moderate and uneven across items. Adding the country name to a three-variable demographic backstory raises the median per-item correlation between simulated and observed ",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Dataset repurposing and disruptive AI research",
+      "url": "https://arxiv.org/abs/2609.16736",
+      "summary": "arXiv:2609.16736v1 Announce Type: new Abstract: Technological advancements are enabling increasingly systematic and large-scale data collection across all areas of science, driving scientific innovation. In particular, AI research exemplifies this trend, having advanced rapidly through the assembly of massive datasets used to train and evaluate machine learning models. However, the escalating demand for data, the difficulty of creating high-quality datasets, and the exhaustion of easily accessible data sources in AI research raise important questions about how to maximize the value of existing",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI literacy over tool design: a mixed-methods study of scaffolded versus unrestricted generative AI in programming education",
+      "url": "https://arxiv.org/abs/2609.16784",
+      "summary": "arXiv:2609.16784v1 Announce Type: new Abstract: Generative AI has become a routine resource in programming education, and most institutional responses to it are attempts at control, either by restricting access or by offering students a controlled version of the technology. This paper reports a seven-week mixed-methods pilot study in a master's-level data analytics course, in which 33 students were randomly assigned either to a scaffolded AI Study Coach embedded in the notebook-based laboratory sessions or to unrestricted use of AI tools of their own choosing. The Coach offered stepwise hints,",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Finding Common Mistakes In Modelling With Mathematical Formalisms Using LLMs",
+      "url": "https://arxiv.org/abs/2609.17111",
+      "summary": "arXiv:2609.17111v1 Announce Type: new Abstract: Modelling with mathematical formalisms like logical formulas, mathematical equations, or regular expressions is an important yet challenging task for students of computer science and other STEM disciplines. Identifying common mistakes occurring in this context is an important step towards helping struggling students by providing targeted high-quality feedback, e.g. in interactive learning systems. We present a tool-supported workflow that allows to (1) identify candidates for common mistakes that explain many student mistakes in large educational",
+      "published": "2026-09-16T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
