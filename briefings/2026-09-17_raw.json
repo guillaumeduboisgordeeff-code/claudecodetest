@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-17",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "AI and Human Approaches to Mathematical Problem Solving",
+      "url": "https://arxiv.org/abs/2609.17779",
+      "summary": "arXiv:2609.17779v1 Announce Type: new Abstract: AI systems have begun to report solutions, disproofs, and substantive advances on long-standing mathematical problems, raising questions about whether they approach research in the same way as mathematicians. This study compares public AI research accounts with the human literature on 11 such problems. The human corpus contains 58 papers that directly addressed the same mathematical targets later reported by AI sources as resolved, disproved, or substantially advanced; 31 within-problem comparisons were constructed from these materials. Six valid",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Toward a Time-Aware Assessment Framework for the Carbon Cost of AI-Enabled Decarbonization",
+      "url": "https://arxiv.org/abs/2609.18029",
+      "summary": "arXiv:2609.18029v1 Announce Type: new Abstract: AI is increasingly used to support decarbonization decisions across the built environment, yet the development, training, and use of AI consume energy and induce CO2e emissions. However, existing assessments often report physical-system savings while omitting AI-side emissions. Moreover, they rarely account for the mismatch between when AI costs occur and when decarbonization benefits materialize, which may be substantial for infrastructure-scale projects. To address these issues, we present a time-aware assessment framework that models avoided e",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Understanding AI Provider Recommendations in Local Service Markets",
+      "url": "https://arxiv.org/abs/2609.18341",
+      "summary": "arXiv:2609.18341v1 Announce Type: new Abstract: When someone asks an AI assistant which doctor to see or which firm to trust with their savings, the answer is a referral. We audit AI provider recommendations in four registry-backed service domains across the 100 largest U.S. metropolitan areas, matching every recommendation against the official registry for its domain (Medicare clinician and facility records, and SEC adviser disclosures), under three conditions: an open-weight model, a proprietary model without web search, and the same proprietary model with search. Without search, both models",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "\"If I Had to Buy Just ONE: Galaxy S26 Ultra\": Auditing AI-Generated Product Recommendations",
+      "url": "https://arxiv.org/abs/2609.18729",
+      "summary": "arXiv:2609.18729v1 Announce Type: new Abstract: Consumers increasingly use AI chatbots for advice on what to buy. With companies like OpenAI and Google monetising their AI through advertising, this raises difficult questions about the bias and impartiality of such advice. In response, we conduct an AI audit of popular chatbots using real commercial-advice queries. First, we curate a dataset of 2,528 real commercial-advice queries (ConsumerQ). Then, we evaluate 1,536 responses to product queries from popular AI chatbots: ChatGPT (chatbot and API), Google Gemini (chatbot and API), and Google Sea",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Control-Theoretic Content Moderation",
+      "url": "https://arxiv.org/abs/2609.18822",
+      "summary": "arXiv:2609.18822v1 Announce Type: new Abstract: A sizable literature studies content moderation locally, at the level of individual moderation decisions, for example by measuring or predicting the effects of specific interventions. However, the problem of how such decisions should be combined into effective platform-level moderation strategies is comparatively unexplored. We address this latter problem by formulating content moderation as a global, adaptive, and sequential decision process in which heterogeneous interventions must jointly balance multiple competing objectives. Drawing on feedb",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Could Underwater Data Centers Pose a Risk to AI Treaty Verification?",
+      "url": "https://arxiv.org/abs/2609.18824",
+      "summary": "arXiv:2609.18824v1 Announce Type: new Abstract: Proposals for international agreements that limit frontier AI development depend on verification, and a central challenge is detecting undeclared compute facilities used to evade restrictions. Underwater data centers (UDCs) have been suggested as one such evasion vector, but their feasibility at frontier scale and their detectability have not been seriously assessed. We examine current UDC deployments, evaluate construction and maintenance complexity relative to land-based facilities, and analyse the feasibility of a 100,000 H100-equivalent train",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Prepared Or Unprepared? Evaluating Healthcare Workforce Readiness for Clinical Adoption of Artificial Intelligence in Nigeria",
+      "url": "https://arxiv.org/abs/2609.19096",
+      "summary": "arXiv:2609.19096v1 Announce Type: new Abstract: Artificial intelligence (AI) is increasingly integrated into healthcare systems worldwide, yet its successful clinical adoption depends critically on workforce readiness, particularly in low- and middle-income countries (LMICs) where infrastructural and training gaps persist. This cross-sectional study evaluated awareness, attitudes, preparedness, and barriers to AI adoption among 761 healthcare professionals across multiple disciplines and practice settings in Nigeria. Data were collected between December 2025 and March 2026 using a structured, ",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Register Bias in Complexity-Based Large Language Model Routing",
+      "url": "https://arxiv.org/abs/2609.17542",
+      "summary": "arXiv:2609.17542v1 Announce Type: cross Abstract: Large language model services increasingly route each query to one of several models of differing capability, using a cheap estimate of query complexity to send easy queries to small models and hard queries to large ones. I show that this routing step is not register neutral: text written in a non-standard English register, African American English or the English of second-language writers, is systematically assigned a lower-capacity tier than a meaning-equivalent standard-English version of the same query. The effect is driven by a specific, c",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Large Language Models Versus Physicians in Traditional Chinese Medicine: A Real-World Clinical Case Evaluation",
+      "url": "https://arxiv.org/abs/2609.17544",
+      "summary": "arXiv:2609.17544v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly being explored for clinical applications, yet their assessment for real-world traditional Chinese medicine (TCM) practice remains limited We constructed a clinical case library comprising 349 de-identified outpatient cases from 62 hospitals and evaluated 16 LLMs and a comparator cohort of 60 practicing TCM physicians using 60 representative cases selected from this library. Model outputs and physician reports were anonymized and scored by five senior TCM experts across nine diagnostic and therapeuti",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Do Social Patterns Hold in Synthetic Data? Analyzing Cyberbullying Dynamics in LLM-Generated and Authentic Dialogues",
+      "url": "https://arxiv.org/abs/2609.17549",
+      "summary": "arXiv:2609.17549v1 Announce Type: cross Abstract: Cyberbullying (CB) is a complex social phenomenon characterized by repeated aggression, power imbalance, and multi-party interaction. Although large language models (LLMs) are increasingly used to generate synthetic CB conversations for data augmentation and benchmarking, it remains unclear whether such data faithfully reproduces the social dynamics of authentic interactions beyond supporting downstream task performance. We present a comprehensive framework for evaluating the social realism of LLM-generated CB conversations. We compare authenti",
+      "published": "2026-09-17T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
