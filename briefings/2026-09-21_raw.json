@@ -1,83 +1,43 @@
 {
   "date": "2026-09-21",
-  "articles_count": 10,
+  "articles_count": 5,
   "articles": [
     {
-      "title": "Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership",
-      "url": "https://arxiv.org/abs/2609.21194",
-      "summary": "arXiv:2609.21194v1 Announce Type: new Abstract: Generative AI can improve students' programming performance, but successful task completion may not reflect what they retain. We examined performance, retention, cognitive load, and ownership in a controlled between-subjects experiment with 59 undergraduate computer science students, 55 were retained for analysis. Participants completed three introductory C programming tasks with access to ChatGPT-4.5 or conventional web search without generative AI. We measured task performance, self-reported mental effort and difficulty, pupillary responses, he",
+      "title": "Reducing Barriers to Academic Support: Evaluating a Course-Specific RAG System for Addressing Help-Seeking Disparities in Higher Education",
+      "url": "https://arxiv.org/abs/2609.21600",
+      "summary": "arXiv:2609.21600v1 Announce Type: cross Abstract: Access to academic support is a key determinant of student success, yet students experience it unequally: some readily seek help from lecturers or tutors, while others hesitate due to anxiety, fear of judgement, uncertainty about expectations, or low confidence in their understanding. This may be especially evident in computing education, where programming tasks are cumulative and cognitively demanding. Although students increasingly turn to general-purpose generative AI tools, these can produce responses that are inaccurate, insufficiently con",
       "published": "2026-09-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Open Platform Field Experiments: Expanding the Design Space of Experimental Research on Social Media",
-      "url": "https://arxiv.org/abs/2609.21608",
-      "summary": "arXiv:2609.21608v1 Announce Type: new Abstract: Despite a growing demand for causal evidence about social media, independent researchers remain severely constrained in their ability to conduct experiments directly on online platforms. To cope, multiple methodological workarounds have emerged - from controlled surveys and simulations to client-side overlays and platform partnerships - each requiring distinct trade-offs between desirable experimental properties. The recent emergence of open social media platforms offers a qualitatively different methodological opportunity. Here we propose a desi",
+      "title": "Steering LLMs Responses Towards Moral Foundations on the Norwegian MFQ-30",
+      "url": "https://arxiv.org/abs/2609.21636",
+      "summary": "arXiv:2609.21636v1 Announce Type: cross Abstract: Recent work applies human psychometric questionnaires to large language models to elicit moral and value profiles, but it is not clear whether these instruments measure anything stable in models or whether the resulting profiles can be moved toward a target human population. We administer the Norwegian Moral Foundations Questionnaire (MFQ-30) to six open-weight LLMs and compare their foundation profiles to a sample of N = 1,282 Norwegian respondents. We test two steering interventions, prompt-level persona steering and activation-level ActAdd. ",
       "published": "2026-09-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Artificial Intelligence as an Economic, Environmental, Geopolitical, and Social Transformation",
-      "url": "https://arxiv.org/abs/2609.21632",
-      "summary": "arXiv:2609.21632v1 Announce Type: new Abstract: The rapid development of artificial intelligence is often discussed primarily as a technological breakthrough. Such an approach is insufficient because AI is also transforming the allocation of capital, energy, natural resources, labour, and political power. Investment in generative AI and computing infrastructure is increasing rapidly and is increasingly concentrated among a small number of corporations and countries. At the same time, the expansion of data centres creates new electricity and water demands, potentially producing local infrastruc",
+      "title": "Moral Entropy: Auditing Bias and Uncertainty in Moral Judgment",
+      "url": "https://arxiv.org/abs/2609.21992",
+      "summary": "arXiv:2609.21992v1 Announce Type: cross Abstract: Most work in computational ethics treats annotator disagreement on moral content as noise to be voted away, collapsed into majority vote or the more permissive any-annotator rule the moment a single annotator flags an item. We argue this uncertainty should instead be modeled and learned from. We introduce Moral Entropy, a Bayesian framework that keeps a full posterior over the true label and decomposes its entropy into aleatoric uncertainty (irreducible disagreement about the moral content) and epistemic uncertainty (from insufficient or noisy ",
       "published": "2026-09-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When AI Enters the Workplace, Who Faces Greater Risks? A Gendered Analysis",
-      "url": "https://arxiv.org/abs/2609.21756",
-      "summary": "arXiv:2609.21756v1 Announce Type: new Abstract: Gender inequality remains a persistent structural feature of the labour market, shaping women's lifetime earnings and economic security. As artificial intelligence (AI) transforms organisational practices, there is growing concern that existing disparities may be unintentionally amplified through task automation, unequal access to upskilling opportunities, and differential returns obtained from technological change. In this paper, we examine how exposure to AI-driven innovation varies across male- and female-dominated occupations, with particular",
+      "title": "A Brief AI Literacy Intervention Does Not Significantly Reduce Over-Reliance and Increases Under-Reliance on ChatGPT: A Randomized Study",
+      "url": "https://arxiv.org/abs/2503.10556",
+      "summary": "arXiv:2503.10556v2 Announce Type: replace Abstract: In this study, we examined whether a brief AI literacy intervention influences high school students' reliance on recommendations from large language models (LLMs). In a randomized experiment, students were assigned to either a control group receiving a brief introduction to LLMs or an intervention group receiving additional information about how LLMs work, their limitations, and effective usage strategies. Participants then solved eight math puzzles with ChatGPT's advice, which was incorrect in half of the trials. Results indicated widespread",
       "published": "2026-09-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond the Desert Label: A Pathway Diagnostic for User-Centered Smart Mobility Service Design",
-      "url": "https://arxiv.org/abs/2609.21956",
-      "summary": "arXiv:2609.21956v1 Announce Type: new Abstract: Smart-city mobility platforms increasingly rely on spatial screening tools to identify neighborhoods where public transit fails dependent users, but a single transit desert label can mask very different user problems: localized mismatch between service and concentrated need, or basic absence of usable service. These call for different user-centered responses. This paper introduces a pathway-based, reproducible, data-driven diagnostic that distinguishes relative transit mismatch from minimum-service failure and reports the specific service attribu",
-      "published": "2026-09-21T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "From Papers to Interpretive Knowledge Nodes: Proposing the Missing Object in Scholarly Knowledge Circulation",
-      "url": "https://arxiv.org/abs/2609.20840",
-      "summary": "arXiv:2609.20840v1 Announce Type: cross Abstract: The modern scholarly communication system, with the paper at its core, has successfully solidified \"research outputs\" into citable and traceable scholarly objects. Yet, across the full chain from knowledge production to knowledge reuse, a critical link - interpretation - has long existed without ever being objectified. The theoretical elaborations, methodological translations, and conceptual clarifications that researchers perform when reading papers constitute the factual foundation of knowledge circulation. However, these interpretive activit",
-      "published": "2026-09-21T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Trustworthy FinAInce: Unpacking How AI-Mediated Financial Advice is Judged",
-      "url": "https://arxiv.org/abs/2609.20989",
-      "summary": "arXiv:2609.20989v1 Announce Type: cross Abstract: As generative AI is increasingly used as a source of personal financial guidance, understanding how people appraise such advice is important for supporting appropriate reliance. We conducted a randomized vignette experiment with 285 U.S. adults across eight financial decisions, independently varying three advice styles---AI, expert, and online community---and displayed source labels while holding the underlying recommendation consistent. Advice style most strongly shaped message and safety appraisals, Expert labels selectively increased perceiv",
-      "published": "2026-09-21T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Aligning with Lived Experience: Heterogeneous Benefits of Fine Tuning in Mental Health Support Generation",
-      "url": "https://arxiv.org/abs/2609.21075",
-      "summary": "arXiv:2609.21075v1 Announce Type: cross Abstract: As access to professional mental healthcare remains limited, many individuals turn to online platforms such as Reddit to seek peer support situated within human lived experience. However, a significant portion of such queries go unanswered, presenting an opportunity for using Large Language Models (LLMs) to fill this gap. While LLMs have demonstrated strong performance on clinical benchmarks, their ability to generate lived-experience informed and community-aligned peer support is underexplored. Addressing this gap, we introduce the COmmunity-c",
-      "published": "2026-09-21T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "AI-GRACE: A Use-Case Operationalization Framework for Agentic AI: From Organizational Objectives and Obligations to Deployment Capabilities and Architecture",
-      "url": "https://arxiv.org/abs/2609.21192",
-      "summary": "arXiv:2609.21192v1 Announce Type: cross Abstract: Organizations deploying agentic artificial intelligence must determine more than whether a model is trustworthy; they must establish what to validate, control, and observe for a use case to deliver its intended outcome while meeting applicable obligations. This paper proposes AI-GRACE (Agentic Intelligence-Governance, Risk, Assurance, Controls, and Evidence) as a use-case operationalization framework connecting organizational governance with technical implementation. The proposal draws on professional observations and a purposive synthesis of s",
-      "published": "2026-09-21T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "License Compliance in Open Source Cybersecurity Projects",
-      "url": "https://arxiv.org/abs/2609.21218",
-      "summary": "arXiv:2609.21218v1 Announce Type: cross Abstract: Developers of cybersecurity software often include and rely upon open source software packages in their commercial software products. Before open source code is absorbed into a proprietary product, developers must check the package license to see if the project is permissively licensed, thereby allowing for commercial-friendly inheritance and redistribution. However, there is a risk that the open source package license could be inaccurate due to being silently contaminated with restrictively licensed open source code that may prohibit the sale ",
+      "title": "Examining Community-Requested Fact-Checking: Request Alerts Are Associated with Greater Diversity and Visibility of Community Notes",
+      "url": "https://arxiv.org/abs/2604.17042",
+      "summary": "arXiv:2604.17042v2 Announce Type: replace Abstract: Crowdsourced fact-checking systems such as Community Notes are increasingly used on social media platforms, yet concerns remain about which content receives scrutiny and how visible that scrutiny is. X allows users to request notes for specific posts. When sufficient requests accumulate, an alert is displayed, creating an interface cue that may guide contributor behavior. We present a quantitative, non-causal analysis comparing the diversity and visibility of community notes written for X posts with and without request alerts. We infer alert ",
       "published": "2026-09-21T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
