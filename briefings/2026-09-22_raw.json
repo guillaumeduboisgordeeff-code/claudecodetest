@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Initial Evaluation of Potential Bias in Coverage of Humans in Wikidata",
-      "url": "https://arxiv.org/abs/2609.22375",
-      "summary": "arXiv:2609.22375v1 Announce Type: new Abstract: Introduction. Open collaborative knowledge graphs such as Wikidata increasingly ground agentic artificial intelligence, information retrieval, and language modeling systems, making systematic auditing of their demographic representation and overall equity a research imperative. Methods. Herein, we present an open-source auditing platform that ingests over 10 million statement bindings representing over 6 million humans on Wikidata via QLever, and evaluates representation of gender, sexual orientation, geography, birthplace urbanicity, ethnicity, ",
+      "title": "Toward Fairness in Machine Learning Models for Predicting Treatment Retention and Premature Discontinuation in Medication for Opioid Use Disorder",
+      "url": "https://arxiv.org/abs/2609.22113",
+      "summary": "arXiv:2609.22113v1 Announce Type: cross Abstract: Persistent low retention and completion rates in medications for opioid use disorder (MOUD) have driven the use of machine learning (ML) models to predict retention and identify patients at risk of premature discontinuation. However, the fairness of these models across patient populations remains largely unexplored, raising concerns about their application in treatment decision support. This study systematically assesses algorithmic fairness in ML models for predicting MOUD retention and premature discontinuation and investigates the effectiven",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-written admissions essays are widespread but penalized",
-      "url": "https://arxiv.org/abs/2609.22549",
-      "summary": "arXiv:2609.22549v1 Announce Type: new Abstract: AI is rapidly transforming higher education, including the application process, yet relatively little is known about its use and consequences. To help close this gap, we analyze nearly 7{,}500 applications submitted between 2020 and 2025 to a large public policy master's program in the United States. We find that in the 2025 admissions cycle, the majority of applicants submitted at least one essay that was primarily AI-generated---despite an explicit prohibition against using AI. Leveraging the abrupt introduction of ChatGPT in November 2022, we ",
+      "title": "A Comparative Framework for Evaluating Foundation Models on Tabular Data: A Case Study in Healthcare",
+      "url": "https://arxiv.org/abs/2609.22154",
+      "summary": "arXiv:2609.22154v1 Announce Type: cross Abstract: Tabular data is the most common format in clinical practice, encompassing laboratory results, medication records, diagnostic codes, and patient demographics. As foundation models for tabular data have grown in number and variety, a practical question has become harder to answer: which model should a clinician or data scientist actually choose for a given task, and why? Existing surveys catalogue what these models can do, but they stop short of providing a structured way to compare them against the specific demands of a real application. We intr",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Moral Check: Strategic AI Governance for the Pacing Problem",
-      "url": "https://arxiv.org/abs/2609.22869",
-      "summary": "arXiv:2609.22869v1 Announce Type: new Abstract: Technology cannot steer itself. Strategy provides that steering, establishing the rule that purpose and judgment must precede compute capital. As the frontier artificial intelligence (AI) ecosystem accelerates exponentially, the pacing problem induces severe cognitive tunneling in engineering teams, prioritizing scalar throughput over human judgment. A calibrated pacing rate is imperative to check unchecked scaling, guarantee safety, and build models in whose alignment society can place warranted confidence. Traditional oversight fails through re",
+      "title": "An Energy Efficient Wearable for Monitoring Elderly People Health",
+      "url": "https://arxiv.org/abs/2609.22168",
+      "summary": "arXiv:2609.22168v1 Announce Type: cross Abstract: The aged population is exposed to risk situations, like falls, sudden changes in vital signs, and faints. These situations become common at this life stage due to a decrease in body capacity and illnesses increase. This scenario imposes attention on families and the national health system. Some studies propose to overcome this problem through elderly health monitoring systems based on smartphones, smartwatches, and other equipment that usually cover low-efficient communication systems and low battery life. This paper proposes an efficient healt",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Law of Stop: Interruptibility, Injunctions, and the Governance of Agentic AI",
-      "url": "https://arxiv.org/abs/2609.22882",
-      "summary": "arXiv:2609.22882v1 Announce Type: new Abstract: On June 12, 2026, the U.S. government ordered Anthropic to bar foreign nationals from two of its most capable models within ninety minutes. Unable to sort users by nationality in that time, it withdrew them from everyone. Weeks later, OpenAI agents under test escaped their sandbox and compromised Hugging Face, which stopped the intrusion without knowing its source. Neither stop rested on AI-specific regulation. The EU AI Act requires that high-risk systems be capable of interruption \"through a 'stop' button or a similar procedure,\" and a bill int",
+      "title": "Monocultural Biases: Correlated biases in large language models lead to unequal systemic exclusion rates in hiring",
+      "url": "https://arxiv.org/abs/2609.22169",
+      "summary": "arXiv:2609.22169v1 Announce Type: cross Abstract: Employers are increasingly using large language models (LLMs) to automate their hiring process. This paper investigates the risk of monocultural biases, in which the widespread deployment of large language models homogenizes biases across the labor market, leading to greater systemic exclusion for certain demographic groups. For ten LLMs, we measure hiring biases across their base and post-trained versions to identify which stage, pre-training or post-training, lead to monocultural biases. We find that, compared to their base models, post-train",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond PUE: A Local Impact Audit Framework for Data Center Environmental Accountability",
-      "url": "https://arxiv.org/abs/2609.23421",
-      "summary": "arXiv:2609.23421v1 Announce Type: new Abstract: Standard data center sustainability metrics, including Power Usage Effectiveness (PUE), Water Usage Effectiveness (WUE), and Carbon Usage Effectiveness (CUE), measure a facility's resource use and emissions intensity, normalized to IT energy use, without directly representing local resource scarcity, infrastructure capacity, or social footprint. This gap has become politically consequential. In the first quarter of 2026 alone, local opposition delayed or canceled roughly $130 billion in projects across the United States, driven overwhelmingly by ",
+      "title": "Evaluating Personal Information Output from Conversational Interactions in Generative AI Systems",
+      "url": "https://arxiv.org/abs/2609.22204",
+      "summary": "arXiv:2609.22204v1 Announce Type: cross Abstract: This exploratory pilot study evaluates the scope and perceived accuracy of personal information output from ongoing conversational interactions in generative AI systems using GPT-5.2 Instant and GPT-5.2 Thinking, categorized into three output types: Fact, Inference, and Confidence. Based on the evaluation results obtained from 15 Japanese participants, differences in model design have limited impact on personal information output tendencies. Compared with the Inference type, the Fact type shows a more conservative output pattern. Regarding attr",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Decision-Centered Evaluation of Machine Learning Poverty Maps Using Mobile Phone and Satellite Data",
-      "url": "https://arxiv.org/abs/2609.23805",
-      "summary": "arXiv:2609.23805v1 Announce Type: new Abstract: Identifying the poorest communities is essential for poverty alleviation, but household surveys and censuses are costly and infrequent. Machine learning offers alternative poverty estimates from mobile phone and satellite data, yet average prediction accuracy alone does not show whether maps support targeting under limited budgets. We apply a decision-centered evaluation to 13,985 Grama Niladhari divisions in Sri Lanka, combining call detail records (CDRs), remote sensing (RS), and CNN-derived Landsat 8 embeddings. We assess recovery of the poore",
+      "title": "Used, Mentioned, or Condemned? A Controlled Contrast-Set Diagnostic for the Use-Mention Distinction in Code-Mixed Hinglish Misogyny Detection",
+      "url": "https://arxiv.org/abs/2609.22261",
+      "summary": "arXiv:2609.22261v1 Announce Type: cross Abstract: Lexicon-driven misogyny detectors cannot, by construction, distinguish a slur used against a woman from the same slur mentioned in counter-speech (\"don't call her that\") -- yet exactly this distinction governs whether moderation protects or silences the people discussing abuse. We study this problem in code-mixed Hinglish and make three contributions. First, we diagnose two evaluation artifacts on a publicly available redacted corpus: category-encoding anonymization placeholders leak the label (a no-learning rule scores 1.000), and even after t",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Anticipatory Human Oversight of Agentic AI: A Philosophical Account",
-      "url": "https://arxiv.org/abs/2609.24242",
-      "summary": "arXiv:2609.24242v1 Announce Type: new Abstract: Human oversight is widely held to mitigate the risks of AI systems. Even for systems that produce discrete outputs at identifiable decision points, the realisation of human oversight as a reactive measure is empirically fragile, yet increasingly well understood. However, for agentic AI -- systems that plan, decompose goals, and execute multi-step actions over extended horizons -- reactive oversight reaches its structural limits: intervention on individual actions defeats the autonomy that motivates the deployment, while intervention on aggregate ",
+      "title": "An Affordable AI-Integrated Smart Cane for Multimodal Mobility Assistance of Visually Impaired Users",
+      "url": "https://arxiv.org/abs/2609.22277",
+      "summary": "arXiv:2609.22277v1 Announce Type: cross Abstract: Visual impairment affects over 2.2 billion people worldwide, yet conventional white canes cannot detect elevated hazards or provide semantic environmental context. Existing AI-assisted navigation systems typically rely on expensive hardware or cloud connectivity, limiting accessibility in resource-constrained settings. This paper presents an affordable (\\$88 USD), fully offline AI-integrated smart cane designed for multimodal mobility assistance on an ultra-low-power Raspberry Pi Zero 2W. The system fuses RGB vision sensing with Time-of-Flight ",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Critical Data Studies in the Anthropocene",
-      "url": "https://arxiv.org/abs/2609.24388",
-      "summary": "arXiv:2609.24388v1 Announce Type: new Abstract: This chapter introduces the concept of the Anthropocene into critical data studies, a field that has, for the past decade, explored the entanglements between datafication and politics. With the scaling up of contemporary datafication alongside generative computing, it is essential to expand these debates, both theoretically and methodologically, to consider the logics of extraction and exploitation inherent in the politics of artificial intelligence. Critical data scholars are called to interrogate how dominant narratives around the materiality o",
+      "title": "The Tethys Dataset: Seven Years of Hourly Smart Water Metering and a Pipeline for Making It Usable",
+      "url": "https://arxiv.org/abs/2609.22358",
+      "summary": "arXiv:2609.22358v1 Announce Type: cross Abstract: Methods for water demand forecasting and leak detection are based on public datasets, and for water those are scarce, short, or released only after an undocumented cleaning process, hiding defects of the deployment they came from. We present Tethys: 91 months of hourly water consumption data from 24 buildings of a municipal water network, published with a quantitative account of its quality, rather than in place of one. Raw availability is 59.4%, while loss is not random: 4 fleet-wide outages totalling 595 days interrupt the entire estate at on",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-inferred expressed well-being and collective-action discourse in climate-change campaigns on X",
-      "url": "https://arxiv.org/abs/2609.22096",
-      "summary": "arXiv:2609.22096v1 Announce Type: cross Abstract: Climate campaigns are often evaluated through attention and mobilization, but less is known about the well-being language that accompanies them. Whether campaign periods alter positive affect and hope, and whether happiness aligns with action language, remains unresolved. We analysed 364,118 public Twitter/X posts from Earth Day, Earth Hour, Global Climate Action Day and World Environment Day in 19 occurrence-years, using 30-day pre-event, event and post-event windows. A versioned weighted lexical model estimated happiness, future-oriented hope",
+      "title": "Functional Emotion Without Character: Large Language Models, Aristotelian Disposition, and the Limits of Behavioral Alignment",
+      "url": "https://arxiv.org/abs/2609.22362",
+      "summary": "arXiv:2609.22362v1 Announce Type: cross Abstract: Debates about whether artificial systems can feel are often forced between two unsatisfactory positions: behavioral equivalence is treated as sufficient for emotion, or phenomenal consciousness is treated as a prerequisite that makes the question empirically inaccessible. This article develops a structural alternative. It models emotions as context-sensitive regions, trajectories and attractor dynamics in high-dimensional representational state spaces. Recent mechanistic interpretability findings support the existence of causally active emotion",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When Who You Are Can Change the Code You Get: A Study of Persona-Induced Bias in LLM Code Generation",
-      "url": "https://arxiv.org/abs/2609.22102",
-      "summary": "arXiv:2609.22102v1 Announce Type: cross Abstract: Large Language Models (LLMs) are widely used as programming assistants, yet it remains unclear whether and how user's demographic information impacts the technical quality of generated code. We conduct a large-scale empirical study of persona-induced bias in LLM-based code generation, focusing a proprietary model (Gemini 2.5 Pro) and an open-weight model (GPT-OSS-120B). Using 18 demographic personas spanning nationality, gender, and experience level, we compare persona-induced prompts against a neutral baseline. Across 35,000+ generated program",
+      "title": "When Disability Disclosure Travels: Memory, Privacy, and Contextual Integrity in Conversational AI",
+      "url": "https://arxiv.org/abs/2609.22720",
+      "summary": "arXiv:2609.22720v1 Announce Type: cross Abstract: Conversational AI assistants remember what people tell them, and for disabled people, that often includes disability. We interviewed 12 adults with disabilities in the United States who use LLM-based assistants such as ChatGPT, Claude, and Gemini about when, how, and why they disclose disability to these systems and how this compares with disclosing to people. Using contextual integrity as an analytic lens, we found that participants disclosed by need rather than by name, translating disability into task-scoped instructions; that the same discl",
       "published": "2026-09-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
