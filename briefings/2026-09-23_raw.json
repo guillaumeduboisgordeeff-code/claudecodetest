@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-23",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
+      "url": "https://arxiv.org/abs/2609.25186",
+      "summary": "arXiv:2609.25186v1 Announce Type: new Abstract: The rising global prevalence of mental health conditions, together with longstanding barriers in traditional healthcare, such as limited resources, high cost, stigma, and privacy concerns, has created an urgent need for accessible and scalable support. Large Language Models (LLMs) have emerged as a transformative technology with strong potential to democratize mental health support through advanced natural language understanding and generation. However, the rapidly expanding, fragmented body of work in this area lacks a coherent evolutionary narr",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Embedded Assessments for Frontier AI",
+      "url": "https://arxiv.org/abs/2609.25413",
+      "summary": "arXiv:2609.25413v1 Announce Type: new Abstract: Third-party evaluations for frontier AI have mostly tested models through external interfaces before deployment. But the risks from frontier AI models depend on how their developers use and govern them internally. Recently, CEOs of frontier AI companies have committed to hosting embedded assessments. These assessments would give independent evaluators employee-like access to a developer's internal systems, staff, and documentation. First, we argue that this can enable deeper and more flexible assessments of risks that depend on internal systems a",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation",
+      "url": "https://arxiv.org/abs/2609.25504",
+      "summary": "arXiv:2609.25504v1 Announce Type: new Abstract: Large language models can produce fluent prose from short prompts, but a direct interaction gives writers little access to the assumptions that shape a long narrative. We present Incipit, an implemented research prototype that inserts an explicit planning layer between writer intent and generated prose. The layer is grounded in literary axioms, which are curated and reusable propositions about human experience and narrative craft. The prototype connects a knowledge base of 1455 axioms and 472 typed relationships to a five round direction dialogue",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence",
+      "url": "https://arxiv.org/abs/2609.25790",
+      "summary": "arXiv:2609.25790v1 Announce Type: new Abstract: This study aimed to automate hierarchical diagnostic reasoning (HDR), a constructive method for evaluating practical judgment skills, by developing and testing an evaluation process using a large language model. HDR is a descriptive task that measures higher-order cognitive skills by requiring students to identify and explain errors in case-study-based problems. However, it requires expertise and effort to develop and evaluate. Hence, we proposed and empirically validated the automatic (1) generation of case problems containing errors aligned wit",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Reciprocal Collaboration: how lessons from convergence in GLAMs can enhance interdisciplinary AI research",
+      "url": "https://arxiv.org/abs/2609.26023",
+      "summary": "arXiv:2609.26023v1 Announce Type: new Abstract: The need for collaboration between diverse fields of research is increasingly recognised as important by research funding agencies. A significant driver of this need is the current revolution in artificial intelligence (AI) and related technologies. There is a growing interest in the potential impact of AI in different fields including the methodologies they use and the resulting advances in new knowledge, new access and enhanced productivity. However, there is also a corresponding increase in concern about the fundamentals of AI technologies and",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Observing the Conduct of Systematic Reviews with Generative AI Support: An Experience Report from a Graduate Software Engineering Course",
+      "url": "https://arxiv.org/abs/2609.26057",
+      "summary": "arXiv:2609.26057v1 Announce Type: new Abstract: Context: Secondary studies are fundamental practices in Evidence- Based Software Engineering, but teaching them requires activities that expose students to authentic methodological decisions. Objective: This paper reports an experience in a graduate course in which ten doctoral students in Software Engineering, organized into three groups, piloted secondary studies with and without support from generative AI. Method: A single-day classroom session was organized and observed, in which the groups conducted pilot systematic reviews with and without ",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Instructional Governance by Design: A Framework for AI in Computing Education",
+      "url": "https://arxiv.org/abs/2609.26098",
+      "summary": "arXiv:2609.26098v1 Announce Type: new Abstract: As generative AI permeates computing instruction, the emergent design challenge is to configure each tool's pedagogical role, authority, and accountability for the instructional work it performs. We argue for instructional governance by design: governance should be encoded in a teaching tool's interaction model, constraints, and workflow. We introduce a multidimensional framework that characterizes AI teaching tools through (1) pedagogical grounding, (2) AI instructional authority, (3) human accountability and control, (4) learner agency and cogn",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Removing the Competition from Introductory Competitive Programming: A Backward-Designed, Mastery-Oriented Curriculum Sequence",
+      "url": "https://arxiv.org/abs/2609.26139",
+      "summary": "arXiv:2609.26139v1 Announce Type: new Abstract: Competitive programming courses often inherit the visible features of programming contests -- timed rounds, rankings, penalty systems, and topic lists -- before articulating what novices should learn. This curriculum design case argues that competitive programming tasks and competitive performance are related but distinct educational objects. Introductory courses should first develop algorithmic problem-solving competence: recognizing problem structure, selecting and combining paradigms, decomposing tasks, analyzing complexity, implementing and d",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Click, Branch, Audit: A Decision-Tree Toolkit for Assessing Fundamental Rights Impacts under the Digital Services Act of Very Large Platforms & Search Engines",
+      "url": "https://arxiv.org/abs/2609.26353",
+      "summary": "arXiv:2609.26353v1 Announce Type: new Abstract: The EU Digital Services Act (DSA) requires Very Large Online Platforms and Search Engines (VLOPs/VLOSEs) to assess and mitigate systemic risks, including actual or foreseeable negative effects on fundamental rights, and subjects these assessments to independent audit. Yet how such rights-relevant risks should be identified, assessed, evidenced, and documented remains methodologically under-specified. We address this gap by introducing a decision-tree-based toolkit that operationalizes Article 34(1)(b) DSA and related audit requirements into a str",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Ethics of Artificial Intelligence in Military Operations",
+      "url": "https://arxiv.org/abs/2609.26507",
+      "summary": "arXiv:2609.26507v1 Announce Type: new Abstract: Deep learning systems now mediate military decisions to use force, yet their internal logic resists inspection, their evaluation practices are gameable, and their deployment fractures accountability across dispersed stakeholders. The ethical challenge posed by these systems is fundamentally epistemic: not just whether autonomous weapons should be permitted to kill, but whether the conditions for responsible human judgment can survive when critical functions are delegated to opaque algorithms. We show that this epistemic condition produces a concr",
+      "published": "2026-09-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
