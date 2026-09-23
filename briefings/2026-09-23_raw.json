@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health",
-      "url": "https://arxiv.org/abs/2609.25186",
-      "summary": "arXiv:2609.25186v1 Announce Type: new Abstract: The rising global prevalence of mental health conditions, together with longstanding barriers in traditional healthcare, such as limited resources, high cost, stigma, and privacy concerns, has created an urgent need for accessible and scalable support. Large Language Models (LLMs) have emerged as a transformative technology with strong potential to democratize mental health support through advanced natural language understanding and generation. However, the rapidly expanding, fragmented body of work in this area lacks a coherent evolutionary narr",
+      "title": "The Disciplinary Language Transfer Problem: How Psychological Vocabulary Produces Governance Failures in AI Agent Deployment",
+      "url": "https://arxiv.org/abs/2609.26562",
+      "summary": "arXiv:2609.26562v1 Announce Type: new Abstract: The vocabulary used to describe AI agents in governance contexts -- learning, memory, values, compliance, identity, trust -- is borrowed from psychological and organizational science, contributing to systematic failures in how organizations deploy, oversee, and hold agents accountable. This paper argues that the problem is not merely terminological but epistemological: psychological vocabulary carries an \"invisible grammar\" of its home discipline into governance discourse, calibrating frameworks to a metaphysical entity that does not exist in cur",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Embedded Assessments for Frontier AI",
-      "url": "https://arxiv.org/abs/2609.25413",
-      "summary": "arXiv:2609.25413v1 Announce Type: new Abstract: Third-party evaluations for frontier AI have mostly tested models through external interfaces before deployment. But the risks from frontier AI models depend on how their developers use and govern them internally. Recently, CEOs of frontier AI companies have committed to hosting embedded assessments. These assessments would give independent evaluators employee-like access to a developer's internal systems, staff, and documentation. First, we argue that this can enable deeper and more flexible assessments of risks that depend on internal systems a",
+      "title": "Do Synthetic Personas Predict Real Audience Response? A Sim-to-Real Study Where a No-Persona Baseline Beats Persona-Based Copy Simulation",
+      "url": "https://arxiv.org/abs/2609.25010",
+      "summary": "arXiv:2609.25010v1 Announce Type: cross Abstract: Marketers increasingly use large language models (LLMs) as \"synthetic personas\" to predict how an audience will react to a piece of copy before it ships, encouraged by evidence that profile-conditioned LLMs mimic human samples. But is that prediction actually valid against real behaviour - and does the persona machinery help? We present a sim-to-real validity study using the Upworthy Research Archive - thousands of headline A/B tests on shared real traffic, with measured click-through - as held-out ground truth. We compare a ten-persona panel, ",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Incipit: Axiom-Grounded Scaffolding for Human-AI Literary Creation",
-      "url": "https://arxiv.org/abs/2609.25504",
-      "summary": "arXiv:2609.25504v1 Announce Type: new Abstract: Large language models can produce fluent prose from short prompts, but a direct interaction gives writers little access to the assumptions that shape a long narrative. We present Incipit, an implemented research prototype that inserts an explicit planning layer between writer intent and generated prose. The layer is grounded in literary axioms, which are curated and reusable propositions about human experience and narrative craft. The prototype connects a knowledge base of 1455 axioms and 472 typed relationships to a five round direction dialogue",
+      "title": "Can Large Language Model-Generated Responses Support Assessment Development? A Human-Calibrated Rasch Benchmark",
+      "url": "https://arxiv.org/abs/2609.25059",
+      "summary": "arXiv:2609.25059v1 Announce Type: cross Abstract: Large language models (LLMs) are proposed as synthetic respondents for pilot testing, but their usefulness depends on whether they supply the evidence assessment development requires. We calibrated rating scale models on 14 digital-use skill items from 6,245 adults and used the human item parameters to evaluate responses generated for 1,300 demographically matched personas. LLM responses had high internal consistency ($\\alpha \\approx .94$) but used the lowest category in 0.2-0.3% of responses versus 13.7-21.5% for humans, and no persona chose i",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Automating Constructive Assessment with Large Language Models: Toward Scalable and Repeated Evaluation of Practical Competence",
-      "url": "https://arxiv.org/abs/2609.25790",
-      "summary": "arXiv:2609.25790v1 Announce Type: new Abstract: This study aimed to automate hierarchical diagnostic reasoning (HDR), a constructive method for evaluating practical judgment skills, by developing and testing an evaluation process using a large language model. HDR is a descriptive task that measures higher-order cognitive skills by requiring students to identify and explain errors in case-study-based problems. However, it requires expertise and effort to develop and evaluate. Hence, we proposed and empirically validated the automatic (1) generation of case problems containing errors aligned wit",
+      "title": "Understanding Reliability in LLM-based Human Behavior Simulation",
+      "url": "https://arxiv.org/abs/2609.25066",
+      "summary": "arXiv:2609.25066v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to simulate human survey responses and behavioral reactions, yet unreliable simulations can mislead social science conclusions. However, existing evaluations focus on end-to-end scores, leaving it unclear how different aspects of the simulation process interact to determine reliability. We propose ReliMap, which decomposes LLM-based human behavior simulation into three structured layers and evaluates reliability at both the individual level (R1) and population level (R2) across three configurat",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Reciprocal Collaboration: how lessons from convergence in GLAMs can enhance interdisciplinary AI research",
-      "url": "https://arxiv.org/abs/2609.26023",
-      "summary": "arXiv:2609.26023v1 Announce Type: new Abstract: The need for collaboration between diverse fields of research is increasingly recognised as important by research funding agencies. A significant driver of this need is the current revolution in artificial intelligence (AI) and related technologies. There is a growing interest in the potential impact of AI in different fields including the methodologies they use and the resulting advances in new knowledge, new access and enhanced productivity. However, there is also a corresponding increase in concern about the fundamentals of AI technologies and",
+      "title": "Indirect tipping: a social attack surface in AI agent populations",
+      "url": "https://arxiv.org/abs/2609.25194",
+      "summary": "arXiv:2609.25194v1 Announce Type: cross Abstract: As generative AI agents are deployed at scale, safety will depend not only on technical safeguards and individual model design, but also on collective equilibria that determine how agent populations process information, prioritize actions, and respond to uncertainty. Yet the same equilibria that enable agents to coordinate also create a social attack surface. The standard framework to assess this vulnerability is critical mass dynamics: the minimum fraction of adversarial agents required to overturn an equilibrium through direct competition. He",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Observing the Conduct of Systematic Reviews with Generative AI Support: An Experience Report from a Graduate Software Engineering Course",
-      "url": "https://arxiv.org/abs/2609.26057",
-      "summary": "arXiv:2609.26057v1 Announce Type: new Abstract: Context: Secondary studies are fundamental practices in Evidence- Based Software Engineering, but teaching them requires activities that expose students to authentic methodological decisions. Objective: This paper reports an experience in a graduate course in which ten doctoral students in Software Engineering, organized into three groups, piloted secondary studies with and without support from generative AI. Method: A single-day classroom session was organized and observed, in which the groups conducted pilot systematic reviews with and without ",
+      "title": "Tipping Points in LLM-Based Multi-Agent Systems: Stance on Climate Change Action",
+      "url": "https://arxiv.org/abs/2609.25432",
+      "summary": "arXiv:2609.25432v1 Announce Type: cross Abstract: Because significant action to counter global warming requires massive public support, it is important to understand the dynamics of public opinion on climate issues. Of special interest are social tipping points, as revealed by large-scale effects of small perturbations in individual behaviors. Agent-based models (ABM) are an effective computational tool for studying these matters, because they allow controlled and systematic exploration of the effects of interventions that may be infeasible in real-world social systems. Large language models (",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Instructional Governance by Design: A Framework for AI in Computing Education",
-      "url": "https://arxiv.org/abs/2609.26098",
-      "summary": "arXiv:2609.26098v1 Announce Type: new Abstract: As generative AI permeates computing instruction, the emergent design challenge is to configure each tool's pedagogical role, authority, and accountability for the instructional work it performs. We argue for instructional governance by design: governance should be encoded in a teaching tool's interaction model, constraints, and workflow. We introduce a multidimensional framework that characterizes AI teaching tools through (1) pedagogical grounding, (2) AI instructional authority, (3) human accountability and control, (4) learner agency and cogn",
+      "title": "Data center cooling choices shift water impacts across the grid: An integrated water-energy model for sustainable data center development",
+      "url": "https://arxiv.org/abs/2609.25437",
+      "summary": "arXiv:2609.25437v1 Announce Type: cross Abstract: Data centers are being developed at an unprecedented pace, yet their energy and water impacts, and the spatial and temporal distribution of these impacts, remain poorly characterized. Data centers consume water for cooling (direct) and through electricity generation (indirect). Decisions on siting and cooling technology result in water-energy trade-offs that extend impacts beyond the facility's location. Existing assessment frameworks rely on facility efficiency metrics and average grid water intensity factors, suppressing the temporal impacts ",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Removing the Competition from Introductory Competitive Programming: A Backward-Designed, Mastery-Oriented Curriculum Sequence",
-      "url": "https://arxiv.org/abs/2609.26139",
-      "summary": "arXiv:2609.26139v1 Announce Type: new Abstract: Competitive programming courses often inherit the visible features of programming contests -- timed rounds, rankings, penalty systems, and topic lists -- before articulating what novices should learn. This curriculum design case argues that competitive programming tasks and competitive performance are related but distinct educational objects. Introductory courses should first develop algorithmic problem-solving competence: recognizing problem structure, selecting and combining paradigms, decomposing tasks, analyzing complexity, implementing and d",
+      "title": "Towards participatory speech dataset curation: A queer case study and conceptual framework",
+      "url": "https://arxiv.org/abs/2609.25496",
+      "summary": "arXiv:2609.25496v1 Announce Type: cross Abstract: In this paper, we motivate the need for a participatory speech dataset creation framework through a case study of the LGBTQIA+, or queer, community - a community with documented concerns about AI and reported harms, including attempts to develop 'gaydar' technologies that purportedly identify individuals as queer. We review common speech data collection practices, why these methods may be unsuitable for engaging with queer speakers, and discuss previous efforts in participatory AI with queer community engagement, as well as participatory endeav",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Click, Branch, Audit: A Decision-Tree Toolkit for Assessing Fundamental Rights Impacts under the Digital Services Act of Very Large Platforms & Search Engines",
-      "url": "https://arxiv.org/abs/2609.26353",
-      "summary": "arXiv:2609.26353v1 Announce Type: new Abstract: The EU Digital Services Act (DSA) requires Very Large Online Platforms and Search Engines (VLOPs/VLOSEs) to assess and mitigate systemic risks, including actual or foreseeable negative effects on fundamental rights, and subjects these assessments to independent audit. Yet how such rights-relevant risks should be identified, assessed, evidenced, and documented remains methodologically under-specified. We address this gap by introducing a decision-tree-based toolkit that operationalizes Article 34(1)(b) DSA and related audit requirements into a str",
+      "title": "Beyond Provenance: The Economics and Governance of Personalized AI Memory",
+      "url": "https://arxiv.org/abs/2609.25521",
+      "summary": "arXiv:2609.25521v1 Announce Type: cross Abstract: Personalized AI memories, defined as persistent decision-relevant states distilled by platforms from long-run human-AI interaction, are increasingly portable, provenance-certifiable, and tradable. Provenance answers the question of origin, but it does not settle who holds which rights over a memory, nor how wider deployment affects its future supply. We develop a unified model in which memory use is non-rival, while refresh, the maintenance of continued validity, is relationally co-produced by the represented individual and the platform. Even a",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Ethics of Artificial Intelligence in Military Operations",
-      "url": "https://arxiv.org/abs/2609.26507",
-      "summary": "arXiv:2609.26507v1 Announce Type: new Abstract: Deep learning systems now mediate military decisions to use force, yet their internal logic resists inspection, their evaluation practices are gameable, and their deployment fractures accountability across dispersed stakeholders. The ethical challenge posed by these systems is fundamentally epistemic: not just whether autonomous weapons should be permitted to kill, but whether the conditions for responsible human judgment can survive when critical functions are delegated to opaque algorithms. We show that this epistemic condition produces a concr",
+      "title": "When the Strike Zone Becomes Algorithmic: Umpire Judgment and Player Challenge Decisions under AI Review",
+      "url": "https://arxiv.org/abs/2609.25525",
+      "summary": "arXiv:2609.25525v1 Announce Type: cross Abstract: The Automated Ball-Strike challenge system that Major League Baseball adopted in 2026 offers a distinctive setting for studying human AI interaction in which umpires make every ball and strike call, while players can selectively ask an automated system to publicly overturn those decisions. We analyze 4,114,256 called pitches from 2015 through 2026 and 8,447 challenges from the 2026 season to examine how algorithmic review reshapes umpire judgment and player behavior. We study where umpires placed the effective strike zone boundary, how consiste",
       "published": "2026-09-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
