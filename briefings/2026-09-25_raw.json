@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "A Vision-Language Framework for Measuring Social Life on Sidewalks",
-      "url": "https://arxiv.org/abs/2609.28476",
-      "summary": "arXiv:2609.28476v1 Announce Type: new Abstract: While a number of methods exist for counting pedestrians in street-view imagery, these mostly ignore the social dimensions of pedestrian activity. A street traversed by a high volume of pedestrians has the same headcount as a street where people linger, sit, and socialize. This paper presents a vision-language framework for extracting social indicators from street-level imagery. Panoramic street-level imagery is reprojected to sidewalk-facing sideviews with preserved timestamps. A vision-language model (VLM)-based activity detection system codes ",
+      "title": "Political Sorting Can Drive AI Models Apart Through User Feedback",
+      "url": "https://arxiv.org/abs/2609.28486",
+      "summary": "arXiv:2609.28486v1 Announce Type: new Abstract: Large language models are rapidly becoming an important source of political information. This raises a fundamental question: will AI systems support a shared basis for political knowledge, or lead different political groups to rely on increasingly different models? Political sorting can drive model fragmentation if three conditions hold: politically different users select into different models, learning from user feedback pushes those models apart politically, and the resulting differences shape subsequent model choices. We call this self-reinfor",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Prediction to Explainable Provider Behavior Profiles for Fraud, Waste, and Abuse Review",
-      "url": "https://arxiv.org/abs/2609.28477",
-      "summary": "arXiv:2609.28477v1 Announce Type: new Abstract: Claims data can show that provider behavior changed but cannot by itself explain why. FWA (fraud, waste, and abuse) review requires identifying material behavior, locating the codes and dollars driving it, and testing plausible explanations. A common alternative, predictive modeling, flags deviations from an expected-utilization forecast -- but a forecast has limited value unless it beats simple persistence and explains why a deviation matters. In our quarterly provider-procedure data, the latest observation captures most forecastable variation, ",
+      "title": "Towards a Platform for Mastering Personal Sovereignty",
+      "url": "https://arxiv.org/abs/2609.28736",
+      "summary": "arXiv:2609.28736v1 Announce Type: new Abstract: The ongoing digital transformation of work, administration, health, mobility, and social interaction is profoundly reshaping everyday life, steadily shifting control from individuals to large platform providers. Although data is often labeled the \"gold of the 21st century\", its real value is realized through services that access, combine, and exploit it. Today, individuals have little sovereignty: life events (e.g., changing an address, insurance, job, or marital status) require fragmented, repetitive interactions across numerous systems, leaving",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI",
-      "url": "https://arxiv.org/abs/2609.28478",
-      "summary": "arXiv:2609.28478v1 Announce Type: new Abstract: MagicSchool's K-12 AI product suite is used by millions of teachers and serves millions of teacher and student messages each month. Our team monitors output along four priority dimensions--student safety, tone and instructional role, pedagogical value, and structural output quality--and tracks how often it fails on each. As our program matured, false positives came to dominate the evaluators' flags, misdirecting scarce analyst attention away from failures that warrant product change. To address this, we deployed three enhancements--unanimous-fail",
+      "title": "AI-Enabled Human Memory Manipulation: Misleading AI-Generated Summaries Distort Human Memory",
+      "url": "https://arxiv.org/abs/2609.28820",
+      "summary": "arXiv:2609.28820v1 Announce Type: new Abstract: AI-generated summaries are increasingly used in high-stakes settings, like policing, despite considerable evidence that AI often generates misleading or inaccurate information. This research asked: do errors in AI-generated summaries distort human memory? To answer this question, we adopted two methodological approaches. First, we conducted an analysis of AI summary output, prompting large language models to generate summaries of videos. This analysis quantified how often AI summaries contain errors and the categories of these errors, revealing t",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Domestic Unprotected Zone: Algorithmic Governance and the Reproduction of Perpetrator Discourse in Conversational AI",
-      "url": "https://arxiv.org/abs/2609.28479",
-      "summary": "arXiv:2609.28479v1 Announce Type: new Abstract: Conversational AI increasingly mediates intimate-partner communication, and refusal logic at the inference layer now functions as a governance threshold for gendered harm. This article asks whether such systems reproduce discursive forms historically tied to the privatization of intimate violence. A three-stage audit of six widely accessible conversational AI systems compares refusal behaviour across 1,600 crossed prompts per system, isolates relational framing through 300 matched prompt pairs, and contrasts pre-submission framing with post-outpu",
+      "title": "Digital Medicines Information at National Scale: Search Behaviour and System Performance of MediVerify Across 1.5 Million Queries",
+      "url": "https://arxiv.org/abs/2609.28946",
+      "summary": "arXiv:2609.28946v1 Announce Type: new Abstract: National-scale digital health platforms generate usage data that reveal population healthcare needs. MediVerify, Sri Lanka's online medicines information platform providing access to National Medicines Regulatory Authority (NMRA)-approved medicines, recorded over 1.49 million queries in its first year. Large-scale medicine search behaviour in low- and middle-income countries (LMICs) remains poorly characterised. Objectives: To characterise medicine information-seeking behaviour, identify mismatches between public demand and essential medicines po",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "RADAR: Readiness for AI Discovery and Agentic Reach",
-      "url": "https://arxiv.org/abs/2609.28480",
-      "summary": "arXiv:2609.28480v1 Announce Type: new Abstract: Governments increasingly meet citizens through an AI system rather than a website. RADAR (Readiness for AI Discovery and Agentic Reach) measures whether that system works, across 166 countries and on two tasks: whether a chatbot can give a correct, officially sourced, country-specific answer about a public service (informational legibility), and whether an automated agent can reach the service to act on it (agent operability). The central finding is that AI can describe public services far better than it can reach them. In every one of the 166 co",
+      "title": "AI-Moderated Interviews for Market Research and Digital Twins Calibration",
+      "url": "https://arxiv.org/abs/2609.29143",
+      "summary": "arXiv:2609.29143v1 Announce Type: new Abstract: AI-moderated interviews are emerging as a scalable market-research method for generating consumer insights and building consumer \"digital twins.\" Yet it remains unclear whether they match human-moderated interviews or improve on simpler, static data collection methods. In a pre-registered, between-subjects study (N = 317) with three industry partners, we compare AI-moderated (N = 139), human-moderated (N = 24), and static interviews (N = 154). AI moderation matches human moderation in depth, covers more themes, and, holding budget constant, recov",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Drafter: A Python Library for Full-Stack Web Development in CS1",
-      "url": "https://arxiv.org/abs/2609.28481",
-      "summary": "arXiv:2609.28481v1 Announce Type: new Abstract: Web applications are increasingly the main way to create user interfaces, and they are often the most common software beginners have encountered. However, web development relies on concepts like HTML, CSS, JavaScript, and backend technologies, which are challenges beyond the scope of an introductory course. Additionally, many features of modern web frameworks conflict with CS1 principles, such as avoiding global mutable state and promoting test-driven development. Consequently, web development is rarely integrated into CS1 courses, despite its mo",
+      "title": "Signed Exposure: Fair Routing of Algorithmic Attention When Attention Can Harm",
+      "url": "https://arxiv.org/abs/2609.29513",
+      "summary": "arXiv:2609.29513v1 Announce Type: new Abstract: Fairness-of-exposure treats algorithmic attention as a good to be distributed equitably. But when an autonomous agent initiates contact, attention is signed: it delivers value to a willing receiver and imposes a burden on an unwilling one. We formalize routing under signed exposure and show that a fair distribution of attention need not be a fair distribution of unwanted attention. Our central result is an incompatibility: within signed-exposure routing, exposure parity (equal contact rates across groups) and burden parity (equal unwanted-contact",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Unsnarling the Red Tape: Computational Infrastructure for Regulatory Systems",
-      "url": "https://arxiv.org/abs/2609.28482",
-      "summary": "arXiv:2609.28482v1 Announce Type: new Abstract: Regulatory complexity is increasingly recognized as an impediment to innovation, institutional responsiveness, and long-run economic growth, with regulatory accumulation estimated to reduce the U.S. GDP growth rate by nearly a full percentage point annually. This paper argues that computational approaches--including knowledge representation, artificial intelligence, natural-language processing, and cryptography--can help reduce forms of regulatory \"red tape\" by improving efficiency, transparency, and institutional responsiveness. We develop a fra",
+      "title": "Beloved Afterlives: Governing AI Resurrection Beyond Consent",
+      "url": "https://arxiv.org/abs/2609.29544",
+      "summary": "arXiv:2609.29544v1 Announce Type: new Abstract: AI resurrection is often framed as a question of consent: did the represented person authorize being made to speak? That question matters, but it freezes authority at the moment of creation. A representation can later change models, pass to relatives, depend on a provider, incorporate records shared with others, or circulate far beyond its intended audience. We argue that the central governance problem is therefore not whether authorization exists once, but whether it remains legible as the representation moves. Across a public-record audit of 93",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Generative AI May Reinforce Social Biases in Software Engineering Education",
-      "url": "https://arxiv.org/abs/2609.28483",
-      "summary": "arXiv:2609.28483v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) is increasingly being deployed across a wide range of real-world applications. Without careful evaluation, reliance on these systems can have unintended consequences, such as reinforcement of stereotypes and amplification of social biases. Such risks are particularly important in educational settings, where early decisions can shape students' interests, opportunities, and career trajectories. In this paper, we investigate how GenAI use by software engineering instructors may inadvertently reinforce softw",
+      "title": "When Agents Act Unwatched: The Reduced-Supervision Paradox in Agentic AI",
+      "url": "https://arxiv.org/abs/2609.29547",
+      "summary": "arXiv:2609.29547v1 Announce Type: new Abstract: Agentic AI is sold on a simple promise: the system keeps acting when the user stops watching. That promise creates an accountability inversion. As stepwise supervision recedes, verification does not disappear; it moves into the runtime infrastructure that defines authority, records action, interrupts execution, checks outcomes, and supports repair. We call this the reduced-supervision paradox. Using a 63-artifact audit, we examine its public visibility across 46 research papers and 17 engineering, documentation, security, and governance sources. ",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Measuring the Professional Educational Competence of Foundation Models",
-      "url": "https://arxiv.org/abs/2609.28484",
-      "summary": "arXiv:2609.28484v1 Announce Type: new Abstract: Foundation models tutor, assess, and instruct at population scale, requiring externally defined measures of educational competence. Existing benchmarks emphasize difficult academic problems or isolated synthetic educational tasks rather than authentic teacher-entry standards. We introduce EDU 1.0 (Educational Due Diligence for Foundation Models), which uses teacher-entry assessments as proxies for educational competence rather than substitutes for human qualification. EDU 1.0 comprises 10,012 questions from teacher certification and recruitment e",
+      "title": "Mapping the Authorized Boundary: A Comparative Policy-Vignette Study of Generative AI Governance in Australian Higher Education",
+      "url": "https://arxiv.org/abs/2609.29689",
+      "summary": "arXiv:2609.29689v1 Announce Type: new Abstract: Australian universities regulate students' use of generative artificial intelligence (GenAI) through overlapping policies, procedures, guidance, and assessment instructions, but these environments may classify identical conduct differently. We applied 15 standardized student-use vignettes to the public policy environments of 20 Australian universities and produced 300 university-case classifications. We analyzed binding instruments (Layer A) separately from the full official environment (Layer B), then classified each combination as clearly permi",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Make it SewSimple: Navigating UK Curriculum and Classroom Practice in Secondary Computing Education with E-textiles",
-      "url": "https://arxiv.org/abs/2609.28485",
-      "summary": "arXiv:2609.28485v1 Announce Type: new Abstract: This paper explores the potential of integrating e-textiles as part of the approach to delivering computing in UK secondary schools. As one of the few UK-based exploratory studies of teachers experiences, it investigates how e-textile platforms such as the SewSimple maker kit and the BBC micro:bit can be incorporated into Key Stage 3 computing education (ages 11-14), taking into account both English national curriculum requirements and the realities of classroom practice. Our research question is: How do teachers perceive the potential of includi",
+      "title": "Fair Feed Ranking for Participatory Budgeting",
+      "url": "https://arxiv.org/abs/2609.29819",
+      "summary": "arXiv:2609.29819v1 Announce Type: new Abstract: In large-scale participatory budgeting, citizens cannot inspect the full proposal pool, so the order in which proposals are shown becomes a form of agenda-setting power. We argue that fair exposure should therefore be treated as a democratic-design goal. We study Consul Democracy, a widely deployed open-source digital-democracy platform, and show that its proposal feeds are typically ordered by popularity, recency, or comment activity. Building on this diagnosis, we propose FairFeed, a feed-ranking design for PB that uses transparently declared p",
       "published": "2026-09-25T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
