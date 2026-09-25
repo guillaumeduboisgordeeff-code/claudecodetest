@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-25",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "A Vision-Language Framework for Measuring Social Life on Sidewalks",
+      "url": "https://arxiv.org/abs/2609.28476",
+      "summary": "arXiv:2609.28476v1 Announce Type: new Abstract: While a number of methods exist for counting pedestrians in street-view imagery, these mostly ignore the social dimensions of pedestrian activity. A street traversed by a high volume of pedestrians has the same headcount as a street where people linger, sit, and socialize. This paper presents a vision-language framework for extracting social indicators from street-level imagery. Panoramic street-level imagery is reprojected to sidewalk-facing sideviews with preserved timestamps. A vision-language model (VLM)-based activity detection system codes ",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Prediction to Explainable Provider Behavior Profiles for Fraud, Waste, and Abuse Review",
+      "url": "https://arxiv.org/abs/2609.28477",
+      "summary": "arXiv:2609.28477v1 Announce Type: new Abstract: Claims data can show that provider behavior changed but cannot by itself explain why. FWA (fraud, waste, and abuse) review requires identifying material behavior, locating the codes and dollars driving it, and testing plausible explanations. A common alternative, predictive modeling, flags deviations from an expected-utilization forecast -- but a forecast has limited value unless it beats simple persistence and explains why a deviation matters. In our quarterly provider-procedure data, the latest observation captures most forecastable variation, ",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When Evaluators Cry Wolf: Lessons from Production LLM-as-Judge Evaluation in Educational AI",
+      "url": "https://arxiv.org/abs/2609.28478",
+      "summary": "arXiv:2609.28478v1 Announce Type: new Abstract: MagicSchool's K-12 AI product suite is used by millions of teachers and serves millions of teacher and student messages each month. Our team monitors output along four priority dimensions--student safety, tone and instructional role, pedagogical value, and structural output quality--and tracks how often it fails on each. As our program matured, false positives came to dominate the evaluators' flags, misdirecting scarce analyst attention away from failures that warrant product change. To address this, we deployed three enhancements--unanimous-fail",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Domestic Unprotected Zone: Algorithmic Governance and the Reproduction of Perpetrator Discourse in Conversational AI",
+      "url": "https://arxiv.org/abs/2609.28479",
+      "summary": "arXiv:2609.28479v1 Announce Type: new Abstract: Conversational AI increasingly mediates intimate-partner communication, and refusal logic at the inference layer now functions as a governance threshold for gendered harm. This article asks whether such systems reproduce discursive forms historically tied to the privatization of intimate violence. A three-stage audit of six widely accessible conversational AI systems compares refusal behaviour across 1,600 crossed prompts per system, isolates relational framing through 300 matched prompt pairs, and contrasts pre-submission framing with post-outpu",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "RADAR: Readiness for AI Discovery and Agentic Reach",
+      "url": "https://arxiv.org/abs/2609.28480",
+      "summary": "arXiv:2609.28480v1 Announce Type: new Abstract: Governments increasingly meet citizens through an AI system rather than a website. RADAR (Readiness for AI Discovery and Agentic Reach) measures whether that system works, across 166 countries and on two tasks: whether a chatbot can give a correct, officially sourced, country-specific answer about a public service (informational legibility), and whether an automated agent can reach the service to act on it (agent operability). The central finding is that AI can describe public services far better than it can reach them. In every one of the 166 co",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Drafter: A Python Library for Full-Stack Web Development in CS1",
+      "url": "https://arxiv.org/abs/2609.28481",
+      "summary": "arXiv:2609.28481v1 Announce Type: new Abstract: Web applications are increasingly the main way to create user interfaces, and they are often the most common software beginners have encountered. However, web development relies on concepts like HTML, CSS, JavaScript, and backend technologies, which are challenges beyond the scope of an introductory course. Additionally, many features of modern web frameworks conflict with CS1 principles, such as avoiding global mutable state and promoting test-driven development. Consequently, web development is rarely integrated into CS1 courses, despite its mo",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Unsnarling the Red Tape: Computational Infrastructure for Regulatory Systems",
+      "url": "https://arxiv.org/abs/2609.28482",
+      "summary": "arXiv:2609.28482v1 Announce Type: new Abstract: Regulatory complexity is increasingly recognized as an impediment to innovation, institutional responsiveness, and long-run economic growth, with regulatory accumulation estimated to reduce the U.S. GDP growth rate by nearly a full percentage point annually. This paper argues that computational approaches--including knowledge representation, artificial intelligence, natural-language processing, and cryptography--can help reduce forms of regulatory \"red tape\" by improving efficiency, transparency, and institutional responsiveness. We develop a fra",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Generative AI May Reinforce Social Biases in Software Engineering Education",
+      "url": "https://arxiv.org/abs/2609.28483",
+      "summary": "arXiv:2609.28483v1 Announce Type: new Abstract: Generative artificial intelligence (GenAI) is increasingly being deployed across a wide range of real-world applications. Without careful evaluation, reliance on these systems can have unintended consequences, such as reinforcement of stereotypes and amplification of social biases. Such risks are particularly important in educational settings, where early decisions can shape students' interests, opportunities, and career trajectories. In this paper, we investigate how GenAI use by software engineering instructors may inadvertently reinforce softw",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Measuring the Professional Educational Competence of Foundation Models",
+      "url": "https://arxiv.org/abs/2609.28484",
+      "summary": "arXiv:2609.28484v1 Announce Type: new Abstract: Foundation models tutor, assess, and instruct at population scale, requiring externally defined measures of educational competence. Existing benchmarks emphasize difficult academic problems or isolated synthetic educational tasks rather than authentic teacher-entry standards. We introduce EDU 1.0 (Educational Due Diligence for Foundation Models), which uses teacher-entry assessments as proxies for educational competence rather than substitutes for human qualification. EDU 1.0 comprises 10,012 questions from teacher certification and recruitment e",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Make it SewSimple: Navigating UK Curriculum and Classroom Practice in Secondary Computing Education with E-textiles",
+      "url": "https://arxiv.org/abs/2609.28485",
+      "summary": "arXiv:2609.28485v1 Announce Type: new Abstract: This paper explores the potential of integrating e-textiles as part of the approach to delivering computing in UK secondary schools. As one of the few UK-based exploratory studies of teachers experiences, it investigates how e-textile platforms such as the SewSimple maker kit and the BBC micro:bit can be incorporated into Key Stage 3 computing education (ages 11-14), taking into account both English national curriculum requirements and the realities of classroom practice. Our research question is: How do teachers perceive the potential of includi",
+      "published": "2026-09-25T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
