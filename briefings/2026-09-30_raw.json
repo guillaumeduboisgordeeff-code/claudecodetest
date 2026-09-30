@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-30",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "What if automating AI R&D triggers an intelligence explosion?",
+      "url": "https://arxiv.org/abs/2609.36054",
+      "summary": "arXiv:2609.36054v1 Announce Type: new Abstract: In contrast to even a year ago, AI systems now write most of the code inside the companies that build them. As more of the AI research and development (R&D) pipeline is automated, could AI progress radically accelerate in an \"intelligence explosion,\" where years of advances are compressed into months or less? Preliminary evidence suggests that it could. In this work, we assess this evidence, analyze an intelligence explosion's potential impacts, and propose policy responses. AI systems are on track to automate most AI R\\&D work within a few years",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Argus: Academic Integrity in the Era of Generative AI",
+      "url": "https://arxiv.org/abs/2609.36073",
+      "summary": "arXiv:2609.36073v1 Announce Type: new Abstract: The rapid proliferation of large language models (LLMs) in the context of education has introduced significant challenges in enforcement of academic integrity, especially in programming courses. We present Argus, an automated detection system for LLM-assisted student work in undergraduate C programming assignments. Argus integrates behavioral and stylistic indicators to create a holistic picture of the student's progress through an assignment and surfaces anomalies that point to potential misuse of LLM assistance. We quantify and analyze data ove",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "After the Award: The Authorization Gap in Academic Access to Frontier AI",
+      "url": "https://arxiv.org/abs/2609.36304",
+      "summary": "arXiv:2609.36304v1 Announce Type: new Abstract: Academic access programs distribute frontier artificial intelligence as research infrastructure, but awards and institutional authorization are distinct stages. We examine the handoff through structured coding of 15 publicly documented access pathways captured on 19 September 2026, of which ten met prespecified inclusion criteria, and a process trace at one US university. Two isolated model-assisted coding passes found explicit eligibility criteria in nine programs and three implied institutional prerequisites across the corpus. Downstream specif",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics",
+      "url": "https://arxiv.org/abs/2609.37280",
+      "summary": "arXiv:2609.37280v1 Announce Type: new Abstract: AI-assisted cheating has become an important threat to the security of online exams. This study examines whether the risk of AI-assisted cheating in the final exam can be predicted using students' digital traces in the learning management system (LMS) during the first eight weeks of the semester. The sample comprised 52 first-year undergraduates enrolled in a bachelor's program in Computer Education and Instructional Technology and taking an Introduction to Programming course at a public university in Turkiye. Students were labeled as low- or hig",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Digital Labor Platforms as Infrastructure of Extractivism",
+      "url": "https://arxiv.org/abs/2609.37614",
+      "summary": "arXiv:2609.37614v1 Announce Type: new Abstract: This chapter examines how digital platforms, as infrastructures of extractivism in contemporary artificial intelligence, enable corporations to appropriate data and labour while concentrating value in core regions such as Silicon Valley. It proposes platform extractivism as a framework linking commodification, epistemic dominance, and reproduction through territory. Drawing on digital labour studies, Latin American critical thought, and mixed-methods research with Venezuelan and Colombian data workers, the chapter discusses how AI depends on prec",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Teachers' perspective on AI-based Multi-Agent Simulation Design to Combat School Bullying",
+      "url": "https://arxiv.org/abs/2609.35776",
+      "summary": "arXiv:2609.35776v1 Announce Type: cross Abstract: Bullying in schools profoundly affects the mental and physical health of teenagers. Although existing in-person and digital interventions provide some benefits, they often fall short in addressing the complex social dynamics of bullying. In this study, we collaborated with K-12 teachers to co-design a multi-agent anti-bullying system powered by large language models (LLMs). This system simulates authentic scenarios, enabling students to develop anti-bully skills. The research identifies key design parameters for an LLM-driven multi-agent simula",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Large Language Models Exhibit Human-Like Bayesian Hypocrisy",
+      "url": "https://arxiv.org/abs/2609.35779",
+      "summary": "arXiv:2609.35779v1 Announce Type: cross Abstract: Given recent achievements of large language models (LLMs), frontier models are expected to perform well on Bayesian reasoning tasks, at least as well as humans. Furthermore, there is no reason to expect that LLMs will condemn others who offer those very same Bayesian judgments, a fallibility observed in human decision-making (Cao, et al., 2019). In 5 experiments with 48 experimental conditions employing over 5,000 trials, GPT-4o and Claude 3.7 Sonnet were tested on two variations of a Bayesian reasoning task. We also assessed LLM evaluation of ",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Exploring Causal Mechanisms with Generative Agent-Based Models",
+      "url": "https://arxiv.org/abs/2609.35819",
+      "summary": "arXiv:2609.35819v1 Announce Type: cross Abstract: In this paper, we explore using generative agent-based models for a classical ABM application: testing how individual-level behavioral rules produce collective phenomena. We introduce RePair, a method that calibrates simulation worlds, operationalizes candidate mechanisms as natural-language rules, estimates their effects through matched interventions, and examines behavioral traces. We assess the method by testing it in four simulation worlds grounded in established social-science models and empirical studies. Our results reveal that (1) natur",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Can We Still Trust Disaster Social Sensing? Empirical Evidence on Detecting AI-Generated Social Media Posts",
+      "url": "https://arxiv.org/abs/2609.35821",
+      "summary": "arXiv:2609.35821v1 Announce Type: cross Abstract: Disaster social sensing converts public social-media posts into evidence for situational awareness and humanitarian needs, but generative artificial intelligence (AI) can produce plausible messages that resemble eyewitness reports. This study investigates whether text-based AI detectors can reliably distinguish human-authored from AI-generated disaster posts. We construct a dataset of 12,000 texts organised into 3,000 matched semantic units from nine disasters: original human posts (H0), minimally LLM-proofread human posts (H1), factual AI-gene",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Position: Let's Strengthen Verifiability If We Can't Enforce Reproducibility",
+      "url": "https://arxiv.org/abs/2609.35854",
+      "summary": "arXiv:2609.35854v1 Announce Type: cross Abstract: In the field of Machine Learning, many papers contain empirical results supporting claimed statements or illustrating the performance of a proposed method. However, most practitioners know that (1) results are generally hard to reproduce, and increasingly so, (2) code is not often available to do so, and (3) it hinders the development of research. In this position paper, we analyze and quantify these issues, and make concrete proposals to improve result checkability, if not reproducibility. Code and supporting materials are available at https:/",
+      "published": "2026-09-30T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
