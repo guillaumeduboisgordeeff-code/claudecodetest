@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-01",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "How People Use ChatGPT: Conversation-Level Evidence from India, Nigeria, Brazil, and Pakistan",
+      "url": "https://arxiv.org/abs/2609.38279",
+      "summary": "arXiv:2609.38279v1 Announce Type: new Abstract: Public understanding of how people use LLM-based conversational AI assistants comes primarily from aggregate platform reports by OpenAI and Anthropic, which apply fixed taxonomies and inferred demographics to hundreds of millions of users and release only summary statistics that outside researchers cannot re-analyze. We provide a complementary, conversation-level view: complete ChatGPT exports comprising 202,590 conversations from 1,252 users across India, Nigeria, Brazil, and Pakistan, paired with self-reported age and gender and spanning Decemb",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Anthropomorphism in the age of Large Language Models: An overview of potential risks and mitigations",
+      "url": "https://arxiv.org/abs/2609.38486",
+      "summary": "arXiv:2609.38486v1 Announce Type: new Abstract: Large Language Models (LLMs) and more broadly Artificial Intelligence (AI) systems are often described and understood in human-like terms, a phenomenon known as \\emph{anthropomorphism}. This paper provides a synthesis of recent literature on anthropomorphism in AI, covering theoretical frameworks, the role of language in framing AI as human-like, the various risks of anthropomorphizing machines, and strategies to mitigate these issues. After examining why we tend to anthropomorphize AI systems and whether we are right to do so, we highlight the i",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Navigating the Changing Landscape of Online Knowledge Consumption and Production in the Age of Generative AI: Evidence from Stack Overflow",
+      "url": "https://arxiv.org/abs/2609.38563",
+      "summary": "arXiv:2609.38563v1 Announce Type: new Abstract: Online knowledge communities rely on a division of epistemic labor between users who seek information and those who produce it. Generative AI may blur these roles, but how it reallocates knowledge-seeking and knowledge-producing activities and reshapes the nature and returns of participation remains unclear. We examine changes in question-asking and answering among Stack Overflow user groups, focusing on consumers and producers, following the release of ChatGPT. Consumers shifted from asking questions to producing answers, but their answers were ",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Drowning in AI Slop: How Social Media Platforms (Do Not) Label AI and Deepfake Content under EU law",
+      "url": "https://arxiv.org/abs/2609.38571",
+      "summary": "arXiv:2609.38571v1 Announce Type: new Abstract: AI labels are emerging as a primary safeguard for transparency about AI-generated content on social media, including under the EU Digital Services Act and AI Act. Yet, limited systematic evidence exists on how platforms implement such labels in practice. We conduct a legally grounded audit of AI labelling across Instagram, TikTok, X, and YouTube, drawing on the European Commission's July 2026 guidelines on deepfakes. To this end, we analyse platform policies and detection approaches, 10,722 posts collected via systemic-risk and AI-related keyword",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Breaking News Out of the Filter Bubble: Generative AI Search Diversifies Collective Attention and Raises Shared Information Consumption",
+      "url": "https://arxiv.org/abs/2609.38946",
+      "summary": "arXiv:2609.38946v1 Announce Type: new Abstract: Generative AI search and AI overviews are transforming access to information and news, renewing concerns that readers will encounter a narrower range of topics and have less in common. We examine these concerns via a randomized field experiment with 37,561 readers at The Washington Post. Both groups searched the same archive, but treatment readers also received AI answers with article citations above conventional results. Measuring consumption across displayed answers and opened articles, we find that AI search expands the reach of widely read to",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Freeze, Validate, Report: Auditing Urban Station Plans with Common Evidence",
+      "url": "https://arxiv.org/abs/2609.39064",
+      "summary": "arXiv:2609.39064v1 Announce Type: new Abstract: Transport authorities comparing urban station plans need to distinguish plan differences from differences in evaluation inputs. Reconstructing spatial units, included trips, or candidate blocks from each plan's access outcomes can make scores incomparable. Freeze--Validate--Report fixes an evaluation contract: target trips, proxy groups, reporting cells, candidate pools, and a lexicographic selection rule. A two-point example shows that plan-specific observation selection can reverse the target mean ordering. We compare seven generators spanning ",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Concentration of Artificial Intelligence in Big Tech and Its Implications for Human Rights in the European Union",
+      "url": "https://arxiv.org/abs/2609.39285",
+      "summary": "arXiv:2609.39285v1 Announce Type: new Abstract: The development of advanced artificial intelligence is increasingly concentrated in a small group of vertically integrated technology companies. These firms control combinations of computing infrastructure, cloud services, data, foundation models, software ecosystems, and channels of distribution. This article argues that such concentration transforms market power into a form of private governance over the conditions in which fundamental rights are exercised. Drawing on an interdisciplinary narrative review, it examines how concentration affects ",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Executive Judgement in AI-Mediated Decision-Making Environments: A Process Theory of Formation, Qualification Attrition and Authorisation",
+      "url": "https://arxiv.org/abs/2609.39442",
+      "summary": "arXiv:2609.39442v1 Announce Type: new Abstract: Generative artificial intelligence can contribute to the representations, alternatives and evaluations through which executive judgements are formed. Existing research already explains important aspects of hybrid cognition, reliance, managerial agency and accountability. This article develops a narrower process challenge: locally competent human and AI contributions can still culminate in an inadequately warranted organisational commitment when established operational assumptions, uncertainties or dependencies are lost or transformed before autho",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Knowledge to Legitimacy: A Philosophical Problem Discovery of AI Implementation Readiness in Public Health Disease Surveillance",
+      "url": "https://arxiv.org/abs/2609.39513",
+      "summary": "arXiv:2609.39513v1 Announce Type: new Abstract: Despite being an emerging credible means of using artificial intelligence (AI) for improving disease surveillance via early detection of outbreaks, epidemics prediction and evidence-based decision-making, there continue to be challenges in the use of AI tools in many low- and middle-income countries (LMICs) due to various factors including fragmented health information system, digital inequality, governance problems and institutional incapability. Most of the research conducted so far has concentrated on the efficacy and accuracy of AI in terms o",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Reusable Semantic Web Framework for Evidence-Grounded Fundamental Rights Impact Assessments under the EU AI Act",
+      "url": "https://arxiv.org/abs/2609.39537",
+      "summary": "arXiv:2609.39537v1 Announce Type: new Abstract: The EU AI Act (Art. 27) requires deployers of high-risk AI systems to conduct Fundamental Rights Impact Assessments (FRIAs) before deployment, yet the evidence needed for credible assessments is fragmented across incompatible incident repositories, risk vocabularies, and legal texts. We present a reusable Semantic Web-based framework that consolidates this evidence for two high-risk public sector categories: employment and worker management (Annex III(4)) and access to essential public services (Annex III(5)(a)). A curated 150-record corpus is an",
+      "published": "2026-10-01T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
