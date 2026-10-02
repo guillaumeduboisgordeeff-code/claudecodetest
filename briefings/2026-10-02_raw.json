@@ -1,91 +1,83 @@
 {
   "date": "2026-10-02",
-  "articles_count": 11,
+  "articles_count": 10,
   "articles": [
     {
-      "title": "Vivian Midha Shen and Raphael Schaad Join YC as General Partners",
-      "url": "https://www.ycombinator.com/blog/welcome-vivian-and-raphael/",
-      "summary": "We’re thrilled to announce that Vivian Midha Shen and Raphael Schaad are joining Y Combinator as our newest General Partners.",
-      "published": "2026-10-01T16:52:00",
-      "source_name": "Y Combinator Blog",
-      "source_category": "ia-acteurs"
-    },
-    {
-      "title": "Who Judges the Frame? Auditing Multimodal LLM Judges for News Framing Across Event-Level Perspectives",
-      "url": "https://arxiv.org/abs/2610.00071",
-      "summary": "arXiv:2610.00071v1 Announce Type: new Abstract: News coverage of major world events is shaped not only by what is reported, but also by how events are framed through text, images and their combination. At the same time, Large Language Models (LLMs), including multimodal LLMs, are increasingly used as scalable instruments for analysing framing, sentiment, ideological slant and perspective differences in multimodal media datasets. This creates a methodological challenge. When used as measurement instruments, LLM outputs may reflect not only content properties, but also model-specific tendencies,",
+      "title": "Understanding Student Use of Large Language Models Across Computer Science Subfields",
+      "url": "https://arxiv.org/abs/2610.01158",
+      "summary": "arXiv:2610.01158v1 Announce Type: new Abstract: This research full paper examines how undergraduate students use large language models (LLMs) across computer science subfields. As LLMs become increasingly integrated into computing education, understanding how their use varies across technical and pedagogical contexts is essential for designing effective, subfield-aware instruction. This paper presents a cross-subfield analysis of LLM usage among 211 undergraduate students in a problem-solving course intentionally designed to support responsible and effective LLM use through structured instruct",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "White Men Without Degrees Receive the Lowest Ratings from Large Language Models",
-      "url": "https://arxiv.org/abs/2610.00185",
-      "summary": "arXiv:2610.00185v1 Announce Type: new Abstract: White men without an undergraduate degree receive the lowest average ratings among eight gender-race-education groups in controlled large-language-model evaluations of credit, hiring, and rental applications. We conduct full-factorial vignette experiments with 18 models from 12 developer groups, varying gender, race, age, citizenship, and education while holding stated financial or occupational circumstances constant within each setting. Each model evaluates all 32 profiles ten times per setting, yielding 17,280 ratings. Averaging over models, ag",
+      "title": "WIP: DBWorkout: A Gamified SQL Practice Platform to Support Formative Learning in Database Courses",
+      "url": "https://arxiv.org/abs/2610.01174",
+      "summary": "arXiv:2610.01174v1 Announce Type: new Abstract: This research WIP paper presents DBWorkout, a web-based platform that supports formative SQL learning through sandbox-based execution, automated result-based feedback, and session-based gamification. Learning Structured Query Language (SQL) remains challenging for undergraduate students due to limited opportunities for interactive practice and immediate feedback. Students iteratively practice SQL on live database instances while receiving multi-dimensional feedback on query correctness, including row values, column structure, and ordering. To red",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "TeamLens in Critsly: A Consent-Based Team-Composition Interface and Synthetic Readiness Evaluation for Design Collaboration",
-      "url": "https://arxiv.org/abs/2610.00288",
-      "summary": "arXiv:2610.00288v1 Announce Type: new Abstract: Discussing working preferences may support reflection within a design team, but a personality label should not become a performance prediction or a condition of participation. This technical report presents TeamLens, an optional Critsly interface for voluntarily sharing a self-reported MBTI type with a particular board. It separates account activation from disclosure, displays descriptive composition counts, and provides distinct controls for disabling visibility, withdrawing one report and deleting all of one's reports. The evaluation combines r",
+      "title": "Judgement in the Age of Jev: From Evaluation Scarcity to Evaluation Abundance",
+      "url": "https://arxiv.org/abs/2610.01231",
+      "summary": "arXiv:2610.01231v1 Announce Type: new Abstract: Generative artificial intelligence has reduced the cost of producing plausible symbolic artefacts, leading recent organisation scholarship to identify evaluation and discernment as constraints under conditions of production abundance. This perspective examines a further possibility: that machine evaluation itself becomes inexpensive enough to be deployed routinely and at scale. The investigation is prompted by Jev, TypeSafe AI's specialised model for typed probabilistic decisions. TypeSafe explicitly invokes William Stanley Jevons to argue that l",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "CALLIOPE: A Source-Grounded Oral Assessment System and Synthetic Readiness Evaluation",
-      "url": "https://arxiv.org/abs/2610.00290",
-      "summary": "arXiv:2610.00290v1 Announce Type: new Abstract: Oral assessment with generative AI requires more than a conversational interface: educators must connect a spoken response to its source material, scoring criteria, model outputs and subsequent human judgement. This technical report presents CALLIOPE, a source-grounded oral assessment system integrating versioned instructional material, learner-turn recording and transcription, adaptive questioning, two-provider rubric scoring, educator review and exportable evidence. We examine implementation and retained synthetic verification records from 25 S",
+      "title": "Architecture Without an Architect? Global Governance of Artificial Intelligence in a Divided World",
+      "url": "https://arxiv.org/abs/2610.01716",
+      "summary": "arXiv:2610.01716v1 Announce Type: new Abstract: Artificial intelligence presents an unusually difficult problem for global governance. The technology develops rapidly, crosses borders easily, and is shaped by actors whose resources and capabilities may rival those of states. Yet international responses remain fragmented, unevenly representative, and overwhelmingly non-binding. The challenge is therefore not simply to identify appropriate rules or institutions, but to understand who has the capacity and incentive to create, enforce, and adapt them. This review essay examines these questions thr",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Scroll to Sale: Exploring the Impact of Interaction Type and Device Price on TikTok Advertisements",
-      "url": "https://arxiv.org/abs/2610.00684",
-      "summary": "arXiv:2610.00684v1 Announce Type: new Abstract: Companies and brands increasingly use dynamic pricing, including targeting social media ads to users based on their income. In this work we audit TikTok's feed using 56 automated accounts, which collect data on over 80,000 videos, across two studies. We test the impact of device price on ad load and ad types, using 12 phones of low ($0-$250), medium ($400-$650), and high ($750-$1,000+) price as a proxy for income. We also test the impact of interaction type (i.e., like, comment, share), age, and gender on the frequency and content of ads. Overall",
+      "title": "Participation-Sensitive Convergence and the Fragment First, Converge Later Pattern in Asynchronous Online Learning: A Topological Analysis Across 22 OULAD Courses",
+      "url": "https://arxiv.org/abs/2610.01738",
+      "summary": "arXiv:2610.01738v1 Announce Type: new Abstract: Asynchronous online learning offers temporal flexibility at a structural cost: learning communities tend to fragment rather than cohere. $\\beta_0$, the number of disconnected behavioral clusters from Zigzag Persistent Homology, serves as a cohort-level indicator of this structure. Two questions remained unverified at scale: (1) does apparent $\\beta_0$ convergence reflect genuine behavioral alignment or learner dropout? and (2) do assessment deadlines produce reproducible fragmentation-convergence cycles? We address both across all 22 OULAD course",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Visibility on Terrains",
-      "url": "https://arxiv.org/abs/2610.00796",
-      "summary": "arXiv:2610.00796v1 Announce Type: new Abstract: This chapter surveys terrain visibility models, algorithms, and applications. It introduces basic definitions, from line-of-sight, single-viewpoint viewsheds to cumulative and total viewsheds, on both Triangulated Irregular Network (TIN) and regular grid terrains. Reviews exact and approximate algorithms and highlights key application domains including archaeology, visual exposure to greenery, scenic route management, and land conservation.",
+      "title": "Designing for Interpretation Uncertainty: Architecture and Principles for Topological Learning Analytics Dashboards",
+      "url": "https://arxiv.org/abs/2610.01749",
+      "summary": "arXiv:2610.01749v1 Announce Type: new Abstract: Topological Data Analysis (TDA) offers novel methods for understanding temporal dynamics in complex systems, yet its application in information systems design faces a fundamental challenge: how should systems present analytical outputs when interpretation frameworks are still developing? This paper reports on the development of TopoLA, a dashboard system applying Zigzag Persistent Homology to learning management system data, and proposes three early design principles for interpretation support in emerging analytics: (1) separation of objective me",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Learning and Predicting Patent Technology Reuse Trajectories from Emergence-Time Signals",
-      "url": "https://arxiv.org/abs/2610.00806",
-      "summary": "arXiv:2610.00806v1 Announce Type: new Abstract: Forecasting how a newly emerged patent technology will be reused is central to technology intelligence, but reuse-pattern labels do not exist in advance: they must be constructed from the trajectories themselves, and how they are constructed determines what a forecast means. We study $201{,}710$ novel patent technologies (first-time IPC code pairings, USPTO 2002--2022). Our primary labeling applies $k$-means in the latent space of a GRU autoencoder trained on the $20$-year reuse trajectories, using no hand-crafted features; to our knowledge this ",
+      "title": "LLM assisted writing deserves empirical evaluation",
+      "url": "https://arxiv.org/abs/2608.22124",
+      "summary": "arXiv:2608.22124v1 Announce Type: cross Abstract: LLM-assisted writing is often treated as a detection problem, as it raises questions about clarity, integrity, equity, and evaluation. An analysis of 69,209 Health Informatics papers links it to more focused presentation, broader citation practices, and more globally distributed authorship. These patterns do not prove better science, but they support evaluating manuscripts by scholarly quality and accountability rather than by tool use.",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming",
-      "url": "https://arxiv.org/abs/2610.00863",
-      "summary": "arXiv:2610.00863v1 Announce Type: new Abstract: Large language models can generate plausible solutions to programming assignments, making it tempting to detect their use by matching student code against a reference bank of generated solutions. Yet similar code can also arise when an assignment admits only a few natural implementations, which leaves open what a match actually shows. We investigate generated-reference matching using 29,970 student submissions from ten Python labs offered in 2021, 2023, and 2025, together with 90,000 solution attempts generated retrospectively by three frontier L",
+      "title": "From Web(logs) to Web(AI): Questions, Platforms, and Methods across Twenty Editions of ICWSM",
+      "url": "https://arxiv.org/abs/2610.00205",
+      "summary": "arXiv:2610.00205v1 Announce Type: cross Abstract: Over twenty editions, the ICWSM community has examined social life online as platforms, interactions, and research methods have changed. What can this body of research tell us at this critical juncture, as AI increasingly reshapes how people communicate online? We analyzed 2,139 indexed contributions from 2007 to 2026, distinguishing topics identified through nonnegative matrix factorization from problem framings captured through explicit textual cues. We find that platform mentions shift from blogs toward Twitter and, more recently, Reddit. On",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Digital Capabilities to Non Linear Growth: The Exponential SME Framework",
-      "url": "https://arxiv.org/abs/2610.01129",
-      "summary": "arXiv:2610.01129v1 Announce Type: new Abstract: Small and medium-sized enterprises (SMEs) face increasing pressure to navigate digital transformation, yet many struggle to convert digital initiatives into sustainable organisational capability development and growth outcomes. This paper develops the Exponential SME Framework, an integrated conceptual framework that explains how SMEs may progress from digital capability development to non-linear growth potential. Drawing on literature relating to Digital Dynamic Capabilities (DDC), digital transformation practices, organisational transformation,",
+      "title": "Birds of a Feather Flock Together: Network-Based Detection of Coordinated Disinformation Campaigns on Telegram",
+      "url": "https://arxiv.org/abs/2610.00222",
+      "summary": "arXiv:2610.00222v1 Announce Type: cross Abstract: In recent years, disinformation has increasingly proliferated across social networks. The firing of fact-checkers from Meta and the disbanding of Twitter's Trust and Safety Council suggest that this trend will continue to escalate. While disinformation sources (e.g., social network accounts) can sometimes be identified, new accounts emerge daily, making tracking a moving target. In this work, we propose a graph-based methodology to discover previously unknown Telegram accounts that spread disinformation. Starting from a set of verified disinfor",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Virtual Global Collaboration in Data Analytics and Machine Learning Education: A Mixed-Methods Study of Asynchronous Cross-Border Teamwork",
-      "url": "https://arxiv.org/abs/2610.01147",
-      "summary": "arXiv:2610.01147v1 Announce Type: new Abstract: This innovative practice full paper examines a structured Virtual Global Collaboration (VGC) activity between undergraduate computing courses in the United States and Pakistan. The project was designed to support technical and intercultural skill development through asynchronous international teamwork in data analytics and introductory machine learning. Students worked in mixed-institution teams through a six-phase project including cultural orientation, dataset selection, data cleaning, analysis, introductory machine learning, and structured rep",
+      "title": "Multi-Jurisdictional Legal Identity Assurance for Capability Gating: A Design-Science Proposal for Tiered, Reusable Identity Assurance of Natural, Juridical, and Machine Entities",
+      "url": "https://arxiv.org/abs/2610.00287",
+      "summary": "arXiv:2610.00287v1 Announce Type: cross Abstract: Identity assurance is the cost a digital system pays for dishonesty and uncertainty: it exists to make acts attributable when not everyone can be trusted at their word. A common way to pay that cost is flat maximum verification, asking each participant to meet a single high level of identification at entry, before any capability is exercised. Paid on everyone, it over-collects, excludes participants who cannot meet a bar they never needed to clear, taxes every interaction with the cost of the rarest high-risk case, and binds the strength of ide",
       "published": "2026-10-02T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
