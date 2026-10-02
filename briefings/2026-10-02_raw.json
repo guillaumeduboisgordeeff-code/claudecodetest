@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-02",
+  "articles_count": 11,
+  "articles": [
+    {
+      "title": "Vivian Midha Shen and Raphael Schaad Join YC as General Partners",
+      "url": "https://www.ycombinator.com/blog/welcome-vivian-and-raphael/",
+      "summary": "We’re thrilled to announce that Vivian Midha Shen and Raphael Schaad are joining Y Combinator as our newest General Partners.",
+      "published": "2026-10-01T16:52:00",
+      "source_name": "Y Combinator Blog",
+      "source_category": "ia-acteurs"
+    },
+    {
+      "title": "Who Judges the Frame? Auditing Multimodal LLM Judges for News Framing Across Event-Level Perspectives",
+      "url": "https://arxiv.org/abs/2610.00071",
+      "summary": "arXiv:2610.00071v1 Announce Type: new Abstract: News coverage of major world events is shaped not only by what is reported, but also by how events are framed through text, images and their combination. At the same time, Large Language Models (LLMs), including multimodal LLMs, are increasingly used as scalable instruments for analysing framing, sentiment, ideological slant and perspective differences in multimodal media datasets. This creates a methodological challenge. When used as measurement instruments, LLM outputs may reflect not only content properties, but also model-specific tendencies,",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "White Men Without Degrees Receive the Lowest Ratings from Large Language Models",
+      "url": "https://arxiv.org/abs/2610.00185",
+      "summary": "arXiv:2610.00185v1 Announce Type: new Abstract: White men without an undergraduate degree receive the lowest average ratings among eight gender-race-education groups in controlled large-language-model evaluations of credit, hiring, and rental applications. We conduct full-factorial vignette experiments with 18 models from 12 developer groups, varying gender, race, age, citizenship, and education while holding stated financial or occupational circumstances constant within each setting. Each model evaluates all 32 profiles ten times per setting, yielding 17,280 ratings. Averaging over models, ag",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "TeamLens in Critsly: A Consent-Based Team-Composition Interface and Synthetic Readiness Evaluation for Design Collaboration",
+      "url": "https://arxiv.org/abs/2610.00288",
+      "summary": "arXiv:2610.00288v1 Announce Type: new Abstract: Discussing working preferences may support reflection within a design team, but a personality label should not become a performance prediction or a condition of participation. This technical report presents TeamLens, an optional Critsly interface for voluntarily sharing a self-reported MBTI type with a particular board. It separates account activation from disclosure, displays descriptive composition counts, and provides distinct controls for disabling visibility, withdrawing one report and deleting all of one's reports. The evaluation combines r",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "CALLIOPE: A Source-Grounded Oral Assessment System and Synthetic Readiness Evaluation",
+      "url": "https://arxiv.org/abs/2610.00290",
+      "summary": "arXiv:2610.00290v1 Announce Type: new Abstract: Oral assessment with generative AI requires more than a conversational interface: educators must connect a spoken response to its source material, scoring criteria, model outputs and subsequent human judgement. This technical report presents CALLIOPE, a source-grounded oral assessment system integrating versioned instructional material, learner-turn recording and transcription, adaptive questioning, two-provider rubric scoring, educator review and exportable evidence. We examine implementation and retained synthetic verification records from 25 S",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Scroll to Sale: Exploring the Impact of Interaction Type and Device Price on TikTok Advertisements",
+      "url": "https://arxiv.org/abs/2610.00684",
+      "summary": "arXiv:2610.00684v1 Announce Type: new Abstract: Companies and brands increasingly use dynamic pricing, including targeting social media ads to users based on their income. In this work we audit TikTok's feed using 56 automated accounts, which collect data on over 80,000 videos, across two studies. We test the impact of device price on ad load and ad types, using 12 phones of low ($0-$250), medium ($400-$650), and high ($750-$1,000+) price as a proxy for income. We also test the impact of interaction type (i.e., like, comment, share), age, and gender on the frequency and content of ads. Overall",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Visibility on Terrains",
+      "url": "https://arxiv.org/abs/2610.00796",
+      "summary": "arXiv:2610.00796v1 Announce Type: new Abstract: This chapter surveys terrain visibility models, algorithms, and applications. It introduces basic definitions, from line-of-sight, single-viewpoint viewsheds to cumulative and total viewsheds, on both Triangulated Irregular Network (TIN) and regular grid terrains. Reviews exact and approximate algorithms and highlights key application domains including archaeology, visual exposure to greenery, scenic route management, and land conservation.",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Learning and Predicting Patent Technology Reuse Trajectories from Emergence-Time Signals",
+      "url": "https://arxiv.org/abs/2610.00806",
+      "summary": "arXiv:2610.00806v1 Announce Type: new Abstract: Forecasting how a newly emerged patent technology will be reused is central to technology intelligence, but reuse-pattern labels do not exist in advance: they must be constructed from the trajectories themselves, and how they are constructed determines what a forecast means. We study $201{,}710$ novel patent technologies (first-time IPC code pairings, USPTO 2002--2022). Our primary labeling applies $k$-means in the latent space of a GRU autoencoder trained on the $20$-year reuse trajectories, using no hand-crafted features; to our knowledge this ",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Correctness, Convergence, and AI-Generated Code Detection: A Longitudinal Study of Student and Large Language Model Code in Introductory Programming",
+      "url": "https://arxiv.org/abs/2610.00863",
+      "summary": "arXiv:2610.00863v1 Announce Type: new Abstract: Large language models can generate plausible solutions to programming assignments, making it tempting to detect their use by matching student code against a reference bank of generated solutions. Yet similar code can also arise when an assignment admits only a few natural implementations, which leaves open what a match actually shows. We investigate generated-reference matching using 29,970 student submissions from ten Python labs offered in 2021, 2023, and 2025, together with 90,000 solution attempts generated retrospectively by three frontier L",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Digital Capabilities to Non Linear Growth: The Exponential SME Framework",
+      "url": "https://arxiv.org/abs/2610.01129",
+      "summary": "arXiv:2610.01129v1 Announce Type: new Abstract: Small and medium-sized enterprises (SMEs) face increasing pressure to navigate digital transformation, yet many struggle to convert digital initiatives into sustainable organisational capability development and growth outcomes. This paper develops the Exponential SME Framework, an integrated conceptual framework that explains how SMEs may progress from digital capability development to non-linear growth potential. Drawing on literature relating to Digital Dynamic Capabilities (DDC), digital transformation practices, organisational transformation,",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Virtual Global Collaboration in Data Analytics and Machine Learning Education: A Mixed-Methods Study of Asynchronous Cross-Border Teamwork",
+      "url": "https://arxiv.org/abs/2610.01147",
+      "summary": "arXiv:2610.01147v1 Announce Type: new Abstract: This innovative practice full paper examines a structured Virtual Global Collaboration (VGC) activity between undergraduate computing courses in the United States and Pakistan. The project was designed to support technical and intercultural skill development through asynchronous international teamwork in data analytics and introductory machine learning. Students worked in mixed-institution teams through a six-phase project including cultural orientation, dataset selection, data cleaning, analysis, introductory machine learning, and structured rep",
+      "published": "2026-10-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
