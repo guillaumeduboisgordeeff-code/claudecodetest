@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Social bot detection in the age of ChatGPT: Challenges and opportunities",
-      "url": "https://arxiv.org/abs/2610.02386",
-      "summary": "arXiv:2610.02386v1 Announce Type: new Abstract: We present a comprehensive overview of the challenges and opportunities in social bot detection in the context of the rise of sophisticated AI-based chatbots. By examining the state of the art in social bot detection techniques and the more salient real-world application to date, we identify gaps and emerging trends in the field, with a focus on addressing the unique challenges posed by AI-generated conversations and behaviors. We suggest potentially promising opportunities and research directions in social bot detection, including (i) the use of",
+      "title": "Effects of a Behavioural Commitment Scheme on Study Regularity in a Self-Paced Learning Platform",
+      "url": "https://arxiv.org/abs/2610.02595",
+      "summary": "arXiv:2610.02595v1 Announce Type: cross Abstract: Online education has enabled learners worldwide to take up courses from reputed institutions. However, a self-paced online course cannot guarantee the motivation and engagement that a learner experiences in a real-time classroom. Self-paced access also makes platform load unpredictable, which drives up the compute cost. We propose a Commitment Scheme for course access that aligns learner commitment with platform capacity. Learners book their study slots in advance; the instructor sets the budget of learning hours available for the course; and l",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Conditions for Social Trajectory Collapse: Agent-Based Simulation of Time-Geographic Trajectory Distributions",
-      "url": "https://arxiv.org/abs/2610.02581",
-      "summary": "arXiv:2610.02581v1 Announce Type: new Abstract: Metropolitan concentration has motivated policies for more balanced regional development. We use agent-based simulation to examine trajectory diversity, the variety of people's recurring activity orientations toward neighborhoods, urban centers, and wider networks. The model maps 2010 population shares to 2026 distributions in five country cases, China, Russia, Japan, the United Kingdom, and the United States, and simulates change to 2036. Trajectory diversity declines by 52.6-79.0% over 2026-2036. Russia and Japan show the largest increases in t",
+      "title": "Verifiable, Articulable, and Tacit Components of Preference",
+      "url": "https://arxiv.org/abs/2610.03025",
+      "summary": "arXiv:2610.03025v1 Announce Type: cross Abstract: What makes a short story gripping; a news article newsworthy; or a math proof elegant? These constructs resist articulation or verification; their meaning is at least partially tacit. However, modern AI models are improved primarily via articulated constitutions, rubrics and verifiers (i.e. in RLAIF and RLVR); tacit components of preferences are typically understudied. We introduce a large, labeled preference dataset CreativePreferences, containing 2.8M texts labeled by 317M human preference judgments across 7 creative domains, with 42 benchmar",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Information Operations Exploit APIs to Manipulate Social Media",
-      "url": "https://arxiv.org/abs/2610.02591",
-      "summary": "arXiv:2610.02591v1 Announce Type: new Abstract: Research on information operations has focused primarily on the coordinated accounts involved in such campaigns and in the content they promote. Bad actors manage the activity of inauthentic accounts through programmatic interfaces (APIs), but the role of this underlying infrastructure in enabling and uncovering such coordinated behaviors remains largely unexplored. This study investigates how the Twitter (now X) API was used to coordinate influence operations on the platform. Since API access is managed through developer apps, we extract app met",
+      "title": "Peer Influence across Heterogeneous AI Models",
+      "url": "https://arxiv.org/abs/2610.03095",
+      "summary": "arXiv:2610.03095v1 Announce Type: cross Abstract: When two AI agents disagree, who persuades whom? As multi-agent systems increasingly combine language models of different families and sizes, the answer can determine which judgments survive interaction. Measuring persuasion as the probabilistic shift in an agent's decision after a single exchange with a dissenting peer, we test seven open-weight models across three language understanding tasks. We find that persuasion is strong: when models disagree, receivers often abandon their initial judgment after seeing a peer's answer and explanation. S",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Lessons from Trauma-Informed Training on Technology-Facilitated Abuse for Gender-Based Violence Advocates",
-      "url": "https://arxiv.org/abs/2610.02688",
-      "summary": "arXiv:2610.02688v1 Announce Type: new Abstract: Technology-facilitated abuse (TFA) is an emerging gendered public health crisis affecting millions of people across the globe. TFA coincides with other forms of gender-based violence (GBV), such as emotional, psychological, and physical abuse by an intimate partner. Survivors often seek support from GBV advocates who specialize in helping survivors navigate abusive situations and potential pathways for healing and remediation. With the rise in TFA, however, survivors and GBV advocates experience barriers and gaps in knowledge in identifying and m",
+      "title": "The Fragility of Trigger-Tag Mechanisms for Misuse Detection in Open-Weight LLMs",
+      "url": "https://arxiv.org/abs/2610.03124",
+      "summary": "arXiv:2610.03124v1 Announce Type: cross Abstract: Open-weight language models can be downloaded, modified, and deployed beyond their developers' control, limiting the effectiveness of centrally enforced safeguards. Recent work has therefore proposed \\emph{trigger-tag} mechanisms that produce a detectable signal when a model is used under a target condition, such as generating phishing contents. Although these mechanisms borrow from established techniques, their use for conditional misuse detection in open-weight LLMs is relatively new. Therefore, existing research works have not systematically",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning",
-      "url": "https://arxiv.org/abs/2610.02699",
-      "summary": "arXiv:2610.02699v1 Announce Type: new Abstract: AI can help adults produce plausible workplace artefacts while leaving their independent reasoning difficult to inspect. LearnAdapt Praxis addresses this design problem through a five-stage learning workspace: Frame, Learn, Build, Validate and Transfer. The application stores an initial response, versioned specifications, coaching records, validation observations, a separate transfer response and facilitator feedback. Project-level server controls restrict coaching, access to earlier work and learner export during an active transfer attempt; they",
+      "title": "The Plan Language of a Curriculum: A Formal Model and the Complexity of Degree Planning",
+      "url": "https://arxiv.org/abs/2610.03392",
+      "summary": "arXiv:2610.03392v1 Announce Type: cross Abstract: We model an academic curriculum as a generator of a language of feasible study plans: prerequisites are monotone Boolean formulas in conjunctive normal form, degree requirements are credit-threshold covering constraints, and a study plan is a sequence of terms bounded by a per-term credit capacity. Within this model, we settle the complexity of the two natural planning objectives, the number of terms to a degree and the total credit load, and we isolate the structural commitment responsible for each source of hardness. Time to degree is polynom",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "ReLEAF: A Socio-Technical Framework Bridging Custodians and Researchers for Trustworthy Data Sharing",
-      "url": "https://arxiv.org/abs/2610.02720",
-      "summary": "arXiv:2610.02720v1 Announce Type: new Abstract: Growing volumes of educational real-world data (ERWD) are being collected across learning platforms and institutional systems. Sharing these data within the Learning Analytics community offers substantial research opportunities, yet access remains limited by ethical, regulatory and governance constraints. Prior work has primarily focused on anonymisation techniques, but little attention has been paid to operational design of practical ERWD sharing, particularly how data custodians and researchers interact through privacy-preserving access mechani",
+      "title": "Still funded, no longer counted: how NIH's 2025 award reviews changed what the government counts as minority health research",
+      "url": "https://arxiv.org/abs/2610.03443",
+      "summary": "arXiv:2610.03443v1 Announce Type: cross Abstract: Funders know their portfolios through software that classifies award text. The US National Institutes of Health (NIH) reports its spending in more than 300 categories mined this way, and work on classification and indicators treats the text as the applicant's to write. In 2025 NIH required \"DEI language\" removed from awards not supporting DEI activities, and so policed the words it also counts. We followed population names through 37,790 continuing awards, checking them against practice records. Names were informative: in new awards with trial ",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education",
-      "url": "https://arxiv.org/abs/2610.02731",
-      "summary": "arXiv:2610.02731v1 Announce Type: new Abstract: Generative AI weakens the link between assessed performance and the cognitive processes that educational work is expected to reflect. This paper examines observable traces of those processes in a sample of 150 student-AI conversations. The analysis uses the concept of epistemic ownership as an interpretive framework, focusing on three dimensions that can become visible in interaction: Direction, Integration, and Evaluation. The results show that similar assessed performance can coexist with substantially different observable patterns of cognitive",
+      "title": "Do Large Language Models Know Colombian Law? A Reliability Benchmark for the Colombian Legal System",
+      "url": "https://arxiv.org/abs/2610.03639",
+      "summary": "arXiv:2610.03639v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used to support legal practice, education, and research, yet their reliability in national legal systems outside the United States remains largely undocumented. We introduce an expert-validated benchmark for evaluating LLM reliability on the Colombian legal system. The benchmark comprises 1,042 items spanning ten areas of law and three question formats (closed multiple-choice, semi-open, and open-ended IRAC), built through a human-in-the-loop pipeline with multi-stage expert review. We evaluate 15 c",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A population-level assessment framework for flood-related wellbeing from public discourse in Ireland",
-      "url": "https://arxiv.org/abs/2610.03334",
-      "summary": "arXiv:2610.03334v1 Announce Type: new Abstract: \\ textbf{Background.} Ireland's position on the eastern North Atlantic exposes it to moisture-laden westerlies and frequent low-pressure systems, generating abundant precipitation and substantial pluvial and fluvial flood risk. Climate change is intensifying heavy rainfall and compound flood risk, with consequences extending beyond physical damage and conventional economic indicators. \\ textbf{Method.} We present a framework for assessing flood-related wellbeing from unobtrusive public discourse over time. The framework develops an assessment ins",
+      "title": "Fairness Is More Than Algorithms: Racial Disparities in Time-to-Recidivism",
+      "url": "https://arxiv.org/abs/2504.18629",
+      "summary": "arXiv:2504.18629v2 Announce Type: replace Abstract: Racial disparities in recidivism remain a persistent challenge, and the growing adoption of risk assessment algorithms has intensified the scrutiny of their sources. Past works have primarily focused on disparities in the predictions of these algorithms, viewing recidivism as a binary outcome. While sociological and criminological research has long documented non-algorithmic factors in recidivism, it remains unclear whether the risk assessments that decision-makers act on fully account for racial disparities. This work presents a multi-stage ",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Quantifying Ethereum Energy Consumption via Network Mapping",
-      "url": "https://arxiv.org/abs/2610.03440",
-      "summary": "arXiv:2610.03440v1 Announce Type: new Abstract: Ethereum's electricity use fell by about 99.95% after the move from proof of work to proof of stake. Service providers still need to report operational energy use, e.g. under the EU Markets in Crypto-Assets Regulation (MiCAR). Existing estimates either apply one typical wattage to every node or start from aggregated monitoring counts. Both ignore attributes that nodes already advertise on the peer-to-peer network: client software, ARM or x86 hardware, hosting location, and validator role. We crawl the consensus and execution layers, assign each p",
+      "title": "\"Lighting The Way For Those Not Here\": How Can Technology Researchers Help Resist the Missing and Murdered Indigenous Relatives (MMIR) Crisis?",
+      "url": "https://arxiv.org/abs/2601.17966",
+      "summary": "arXiv:2601.17966v2 Announce Type: replace Abstract: Indigenous peoples across Turtle Island face disproportionate rates of disappearance and murder, a genocide rooted in settler-colonial violence and systemic erasure. Technology plays a crucial role in the Missing and Murdered Indigenous Relatives (MMIR) crisis: it perpetuates systemic violence and impedes investigations, yet also enables sites of advocacy, healing, and resistance. For example, Native communities utilize AMBER alerts, digital news, sovereign crowdsourced databases, social media groups, and resistance movements to mobilize sear",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement",
-      "url": "https://arxiv.org/abs/2610.02492",
-      "summary": "arXiv:2610.02492v1 Announce Type: cross Abstract: LLM judges are increasingly used to assess whether AI outputs meet workplace requirements, but agreement on response rankings does not establish agreement on acceptance rates or occupational aggregates. We introduce O*NET-BENCH, an audit suite derived from an existing survey of 45,796 worker ratings, and evaluate 33 pre-existing judge configurations across six model families on 4,501 test ratings. Twenty-five configurations achieve tie-aware pair accuracy of at least 0.60, although a train-fitted response-only TF-IDF baseline nearly matches the",
+      "title": "The impacts of artificial intelligence on environmental sustainability and human well-being",
+      "url": "https://arxiv.org/abs/2602.24091",
+      "summary": "arXiv:2602.24091v2 Announce Type: replace Abstract: Artificial intelligence (AI) is increasingly being described as a transformative general-purpose technology, yet its impacts on environmental sustainability and human well-being remain poorly understood. Here, we conduct a systematic review of 1,291 studies selected from 6,655 records to map how the literature assesses these impacts. We find that current research provides a fragmented and uneven account of AI's consequences for human well-being and the environment. Environmental studies focus narrowly on energy use and CO2 emissions (72%) and",
       "published": "2026-10-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
