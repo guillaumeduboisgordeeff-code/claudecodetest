@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-05",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Social bot detection in the age of ChatGPT: Challenges and opportunities",
+      "url": "https://arxiv.org/abs/2610.02386",
+      "summary": "arXiv:2610.02386v1 Announce Type: new Abstract: We present a comprehensive overview of the challenges and opportunities in social bot detection in the context of the rise of sophisticated AI-based chatbots. By examining the state of the art in social bot detection techniques and the more salient real-world application to date, we identify gaps and emerging trends in the field, with a focus on addressing the unique challenges posed by AI-generated conversations and behaviors. We suggest potentially promising opportunities and research directions in social bot detection, including (i) the use of",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Conditions for Social Trajectory Collapse: Agent-Based Simulation of Time-Geographic Trajectory Distributions",
+      "url": "https://arxiv.org/abs/2610.02581",
+      "summary": "arXiv:2610.02581v1 Announce Type: new Abstract: Metropolitan concentration has motivated policies for more balanced regional development. We use agent-based simulation to examine trajectory diversity, the variety of people's recurring activity orientations toward neighborhoods, urban centers, and wider networks. The model maps 2010 population shares to 2026 distributions in five country cases, China, Russia, Japan, the United Kingdom, and the United States, and simulates change to 2036. Trajectory diversity declines by 52.6-79.0% over 2026-2036. Russia and Japan show the largest increases in t",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Information Operations Exploit APIs to Manipulate Social Media",
+      "url": "https://arxiv.org/abs/2610.02591",
+      "summary": "arXiv:2610.02591v1 Announce Type: new Abstract: Research on information operations has focused primarily on the coordinated accounts involved in such campaigns and in the content they promote. Bad actors manage the activity of inauthentic accounts through programmatic interfaces (APIs), but the role of this underlying infrastructure in enabling and uncovering such coordinated behaviors remains largely unexplored. This study investigates how the Twitter (now X) API was used to coordinate influence operations on the platform. Since API access is managed through developer apps, we extract app met",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Lessons from Trauma-Informed Training on Technology-Facilitated Abuse for Gender-Based Violence Advocates",
+      "url": "https://arxiv.org/abs/2610.02688",
+      "summary": "arXiv:2610.02688v1 Announce Type: new Abstract: Technology-facilitated abuse (TFA) is an emerging gendered public health crisis affecting millions of people across the globe. TFA coincides with other forms of gender-based violence (GBV), such as emotional, psychological, and physical abuse by an intimate partner. Survivors often seek support from GBV advocates who specialize in helping survivors navigate abusive situations and potential pathways for healing and remediation. With the rise in TFA, however, survivors and GBV advocates experience barriers and gaps in knowledge in identifying and m",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "LearnAdapt Praxis: Controlled AI Assistance and Evidence Traces for Adult Workplace Learning",
+      "url": "https://arxiv.org/abs/2610.02699",
+      "summary": "arXiv:2610.02699v1 Announce Type: new Abstract: AI can help adults produce plausible workplace artefacts while leaving their independent reasoning difficult to inspect. LearnAdapt Praxis addresses this design problem through a five-stage learning workspace: Frame, Learn, Build, Validate and Transfer. The application stores an initial response, versioned specifications, coaching records, validation observations, a separate transfer response and facilitator feedback. Project-level server controls restrict coaching, access to earlier work and learner export during an active transfer attempt; they",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "ReLEAF: A Socio-Technical Framework Bridging Custodians and Researchers for Trustworthy Data Sharing",
+      "url": "https://arxiv.org/abs/2610.02720",
+      "summary": "arXiv:2610.02720v1 Announce Type: new Abstract: Growing volumes of educational real-world data (ERWD) are being collected across learning platforms and institutional systems. Sharing these data within the Learning Analytics community offers substantial research opportunities, yet access remains limited by ethical, regulatory and governance constraints. Prior work has primarily focused on anonymisation techniques, but little attention has been paid to operational design of practical ERWD sharing, particularly how data custodians and researchers interact through privacy-preserving access mechani",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Same Performance, Different Process: Epistemic Ownership in AI-Mediated Education",
+      "url": "https://arxiv.org/abs/2610.02731",
+      "summary": "arXiv:2610.02731v1 Announce Type: new Abstract: Generative AI weakens the link between assessed performance and the cognitive processes that educational work is expected to reflect. This paper examines observable traces of those processes in a sample of 150 student-AI conversations. The analysis uses the concept of epistemic ownership as an interpretive framework, focusing on three dimensions that can become visible in interaction: Direction, Integration, and Evaluation. The results show that similar assessed performance can coexist with substantially different observable patterns of cognitive",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A population-level assessment framework for flood-related wellbeing from public discourse in Ireland",
+      "url": "https://arxiv.org/abs/2610.03334",
+      "summary": "arXiv:2610.03334v1 Announce Type: new Abstract: \\ textbf{Background.} Ireland's position on the eastern North Atlantic exposes it to moisture-laden westerlies and frequent low-pressure systems, generating abundant precipitation and substantial pluvial and fluvial flood risk. Climate change is intensifying heavy rainfall and compound flood risk, with consequences extending beyond physical damage and conventional economic indicators. \\ textbf{Method.} We present a framework for assessing flood-related wellbeing from unobtrusive public discourse over time. The framework develops an assessment ins",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Quantifying Ethereum Energy Consumption via Network Mapping",
+      "url": "https://arxiv.org/abs/2610.03440",
+      "summary": "arXiv:2610.03440v1 Announce Type: new Abstract: Ethereum's electricity use fell by about 99.95% after the move from proof of work to proof of stake. Service providers still need to report operational energy use, e.g. under the EU Markets in Crypto-Assets Regulation (MiCAR). Existing estimates either apply one typical wattage to every node or start from aggregated monitoring counts. Both ignore attributes that nodes already advertise on the peer-to-peer network: client software, ARM or x86 hardware, hosting location, and validator role. We crawl the consensus and execution layers, assign each p",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Right Order, Wrong Scale: Auditing LLM Judges for Occupational AI Measurement",
+      "url": "https://arxiv.org/abs/2610.02492",
+      "summary": "arXiv:2610.02492v1 Announce Type: cross Abstract: LLM judges are increasingly used to assess whether AI outputs meet workplace requirements, but agreement on response rankings does not establish agreement on acceptance rates or occupational aggregates. We introduce O*NET-BENCH, an audit suite derived from an existing survey of 45,796 worker ratings, and evaluate 33 pre-existing judge configurations across six model families on 4,501 test ratings. Twenty-five configurations achieve tie-aware pair accuracy of at least 0.60, although a train-fitted response-only TF-IDF baseline nearly matches the",
+      "published": "2026-10-05T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
