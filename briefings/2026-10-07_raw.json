@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-07",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "When the Rule-Maker Runs the World Championship: Late Patches and Procedural Accountability in League of Legends",
+      "url": "https://arxiv.org/abs/2610.07427",
+      "summary": "arXiv:2610.07427v1 Announce Type: new Abstract: Riot Games, which runs the League of Legends World Championship (Worlds), also changes the game shortly before each tournament. This concentration of authority raises a governance question: Who scrutinizes how the benefits and burdens of late rule changes are distributed? We examine all ten championships from 2016 to 2025, combining 1,097 games, 215 team-years, and LLM coding of 1,090 champion changes across 40 patches. On average, 33% of a team's prior picks were on champions with net nerfs in the patches it had not played before Worlds, and 8% ",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Can Power Draw Constrain Covert Compute? Limits of Analogue Verification for AI Governance",
+      "url": "https://arxiv.org/abs/2610.07476",
+      "summary": "arXiv:2610.07476v1 Announce Type: new Abstract: Frontier AI treaties or agreements on limiting computation require external verification; an external auditor must be able to confirm how much computation actually ran and that parties are adhering to the agreement. Analogue, off-chip measurements such as power draw provide an information channel for verification. It is unknown how well these analogue channels can constrain computation against an adversary who actively tries to subvert the audit. We derive a closed form for $\\beta$, the largest hidden computation a power trace cannot exclude, as ",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Algorithmic Marginalization to AI-Mediated Re-Centering: Can Culturally Grounded AI Bring Hakka Language and Culture Back into Mainstream Society?",
+      "url": "https://arxiv.org/abs/2610.07672",
+      "summary": "arXiv:2610.07672v1 Announce Type: new Abstract: As large language models increasingly mediate writing, translation, information retrieval, and education, the technological support available to a language may influence its position in contemporary social life. For minority and minoritized languages, this raises a dual problem: inadequate functionality can encourage movement toward dominant languages, while apparently fluent assistance can normalize culturally distinctive expression. This conceptual Research Note develops a framework connecting algorithmic cultural marginalization, cultural grou",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Online Sign Language Interpretation System",
+      "url": "https://arxiv.org/abs/2610.07872",
+      "summary": "arXiv:2610.07872v1 Announce Type: new Abstract: The Walloon Region commissioned this study to improve deaf people's access to public services for the new millennium. It focuses on sign language users, about 25,000 adults in the French-speaking Community, for whom written French is close to a foreign language. The core problem is a severe shortage of interpreters: only about twenty work in French-speaking Belgium, so appointments take weeks to arrange and emergencies cannot be covered. The study assessed three options. The recommended one, remote video interpretation, could be deployed at the t",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Personalized Recommendations Without Inducing Congestion: Mitigating Disparities in the NYC High School Match",
+      "url": "https://arxiv.org/abs/2610.08275",
+      "summary": "arXiv:2610.08275v1 Announce Type: new Abstract: Algorithmic recommendations can help participants navigate large matching markets. For example, recommendations for school and college choices may reduce information frictions and disparities in access to high-performing programs. At scale, however, recommenders in capacity-constrained settings can be self-defeating: if they steer too many users toward the same items, then even users who were originally predicted to have a high chance of matching to an item may not, due to increased competition. In this paper, we formalize this phenomenon of reco",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Joint upper-bound coverage and route-choice utility: an empirical evaluation on two urban proxy tasks",
+      "url": "https://arxiv.org/abs/2610.06995",
+      "summary": "arXiv:2610.06995v1 Announce Type: cross Abstract: Whether more accurate traffic forecasts or higher uncertainty coverage improve route decisions is unclear. We evaluate this question with a frozen protocol that separates speed error, joint candidate path upper bound coverage, route selection, and realized loss. Using processed road speed data from Beijing and Chengdu, we construct offline proxy tasks with 150 origin destination pairs, three candidate paths, and 14 test days per city. We compare raw 90th percentile path time bounds with jointly calibrated upper bounds under minimum bound route ",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Educating future engineers about LLMs: A scalable workshop",
+      "url": "https://arxiv.org/abs/2610.07027",
+      "summary": "arXiv:2610.07027v1 Announce Type: cross Abstract: As large language models (LLMs) are increasingly integrated into engineering workflows, students require hands-on experience to learn how to collaborate with them critically. This paper presents a scalable gamified workshop designed for engineering Master's students to practice human-AI collaboration in navigation planning. Using a mobile web interface across 10 workshop sessions, a total of 226 students wrote prompts for a non-reasoning and a reasoning LLM to solve grid-based navigation tasks of increasing complexity. The system returned robot",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "WPTokens: A Dataset for Studying the Regulation of Wikipedia",
+      "url": "https://arxiv.org/abs/2610.07108",
+      "summary": "arXiv:2610.07108v1 Announce Type: cross Abstract: Studying how Wikipedia is regulated requires knowing who adds, rewrites, moves and deletes which piece of content, when and where. WPTokens is a dataset that answers these questions over the full revision history of the French-language Wikipedia. It relies on a positional diff over two layers: a text layer made of sentences, and a node layer made of the structural elements of wikitext (templates, links, references, headings, tables, lists, etc.). Each piece of content keeps a stable identifier for its whole life, and every change to it is recor",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Can LLM-assisted regularization increase forecast accuracy for migration flows in low data regimes?",
+      "url": "https://arxiv.org/abs/2610.07208",
+      "summary": "arXiv:2610.07208v1 Announce Type: cross Abstract: Predicting migration flows remains a significant challenge for traditional gravity-based forecasting models, which primarily rely on structured socio-economic indicators such as economic disparity, political stability, and geographic distance. This work investigates whether Large Language Models (LLMs) can improve migration forecasting by extracting contextual migration-related signals from news articles and incorporating them into a weighted Lasso forecasting framework through feature-specific regularization penalties. The proposed framework u",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Redistributing Harm: Document Transition and the Limits of Trans Inclusion in India's Identity Systems",
+      "url": "https://arxiv.org/abs/2610.07343",
+      "summary": "arXiv:2610.07343v1 Announce Type: cross Abstract: Identity documents (IDs) are some of the most consequential sites through which transgender people encounter state infrastructures. This article examines document transition, the work of aligning names, gender markers, and related information across official records in India based on focus groups with sixteen trans participants, most of whom were transmasculine and gender diverse, in mid-2025. Participants described encountering an absence of clear protocols, changing demands for proof, and objectionable conduct from officials, arising often fr",
+      "published": "2026-10-07T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
