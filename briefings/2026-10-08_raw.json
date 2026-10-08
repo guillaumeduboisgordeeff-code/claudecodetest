@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-08",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Talking with Language Models",
+      "url": "https://arxiv.org/abs/2610.09064",
+      "summary": "arXiv:2610.09064v1 Announce Type: new Abstract: When we interact with large language models (LLMs), are we having a conversation? They are designed to invite us to treat them as intelligent interlocutors who remember, act, and make commitments. But appearances deceive. We introduce the artifactual stance, a framework that reconceives human-AI interaction as artifact-mediated exchanges of candidate texts. LLM outputs are candidate texts optimized for utility, not utterances bearing meaning or force. LLMs are sophisticated text generators, not speakers. Between sessions, nothing runs; between tu",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Beyond Score Accuracy: Examining the Diagnostic Quality of LLM-Generated Structured Assessment in Higher Education",
+      "url": "https://arxiv.org/abs/2610.09460",
+      "summary": "arXiv:2610.09460v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly adopted for automated grading and feedback in higher education, their structured outputs, including multi-dimensional rubric scores, detailed feedback comments, and improvement suggestions, create an appearance of thorough analytic evaluation. This study examines whether these outputs deliver what they appear to offer. Using the JorGPT dataset of 3,041 student responses to 50 open-ended computer science questions, scored by both human instructors and three commercial LLMs, we identify three systema",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Comprehension Audits to Mitigate Risks from Automated AI Research",
+      "url": "https://arxiv.org/abs/2610.10064",
+      "summary": "arXiv:2610.10064v1 Announce Type: new Abstract: AI is already writing a majority of code for frontier AI labs. This creates a safety risk if there is insufficient human oversight. Existing work proposes minimum comprehension thresholds and unaided checks to mitigate this. To our knowledge, however, there is currently no published frontier-AI assurance regime that requires demonstrated evidence that the responsible humans understand what they are building as a precommitted condition for continuing development or usage. We propose comprehension audits, a novel development-process assurance mecha",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When Scientific Cognition Is No Longer Scarce",
+      "url": "https://arxiv.org/abs/2610.10241",
+      "summary": "arXiv:2610.10241v1 Announce Type: new Abstract: AI could change which parts of science impede progress. Consider a world in which machine systems are better, faster, and cheaper than people at most scientific work that can be done through a computer. Our question is what would limit science in that world. Literature synthesis, hypothesis generation, software development, simulation, and analysis could become abundant, while experiments, observations, well-supported conclusions, and accountable institutional au- thority remain scarce. Science would then be constrained by a different set of reso",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "HydroSphere: A Framework for Governed, Self-Healing Wastewater Infrastructure",
+      "url": "https://arxiv.org/abs/2610.08819",
+      "summary": "arXiv:2610.08819v1 Announce Type: cross Abstract: Rapid industrialization and urban growth are increasing pressure on water quality and wastewater treatment systems, while conventional treatment plants often rely on static monitoring and control strategies that cannot easily adapt to changing pollutant conditions. This paper presents HydroSphere, a governed, data-driven framework for real-time water quality monitoring, forecasting, treatment optimization, and fault recovery. HydroSphere is evaluated using 2.82 million water-quality measurements collected between 1940 and 2023. The framework in",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
+      "url": "https://arxiv.org/abs/2610.08878",
+      "summary": "arXiv:2610.08878v1 Announce Type: cross Abstract: This article develops a failure-mode framework for analyzing how advanced artificial intelligence could contribute to human extinction, irreversible civilizational collapse, or permanent human disempowerment. The central thesis is that catastrophic AI risk does not require consciousness, hostility, or an explicit intention to harm humanity. Instead, risk may arise through several distinct but interacting pathways, including autonomous misalignment, harmful human use, organizational failure, and competitive deployment. The severity of these path",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Humanize: Judgement Engineering for Agentic Coding",
+      "url": "https://arxiv.org/abs/2610.08900",
+      "summary": "arXiv:2610.08900v1 Announce Type: cross Abstract: Agentic coding makes code generation cheap, but reliable completion remains difficult: the agent that writes the code is a weak judge of whether it is done. We present Humanize, a multi-agent orchestration workflow for agentic coding built around judgement engineering: explicit, mechanically enforced decisions at the boundaries between planning, implementation, review, and learning. A human approves a plan contract, a builder agent implements it in rounds, and a reviewer agent from another vendor decides completion; deterministic hooks, not a m",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Move Fast and Mend Things: Keeping Up with Evolving AI Harms Using Social Media Commentary",
+      "url": "https://arxiv.org/abs/2610.09082",
+      "summary": "arXiv:2610.09082v1 Announce Type: cross Abstract: The rapid deployment of AI systems has created socio-technical, psychological, and operational harms that can elude ex-ante threat modelling and ex-post incident tracking. We introduce an LLM-assisted thematic analysis pipeline to dynamically detect, categorise, and track emerging AI harms from large-scale social media data. Applying it to 5.7 million Reddit post summaries over 18 months (01/2025 to 06/2026), we curate and release a dataset of 575,000 AI harm-related posts and a bottom-up AI harm taxonomy of 12 categories and 47 subnodes. The t",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI-Assisted Submissions in Online Research Are Rare and Highly Concentrated but Routinely Approved",
+      "url": "https://arxiv.org/abs/2610.09279",
+      "summary": "arXiv:2610.09279v1 Announce Type: cross Abstract: Online research platforms underpin much of what science claims about people, on the assumption that a human produced each response. Generative AI threatens that assumption by letting participants delegate responses to a chatbot, yet how often they do so remains unclear because prior estimates rely on self-report or automated detection rather than direct observation. We surveyed 2,500 workers on a high quality online research platform and directly observed AI assistance by linking donated ChatGPT histories to platform submission records of weekl",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The AI Evaluation Ecosystem",
+      "url": "https://arxiv.org/abs/2610.09296",
+      "summary": "arXiv:2610.09296v1 Announce Type: cross Abstract: AI evaluation shapes the decisions of model providers, users, funders, and regulators. We argue that designing valid benchmarks requires contextualizing design choices in the dynamics of this ecosystem of actors. We develop a simulation architecture that combines rule-based market dynamics with LLM-driven strategic actors, building on advances in Generative Agent-Based Modeling (GABM). We model benchmarks, consumer needs, and provider capabilities as vectors over a six-dimensional capability space (reasoning, coding, knowledge, safety, communic",
+      "published": "2026-10-08T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
