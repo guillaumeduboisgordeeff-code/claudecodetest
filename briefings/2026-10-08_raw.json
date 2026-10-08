@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Talking with Language Models",
-      "url": "https://arxiv.org/abs/2610.09064",
-      "summary": "arXiv:2610.09064v1 Announce Type: new Abstract: When we interact with large language models (LLMs), are we having a conversation? They are designed to invite us to treat them as intelligent interlocutors who remember, act, and make commitments. But appearances deceive. We introduce the artifactual stance, a framework that reconceives human-AI interaction as artifact-mediated exchanges of candidate texts. LLM outputs are candidate texts optimized for utility, not utterances bearing meaning or force. LLMs are sophisticated text generators, not speakers. Between sessions, nothing runs; between tu",
+      "title": "The Confidence Game: Strategic Miscalibration in Human-AI Delegation",
+      "url": "https://arxiv.org/abs/2610.09371",
+      "summary": "arXiv:2610.09371v1 Announce Type: cross Abstract: Calibrated uncertainty quantification is essential to ensuring AI agents are trustworthy and reliable. However, when agents seek to maximize user engagement or revenue, confidence reports may be strategically distorted, detracting from their informativeness. We formalize this problem in the Confidence Game: a repeated signaling game with imperfect monitoring in which an agent of unknown honesty and ability reports its confidence, and a user decides whether to delegate the task or complete it herself. The agent manages the tradeoff between manip",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond Score Accuracy: Examining the Diagnostic Quality of LLM-Generated Structured Assessment in Higher Education",
-      "url": "https://arxiv.org/abs/2610.09460",
-      "summary": "arXiv:2610.09460v1 Announce Type: new Abstract: As Large Language Models (LLMs) are increasingly adopted for automated grading and feedback in higher education, their structured outputs, including multi-dimensional rubric scores, detailed feedback comments, and improvement suggestions, create an appearance of thorough analytic evaluation. This study examines whether these outputs deliver what they appear to offer. Using the JorGPT dataset of 3,041 student responses to 50 open-ended computer science questions, scored by both human instructors and three commercial LLMs, we identify three systema",
+      "title": "Stability and Diversity of Networked Self-Consuming Generative Ecosystems",
+      "url": "https://arxiv.org/abs/2610.09409",
+      "summary": "arXiv:2610.09409v1 Announce Type: cross Abstract: The widespread deployment of generative AI has made it increasingly difficult to distinguish synthetic content from real data. Consequently, synthetic data is inevitably incorporated into the training pipelines of future model generations, forming a self-consuming training loop. Prior work has studied the effects of such recursive self-consuming training, but analyses have largely been limited to isolated models, where a model consumes only its own synthetic data, or to simplified interactions between two models. This paper takes a first step t",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Comprehension Audits to Mitigate Risks from Automated AI Research",
-      "url": "https://arxiv.org/abs/2610.10064",
-      "summary": "arXiv:2610.10064v1 Announce Type: new Abstract: AI is already writing a majority of code for frontier AI labs. This creates a safety risk if there is insufficient human oversight. Existing work proposes minimum comprehension thresholds and unaided checks to mitigate this. To our knowledge, however, there is currently no published frontier-AI assurance regime that requires demonstrated evidence that the responsible humans understand what they are building as a precommitted condition for continuing development or usage. We propose comprehension audits, a novel development-process assurance mecha",
+      "title": "Dual- versus Single-Suggestion AI Support for Radiographic Interpretation in Residents: Randomized Multireader Study",
+      "url": "https://arxiv.org/abs/2610.09589",
+      "summary": "arXiv:2610.09589v1 Announce Type: cross Abstract: Purpose: To compare dual- and single-suggestion AI support for radiographic interpretation by residents, particularly when the shared AI suggestion was incorrect. Materials and Methods: This prospective, multicenter, randomized three-arm reader study was conducted at three hospitals in China from July to September 2026 (ChiCTR2600129243). After specialty stratification, 132 residents with fewer than 3 years of clinical experience were randomized 1:1:1 to GPT-5.4 alone (group A), GPT-5.4 plus Kimi-K2.6 (group B), or GPT-5.4 plus Gemini-3.6 Flash",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When Scientific Cognition Is No Longer Scarce",
-      "url": "https://arxiv.org/abs/2610.10241",
-      "summary": "arXiv:2610.10241v1 Announce Type: new Abstract: AI could change which parts of science impede progress. Consider a world in which machine systems are better, faster, and cheaper than people at most scientific work that can be done through a computer. Our question is what would limit science in that world. Literature synthesis, hypothesis generation, software development, simulation, and analysis could become abundant, while experiments, observations, well-supported conclusions, and accountable institutional au- thority remain scarce. Science would then be constrained by a different set of reso",
+      "title": "CYBERFORT: A Compliance-Chain Platform Operationalising the Cyber Resilience Act for SMEs",
+      "url": "https://arxiv.org/abs/2610.09918",
+      "summary": "arXiv:2610.09918v1 Announce Type: cross Abstract: The EU Cyber Resilience Act (CRA) turns product cybersecurity into a lifecycle compliance obligation for manufacturers, importers, distributors, and integrators of products with digital elements on the EU market, a load that falls largely on small and medium-sized enterprises (SMEs) that rarely have dedicated governance, risk, and compliance (GRC) capacity. We present CYBERFORT, an open-source CRA-first compliance platform developed under the EU Digital Europe Programme and one of twelve projects in the EU CRA cluster. CYBERFORT operationalises",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "HydroSphere: A Framework for Governed, Self-Healing Wastewater Infrastructure",
-      "url": "https://arxiv.org/abs/2610.08819",
-      "summary": "arXiv:2610.08819v1 Announce Type: cross Abstract: Rapid industrialization and urban growth are increasing pressure on water quality and wastewater treatment systems, while conventional treatment plants often rely on static monitoring and control strategies that cannot easily adapt to changing pollutant conditions. This paper presents HydroSphere, a governed, data-driven framework for real-time water quality monitoring, forecasting, treatment optimization, and fault recovery. HydroSphere is evaluated using 2.82 million water-quality measurements collected between 1940 and 2023. The framework in",
+      "title": "Successive Training Stages and Large Language Model Persuasion: Effects of Misalignment, Supervised Fine-Tuning, and Preference Optimization",
+      "url": "https://arxiv.org/abs/2610.09964",
+      "summary": "arXiv:2610.09964v1 Announce Type: cross Abstract: Large language models (LLMs) can be tuned to influence human attitudes, yet the respective contributions of successive post-training stages remain un-clear. This study examines how three successive training stages affect LLM persuasiveness: (1) misalignment through supervised fine-tuning (SFT) on conspiracy data, (2) additional persuasive SFT on argumentative data, and (3) Identity Preference Optimization (IPO), a preference-optimization method. A total of 835 participants recruited on Prolific were randomly assigned to five between-subject con",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
-      "url": "https://arxiv.org/abs/2610.08878",
-      "summary": "arXiv:2610.08878v1 Announce Type: cross Abstract: This article develops a failure-mode framework for analyzing how advanced artificial intelligence could contribute to human extinction, irreversible civilizational collapse, or permanent human disempowerment. The central thesis is that catastrophic AI risk does not require consciousness, hostility, or an explicit intention to harm humanity. Instead, risk may arise through several distinct but interacting pathways, including autonomous misalignment, harmful human use, organizational failure, and competitive deployment. The severity of these path",
+      "title": "Pump-and-Dump meets Honeypot Tokens: Detection and Analysis of Telegram Bait-and-Trap Schemes",
+      "url": "https://arxiv.org/abs/2610.10149",
+      "summary": "arXiv:2610.10149v1 Announce Type: cross Abstract: While Pump-and-Dump schemes have been extensively studied on centralized exchanges (CEXs), how they operate in decentralized exchanges (DEXs) remains largely unexplored. We monitor 83 Telegram channels used to coordinate Pump-and-Dump campaigns and collect 3,677 events across the BNB Smart Chain and Ethereum. Our analysis reveals that, although these operations superficially resemble CEX-based Pump-and-Dump schemes, their underlying mechanism is fundamentally different. Rather than manipulating prices, organizers orchestrate deceptive Pump-and-",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Humanize: Judgement Engineering for Agentic Coding",
-      "url": "https://arxiv.org/abs/2610.08900",
-      "summary": "arXiv:2610.08900v1 Announce Type: cross Abstract: Agentic coding makes code generation cheap, but reliable completion remains difficult: the agent that writes the code is a weak judge of whether it is done. We present Humanize, a multi-agent orchestration workflow for agentic coding built around judgement engineering: explicit, mechanically enforced decisions at the boundaries between planning, implementation, review, and learning. A human approves a plan contract, a builder agent implements it in rounds, and a reviewer agent from another vendor decides completion; deterministic hooks, not a m",
+      "title": "LLM Persuasion Is in the Eye of the Evaluation",
+      "url": "https://arxiv.org/abs/2610.10232",
+      "summary": "arXiv:2610.10232v1 Announce Type: cross Abstract: Large language models (LLMs) have already been shown to match or exceed human experts in persuasion. While their persuasive capabilities hold promise for beneficial uses such as education and health communication, they can also be used to manipulate and misinform, making their evaluation a growing priority for developers and regulators. That evaluation, however, remains fragmented: studies differ in what they treat as persuasion, and broad claims often rest on narrow, situation-specific assessments. Automated methods, often modelled on human st",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Move Fast and Mend Things: Keeping Up with Evolving AI Harms Using Social Media Commentary",
-      "url": "https://arxiv.org/abs/2610.09082",
-      "summary": "arXiv:2610.09082v1 Announce Type: cross Abstract: The rapid deployment of AI systems has created socio-technical, psychological, and operational harms that can elude ex-ante threat modelling and ex-post incident tracking. We introduce an LLM-assisted thematic analysis pipeline to dynamically detect, categorise, and track emerging AI harms from large-scale social media data. Applying it to 5.7 million Reddit post summaries over 18 months (01/2025 to 06/2026), we curate and release a dataset of 575,000 AI harm-related posts and a bottom-up AI harm taxonomy of 12 categories and 47 subnodes. The t",
+      "title": "Bridging MOOCs, Smart Teaching, and AI-Assisted Learning: A Unified Quantitative Model",
+      "url": "https://arxiv.org/abs/2507.14266",
+      "summary": "arXiv:2507.14266v4 Announce Type: replace Abstract: MOOCs, Smart Teaching (ST), and AI-assisted learning support different stages of higher education, yet a unified quantitative basis for analyzing their contributions, course design, and resource allocation remains limited. This study develops a mathematical model integrating MOOC-based pre-class learning, ST-based in-class adaptation, and AI-assisted post-class personalization. Learner mastery is represented as a bounded multidimensional state, with a common exponential learning-response function describing how instructional resources reduce ",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-Assisted Submissions in Online Research Are Rare and Highly Concentrated but Routinely Approved",
-      "url": "https://arxiv.org/abs/2610.09279",
-      "summary": "arXiv:2610.09279v1 Announce Type: cross Abstract: Online research platforms underpin much of what science claims about people, on the assumption that a human produced each response. Generative AI threatens that assumption by letting participants delegate responses to a chatbot, yet how often they do so remains unclear because prior estimates rely on self-report or automated detection rather than direct observation. We surveyed 2,500 workers on a high quality online research platform and directly observed AI assistance by linking donated ChatGPT histories to platform submission records of weekl",
+      "title": "Reasoning Enhances Robustness to Prompt Injection in LLM-Based Consensus",
+      "url": "https://arxiv.org/abs/2508.04281",
+      "summary": "arXiv:2508.04281v5 Announce Type: replace Abstract: Large Language Models (LLMs) are gaining traction as a method to generate consensus statements and aggregate preferences in digital democracy experiments. Yet, participants can introduce critical vulnerabilities in LLM-based systems. Here, we examine the vulnerability and robustness of off-the-shelf consensus-generating LLMs to prompt-injection attacks, which consist of introducing strategically designed texts to amplify particular viewpoints, erase certain opinions, or divert consensus toward unrelated or irrelevant topics. Using data collec",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The AI Evaluation Ecosystem",
-      "url": "https://arxiv.org/abs/2610.09296",
-      "summary": "arXiv:2610.09296v1 Announce Type: cross Abstract: AI evaluation shapes the decisions of model providers, users, funders, and regulators. We argue that designing valid benchmarks requires contextualizing design choices in the dynamics of this ecosystem of actors. We develop a simulation architecture that combines rule-based market dynamics with LLM-driven strategic actors, building on advances in Generative Agent-Based Modeling (GABM). We model benchmarks, consumer needs, and provider capabilities as vectors over a six-dimensional capability space (reasoning, coding, knowledge, safety, communic",
+      "title": "Scaling Legal AI: Benchmarking Mamba and Transformers for Statutory Classification and Case Law Retrieval",
+      "url": "https://arxiv.org/abs/2509.00141",
+      "summary": "arXiv:2509.00141v2 Announce Type: replace Abstract: Statutory corpora and judicial decisions are growing faster than legal professionals can read them, while individual judgments often exceed the context limits of standard encoder models. Transformer architectures dominate legal NLP benchmarks, but their quadratic attention complexity can require truncating or fragmenting documents that demand whole-document reasoning. Selective state-space models (SSMs), such as Mamba, offer linear-time sequence modeling and are a promising alternative for long legal documents, yet their performance on legal ",
       "published": "2026-10-08T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
