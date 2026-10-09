@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-09",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Improving social media for democratic discourse",
+      "url": "https://arxiv.org/abs/2610.10816",
+      "summary": "arXiv:2610.10816v1 Announce Type: new Abstract: Social media have expanded opportunities for communication and political participation, but today's dominant platforms are optimized primarily for engagement and advertising revenue, contributing to concerns about polarization, misinformation, social isolation, and loss of civility. We explore how social media might instead be deliberately designed to support democratic discourse, collective deliberation, and collective intelligence. Drawing on literature across computer science, psychology, political science, and related fields, we present a mod",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Political polarization and mental wellbeing: asymmetric evidence for bidirectionality",
+      "url": "https://arxiv.org/abs/2610.11601",
+      "summary": "arXiv:2610.11601v1 Announce Type: new Abstract: A growing body of evidence suggests that political polarization and mental health and wellbeing influence each other. Yet the two directions, how polarization shapes mental wellbeing and how mental wellbeing shapes polarization, remain siloed across disciplines. We review both literatures to evaluate the strength and alignment of evidence for bidirectional effects. We find that the literature varies widely in constructs, measures, and levels of analysis, and that the evidence for the two pathways is asymmetric: links from polarization to mental w",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Auditing AI-Washing in German Startups: A Mixed-Methods Study of Marketing Claims and Perceptions",
+      "url": "https://arxiv.org/abs/2610.11788",
+      "summary": "arXiv:2610.11788v1 Announce Type: new Abstract: AI-washing is the use of 'AI' as a marketing term where products' claims are exaggerated, likely to capture the hype from investors and consumers. In this paper, we examine how startups market AI and how people perceive those claims. We audited the German startup market, applying an annotation codebook of seven dimensions to 100 startups and conducting 63 expert interviews. Startups exaggerated AI capability in three forms: claims without inspectable evidence, performance numbers without methodology, and claims without acknowledged limits. The ca",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Automated Disinformation and Malicious AI Swarms: Risks for Democracy and Development in Africa",
+      "url": "https://arxiv.org/abs/2610.11930",
+      "summary": "arXiv:2610.11930v1 Announce Type: new Abstract: Generative artificial intelligence is reshaping how information is produced, accessed, and circulated, while enabling disinformation campaigns of increasing scale and sophistication. There is currently no clear evidence that fully autonomous AI swarms conduct influence operations at scale, but their enabling capabilities are advancing. We define malicious AI swarms as coordinated, persistent, and adaptive multi-agent systems designed for influence operations, distinguishing them from AI-assisted content production and centrally managed synthetic ",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The learner who does not learn: when optimizing a pedagogical metric degrades LLM tutoring",
+      "url": "https://arxiv.org/abs/2610.12125",
+      "summary": "arXiv:2610.12125v1 Announce Type: new Abstract: It is assumed that a natural way to improve the pedagogical quality of large language model tutors is to define a metric of instructional performance and fine-tune the model against it. To test this strategy, we designed a metric of pedagogical adaptivity that scores each instructional decision in a learning sequence against the conditions of the learning situation, which is the standard used for automated pedagogical scoring. We audited a frontier tutor across 2,000 learner scenarios, corrected its weakest cases by fine-tuning an open-weights pr",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Execution and Evaluation: A New Occupational Measure and Long-Run Employment Gradients",
+      "url": "https://arxiv.org/abs/2607.20807",
+      "summary": "arXiv:2607.20807v1 Announce Type: cross Abstract: Artificial intelligence automates execution more readily than evaluation: producing output is cheap, judging whether it is correct is not. Exposure measures rank tasks by whether AI can perform them, not by which function the human supplies. I score all $19{,}265$ O*NET task statements under fixed rubrics to build occupation-level execution and AI-capability shares. The execution share is reproducible across model coders and O*NET vintages and distinct from AI capability and routine-task intensity; it is a model-based measure, not human-validat",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Maintaining Human Verification Capacity under Automation",
+      "url": "https://arxiv.org/abs/2609.38459",
+      "summary": "arXiv:2609.38459v1 Announce Type: cross Abstract: Human verification depends on expertise that must be maintained before it is needed. This paper links reliance on automated checks, investment in human checking ability, and performance during an interruption. Better checking lowers the error reduction gained from an extra unit of human skill while the checker works. It can therefore reduce the incentive to preserve independent expertise, even when it lowers the best achievable expected cost of maintenance and errors. In an illustration, a more informative checker raises detection while it work",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "An ecology of participation for fusion energy development",
+      "url": "https://arxiv.org/abs/2610.10914",
+      "summary": "arXiv:2610.10914v1 Announce Type: cross Abstract: Decisions that will shape future fusion facilities, including the production of waste, the management of tritium, the achievement of safety, and impacts on land, water, and local communities, are increasingly becoming sociotechnical in nature. For prior energy technologies, fission among them, such decisions were made top-down and met sustained public opposition. Research shows such opposition is rarely a deficit of public understanding and is instead rooted in place-specific environmental, health, sociocultural, and economic concerns and in di",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Risk Ceilings and Development Deadlines: Pacing AI under Uncertain Safety Productivity",
+      "url": "https://arxiv.org/abs/2610.11093",
+      "summary": "arXiv:2610.11093v1 Announce Type: cross Abstract: Can a regulator promise both a risk ceiling and a development deadline when safety productivity is unknown? A ceiling below the final model's unprotected hazard requires a minimum stock of safety knowledge, so both promises hold only if weak research can be ruled out. Learning first and then replaying development, with spare compute in safety, comes close to that minimum. In a calibration with only state risk, constant safety yield, and full knowledge transfer, it needs only 3.3 percent more productivity than the necessary bound. Customer servi",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Can a System-One LLM Perform Knowledge Tracing When Few or No Learners Are Logged?",
+      "url": "https://arxiv.org/abs/2610.11135",
+      "summary": "arXiv:2610.11135v1 Announce Type: cross Abstract: Knowledge tracing (KT) models need many logged learners, so a new course or platform starts without a usable model. In LLM-based KT the LLM generates the answer, which we call System-Two; it is either fine-tuned on the target data or reasons and votes over ten samples, which is slow and gives coarse probabilities. We ask whether an off-the-shelf System-One LLM, which returns a probability for a typed question directly in a single pass, can perform KT when few or no learners are logged. On seven datasets, Jev without any data from the target pla",
+      "published": "2026-10-09T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
