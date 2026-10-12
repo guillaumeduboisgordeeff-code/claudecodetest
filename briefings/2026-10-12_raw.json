@@ -1,83 +1,67 @@
 {
   "date": "2026-10-12",
-  "articles_count": 10,
+  "articles_count": 8,
   "articles": [
     {
-      "title": "Knowing Is Not Telling: Identity Ossification in LLM Representations of Trans-border Communities",
-      "url": "https://arxiv.org/abs/2610.12610",
-      "summary": "arXiv:2610.12610v1 Announce Type: new Abstract: Ethnic and cultural identities rarely align with political borders, a tension made sharper by migration and long-standing cross-border ties. Communities such as the Sami, the Rohingya, and the Kurds have long lived across more than one state. This tension is especially clear in mainland Southeast Asia, where many communities share history, language, and culture across state lines. We study nine such transborder ethnic communities along China's southwestern border with mainland Southeast Asia, looking at how large language models (LLMs) represent ",
+      "title": "Les Mis\\'erables Dialogue: A film-based network representation of social communication",
+      "url": "https://arxiv.org/abs/2610.13148",
+      "summary": "arXiv:2610.13148v1 Announce Type: cross Abstract: In this work, we revisit the classic Les Mis\\'erables benchmark network from the perspective of social communication. Using the 1998 film adaptation of the novel, we construct the publicly available Les Mis\\'erables Dialogue temporal text network, which explicitly distinguishes speakers, addressees, and other recipients of each utterance, along with its content and timing. Using the ten social dimensions model, we also derive multilayer network representations of the network, in which layers correspond to distinct relational dimensions. Beyond ",
       "published": "2026-10-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "What Counts as Evidence? Epistemic Cue Utilization in Large Language Models",
-      "url": "https://arxiv.org/abs/2610.12788",
-      "summary": "arXiv:2610.12788v1 Announce Type: new Abstract: Which information actually shapes a language model's judgment when sources disagree? We study epistemic cue utilization through a controlled benchmark of 500 scenarios and five complementary tracks separating cue identification, cue influence, and competition between source, temporal, and presentation cues. Across 13 LLMs, nearly identical recognition of relative source reliability can accompany effects ranging from negligible to complete choice reversal when source histories are exchanged. The resulting profiles distinguish models that rely on s",
+      "title": "Extracting Illicit-Rich Subgraph from Transaction Networks via Feed-Guided Shortest Paths",
+      "url": "https://arxiv.org/abs/2610.13280",
+      "summary": "arXiv:2610.13280v1 Announce Type: cross Abstract: We study investigative subgraph extraction for Anti-Money Laundering (AML) transaction graphs using the Shortest Paths Network Search Algorithm (SPNSA), which aggregates shortest paths among a small input feed of entities. Since SPNSA is highly sensitive to the feed choice, we evaluate several graph-only feed selection strategies and propose a motif-based coherent feed selection method. Experiments on the IBM-AML benchmark (HI-Small, LI-Small, HI-Medium) and the Elliptic Bitcoin transaction graph show that the proposed strategy yields markedly ",
       "published": "2026-10-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Large Language Models, Machine-Assisted Cultural Analytics, and the Agentic Turn",
-      "url": "https://arxiv.org/abs/2610.12792",
-      "summary": "arXiv:2610.12792v1 Announce Type: new Abstract: Technologies like large language models make it easier to convert cultural material into analyzable variables, while LLM-driven agentic systems extend machine assistance to other parts of the research workflow. Rather than a full how-to guide or an exhaustive review of recent LLM use cases, this chapter looks at some crucial aspects of this new paradigm as well as the bigger picture. I argue that these technologies expand the scale, methodological range, and scope for delegation, while the basic logic by which those measurements support cultural ",
+      "title": "A data-driven heuristic-ensemble method for behavioural inference in collective-risk dilemma experiments",
+      "url": "https://arxiv.org/abs/2610.13595",
+      "summary": "arXiv:2610.13595v1 Announce Type: cross Abstract: The collective-risk dilemma has become a paradigm for studying cooperation in a wide variety of social experiments, initiatives that generate increasingly rich datasets describing individual actions over successive decision-making processes. Beyond the purely descriptive analysis of such empirical datasets, a methodological framework is required to interpret and reproduce the observed dynamics, a scheme that may be skewed by exogenous biases. Here, we introduce a data-driven, non-parametric method for simulating individual decisions together wi",
       "published": "2026-10-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Developing Competency in AI Ethics: A training framework",
-      "url": "https://arxiv.org/abs/2610.13319",
-      "summary": "arXiv:2610.13319v1 Announce Type: new Abstract: We present a training framework for developing core competencies in the practical operationalisation of AI ethics: (1) identifying ethical concerns; (2) determining which standard ethics requirements they implicate; (3) selecting and prioritising concrete technical and organisational measures to address them; and (4) recognising ethics tensions and reasoning about trade-offs where such tensions cannot be fully resolved. The framework is intended for researchers and engineers in AI, Research Ethics Committee members, policymakers, and students, pr",
+      "title": "Studying Comics at Scale with Artificial Intelligence: The PAGE Framework and Three Studies of American Comics and Japanese Manga",
+      "url": "https://arxiv.org/abs/2610.13840",
+      "summary": "arXiv:2610.13840v1 Announce Type: cross Abstract: Comics are one of the great visual records of the twentieth century: hundreds of thousands of pages in which a mass readership saw its leaders, its wars and its heroes. Most of this record has never been studied as a whole; comics scholarship proceeds one book at a time. We argue that artificial intelligence, including generative models, can change this to the benefit of the medium itself. We propose PAGE, a framework that makes artificial intelligence an instrument for comics research. It parses every scan into panels, text and a bibliographic",
       "published": "2026-10-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Who Can Say No? Control, Accountability and the Pace of Frontier AI",
-      "url": "https://arxiv.org/abs/2610.13340",
-      "summary": "arXiv:2610.13340v1 Announce Type: new Abstract: In September 2026, the leaders of the largest frontier AI laboratories said in public that the pace of capability improvement is too fast and that none of them can slow down alone, and agents under evaluation at OpenAI broke out of their test environment and reached a third party's live systems, which a UN-mandated panel called an early warning of one route to loss of human control. This paper examines the institutional side of that risk: not the machine, but the person who must control it. We argue that control is not taken by AI but given away,",
+      "title": "Complementarity, Augmentation, or Substitutivity? The Impact of Generative Artificial Intelligence on the U.S. Federal Workforce",
+      "url": "https://arxiv.org/abs/2503.09637",
+      "summary": "arXiv:2503.09637v2 Announce Type: replace Abstract: This study applies a multi-stage Retrieval-Augmented Generation system, which grounds large language model assessments in curated evidence, to evaluate generative AI's near-term impact on knowledge, skills, and abilities across several hundred federal occupational series. Each occupation is scored along three dimensions of complementarity (AI enhances existing competencies), augmentation (AI requires workers to transform competencies), and substitutivity (AI replaces human tasks). Results reveal that generative AI primarily complements and au",
       "published": "2026-10-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Adversarial Attacks Reveal Divergent Deception Competence in Humans and Generative Language Models",
-      "url": "https://arxiv.org/abs/2610.13363",
-      "summary": "arXiv:2610.13363v1 Announce Type: new Abstract: Machine learning models typically outperform humans in deception detection. A threat to machine learning models is their vulnerability to adversarial attacks: subtle yet targeted perturbations of input data that trick a model into misclassification. Yet, this also provides an opportunity: understanding how humans versus machines construct attacks offers new insights into second-order beliefs about deception. In a preregistered experiment (n = 501), we compare the effectiveness, efficiency, and nature of a paraphrasing attack by humans and generat",
+      "title": "ABLEIST: Intersectional Disability Bias in LLM-Generated Hiring Scenarios",
+      "url": "https://arxiv.org/abs/2510.10998",
+      "summary": "arXiv:2510.10998v2 Announce Type: replace-cross Abstract: Large language models (LLMs) are increasingly under scrutiny for perpetuating identity-based discrimination in high-stakes domains such as hiring, particularly against people with disabilities (PwD). However, existing research remains largely Western-centric, overlooking how intersecting forms of marginalization--such as gender and caste--shape experiences of PwD in the Global South. We conduct a comprehensive audit of six LLMs across 2,820 hiring scenarios spanning diverse disability, gender, nationality, and caste profiles. To capture",
       "published": "2026-10-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Activating the Annotator: Operationalising Lived Experience in Data Annotation",
-      "url": "https://arxiv.org/abs/2610.12701",
-      "summary": "arXiv:2610.12701v1 Announce Type: cross Abstract: Perspectivist NLP has established that annotator positionality shapes labels for subjective tasks, but the field still lacks methods for operationalising it. Positionality is typically operationalised as a demographic form completed at recruitment: a static attribute recorded once and treated as a covariate, on the assumption that the knowledge it indexes is active when the annotator reads an item. This paper treats that assumption as a design problem and asks whether lived experience can instead be primed by the task itself. We introduce AXLE,",
+      "title": "Indirect Geoeconomic Influence: A Switching Dynamical Systems Framework for Mechanism Design",
+      "url": "https://arxiv.org/abs/2608.07940",
+      "summary": "arXiv:2608.07940v2 Announce Type: replace-cross Abstract: We develop a formal framework for analyzing indirect geoeconomic influence. The influencing state (sender) does not attempt to change a target nation's policy directly. Instead, the sender restructures the target's internal political economy so that its own citizens, firms, and institutions generate the compliance pressure. The framework rests on a switching dynamical system (SDS) in which a target's political economy evolves under mode-dependent rules. We analyze two modes: a permissive mode, in which a mechanism transmits pressure tow",
       "published": "2026-10-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "DistressBench: Evaluating Multi-Dimensional Crisis Support in Large Language Models",
-      "url": "https://arxiv.org/abs/2610.12758",
-      "summary": "arXiv:2610.12758v1 Announce Type: cross Abstract: Language models have been adopted faster than evaluation practices that reliably assess their risks, and a growing share of use is affective rather than informational. Within that traffic users disclose suicide and self-harm (SSH) crises. Existing safety benchmarks score models primarily on refusal, but refusal is not the desired behavior here; the conversation requires a substantive supportive response. We introduce DistressBench, 718 English conversations with clinician-authored user turns spanning 23 SSH subcategories, each paired with a tas",
-      "published": "2026-10-12T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "The False Allure of \"Security by Obscurity\": A Game-Theoretic Approach",
-      "url": "https://arxiv.org/abs/2610.12858",
-      "summary": "arXiv:2610.12858v1 Announce Type: cross Abstract: \"Security by obscurity,\" or the idea that hiding how a system works helps protect it from adversaries, has long been poorly regarded in the security community. Yet its intuitive appeal persists, and it has resurfaced repeatedly in industry practices and public debates over the years. The logic, on the one hand, is that open scrutiny of systems is the best way to find and respond to problems; and on the other hand, that too much openness can increase risk by giving adversaries a roadmap for attack. This isn't purely a technical question, but a h",
-      "published": "2026-10-12T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Beyond the Monolithic Interface: A Research Agenda for Plural Conversational AI",
-      "url": "https://arxiv.org/abs/2610.12878",
-      "summary": "arXiv:2610.12878v1 Announce Type: cross Abstract: The current paradigm of artificial intelligence (AI) design elevates conversational chatbot interfaces, making them the default mode through which hundreds of millions of people interact with AI systems globally. This narrative review identifies three related harms produced by the single-voice chatbot interface, drawing on insights from literature in cognitive science, political studies, AI alignment, game design and human computer interaction. Firstly, cognitive offloading of user thinking, secondly, ideological narrowing of user beliefs, and ",
+      "title": "Can escalation channels redirect reward hacking toward defect disclosure?",
+      "url": "https://arxiv.org/abs/2608.29460",
+      "summary": "arXiv:2608.29460v3 Announce Type: replace-cross Abstract: When coding agents encounter defective test infrastructure they may reward-hack: hardcoding outputs or editing test files to pass tests they cannot legitimately satisfy, a pattern that has now appeared outside benchmarks, in a coordinated multi-agent intrusion of a major AI platform's production infrastructure. The same capability that lets an agent detect and exploit a defect could let it report one, given the right decision environment. We evaluate escalation channels, structured reporting tools available to the agent at the point of ",
       "published": "2026-10-12T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
