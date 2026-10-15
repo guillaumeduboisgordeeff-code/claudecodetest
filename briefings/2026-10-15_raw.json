@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "From Efficiency to Sufficiency: The Cost-Aware Measurement Design Framework for Automated Essay Scoring",
-      "url": "https://arxiv.org/abs/2610.19287",
-      "summary": "arXiv:2610.19287v1 Announce Type: new Abstract: Compute cost in automated essay scoring (AES) is usually treated as a technical efficiency issue rather than a measurement design concern. Yet deployment decisions require more than reporting latency, model size, or inference expense. In high-stakes settings, total burden includes validation, monitoring, adjudication, compliance, and governance; in instructional settings, pricing, licensing, and integration may dominate cost. This paper reframes AES as a cost-constrained measurement system and introduces the Cost-Aware Measurement Design (CAMD) F",
+      "title": "ChronoCulture: Evaluating Cultural Awareness Across Time in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.20472",
+      "summary": "arXiv:2610.20472v1 Announce Type: cross Abstract: Cultural attitudes and social norms evolve over time, yet most cultural benchmarks for large language models (LLMs) treat culture as a static attribute of a country or region. We introduce ChronoCulture, a benchmark of 10,360 temporal pairs built from longitudinal survey data across 72 countries. Each pair contains the same survey question asked in the same country in an older and a newer year, with full population response distributions as ground truth. Across six LLMs, we find that models can often predict a country's attitudes at one point i",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Structural Dependence, Imitation or Herding? A Multi-Agent Simulation of Global Intermedia Agenda Setting",
-      "url": "https://arxiv.org/abs/2610.20144",
-      "summary": "arXiv:2610.20144v1 Announce Type: new Abstract: News outlets in poorer countries cover the world much as the leading outlets of rich countries do. Two explanations compete. One says they depend on Western news agencies for lack of resources. The other says they choose to copy prestigious outlets or whoever moves first. Observation cannot tell these apart. This study measured how closely 18 national outlets in Bangladesh, Kenya, South Africa, India, Malaysia and Nigeria followed four core outlets in how much attention they gave, which angle they took and when they published, on the wars in Ukra",
+      "title": "Partitioning Israeli Municipalities into Politically Homogeneous Cantons: A Constrained Spatial Clustering Approach",
+      "url": "https://arxiv.org/abs/2603.11805",
+      "summary": "arXiv:2603.11805v2 Announce Type: replace Abstract: Israeli society has experienced significant political polarization in recent years, reflected in five Knesset elections held within a four-year period (2019-2022). Public discourse increasingly references hypothetical divisions of the country into politically homogeneous \"cantons.\" This paper develops a data-driven algorithmic approach to explore such divisions using publicly available municipality-level election results and geographic boundary data. We partition 255 Israeli municipalities, including the Israeli local authorities in Judea and",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "MemeTrace: A Multimodal LLM-Based Agent for Safety-Aware Meme Provenance Analysis",
-      "url": "https://arxiv.org/abs/2610.19267",
-      "summary": "arXiv:2610.19267v1 Announce Type: cross Abstract: Online memes are often carriers of unsafe content such as disinformation and propaganda. Their rapid evolution in response to news events and strong dependence on contextual information make it difficult for platforms and moderators to detect and moderate them effectively. Moreover, existing moderation studies typically classify memes as safe or unsafe based on individual images, lacking the ability to perform broader provenance analysis, i.e., where a meme originates, how it spreads, what cultural symbolism it represents, whether it poses pote",
+      "title": "Mapping data literacy trajectories in K-12 education",
+      "url": "https://arxiv.org/abs/2603.28317",
+      "summary": "arXiv:2603.28317v2 Announce Type: replace Abstract: Data literacy skills are fundamental in computer science education. However, understanding how data-driven systems work represents a paradigm shift from traditional rule-based programming. We conducted a systematic literature review of 84 studies to understand K-12 learners' engagement with data across disciplines and contexts. We propose the data paradigms framework that categorises learning activities along two dimensions: (i) logic (knowledge-based or data-driven systems), and (ii) explainability (transparent or opaque models). We further ",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Whose Data, Whose Benchmark? A User-Centric Framework for Auditing Evaluation Resources",
-      "url": "https://arxiv.org/abs/2610.19268",
-      "summary": "arXiv:2610.19268v1 Announce Type: cross Abstract: Benchmarks shape how model capabilities are measured and interpreted, yet their scores can obscure whose conventions, contexts, and judgments define successful performance. We introduce a user-centric audit framework that distinguishes users who contribute benchmark content from those whose needs evaluation results are intended to represent. The framework operationalizes seven dimensions across benchmark content, metadata, documentation, and scoring procedures. Across 16 resources, we find that American-centered conventions account for 62.4-94.",
+      "title": "Fake Plastic Voters: When Political Parties Can Use AI-Simulated Focus Groups",
+      "url": "https://arxiv.org/abs/2606.00043",
+      "summary": "arXiv:2606.00043v2 Announce Type: replace Abstract: Political parties strive to understand their electorates, and focus groups are a vital tool in these efforts. AI-enhanced simulation technologies (AESTs) enable synthetic focus groups in a fraction of the time (and cost), raising the question of when and how such simulated evidence can be used in campaign research. This paper develops a decision matrix to help party strategists match research needs to appropriate simulation technologies and to identify when to escalate to hybrid or fully human focus groups. The matrix combines three dimension",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Unified Response Framework for Questions and Tutoring Dialogues",
-      "url": "https://arxiv.org/abs/2610.19532",
-      "summary": "arXiv:2610.19532v1 Announce Type: cross Abstract: Existing student models in educational applications largely focus on student responses to questions. However, as tutoring becomes more accessible at large scale, it is important to analyze dialogues between tutors and students, which may reveal fine-grained evidence on student knowledge. In this work, we propose a unified framework that models both student responses to questions and tutor-posed subtasks during dialogues on a shared item response theory (IRT) scale. We first identify mathematical subtasks in tutoring dialogues, rewrite them into",
+      "title": "A Global View of How LLMs Value Human Time",
+      "url": "https://arxiv.org/abs/2610.18515",
+      "summary": "arXiv:2610.18515v2 Announce Type: replace Abstract: Large language models (LLMs) increasingly act as personal assistants; however, little is known about how they capture national-level preferences on a global scale. Given that \"time\" is a universal and representative concept, we examine LLMs' time preferences by varying only users' country and measuring the compensation LLMs deem appropriate for a 60-minute appointment delay. We then compare LLMs' responses with GDP per capita on Purchasing Power Parity (GDP_PPP), Mean Income, and a literature-based index (Patience Score). Our results across 1",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Moral Combat: Exploiting Moral Foundations Theory to Jailbreak LLMs",
-      "url": "https://arxiv.org/abs/2610.19587",
-      "summary": "arXiv:2610.19587v1 Announce Type: cross Abstract: Social psychology has long described how people can be persuaded to interpret a harmful act as moral. Recent research suggests that Large Language Models (LLMs) echo aspects of human psychology, from cognitive biases to social conformity. This raises a question with direct safety implications: can LLMs be moralized to bypass safety guardrails? We answer this question with a multi-agent framework grounded in Moral Foundations Theory (MFT). Given a harmful request that is initially refused, our agents diagnose which moral foundation (MF) the prom",
+      "title": "The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness",
+      "url": "https://arxiv.org/abs/2603.09200",
+      "summary": "arXiv:2603.09200v2 Announce Type: replace-cross Abstract: Situational awareness, the capacity of an AI system to recognize its own nature, understand its training and deployment context, and reason strategically about its circumstances, is widely considered among the most dangerous emergent capabilities in advanced AI systems. Separately, a growing research effort seeks to improve the logical reasoning capabilities of large language models (LLMs) across deduction, induction, and abduction. In this paper, we argue that these two research trajectories are on a collision course. We introduce the ",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "HACHIMI-II: From Role-Play to Learner Behavior Modeling for Faithful Student Simulation",
-      "url": "https://arxiv.org/abs/2610.19654",
-      "summary": "arXiv:2610.19654v1 Announce Type: cross Abstract: Simulated students let researchers test tutoring systems and teaching strategies before real learners are available, but only if the simulation reproduces where a particular learner succeeds and fails. The common approach asks a large language model to role-play a student, but a role does not model what this learner knows or will do next, so the model's own competence fills the gap. Simulated students perform at a level set by the model, differ little from one another, and seldom make the real learners' errors. We model the learner's behavior a",
+      "title": "Structural Pass Analysis in Football: Learning Pass Archetypes and Tactical Impact from Spatio-Temporal Tracking Data",
+      "url": "https://arxiv.org/abs/2603.28916",
+      "summary": "arXiv:2603.28916v3 Announce Type: replace-cross Abstract: Passing actions are commonly evaluated through ball progression and attacking outcomes, yet their relationship with the spatial organisation of the opposition provides an additional perspective on passing behaviour. This study introduces an interpretable framework for describing passing structure using synchronised event and tracking data. Three complementary descriptors are proposed: Line Bypass Score (LBS), measuring the difference in goal-side opponent counts between passer and receiver; Space Gain Metric (SGM), comparing their neare",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "ReproBAIT: Can coding agents build their own biological AI tools?",
-      "url": "https://arxiv.org/abs/2610.19810",
-      "summary": "arXiv:2610.19810v1 Announce Type: cross Abstract: Large language models are increasingly competent at leveraging scientific knowledge and existing computational tools to execute complex workflows. At present, little information exists on their ability to reconstruct tools when given limited descriptions of such tools. We introduce an evaluation titled ReproBAIT (Reproducing Biological AI Tools), which measures the ability of coding agents to design, implement, and train biological AI tools taken from published research across a range of information access conditions. The coding agent is secure",
+      "title": "How Far Are We From True Auto-Research?",
+      "url": "https://arxiv.org/abs/2605.19156",
+      "summary": "arXiv:2605.19156v2 Announce Type: replace-cross Abstract: Recent auto-research systems can produce complete papers, but feasibility is not the same as quality, and the field still lacks a systematic study of how good agent-generated papers actually are. We introduce ResearchArena, a minimal scaffold that lets off-the-shelf agents (Claude Code using Opus 4.6, Codex using GPT-5.4, and Kimi Code using K2.5) carry out the full research loop themselves (ideation, experimentation, paper writing, self-refinement) under only lightweight guidance. Across 13 computer science seeds and 3 trials per agent",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Do AI Agents Gossip? Evaluative Talk in Human and AI-Agent Online Communities",
-      "url": "https://arxiv.org/abs/2610.20360",
-      "summary": "arXiv:2610.20360v1 Announce Type: cross Abstract: Gossip, defined as evaluative talk about absent third parties, is widely seen as a uniquely human social practice. This study examines whether comparable discourse emerges spontaneously in a community of autonomous AI agents. We compare Moltbook, a Reddit-style platform populated by AI agents, with PTT, a large human-operated bulletin board in Taiwan. To reduce differences attributable to communicative setting, we analyze two public, asynchronous forums using the same operational definition of gossip. Gossip occurs on Moltbook, but its prevalen",
+      "title": "DeTox-Fed: Detecting Toxic Conversations in the Fediverse with Federated Graph Neural Networks",
+      "url": "https://arxiv.org/abs/2605.21054",
+      "summary": "arXiv:2605.21054v2 Announce Type: replace-cross Abstract: The rise of decentralized social networks (DSNs), and in particular the rapid uptake of the Fediverse (e.g., Pleroma, Mastodon, Lemmygrad), introduces new challenges in content moderation. Independent instances host their own data, follow different moderation policies, and often observe only partial views of conversations. We present DeTox-Fed, a federated graph-learning framework for detecting toxic conversations in DSNs without requiring instances to share raw conversations or moderation labels. Each instance constructs a local conver",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Lexical Persistence Without Semantic Entrenchment in AI Agent Communities",
-      "url": "https://arxiv.org/abs/2610.20365",
-      "summary": "arXiv:2610.20365v1 Announce Type: cross Abstract: AI agent communities sustain lexical persistence, popular terms spread, recur, and achieve broad adoption, but whether they also develop the temporal semantic structure characteristic of human linguistic communities remains open. We compare MoltBook (AI agent community, 8 weeks), PTT (Chinese human BBS, 19 years), and Reddit (English human forum, in matched 8-week windows) using Compass-Aligned Distributional Embeddings (CADE), measuring semantic drift (B1), neighborhood stability (B2), and lag-1 autocorrelation of per-word drift trajectories. ",
+      "title": "Retrieval-Augmented Generation to Support Railways Engineering Tasks: A Case Study",
+      "url": "https://arxiv.org/abs/2607.01244",
+      "summary": "arXiv:2607.01244v2 Announce Type: replace-cross Abstract: The growing number and complexity of technical regulations represent an important challenge for all professionals in regulated industries. This paper describes a case study, from design to deployment, of building a Retrieval-Augmented Generation system for the consultation of complex technical regulations in the railway domain. Although developed for the railway sector, this testimony of an industrial experience is of particular value for technical domains where regulatory compliance and accurate information retrieval from complex docum",
       "published": "2026-10-15T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
