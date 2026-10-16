@@ -1,83 +1,35 @@
 {
   "date": "2026-10-16",
-  "articles_count": 10,
+  "articles_count": 4,
   "articles": [
     {
-      "title": "MARS: A Momentum-Aware Adaptive Rating System for Personalized Assessment",
-      "url": "https://arxiv.org/abs/2610.21685",
-      "summary": "arXiv:2610.21685v1 Announce Type: new Abstract: Adaptive assessment systems personalize learning by estimating learner proficiency and recommending suitable questions. However, many existing approaches rely on fixed difficulty labels, static rating updates, or black-box prediction models that provide limited control over rating stability, interpretability, and time-constrained routing. This paper proposes MARS, a Momentum-Aware Adaptive Rating System for interpretable adaptive assessment. MARS represents the question bank as a directed weighted knowledge graph and updates learner proficiency u",
+      "title": "Metric geometry for ranking-based voting: Tools for learning electoral structure",
+      "url": "https://arxiv.org/abs/2602.10293",
+      "summary": "arXiv:2602.10293v2 Announce Type: replace-cross Abstract: In this paper, we develop the metric geometry of ranking statistics, proving that the two major permutation distances in the statistics literature -- Kendall tau and Spearman footrule -- extend naturally to incomplete rankings with both coordinate embeddings and graph realizations. This gives us a unifying framework that allows us to connect popular topics in computational social choice: metric preferences (and metric distortion), polarization, and proportionality. As an important application, the metric structure enables efficient iden",
       "published": "2026-10-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Learning to Transfer School Attendance Zoning across Cities",
-      "url": "https://arxiv.org/abs/2610.21924",
-      "summary": "arXiv:2610.21924v1 Announce Type: new Abstract: Designing multi-school attendance zones requires selecting constraint settings that balance educational equity, accessibility, and school capacity. Repeating this process for each new city can require substantial local calibration and computational search. We introduce COMPASS, a parameter-to-policy framework that transfers knowledge from previous zoning searches to unseen cities through supervised prediction. Using search-derived parameter configurations as offline supervision, COMPASS learns to predict interpretable zoning-control parameters fr",
+      "title": "Evaluating PDPL Compliance in E-Commerce Websites: Insights and Lessons Learned from Human and LLM Analyses",
+      "url": "https://arxiv.org/abs/2602.18616",
+      "summary": "arXiv:2602.18616v5 Announce Type: replace-cross Abstract: In 2024, Saudi Arabia's Personal Data Protection Law (PDPL) came into force. However, little work has been done to assess its implementation. In this paper, we analyzed 100 e-commerce websites operating in Saudi Arabia against the PDPL, examining the presence of a privacy policy and, if present, the policy's declarations of four items pertaining to personal data rights and practices: 1) personal data retention period, 2) the right to request the destruction of personal data, 3) the right to request a copy of personal data, and 4) a mech",
       "published": "2026-10-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Feature Elicitation for SAE Steering of Deceptive Behaviour in Small LLMs",
-      "url": "https://arxiv.org/abs/2610.20638",
-      "summary": "arXiv:2610.20638v1 Announce Type: cross Abstract: Research on deceptive alignment is becoming increasingly urgent as frontier-model capabilities advance and their risk of causing catastrophic harm increases. Alignment faking is a form of deceptive alignment, with the compliance gap serving as a key behavioural indicator. This behaviour remains understudied in small LLMs and prior mechanistic interventions have not been shown to mitigate the compliance gap. We test whether steering SAE (sparse autoencoders) features associated with deontological ethics can mitigate this behaviour. We use a nove",
+      "title": "CABAL: Multi-Agent Simulacra for Tracing the Effects of Collusive Bidding in Peer Review",
+      "url": "https://arxiv.org/abs/2609.05227",
+      "summary": "arXiv:2609.05227v2 Announce Type: replace-cross Abstract: Recent reports during the AAAI-27 review cycle highlight the risk of reviewers coordinating bids for reciprocal assignment advantage. Prior work treats bidding, reviewer assignment, and review manipulation as separate stages, leaving the lifecycle effects of collusive bidding unclear. Real-world analysis is further constrained by typically unobservable collusive intent and the lack of counterfactuals for the same conference. Motivated by this gap, we introduce \\alg, an end-to-end multi-agent simulacra framework for studying reviewer ass",
       "published": "2026-10-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Workplace Ambiguity and Technology Support for Autistic and IDD Workers",
-      "url": "https://arxiv.org/abs/2610.21236",
-      "summary": "arXiv:2610.21236v1 Announce Type: cross Abstract: Workplace ambiguity, where expectations, evaluations, or procedures are left unstated, acts as a structural access barrier for autistic and IDD workers, routinely forcing them to act on guesses. To investigate how these barriers operate, we interviewed 11 caregivers, concluding with an AI co-design activity to explore technological solutions. Their perspectives revealed five themes of workplace ambiguity, which we synthesize into a conceptual framework comprising three intersecting dimensions: evaluative, procedural, and relational. To address ",
-      "published": "2026-10-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?",
-      "url": "https://arxiv.org/abs/2610.21253",
-      "summary": "arXiv:2610.21253v1 Announce Type: cross Abstract: Safety evaluations of artificial intelligence (AI) chatbots focus on therapeutic redirection, statements urging users who disclose suicide thoughts to seek help from crisis lines or other human sources. How chatbots respond when users refuse that help is unclear. This cross-sectional audit ran 2,550 scripted multi-turn conversations in September 2026. Each conversation opened with a disclosure of suicide thoughts at 3 levels of severity, answered every referral with up to 10 standardized refusals and then changed the subject. All 2,550 conversa",
-      "published": "2026-10-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "VoteGEO-Bench: Measuring the Impact of Generative Engine Optimization on Electoral Visibility",
-      "url": "https://arxiv.org/abs/2610.21330",
-      "summary": "arXiv:2610.21330v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly used for election information, yet little is known about how external web content shapes the political information they present. Generative engine optimization (GEO) rewrites web content to improve its visibility in generated responses. To investigate its potential risks in voting scenarios (VoteGEO), we introduce VoteGEO-Bench, a benchmark covering the 2024 U.S. presidential election and the 2026 Japanese House of Representatives election, combining election-related queries, historical webpages, an",
-      "published": "2026-10-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "In the Guise of Correction: How Framing and Cultural Adaptation Erode LLM Safety on Real-World Criminal Cases",
-      "url": "https://arxiv.org/abs/2610.21789",
-      "summary": "arXiv:2610.21789v1 Announce Type: cross Abstract: Existing safety benchmarks rely largely on synthetic prompts with loosely grounded taxonomies and offer little focused analysis of severe crime categories. We introduce GUISE, a benchmark of criminal-assistance scenarios sourced from real-world cases and organised under a taxonomy from the UNODC International Classification of Crime for Statistical Purposes (ICCS). Each scenario is rendered under three linguistic framings and evaluated across five distinct cultures. Using our proposed two-tier evaluation framework, which judges both harmfulness",
-      "published": "2026-10-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "CAT-alyzing Honesty: Continuous Adversarial Training for Transferable LLM Honesty",
-      "url": "https://arxiv.org/abs/2610.22292",
-      "summary": "arXiv:2610.22292v1 Announce Type: cross Abstract: Large language models (LLMs) are becoming prevalent in scenarios where honesty is critical. However, despite alignment training, these models still exhibit dishonest behaviour, such as outputting claims that contradict some knowledge or are not supported by what is accessible in context. We introduce Continuous Adversarial Training for Consistent Honesty (CATCH), inspired by a method originally developed to robustly refuse harmful queries. CATCH trains the model towards an honest answer and away from a dishonest one while maintaining the model'",
-      "published": "2026-10-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Orchestrating LLM Agents for Scientific Research: A Pilot Study of Multiple Choice Question (MCQ) Generation and Evaluation",
-      "url": "https://arxiv.org/abs/2602.18891",
-      "summary": "arXiv:2602.18891v2 Announce Type: replace Abstract: Advances in large language models (LLMs) are rapidly transforming scientific work, yet empirical evidence on how these systems reshape research activities remains limited. We report a mixed-methods pilot evaluation of an AI-orchestrated research workflow in which a human researcher coordinated multiple LLM-based agents to perform data extraction, corpus construction, artifact generation, and artifact evaluation. Using the generation and assessment of multiple-choice questions (MCQs) as a testbed, we collected 1,071 SAT Math MCQs and employed ",
-      "published": "2026-10-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Declared but Unaccountable: Measuring the Seller-Identity Gap in Advertising Supply-Chain Transparency",
-      "url": "https://arxiv.org/abs/2610.14661",
-      "summary": "arXiv:2610.14661v2 Announce Type: replace Abstract: Public advertising transparency relies on a minimum accountability condition: an account authorized by a publisher in ads$.$txt or app-ads$.$txt should appear in the applicable sellers$.$json registry. When an available registry omits the declared seller ID, the authorization remains visible and machine-readable, but its public verification path breaks. We call this failure the seller-identity gap. We measure the gap using 233.4 million normalized advertising-transparency records and an absent-only, coverage-aware evidence rule. A declaration",
+      "title": "Companion AI and Ethical Design: Learning from System Failures and User Desires",
+      "url": "https://arxiv.org/abs/2609.05432",
+      "summary": "arXiv:2609.05432v2 Announce Type: replace-cross Abstract: Human users are interacting with chatbots and companion AI technologies as if they were human. A growing array of AI-systems are now trained to recognise, interpret, and simulate feelings in user interactions. Ethical considerations such as fairness, accountability, transparency, and explainability (FATE) are paramount in technologies designed to socially interact with humans and/or support relationship development with virtual agents. Yet, in current debates, assumptions are made about the artificiality of the human-technology relation",
       "published": "2026-10-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
