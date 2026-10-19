@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Social Bias or Social Desirability? Comparing Factorial Survey Experiments for Humans and Large Language Models",
-      "url": "https://arxiv.org/abs/2610.22409",
-      "summary": "arXiv:2610.22409v1 Announce Type: new Abstract: Factorial survey experiments are a survey method from the social sciences that uses descriptions of socially complex situation (``vignettes'') to elicit judgments such as social bias. They provide two major benefits: (a), they reduce the effect of social desirability inherent in self-reported social biases, and (b), they make it possible to separate the effects of multiple sociodemographic attributes. These aspects are also desiderata for the evaluation of social bias in LLMs, but are often ignored in social bias evaluations. In our study, we eva",
+      "title": "Risk and Refusal: Mechanisms of LLM Responses to Suicidal Ideation",
+      "url": "https://arxiv.org/abs/2610.22715",
+      "summary": "arXiv:2610.22715v1 Announce Type: cross Abstract: Refusal is a common safety mechanism in large language models (LLMs), yet in contexts of suicidal ideation (SI), refusing to engage can itself constitute a safety failure. We evaluate how eight instruction-tuned LLMs respond to SI and self-harm disclosures across three datasets, varying whether models are informed that a disclosure expresses SI and whether they receive a clinician-developed response protocol, and complement this with mechanistic analyses in six open-weight models. Our results reveal a nuanced relationship between refusal and re",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond What Is Visible: Context-Aware Sentiment Across Online Communities Among Crisis Events",
-      "url": "https://arxiv.org/abs/2610.22551",
-      "summary": "arXiv:2610.22551v1 Announce Type: new Abstract: Social media offers timely insight into disaster experiences, yet online communities may not represent those affected on the ground. Uneven participation can bias crisis information systems toward data-rich locations and obscure communities with fewer digital traces. We address this with an adaptive cross-community learning framework that combines text and aggregate mobility signals with socioeconomic and hazard-informed community representations, supplementing sparse local observations with evidence from structurally related cities. We evaluate ",
+      "title": "Provable Compliance: A Protocol for Runtime Compliance Evidence and Transaction-Specific Decisioning",
+      "url": "https://arxiv.org/abs/2610.22913",
+      "summary": "arXiv:2610.22913v1 Announce Type: cross Abstract: Regulated institutions already perform onboarding, screening, monitoring, and review, but compliance evidence ages, and whether it supports a decision depends on the institution, product, subject, counterparty, transaction, jurisdiction, risk tier, and purpose. A relying party therefore often cannot obtain compact, attributable proof of which evidence, policy, authority, and transaction context were current when a decision was made, a gap that grows as authority is delegated to software agents and scheduled workflows. We describe ChainIT Provab",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Generative AI Produces and Transmits Beauty Bias",
-      "url": "https://arxiv.org/abs/2610.22553",
-      "summary": "arXiv:2610.22553v1 Announce Type: new Abstract: Societies reward people judged to be attractive by standards intertwined with gender and race. In this paper, we examine if and how generative AI may contribute to these dynamics. We audited 27 text-to-image generators released between 2022 and 2026 using simple prompts that never mention attractiveness or beauty, analyzing 51,300 generated faces and 160,196 photographs of real people across primary and supplementary comparisons. We used three automated measures and collected ratings from 550 human raters on a subset of images. Nearly all generat",
+      "title": "PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas",
+      "url": "https://arxiv.org/abs/2610.22990",
+      "summary": "arXiv:2610.22990v1 Announce Type: cross Abstract: Computer-use agents (CUAs) are commonly evaluated against fixed task specifications, but users may omit requirements, add constraints, or require approval before consequential actions. Completing the benchmark instruction does not guarantee serving the person who asked. We introduce PersonaCUABench, which holds 74 tasks across 11 domains fixed and varies only who asks. A persona agent, playing one of 44 personas in four groups, rewrites each instruction in that user's own words and answers the CUA's questions, while the CUA sees only the dialog",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A misinformation playbook sharpens judgement without breeding cynicism",
-      "url": "https://arxiv.org/abs/2610.22724",
-      "summary": "arXiv:2610.22724v1 Announce Type: new Abstract: Misinformation harms public health and democracy, and generative artificial intelligence now writes falsehoods as persuasive as people's. Defences range from fact-checking individual claims to training people to resist falsehoods. Yet many claims are too new to check, and interventions that teach doubt can reduce belief in truth too. We propose a defence that targets not the facts of each claim but the persuasion strategies that recur across them. Here we show that learning misinformation's persuasion playbook, mapped from 214,646 fact-checked cl",
+      "title": "Causal Value Attribution of Marketing Labels in LLM-Generated Ads: A Deconfounder Approach",
+      "url": "https://arxiv.org/abs/2610.23025",
+      "summary": "arXiv:2610.23025v1 Announce Type: cross Abstract: As AI-generated content becomes commoditized, economic value increasingly shifts from final artifacts to the upstream expertise used to specify inputs that steer LLM generation. Yet organizations lack methods for valuing this expertise and identifying which individual skills or configurations causally improve performance. This study examines generative marketing, where structured expert labels serve as skill primitives conditioning LLM-generated advertisements. Estimating their causal effects is difficult because outcomes reflect stochastic LLM",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Can AI interview? Comparing AI-led to Human-led Chat Interviews",
-      "url": "https://arxiv.org/abs/2610.23149",
-      "summary": "arXiv:2610.23149v1 Announce Type: new Abstract: Large language model chatbots have been proposed as AI-interviewers for collecting qualitative interview data at scale, potentially bridging social science's longstanding divide between the breadth of surveys and the depth of qualitative interviews. This paper provides the first direct empirical comparison of data quality in AI-led and human-led interviews. In a randomized experiment (N = 41), university students were interviewed via synchronous text chat by either trained non-expert interviewers or a locally hosted AI system; we evaluate exposur",
+      "title": "Same Person, Different Advice: Auditing LLM Financial Advice with Repeated Risk-Tolerance Responses",
+      "url": "https://arxiv.org/abs/2610.23060",
+      "summary": "arXiv:2610.23060v1 Announce Type: cross Abstract: AI financial advisers set a client's stock allocation largely from one stated-risk question, yet people do not answer it the same way twice: in a national US panel, 41% of households chose a different answer two years later, and in a laboratory retest a third of people moved two or more points on a 0-10 scale after six months. Seven large language models from five providers gave one-turn allocation advice for 800 real household profiles in which only the risk answer changed. The recommended stock share moved by 10 to 16 percentage points on ave",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Regulating for an AI Commons: Adopting, sustaining, and defending people-first innovation trajectories",
-      "url": "https://arxiv.org/abs/2610.23212",
-      "summary": "arXiv:2610.23212v1 Announce Type: new Abstract: Technological principles of openness, interoperability, and decentralization are integral to building an AI economy that is accountable to the public and truly responsive to local needs and constraints. However, Big Tech's firm control over essential elements of the stack (such as chips, cloud, models, data, and talent) limits valuable alternatives from reaching the scale necessary for sustained growth. Worse still, hyperscalers continue to enclose and extract value from publicly funded and volunteer-driven technologies without adequately distrib",
+      "title": "Graphlet-based Decentralized Finance Transaction Method Classification",
+      "url": "https://arxiv.org/abs/2610.23466",
+      "summary": "arXiv:2610.23466v1 Announce Type: cross Abstract: Decentralized Finance (DeFi) transactions involve complex interactions among accounts, smart contracts, and tokens. We investigate whether network topology can identify transaction methods that describe DeFi operations. We extract directed graphlet features to classify the 30 most frequent methods. Our results show that graphlet features complement event log counts in improving classification performance. Using SHapley Additive exPlanations (SHAP), we further derive model explanations that reveal method-specific graphlet structural patterns.",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Evaluating Predictor-Corrector Dependence in Hard-Constrained Climate Emulators",
-      "url": "https://arxiv.org/abs/2610.23561",
-      "summary": "arXiv:2610.23561v1 Announce Type: new Abstract: Climate emulators often enforce physical constraints by correcting each state predicted by a neural network, but evaluating only the corrected forecast conflates predictor skill with the effect of the correction. We introduce an evaluation framework that separates these contributions by comparing corrected forecasts, pre-correction predictions along corrected trajectories, and autonomous rollouts with correction disabled. We further cross correction during training and inference to distinguish its immediate effect from how it shapes the learned p",
+      "title": "Bridging the Language Gap in Scholarly Data II: Enhancing Gender Inference for Chinese Names",
+      "url": "https://arxiv.org/abs/2610.23734",
+      "summary": "arXiv:2610.23734v1 Announce Type: cross Abstract: Perceived gender inference from names is important for inclusive scientometrics research, yet existing methods perform poorly on non-Western scholars. We address this gap for Chinese names, which appear in two forms, Hanzi and Pinyin, its Romanized form (e.g., Zhang Wei, Li Na). In international bibliographic records, names are often available only in Pinyin. However, a single pinyin name can correspond to multiple distinct hanzi characters with different gender associations, so gender inference from Pinyin alone is intrinsically ambiguous. To ",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "GCAM-Gym: A Benchmark for Agent-Based Climate Policy Search",
-      "url": "https://arxiv.org/abs/2610.23569",
-      "summary": "arXiv:2610.23569v1 Announce Type: new Abstract: Comparing climate-policy search methods requires accounting for differences in policy control, available observations, feedback timing, and simulator budgets. We introduce GCAM-Gym, a Gymnasium-compatible environment that supports full-policy evaluation and stepwise control through a common interface and exposes the components of the policy objective. We compare seven search and control systems in three settings: target attainment and cost, cost-temperature trade-offs, and one-step delayed feedback. Each system is evaluated with ten seeds per set",
+      "title": "Bad Diagnosis: Analyzing Consent and Data Collection Practices of Mobile Medical Apps",
+      "url": "https://arxiv.org/abs/2610.23851",
+      "summary": "arXiv:2610.23851v1 Announce Type: cross Abstract: Mobile health (mHealth) apps collect personally-identifiable information while handling uniquely sensitive medical data, ranging from mental health records to real-time glucose or heart rate monitoring -- yet they remain poorly understood at scale. We present the first comprehensive analysis of consent and data collection practices across 10,000+ mHealth apps on the Google Play Store, combining static analysis and privacy policy examination. We develop a rigorous operational definition to distinguish health apps from general wellness programs, ",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Water-Energy-Data nexus reveals sustainability gaps and priorities for AI infrastructure",
-      "url": "https://arxiv.org/abs/2610.23614",
-      "summary": "arXiv:2610.23614v1 Announce Type: new Abstract: The rapid growth of artificial intelligence (AI) depends on interconnected water, energy, and data systems spanning infrastructure life cycles and diverse geographies, with the potential to intensify water and energy insecurity, exacerbate social inequities and lead to cascading sustainability issues globally. Yet assessments commonly examine them separately, limiting our understanding of where resource pressures arise, how they are transferred across space, and who bears their consequences. To address these challenges, we established a water-ene",
+      "title": "Generative artificial intelligence in fifth-generation education systems: A systematic review",
+      "url": "https://arxiv.org/abs/2412.08666",
+      "summary": "arXiv:2412.08666v2 Announce Type: replace Abstract: Generative artificial intelligence is increasingly transforming education by enabling adaptive learning environments, personalized instructional support, and collaborative knowledge creation, while also assisting research, assessment, and academic administration. In the context of fifth generation education systems, the integration of generative artificial intelligence offers new opportunities to enhance student engagement, support innovative pedagogical practices, and improve scholarly productivity. This study presents a systematic review of",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Large Language Model LLM Approach to COVID-19 Fake News Detection",
-      "url": "https://arxiv.org/abs/2610.23800",
-      "summary": "arXiv:2610.23800v1 Announce Type: new Abstract: Text classification is a widely studied problem in information retrieval and data mining, with applications ranging from healthcare diagnosis to the detection of COVID-19-related fake news. Social media platforms generate vast volumes of user-generated text, and the rapid spread of misinformation during the pandemic has made automated fake news detection an important task. In this study, we apply pretrained transformer-based transfer learning (TL) models and large language models (LLMs), namely BERT-base, ALBERT-base, XLM-RoBERTa-base, DistilBERT",
+      "title": "Collaborating with AI Agents: Field Experiments on Teamwork, Productivity, and Performance",
+      "url": "https://arxiv.org/abs/2503.18238",
+      "summary": "arXiv:2503.18238v4 Announce Type: replace Abstract: We examined the mechanisms underlying productivity and performance gains from AI agents using a large-scale experiment on Pairit, a platform we developed to study human-AI collaboration. We randomly assigned 2,234 participants to human-human and human-AI teams that produced 11,024 ads. We evaluated the ads using independent human ratings and a field experiment on X which garnered ~5M impressions. We found human-AI teams produced 50% more ads per worker and higher text quality, while human-human teams produced higher image quality, suggesting ",
       "published": "2026-10-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
