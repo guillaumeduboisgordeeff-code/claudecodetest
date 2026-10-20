@@ -1,14 +1,5 @@
 {
   "date": "2026-10-20",
-  "articles_count": 1,
-  "articles": [
-    {
-      "title": "How Ryder Kemper became employee #7 at Corgi Insurance — and never left San Francisco",
-      "url": "https://www.ycombinator.com/blog/how-ryder-kemper-became-employee-7-at-corgi-insurance-and-never-left-san-francisco/",
-      "summary": "Ryder flew to SF for a work trial, moved furniture in a Mystery Machine bus, and decided to stay. Here's what building from day one looks like.",
-      "published": "2026-10-19T18:58:11",
-      "source_name": "Y Combinator Blog",
-      "source_category": "ia-acteurs"
-    }
-  ]
+  "articles_count": 0,
+  "articles": []
 }
