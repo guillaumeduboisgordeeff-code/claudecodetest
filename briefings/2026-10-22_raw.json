@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-22",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Artificial Intelligence and Job Design: A Dynamic Framework",
+      "url": "https://arxiv.org/abs/2610.28830",
+      "summary": "arXiv:2610.28830v1 Announce Type: new Abstract: This study aims to deepen the understanding of artificial intelligence's (AI) impact on work by introducing and describing the AI-Job Dynamics Framework. Drawing from sociotechnical systems theory, complexity theory, and organizational learning theories, we conceptualize AI integration as a dynamic, non-linear process with three key phases. The framework, supported by theoretical propositions, identifies how this process affects organizational decision-making structures and key job characteristics over time, emphasizing the balance between centra",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Situating Vulnerability: An Ethical Governance Framework for Anthropomorphic AI Interaction",
+      "url": "https://arxiv.org/abs/2610.29304",
+      "summary": "arXiv:2610.29304v1 Announce Type: new Abstract: Large language models increasingly address users in the register of care: they remember personal details, adopt a first-person emotional voice, and sustain relationships across many sessions. This anthropomorphic mode of interaction generates risks that output-level metrics capture poorly, because the same empathic utterance may console one user, entrap a second, and consolidate a delusion in a third. Governance has responded in two ways. Uniform restriction refuses sensitive requests or suppresses empathic phrasing across all outputs; group-targ",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan",
+      "url": "https://arxiv.org/abs/2610.29342",
+      "summary": "arXiv:2610.29342v1 Announce Type: new Abstract: \"Abliterated\" (\"uncensored\") builds of open-weight language models remove the activation direction that mediates refusal, and are popular partly on the assumption that a model that no longer refuses is also free of political censorship. We test this on two matched pairs of 2-bit models: NVIDIA's Nemotron 3.5 Bolt 74B-A9B and Qwen3.8-Flash-Next, each against a community abliteration. Each model judged 22 statement pairs (on the Republic of China (Taiwan), 1989 Tiananmen, control countries) in Traditional Chinese, Simplified Chinese (a character-le",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Privacy Paradox Is a Misnomer: Data Under Structural Uncertainty",
+      "url": "https://arxiv.org/abs/2610.29756",
+      "summary": "arXiv:2610.29756v1 Announce Type: new Abstract: The infamous privacy paradox refers to the apparent inconsistency between people's stated concern for privacy and their readiness to disclose personal information. This phenomenon has sparked two largely disconnected literatures: one offering experimental evidence of inconsistent behavior, and another providing qualitative accounts and defending the importance of privacy. The Article presents an online field experiment that bridges those literatures and shows that the so-called paradox arises from a mischaracterization of the underlying behavior.",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Privacy Preference Controls for Agentic Systems",
+      "url": "https://arxiv.org/abs/2610.29929",
+      "summary": "arXiv:2610.29929v1 Announce Type: new Abstract: In response to vast and widespread online tracking, regulators and technologists alike have worked to develop laws and tools that allow people to express their privacy preferences. These measures seek to offer users greater control over the sale and sharing of personal information, putting agency in their hands to protect their privacy. However, the web is undergoing a seismic shift, away from strictly \\textit{user-driven} behavior towards \\textit{agentic behavior}, where AI agents take autonomous actions on behalf of users. In this study, we ask",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Peer review should constrain evaluative authority",
+      "url": "https://arxiv.org/abs/2610.28646",
+      "summary": "arXiv:2610.28646v1 Announce Type: cross Abstract: Our position shifts the target of peer-review reform from reducing uncertainty through evaluator improvement or judgment aggregation to constraining evaluative authority under persistent uncertainty. Scientific peer review aims to assure research quality but also allocates scarce academic opportunities, such as publication in high-impact venues. However, the review system is under growing pressure as submissions increase while reviewer capacity, expertise, scrutiny, and incentives cannot scale accordingly. As peer review operates under persiste",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform",
+      "url": "https://arxiv.org/abs/2610.28859",
+      "summary": "arXiv:2610.28859v1 Announce Type: cross Abstract: Adoption of artificial intelligence in K-12 schools has outpaced guidance for students, teachers, and administrators. Existing AI-literacy frameworks emphasize understanding and use; cybersecurity frameworks predate AI-specific threats, and neither defines AI security literacy as a competency domain in its own right. We propose an AI Security Literacy (AISL) framework of six dimensions spanning the school ecosystem, ground its technical dimensions in public AI-safety benchmarks and a reproducible multi-seed adversarial evaluation, and ground it",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "From Canon to Nikon: Camera Domain Shift and Potential Equity Implications in Retinal AI",
+      "url": "https://arxiv.org/abs/2610.29104",
+      "summary": "arXiv:2610.29104v1 Announce Type: cross Abstract: Diabetic retinopathy is a leading cause of preventable blindness, yet access to regular screening remains limited worldwide. AI offers a scalable approach, but its performance can be sensitive to image quality and acquisition conditions. In a Brazilian cohort of 8,524 patients, retinal images acquired with the Nikon NF5050 were more than twice as likely to have inadequate image quality compared with those acquired with the Canon CR-2, despite refurbished Canon systems costing more than twice as much as Nikon systems. This potential cost-quality",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Two for One: Privileged Learning for Resource-Constrained Screening",
+      "url": "https://arxiv.org/abs/2610.29126",
+      "summary": "arXiv:2610.29126v1 Announce Type: cross Abstract: Machine learning systems are often developed under data-rich conditions but deployed when only incomplete information is available. A natural example arises in colour fundus photography (CFP), where both eyes are commonly imaged because they can provide complementary information for ocular disease assessment. Prior approaches that exploit bilateral information either fuse both eyes in a single model or use knowledge distillation to compress a dual-eye teacher into a lightweight student that still requires both images at test time. However, bila",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Policy Central: Detecting Conflicts, Redundancy, and Similarity in Deployed Police Policy",
+      "url": "https://arxiv.org/abs/2610.29338",
+      "summary": "arXiv:2610.29338v1 Announce Type: cross Abstract: Policy Central is a deployed system that helps police departments find relationships between sections of their written policy: whether two sections conflict, are redundant, are merely similar, or are different. We describe the system and compare two architectures. Retrieve-Judge, a retrieve-then-classify pipeline, runs as a cheap library-wide health signal; Screen-Confirm, a screen-then-confirm cascade, is a selective audit of the documents a reviewer chooses, checking them exhaustively against one another. On a 302-pair benchmark drawn from on",
+      "published": "2026-10-22T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
