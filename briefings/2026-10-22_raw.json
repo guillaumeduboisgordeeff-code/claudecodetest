@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Artificial Intelligence and Job Design: A Dynamic Framework",
-      "url": "https://arxiv.org/abs/2610.28830",
-      "summary": "arXiv:2610.28830v1 Announce Type: new Abstract: This study aims to deepen the understanding of artificial intelligence's (AI) impact on work by introducing and describing the AI-Job Dynamics Framework. Drawing from sociotechnical systems theory, complexity theory, and organizational learning theories, we conceptualize AI integration as a dynamic, non-linear process with three key phases. The framework, supported by theoretical propositions, identifies how this process affects organizational decision-making structures and key job characteristics over time, emphasizing the balance between centra",
+      "title": "Where Do LLMs Learn to Recommend AI?",
+      "url": "https://arxiv.org/abs/2610.29785",
+      "summary": "arXiv:2610.29785v1 Announce Type: cross Abstract: Asked what to study, which career to pursue, or what product to build, large language models (LLMs) often recommend AI-related options. We ask where this tendency comes from by comparing models before and after fine-tuning and by varying how questions are asked. First, pretrained models already include explicit AI/ML terms in the recommendations of 27% of their responses, and their released instruction-tuned versions do so in 59%. Second, fine-tuning models ourselves shows that this rise is not inevitable: general instruction tuning leaves the ",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Situating Vulnerability: An Ethical Governance Framework for Anthropomorphic AI Interaction",
-      "url": "https://arxiv.org/abs/2610.29304",
-      "summary": "arXiv:2610.29304v1 Announce Type: new Abstract: Large language models increasingly address users in the register of care: they remember personal details, adopt a first-person emotional voice, and sustain relationships across many sessions. This anthropomorphic mode of interaction generates risks that output-level metrics capture poorly, because the same empathic utterance may console one user, entrap a second, and consolidate a delusion in a third. Governance has responded in two ways. Uniform restriction refuses sensitive requests or suppresses empathic phrasing across all outputs; group-targ",
+      "title": "Commit or Abstain? System One Decision Models, LLMs, and Missing Legal Authority",
+      "url": "https://arxiv.org/abs/2610.29961",
+      "summary": "arXiv:2610.29961v1 Announce Type: cross Abstract: Given the enormous number of claims to be checked, verifiable legal AI requires scalable, cost-effective models that answer the practical needs of law. System One decision models are built on large language models but, instead of generating text, return a calibrated probability for each option. This suits the verification of legal authority, where the question is closed: a given holding, or none of them. We test whether such models abstain when the correct authority is missing. We extend CaseHOLD with an abstention condition in which the correc",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Uncensored Is Not Unbiased: Abliteration Removes Refusals but Not Script-Dependent Bias About Taiwan",
-      "url": "https://arxiv.org/abs/2610.29342",
-      "summary": "arXiv:2610.29342v1 Announce Type: new Abstract: \"Abliterated\" (\"uncensored\") builds of open-weight language models remove the activation direction that mediates refusal, and are popular partly on the assumption that a model that no longer refuses is also free of political censorship. We test this on two matched pairs of 2-bit models: NVIDIA's Nemotron 3.5 Bolt 74B-A9B and Qwen3.8-Flash-Next, each against a community abliteration. Each model judged 22 statement pairs (on the Republic of China (Taiwan), 1989 Tiananmen, control countries) in Traditional Chinese, Simplified Chinese (a character-le",
+      "title": "Strong Men Create Good Memes: Far-Right Memes as Means of Authoritarian Legitimation in Russia",
+      "url": "https://arxiv.org/abs/2601.14190",
+      "summary": "arXiv:2601.14190v2 Announce Type: replace Abstract: This study examines how Russian far-right communities on Telegram shape perceptions of political figures through meme-based visual narratives. In Russia, such groups are central because they articulate the ideological foundations of the war against Ukraine and reflect the regime's drift toward ultranationalist rhetoric. Drawing on a dataset of 404,013 images from expert-selected far-right Telegram channels, the study uses automated face recognition, CLIP-based image embeddings, and HDBSCAN clustering with UMAP to identify memes featuring Russ",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Privacy Paradox Is a Misnomer: Data Under Structural Uncertainty",
-      "url": "https://arxiv.org/abs/2610.29756",
-      "summary": "arXiv:2610.29756v1 Announce Type: new Abstract: The infamous privacy paradox refers to the apparent inconsistency between people's stated concern for privacy and their readiness to disclose personal information. This phenomenon has sparked two largely disconnected literatures: one offering experimental evidence of inconsistent behavior, and another providing qualitative accounts and defending the importance of privacy. The Article presents an online field experiment that bridges those literatures and shows that the so-called paradox arises from a mischaracterization of the underlying behavior.",
+      "title": "How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images",
+      "url": "https://arxiv.org/abs/2602.04759",
+      "summary": "arXiv:2602.04759v3 Announce Type: replace Abstract: The last decade has witnessed a rapid advancement of generative AI technology that significantly scaled the accessibility of AI-generated non-consensual intimate images (AIG-NCII), a form of image-based sexual abuse that disproportionately harms and silences women and girls. There is a patchwork of commendable efforts across industry, policy, academia, and civil society to address AIG-NCII. However, these efforts lack a shared, consistent mental model that clearly situates the technologies they target within the context of a large, interconne",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Privacy Preference Controls for Agentic Systems",
-      "url": "https://arxiv.org/abs/2610.29929",
-      "summary": "arXiv:2610.29929v1 Announce Type: new Abstract: In response to vast and widespread online tracking, regulators and technologists alike have worked to develop laws and tools that allow people to express their privacy preferences. These measures seek to offer users greater control over the sale and sharing of personal information, putting agency in their hands to protect their privacy. However, the web is undergoing a seismic shift, away from strictly \\textit{user-driven} behavior towards \\textit{agentic behavior}, where AI agents take autonomous actions on behalf of users. In this study, we ask",
+      "title": "It Takes a Forum: Resources & Stakeholders Sustaining the Online Synthetic Non-Consensual Intimate Image Creation Ecosystem",
+      "url": "https://arxiv.org/abs/2604.12190",
+      "summary": "arXiv:2604.12190v2 Announce Type: replace Abstract: Many malicious actors responsible for disseminating synthetic non-consensual intimate imagery (SNCII) operate within internet forums to exchange resources, strategies, and generated content across multiple platforms. Technically-sophisticated actors gravitate toward certain communities (e.g., 4chan), while lower-sophistication end-users are more active on others (e.g., Reddit). To characterize key stakeholders in the broader ecosystem, we perform an integrated analysis of multiple communities, analyzing 282,154 4chan comments and 78,308 Reddi",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Peer review should constrain evaluative authority",
-      "url": "https://arxiv.org/abs/2610.28646",
-      "summary": "arXiv:2610.28646v1 Announce Type: cross Abstract: Our position shifts the target of peer-review reform from reducing uncertainty through evaluator improvement or judgment aggregation to constraining evaluative authority under persistent uncertainty. Scientific peer review aims to assure research quality but also allocates scarce academic opportunities, such as publication in high-impact venues. However, the review system is under growing pressure as submissions increase while reviewer capacity, expertise, scrutiny, and incentives cannot scale accordingly. As peer review operates under persiste",
+      "title": "When Is Disclosing Private Conversations with AI to the State Justified? Proactive Referral Policies of Major U.S. AI Companies through the Lens of Contextual Integrity",
+      "url": "https://arxiv.org/abs/2610.25169",
+      "summary": "arXiv:2610.25169v2 Announce Type: replace Abstract: AI companies engage in \"proactive referral,\" notifying law enforcement of user conversations they judge dangerous without a government request. This poses a dilemma, since referral may expose people who merely confided dangerous thoughts to an AI to investigation, whereas not referring may leave actual violence unprevented. This study asks under what conditions proactive referral can be justified and to what extent companies' public policies disclose those conditions. Drawing on contextual integrity theory and the norms governing exceptional ",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform",
-      "url": "https://arxiv.org/abs/2610.28859",
-      "summary": "arXiv:2610.28859v1 Announce Type: cross Abstract: Adoption of artificial intelligence in K-12 schools has outpaced guidance for students, teachers, and administrators. Existing AI-literacy frameworks emphasize understanding and use; cybersecurity frameworks predate AI-specific threats, and neither defines AI security literacy as a competency domain in its own right. We propose an AI Security Literacy (AISL) framework of six dimensions spanning the school ecosystem, ground its technical dimensions in public AI-safety benchmarks and a reproducible multi-seed adversarial evaluation, and ground it",
+      "title": "Knowledge-Certainty Diversity Predicts Human-Human and Human-AI Open-Ended Discussion Synergy and Reveals Pure-AI Discussion Shortfalls",
+      "url": "https://arxiv.org/abs/2507.22889",
+      "summary": "arXiv:2507.22889v3 Announce Type: replace-cross Abstract: Conversations transform individual knowledge into collective insight, enabling collaborators to solve problems more accurately than they could alone. Whether dialogues among large language models (LLMs) can replicate the synergistic gains observed in human discussion remains unclear. We systematically compared four interaction settings, LLM-LLM pairs, LLM trios, human trios, and human-LLM pairs, using validated medical multiple-choice questions. Agents answered individually, engaged in open-ended discussion, then re-answered, allowing u",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "From Canon to Nikon: Camera Domain Shift and Potential Equity Implications in Retinal AI",
-      "url": "https://arxiv.org/abs/2610.29104",
-      "summary": "arXiv:2610.29104v1 Announce Type: cross Abstract: Diabetic retinopathy is a leading cause of preventable blindness, yet access to regular screening remains limited worldwide. AI offers a scalable approach, but its performance can be sensitive to image quality and acquisition conditions. In a Brazilian cohort of 8,524 patients, retinal images acquired with the Nikon NF5050 were more than twice as likely to have inadequate image quality compared with those acquired with the Canon CR-2, despite refurbished Canon systems costing more than twice as much as Nikon systems. This potential cost-quality",
+      "title": "Epistemic Substitution: How Grokipedia's AI-Generated Encyclopedia Restructures Authority",
+      "url": "https://arxiv.org/abs/2512.03337",
+      "summary": "arXiv:2512.03337v2 Announce Type: replace-cross Abstract: For more than two decades, Wikipedia has represented a decentralized, human-curated model of encyclopedic knowledge production. The emergence of AI-generated encyclopedias, such as Grokipedia, raises a fundamental question: do human- and AI-curated knowledge systems rely on the same foundations of epistemic authority? We examine this question through a comparative analysis of 1,000 matched Wikipedia--Grokipedia article pairs, comprising nearly 600,000 citation instances. Using an eight-category classification scheme, we construct the ep",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Two for One: Privileged Learning for Resource-Constrained Screening",
-      "url": "https://arxiv.org/abs/2610.29126",
-      "summary": "arXiv:2610.29126v1 Announce Type: cross Abstract: Machine learning systems are often developed under data-rich conditions but deployed when only incomplete information is available. A natural example arises in colour fundus photography (CFP), where both eyes are commonly imaged because they can provide complementary information for ocular disease assessment. Prior approaches that exploit bilateral information either fuse both eyes in a single model or use knowledge distillation to compress a dual-eye teacher into a lightweight student that still requires both images at test time. However, bila",
+      "title": "RubRIX: Rubric-Driven Risk Mitigation in Caregiver-AI Interactions",
+      "url": "https://arxiv.org/abs/2601.13235",
+      "summary": "arXiv:2601.13235v2 Announce Type: replace-cross Abstract: Caregivers seeking AI-mediated support express complex needs---information-seeking, emotional validation, and distress cues---that warrant careful evaluation of response safety and appropriateness. Existing AI evaluation frameworks, primarily focused on general risks (toxicity, hallucinations, policy violations, etc), may not adequately capture the nuanced risks of LLM-responses in caregiving-contexts. We introduce RubRIX (Rubric-based Risk Index), a theory-driven, clinician-validated framework for evaluating risks in LLM caregiving res",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Policy Central: Detecting Conflicts, Redundancy, and Similarity in Deployed Police Policy",
-      "url": "https://arxiv.org/abs/2610.29338",
-      "summary": "arXiv:2610.29338v1 Announce Type: cross Abstract: Policy Central is a deployed system that helps police departments find relationships between sections of their written policy: whether two sections conflict, are redundant, are merely similar, or are different. We describe the system and compare two architectures. Retrieve-Judge, a retrieve-then-classify pipeline, runs as a cheap library-wide health signal; Screen-Confirm, a screen-then-confirm cascade, is a selective audit of the documents a reviewer chooses, checking them exhaustively against one another. On a 302-pair benchmark drawn from on",
+      "title": "Schadenfreude in the Digital Public Sphere: A Cross-National, Decade-Long Analysis of Facebook News Engagement",
+      "url": "https://arxiv.org/abs/2601.20413",
+      "summary": "arXiv:2601.20413v3 Announce Type: replace-cross Abstract: Pleasure at the misfortune of others, or schadenfreude, is widely believed to have become a routine feature of online news audiences, yet its prevalence and social patterning have rarely been measured at scale. Here, we examine ten years (2015-2024) of Facebook engagement with misfortune news across nine major outlets spanning the political spectrum in the United States, the United Kingdom, and India. We separate schadenfreude, in which a commenter expresses pleasure at the misfortune, from hostility without pleasure, using an ensemble ",
       "published": "2026-10-22T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
