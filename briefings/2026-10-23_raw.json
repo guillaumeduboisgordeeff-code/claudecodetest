@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "The EU AI Act Beyond Europe: A Practical Readiness Framework for Non-EU Organisations. Comparative Evidence from Four African Countries",
-      "url": "https://arxiv.org/abs/2610.30152",
-      "summary": "arXiv:2610.30152v1 Announce Type: new Abstract: The EU Artificial Intelligence Act has implications for organizations within Europe as well as organisations outside the European Union where they provide AI-enabled services to EU clients, use European vendors, participate in EU-facing supply chains, or generate outputs that are used in the EU. This study examines the implications of these impacts for African countries and other non-EU organisations, using South Africa, Nigeria, Kenya and Egypt as comparative cases. It applies doctrinal legal analysis, structured document review and scenario-bas",
+      "title": "The Customer Is the Builder: How AI Coding Agents Are Rewriting the Economics of Software",
+      "url": "https://arxiv.org/abs/2610.30307",
+      "summary": "arXiv:2610.30307v1 Announce Type: cross Abstract: AI coding agents could change whether organizations buy software or build the functionality they need. We focus on organizations and professional buyers whose domain knowledge can help them specify and evaluate tools for their work. We define the software substitution frontier as the functions customers could build and maintain at an acceptable standard for less than buying them. Using public data, we compare growing capacity to build with indicators of market change. Since 2023, the length of benchmark tasks that leading agents can complete at",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Gender, Sexual Orientation, and the One-Year Refugee Bar: A Computational Study of Bill C-12 and Canadian Refugee Adjudication",
-      "url": "https://arxiv.org/abs/2610.30297",
-      "summary": "arXiv:2610.30297v1 Announce Type: new Abstract: In March 2026, Bill C-12 amended the Immigration and Refugee Protection Act to make refugee claims ineligible for referral to the Refugee Protection Division where they are made more than one year after the claimant's first entry to Canada. Affected claimants are diverted to a Pre-Removal Risk Assessment (PRRA), which is typically decided by an immigration officer on a paper record, with no guaranteed oral hearing, no appeal on the merits, and no automatic stay of removal pending judicial review. The government defended the bar partly on the prem",
+      "title": "Probing and Steering for Safety-Relevant Behaviours in Large Language Models",
+      "url": "https://arxiv.org/abs/2610.30363",
+      "summary": "arXiv:2610.30363v1 Announce Type: cross Abstract: Activation probes are computed directions in a language model's residual stream, used both to detect safety-relevant behaviours and, by adding their direction back into the stream, to steer them. We explore how the main design choices behind such probes interact, within one pipeline, on one model (Llama-3.1-8B-Instruct), and across three behaviours: deception, high-stakes awareness and sycophancy. The pipeline crosses two estimators (difference-of-means and logistic regression) with three token-pooling schemes (last, mean and learned attention)",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Prefigured forgetting. Memory, the right to be forgotten and artificial intelligence",
-      "url": "https://arxiv.org/abs/2610.30402",
-      "summary": "arXiv:2610.30402v1 Announce Type: new Abstract: This inaugural keynote lecture surveys the state of the art of the right to be forgotten and examines how it is being transformed by artificial intelligence. Drawing on cognitive science, philosophy and the social sciences, it treats forgetting as a constitutive function of memory, and recalls that remembering the past and imagining the future share the same mechanism. It then reviews the origins, the European and national case law, and the paradoxes of the right, and offers a periodisation of the specialised literature between 2009 and 2026. The",
+      "title": "X-pressing Intimacy: Mental Health Disclosure After Twitter Acquisition",
+      "url": "https://arxiv.org/abs/2610.30413",
+      "summary": "arXiv:2610.30413v1 Announce Type: cross Abstract: Social media platforms provide spaces for individuals to disclose mental health experiences and seek support, yet how these disclosures evolve during major shifts in platform governance remains unclear. We examine mental health self-disclosure surrounding Elon Musk's October 2022 acquisition of Twitter, analyzing approximately 824K tweets across anxiety, depression, bipolar disorder (BD), borderline personality disorder (BPD), and suicidal ideation (SI) or related experiences, alongside 266K comparison tweets. Using Linguistic Inquiry and Word ",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI-Native Academia Should Build a Community Verification Layer",
-      "url": "https://arxiv.org/abs/2610.30549",
-      "summary": "arXiv:2610.30549v1 Announce Type: new Abstract: This paper argues that AI-native academia should build a Community Verification Layer: interoperable, policy-governed infrastructure that converts researchers' routine reading and checking into persistent, claim- and version-linked evidence, while routing scarce deeper verification toward uncertain, consequential, and neglected research. AI is lowering the cost of producing plausible research artifacts faster than the cost of accountable evaluation, yet much of the evaluation researchers already perform while reading, citing, implementing, or ext",
+      "title": "Behind Aggregate Scores: What Systematically Varying Arena-Hard's LLM Judge Reveals",
+      "url": "https://arxiv.org/abs/2610.30512",
+      "summary": "arXiv:2610.30512v1 Announce Type: cross Abstract: LLM judges are used to determine which of two answers is better. Trusting these verdicts requires knowing how repeatable they are and how much they depend on the judge's instructions. We show that similar aggregate scores can conceal substantial changes in individual verdicts, both when the same setup is repeated and when the instructions change. Using 500 Arena-Hard v2.0 prompts with two models' answers held fixed, we run GPT-4.1 as the judge under all eight combinations of criteria, output format and task framing, and repeat every setup uncha",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "DLT Terms 100: a learner's glossary based on ISO 22739:2024",
-      "url": "https://arxiv.org/abs/2610.30596",
-      "summary": "arXiv:2610.30596v1 Announce Type: new Abstract: We propose ``DLT Terms 100'' aimed at improving literacy regarding blockchain (distributed ledger technology: DLT). The pace of DLT's social implementation has been slower than initially expected, partly due to a shortage of engineers and literate individuals. In particular, the discrepancy between business and technical terminology, and the confusion caused by the repurposing of existing financial terms, are barriers to understanding the concepts and technologies. Our proposed glossary is based on ISO 22739:2024, and categorizes and labels terms",
+      "title": "From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots",
+      "url": "https://arxiv.org/abs/2610.30690",
+      "summary": "arXiv:2610.30690v1 Announce Type: cross Abstract: Large language models (LLMs) deployed in mental-health contexts can be evaluated for safety failures, but the resulting judgments are often difficult to inspect or explain. Common approaches to improving safety rely on prompt engineering, LLM-as-a-Judge, and Constitutional AI. In this work, we describe a clinician-led alternative in which two clinicians define, finalize, and adjudicate the four safety checks of a rule base, which is formally verified for internal consistency and applied as a guardrail over LLM outputs. Here and in the title, cl",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "What Does AI Success Look Like? A Mixed-Methods Analysis of Supranational AI Governance Instruments",
-      "url": "https://arxiv.org/abs/2610.31030",
-      "summary": "arXiv:2610.31030v1 Announce Type: new Abstract: In the last decade and in particular since 2018, supranational institutions have published policies, guidelines, and most recently regulations to govern development and use of Artificial Intelligence (AI). This paper aims to investigate the themes and dimensions of ``AI success'' set forth by instruments of AI governance issued by supranational bodies. To this end, we use a mixed-methods approach, combining manual thematic analysis and automated topic modelling approaches, to analyse a curated corpus of 13 documents issued by supranational bodies",
+      "title": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries",
+      "url": "https://arxiv.org/abs/2610.30752",
+      "summary": "arXiv:2610.30752v1 Announce Type: cross Abstract: 35.2% of task time in world employment is at least partly delegable to AI agents in 2026, and only 2.5% can be handed over in full. Existing measures score exposure to generative AI, mostly for the United States. We build the Agent Delegability Index (ADI): two language models rate all 18,796 O*NET 30.2 task statements on a frozen, preregistered rubric of delegation levels and barriers; tasks are mapped to 433 ISCO-08 unit groups and weighted by ILOSTAT employment in 146 countries. Four findings. First, delegable employment rises with income, f",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "ClinGuard: a governance framework for reliable, transparent, and auditable clinical coordination",
-      "url": "https://arxiv.org/abs/2610.31354",
-      "summary": "arXiv:2610.31354v1 Announce Type: new Abstract: ClinGuard is a model-agnostic governance framework that treats clinical coordination as patient-scoped, policy-bound transactions rather than free text. An independent sentinel layer validates and governs agent-proposed actions, escalates when needed, and executes approved actions through limited-privilege connectors. Each transaction is linked to a tamper-evident audit record, while an outcomes monitor informs future autonomy decisions. Using MIMIC-IV-FHIR and skilled-nursing-facility placement, we distinguish retrospective demonstration from pr",
+      "title": "Invisibilization as a Source of Probability Bias in Language Models",
+      "url": "https://arxiv.org/abs/2610.30785",
+      "summary": "arXiv:2610.30785v1 Announce Type: cross Abstract: Language models are aligned to avoid using protected attributes such as race, ethnicity, and gender to inform their responses. Therefore, they increasingly refuse or hedge when such attributes appear in a prompt. However, if a system must decide how much to learn from what people tell it, it is costly to refuse valuable information because of its source. In this article, we measure the cost of declining information in a two-urn game with an exact Bayesian answer. We present leading LLM models from two developers (OpenAI and Anthropic) with a pr",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Risk Ontologies for the EU AI Act Compliance: AIRO, VAIR, and their Integration with DPV",
-      "url": "https://arxiv.org/abs/2610.31380",
-      "summary": "arXiv:2610.31380v1 Announce Type: new Abstract: As the use of AI, and consequently its harms, becomes more prevalent, the global discourse around AI has become increasingly risk-aware. With new risks emerging more frequently than ever, a key challenge is how to represent, document, and catalogue AI risks in an effective, interoperable, and queryable manner. Additionally, the European Union (EU) AI Act's requirements for \"high-risk\" AI systems to manage and document the risks creates the need for open and interoperable tools, methods, and standards that facilitate AI risk management in an ever-",
+      "title": "What Lies Beyond Perception: A Partition Theory of the Limits of AI Evaluation and Oversight",
+      "url": "https://arxiv.org/abs/2610.30803",
+      "summary": "arXiv:2610.30803v1 Announce Type: cross Abstract: Replacing the judge can move a benchmark score, and models can be trained to hide capabilities. Both put the evaluator in question: what can it certify? We develop a partition theory of evaluation from one principle: judgement is bounded by perception. An agent's discrimination is the partition of its inputs into classes it cannot tell apart. Discrimination is necessary for capability but not sufficient, so bounds on it bear directly on whether evaluation can show that a model lacks an ability. We prove a one-sided bound. An examinee whose part",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Do Machine Learning-Guided Proactive Full Capacity Protocols Mitigate Emergency Department Overcrowding? A Simulation-Based Evaluation",
-      "url": "https://arxiv.org/abs/2610.30148",
-      "summary": "arXiv:2610.30148v1 Announce Type: cross Abstract: Objective: Emergency department (ED) overcrowding threatens care quality, yet Full Capacity Protocols (FCPs) are typically activated only after crowding thresholds have been exceeded. This study evaluated whether machine learning-guided proactive FCP activation improves ED crowding control compared with conventional reactive activation. Materials and Methods: We developed and validated an integrated machine learning and discrete-event simulation framework representing ED patient flow and capacity management. An embedded machine learning model p",
+      "title": "Silicon Samples Match the Answers but Not the Respondents",
+      "url": "https://arxiv.org/abs/2610.30900",
+      "summary": "arXiv:2610.30900v1 Announce Type: cross Abstract: Silicon sampling generates survey respondents by having a large language model (LLM) answer a survey as a person with given demographic attributes, and the resulting synthetic populations are increasingly used in place of human ones. Existing evaluations focus on individual-answer accuracy, per-question answer distributions, and correlations across questions. None of these compares the respondents themselves, so a generator whose respondents have combinations of answers found in no human respondent can still score well if it reproduces every an",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Detecting AI Training in Datacentre Power",
-      "url": "https://arxiv.org/abs/2610.30182",
-      "summary": "arXiv:2610.30182v1 Announce Type: cross Abstract: AI governance agreements require methods to detect large model training runs on a monitored computing cluster, without trusting the operator. We develop a method to detect synchronous model training in facility-level power by Viterbi tracking of the wandering iteration cadence. On simulated datacentre power, when the operator makes no attempt to hide, the Viterbi tracker detects at least $96\\%$ of training runs against a declared inference workload, at a $1\\%$ false-alarm rate and within $0.04$ of the Neyman--Pearson optimum, given a meter that",
+      "title": "A Grammar of French Civil Cassation: A Ground-Level Dataset and Tool",
+      "url": "https://arxiv.org/abs/2610.31116",
+      "summary": "arXiv:2610.31116v1 Announce Type: cross Abstract: This paper presents a dataset of 121,536 ground-reasons pairs across 86,464 rulings of the five civil chambers of the French Court of Cassation (2016-2025). An appeal on points of law cannot itself be appealed and often decides a case for good. Understanding how the Court rules is thus crucial and can help lawyers who draft those appeals. Inside a ruling, every ground of appeal (a distinct legal complaint against the appealed decision) has its own answer from the Court. This answer is called the reasons and it belongs to one of a few doctrinal ",
       "published": "2026-10-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
