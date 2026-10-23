@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-23",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "The EU AI Act Beyond Europe: A Practical Readiness Framework for Non-EU Organisations. Comparative Evidence from Four African Countries",
+      "url": "https://arxiv.org/abs/2610.30152",
+      "summary": "arXiv:2610.30152v1 Announce Type: new Abstract: The EU Artificial Intelligence Act has implications for organizations within Europe as well as organisations outside the European Union where they provide AI-enabled services to EU clients, use European vendors, participate in EU-facing supply chains, or generate outputs that are used in the EU. This study examines the implications of these impacts for African countries and other non-EU organisations, using South Africa, Nigeria, Kenya and Egypt as comparative cases. It applies doctrinal legal analysis, structured document review and scenario-bas",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Gender, Sexual Orientation, and the One-Year Refugee Bar: A Computational Study of Bill C-12 and Canadian Refugee Adjudication",
+      "url": "https://arxiv.org/abs/2610.30297",
+      "summary": "arXiv:2610.30297v1 Announce Type: new Abstract: In March 2026, Bill C-12 amended the Immigration and Refugee Protection Act to make refugee claims ineligible for referral to the Refugee Protection Division where they are made more than one year after the claimant's first entry to Canada. Affected claimants are diverted to a Pre-Removal Risk Assessment (PRRA), which is typically decided by an immigration officer on a paper record, with no guaranteed oral hearing, no appeal on the merits, and no automatic stay of removal pending judicial review. The government defended the bar partly on the prem",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Prefigured forgetting. Memory, the right to be forgotten and artificial intelligence",
+      "url": "https://arxiv.org/abs/2610.30402",
+      "summary": "arXiv:2610.30402v1 Announce Type: new Abstract: This inaugural keynote lecture surveys the state of the art of the right to be forgotten and examines how it is being transformed by artificial intelligence. Drawing on cognitive science, philosophy and the social sciences, it treats forgetting as a constitutive function of memory, and recalls that remembering the past and imagining the future share the same mechanism. It then reviews the origins, the European and national case law, and the paradoxes of the right, and offers a periodisation of the specialised literature between 2009 and 2026. The",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI-Native Academia Should Build a Community Verification Layer",
+      "url": "https://arxiv.org/abs/2610.30549",
+      "summary": "arXiv:2610.30549v1 Announce Type: new Abstract: This paper argues that AI-native academia should build a Community Verification Layer: interoperable, policy-governed infrastructure that converts researchers' routine reading and checking into persistent, claim- and version-linked evidence, while routing scarce deeper verification toward uncertain, consequential, and neglected research. AI is lowering the cost of producing plausible research artifacts faster than the cost of accountable evaluation, yet much of the evaluation researchers already perform while reading, citing, implementing, or ext",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "DLT Terms 100: a learner's glossary based on ISO 22739:2024",
+      "url": "https://arxiv.org/abs/2610.30596",
+      "summary": "arXiv:2610.30596v1 Announce Type: new Abstract: We propose ``DLT Terms 100'' aimed at improving literacy regarding blockchain (distributed ledger technology: DLT). The pace of DLT's social implementation has been slower than initially expected, partly due to a shortage of engineers and literate individuals. In particular, the discrepancy between business and technical terminology, and the confusion caused by the repurposing of existing financial terms, are barriers to understanding the concepts and technologies. Our proposed glossary is based on ISO 22739:2024, and categorizes and labels terms",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "What Does AI Success Look Like? A Mixed-Methods Analysis of Supranational AI Governance Instruments",
+      "url": "https://arxiv.org/abs/2610.31030",
+      "summary": "arXiv:2610.31030v1 Announce Type: new Abstract: In the last decade and in particular since 2018, supranational institutions have published policies, guidelines, and most recently regulations to govern development and use of Artificial Intelligence (AI). This paper aims to investigate the themes and dimensions of ``AI success'' set forth by instruments of AI governance issued by supranational bodies. To this end, we use a mixed-methods approach, combining manual thematic analysis and automated topic modelling approaches, to analyse a curated corpus of 13 documents issued by supranational bodies",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "ClinGuard: a governance framework for reliable, transparent, and auditable clinical coordination",
+      "url": "https://arxiv.org/abs/2610.31354",
+      "summary": "arXiv:2610.31354v1 Announce Type: new Abstract: ClinGuard is a model-agnostic governance framework that treats clinical coordination as patient-scoped, policy-bound transactions rather than free text. An independent sentinel layer validates and governs agent-proposed actions, escalates when needed, and executes approved actions through limited-privilege connectors. Each transaction is linked to a tamper-evident audit record, while an outcomes monitor informs future autonomy decisions. Using MIMIC-IV-FHIR and skilled-nursing-facility placement, we distinguish retrospective demonstration from pr",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Risk Ontologies for the EU AI Act Compliance: AIRO, VAIR, and their Integration with DPV",
+      "url": "https://arxiv.org/abs/2610.31380",
+      "summary": "arXiv:2610.31380v1 Announce Type: new Abstract: As the use of AI, and consequently its harms, becomes more prevalent, the global discourse around AI has become increasingly risk-aware. With new risks emerging more frequently than ever, a key challenge is how to represent, document, and catalogue AI risks in an effective, interoperable, and queryable manner. Additionally, the European Union (EU) AI Act's requirements for \"high-risk\" AI systems to manage and document the risks creates the need for open and interoperable tools, methods, and standards that facilitate AI risk management in an ever-",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Do Machine Learning-Guided Proactive Full Capacity Protocols Mitigate Emergency Department Overcrowding? A Simulation-Based Evaluation",
+      "url": "https://arxiv.org/abs/2610.30148",
+      "summary": "arXiv:2610.30148v1 Announce Type: cross Abstract: Objective: Emergency department (ED) overcrowding threatens care quality, yet Full Capacity Protocols (FCPs) are typically activated only after crowding thresholds have been exceeded. This study evaluated whether machine learning-guided proactive FCP activation improves ED crowding control compared with conventional reactive activation. Materials and Methods: We developed and validated an integrated machine learning and discrete-event simulation framework representing ED patient flow and capacity management. An embedded machine learning model p",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Detecting AI Training in Datacentre Power",
+      "url": "https://arxiv.org/abs/2610.30182",
+      "summary": "arXiv:2610.30182v1 Announce Type: cross Abstract: AI governance agreements require methods to detect large model training runs on a monitored computing cluster, without trusting the operator. We develop a method to detect synchronous model training in facility-level power by Viterbi tracking of the wandering iteration cadence. On simulated datacentre power, when the operator makes no attempt to hide, the Viterbi tracker detects at least $96\\%$ of training runs against a declared inference workload, at a $1\\%$ false-alarm rate and within $0.04$ of the Neyman--Pearson optimum, given a meter that",
+      "published": "2026-10-23T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
