@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-27",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "New Lenses on Learning Design: Course Types and Indicators from Large-Scale Moodle Data",
+      "url": "https://arxiv.org/abs/2610.32983",
+      "summary": "arXiv:2610.32983v1 Announce Type: new Abstract: Although learning design (LD) plays a central role in shaping online courses, large-scale empirical evidence on how courses are actually structured remains scarce, and existing analytics work has characterised courses through student engagement with specific learning activities rather than through indicators of the design itself. This study addresses both gaps through an analysis of learning management system (LMS) data from 606 courses at a distance university. Using LMS data, we first applied dimensionality reduction and clustering to a structu",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "OpenHamoye: A Multi-Scale Open Geospatial Intelligence Framework for Decision Support Across Nigeria",
+      "url": "https://arxiv.org/abs/2610.32984",
+      "summary": "arXiv:2610.32984v1 Announce Type: new Abstract: Decision-making in urban planning, infrastructure prioritization and commercial strategy benefits from granular spatial information. In Nigeria, official statistics are often published at coarse scales and with temporal lag. We present OpenHamoye, an open geospatial intelligence framework that integrates nine public remote-sensing and crowd-sourced datasets into reproducible, multi-scale proxy indicators for development conditions across Nigeria. OpenHamoye organizes the country into kilometre-scale analytical cells within a six-tier hierarchy: c",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Governing Artificial Intelligence as a Macro Socio-Technical Regime: The F-I-C-P Framework for Regime-Level AI Infrastructure and Governance",
+      "url": "https://arxiv.org/abs/2610.32985",
+      "summary": "arXiv:2610.32985v1 Announce Type: new Abstract: Artificial intelligence (AI) is often analysed through technical, organisational, or regulatory perspectives that treat capability, adoption, and governance as separate issues. This article conceptualises AI instead as an emerging macro socio-technical regime generated through the interaction of finance, infrastructure, capability, and productivity. It develops the F-I-C-P framework to explain how finance enables infrastructure, infrastructure conditions capability, and capability creates the possibility--but not the guarantee--of productivity an",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "LLM-as-a-Judge Version Shift: The Instrument Changed, Not the Standard",
+      "url": "https://arxiv.org/abs/2610.32986",
+      "summary": "arXiv:2610.32986v1 Announce Type: new Abstract: Automated research pipelines increasingly rely on fixed LLM judges to rank, filter, and revise proposals, yet these judges are routinely replaced by newer versions. We study whether such replacements preserve the underlying measurement standard. Using a preregistered, frozen-weight design, we evaluate three adjacent same-family transitions across Qwen, Gemma, and Mistral on frozen ML research proposals under randomized information conditions. The common assumption that newer judges are simply harsher fails: two transitions shift toward greater le",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Veracity labels flip the emotional tone of language models but leave racial disparities intact",
+      "url": "https://arxiv.org/abs/2610.33021",
+      "summary": "arXiv:2610.33021v1 Announce Type: new Abstract: Large language models (LLMs) increasingly deliver information through personas, but it is unclear whether correcting the facts also makes their framing consistent across identity labels. We audited four LLMs (GPT-5.4 mini, NVIDIA Nemotron 3 Nano, Llama 4 Scout, and Claude Haiku 4.5), which rated simulated affect on six dimensions (mood, anger, fear, confidence, perceived control, and mental state) in response to fact-checked false and true headlines presented without and with a veracity label. Experiment 1 evaluated 1,000 false and 1,000 true hea",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A pedagogically guided LLM framework for scaffolding human-AI cocreation and preserving learners' agency and creativity",
+      "url": "https://arxiv.org/abs/2610.33051",
+      "summary": "arXiv:2610.33051v1 Announce Type: new Abstract: Large language models (LLMs) can generate alternatives, elaborate ideas and supply rationales, overlapping with cognitive work learners are expected to perform. However, human-AI cocreation still lacks a mechanism for determining how AI can scaffold learners' creative decision-making. This study develops a cognitive-pedagogical framework for deriving the behaviour of a pedagogically constrained LLM from an educator-approved specification of each activity in a cocreative process in project-based learning. The creative-process phase supplies the ac",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Learning by Collaborating in the Age of AI: Research Mentorship for Polymathic, Workflow-Centered Science",
+      "url": "https://arxiv.org/abs/2610.34606",
+      "summary": "arXiv:2610.34606v1 Announce Type: new Abstract: Artificial intelligence (AI) is changing how data-driven research is produced. As AI tools make information and technical execution more accessible, mentorship must concentrate on judgment, ethics, and the design of end-to-end AI-augmented workflows. Disciplinary experts need mentoring to adopt AI while preserving their expertise and human agency, and AI-native research trainees need mentoring to become polymathic workflow developers. This chapter proposes Everyone's Backyard, an interdisciplinary model in which disciplinary experts, trainees, an",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Being judged through the record: A Rosenhan-inspired test of psychiatric label sensitivity in large language models",
+      "url": "https://arxiv.org/abs/2610.35326",
+      "summary": "arXiv:2610.35326v1 Announce Type: new Abstract: The integration of large language models (LLMs) into clinical decision-making raises unresolved questions regarding diagnostic bias. We investigate whether a documented psychiatric history alters LLM recommendations when the current clinical evidence is identical. Using a counterfactual experiment inspired by Rosenhan's 1973 field study, we factorially varied diagnostic-history condition (no prior diagnosis stated vs. prior schizophrenia diagnosis) and current-evidence condition (voices ceased vs. voices persisted) within a clinical vignette. Acr",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Cheap AI-Assisted Reverse Engineering and What It Will Do",
+      "url": "https://arxiv.org/abs/2610.35633",
+      "summary": "arXiv:2610.35633v1 Announce Type: new Abstract: Generative AI is putting the law of reverse engineering (RE) under severe strain. Existing IP and technology laws assume that RE is expensive and time-consuming, and that it requires specialized expertise. They generally allow it, but they rely on its difficulty as a filter to separate (permissible) RE from (impermissible) copying and theft. Generative AI is changing this equation by making \\RE much faster, cheaper, and easier. AI systems can identify hardware components, extract firmware, decompile object code, and clone entire apps. The resulti",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Watchtower Imperative: Lifespan-Calibrated Evaluation for Frontier AI",
+      "url": "https://arxiv.org/abs/2610.35725",
+      "summary": "arXiv:2610.35725v1 Announce Type: new Abstract: The gap between AI capability deployment and safety assurance is structural and cannot be closed through internal evaluations alone. Analyzing documented harms (2017-2026) across the human lifespan reveals that disparate incidents --- from voice assistants endangering children to AI companions implicated in adolescent suicide and automated care denials for the elderly --- reflect a single failure: evaluating systems against an implicit adult user model. We introduce five developmental moderators structured into a Lifespan Vulnerability Matrix acr",
+      "published": "2026-10-27T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
