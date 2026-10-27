@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "New Lenses on Learning Design: Course Types and Indicators from Large-Scale Moodle Data",
-      "url": "https://arxiv.org/abs/2610.32983",
-      "summary": "arXiv:2610.32983v1 Announce Type: new Abstract: Although learning design (LD) plays a central role in shaping online courses, large-scale empirical evidence on how courses are actually structured remains scarce, and existing analytics work has characterised courses through student engagement with specific learning activities rather than through indicators of the design itself. This study addresses both gaps through an analysis of learning management system (LMS) data from 606 courses at a distance university. Using LMS data, we first applied dimensionality reduction and clustering to a structu",
+      "title": "A Multimodal Framework for Measuring Creator Communication on Short-Form Video",
+      "url": "https://arxiv.org/abs/2610.33043",
+      "summary": "arXiv:2610.33043v1 Announce Type: cross Abstract: Short-form video combines speech, imagery, and on-screen text, creating challenges for systematic content analysis. We present a five-stage multimodal framework for measuring creators' themes and communication strategies at scale. The framework integrates platform metadata, speech transcripts, and vision-language descriptions of sampled frames, then applies large language models to generate predefined indicators and open-ended labels. An audited keyword scheme consolidates thematic labels, while creator-weighted aggregation gives each account e",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "OpenHamoye: A Multi-Scale Open Geospatial Intelligence Framework for Decision Support Across Nigeria",
-      "url": "https://arxiv.org/abs/2610.32984",
-      "summary": "arXiv:2610.32984v1 Announce Type: new Abstract: Decision-making in urban planning, infrastructure prioritization and commercial strategy benefits from granular spatial information. In Nigeria, official statistics are often published at coarse scales and with temporal lag. We present OpenHamoye, an open geospatial intelligence framework that integrates nine public remote-sensing and crowd-sourced datasets into reproducible, multi-scale proxy indicators for development conditions across Nigeria. OpenHamoye organizes the country into kilometre-scale analytical cells within a six-tier hierarchy: c",
+      "title": "The Capability Transfer: Cohort Reversal, Codified Expertise, and the Adaptability Tax of AI Transformation",
+      "url": "https://arxiv.org/abs/2610.33102",
+      "summary": "arXiv:2610.33102v1 Announce Type: cross Abstract: Most analyses of AI and employment ask which jobs are exposed. This paper asks what happens to the pipeline that produces experts. It extends the model of Caosun and Aral (2026) from a single worker to a firm with two cohorts, juniors and seniors, and studies how expertise formation changes when codified work is automated. Because junior work is the most codified, demand for juniors falls first; the stock of seniors falls later but further, as the pipeline stops replacing the experts who retire. In the baseline calibration, junior demand bottom",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Governing Artificial Intelligence as a Macro Socio-Technical Regime: The F-I-C-P Framework for Regime-Level AI Infrastructure and Governance",
-      "url": "https://arxiv.org/abs/2610.32985",
-      "summary": "arXiv:2610.32985v1 Announce Type: new Abstract: Artificial intelligence (AI) is often analysed through technical, organisational, or regulatory perspectives that treat capability, adoption, and governance as separate issues. This article conceptualises AI instead as an emerging macro socio-technical regime generated through the interaction of finance, infrastructure, capability, and productivity. It develops the F-I-C-P framework to explain how finance enables infrastructure, infrastructure conditions capability, and capability creates the possibility--but not the guarantee--of productivity an",
+      "title": "Automated identification of ivory carvings using machine learning: A proof-of-concept approach to detecting the illegal wildlife trade",
+      "url": "https://arxiv.org/abs/2610.33243",
+      "summary": "arXiv:2610.33243v1 Announce Type: cross Abstract: Despite a ban on the international trading of recently poached ivory, elephants are still killed for their tusks. Ivory and its products are mainly sold in online marketplaces. However, due to the huge volume and variety of adverts and the similarity of ivory with other materials that can be legally sold, it is hard for enforcement officials to identify illicit trading and prosecute sellers. Existing techniques for identifying elephant ivory, such as Fourier-transform infrared spectroscopy and microscopy, can reliably distinguish ivory from oth",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "LLM-as-a-Judge Version Shift: The Instrument Changed, Not the Standard",
-      "url": "https://arxiv.org/abs/2610.32986",
-      "summary": "arXiv:2610.32986v1 Announce Type: new Abstract: Automated research pipelines increasingly rely on fixed LLM judges to rank, filter, and revise proposals, yet these judges are routinely replaced by newer versions. We study whether such replacements preserve the underlying measurement standard. Using a preregistered, frozen-weight design, we evaluate three adjacent same-family transitions across Qwen, Gemma, and Mistral on frozen ML research proposals under randomized information conditions. The common assumption that newer judges are simply harsher fails: two transitions shift toward greater le",
+      "title": "Propasafe-Hybrid: A Text-Based Hybrid Propaganda Detection Tool",
+      "url": "https://arxiv.org/abs/2610.33464",
+      "summary": "arXiv:2610.33464v1 Announce Type: cross Abstract: Propagandistic content increasingly circulates through online news and social media, where readers often encounter it with limited scrutiny, highlighting the need for reliable and fine-grained detection. This paper introduces Propasafe-Hybrid, a sentence-level system that integrates a fine-tuned transformer classifier with LLM-based technique classification to identify, label, and explain specific propaganda strategies. The pipeline generates actionable outputs, including highlighted sentences, technique assignments, and concise rationales, so ",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Veracity labels flip the emotional tone of language models but leave racial disparities intact",
-      "url": "https://arxiv.org/abs/2610.33021",
-      "summary": "arXiv:2610.33021v1 Announce Type: new Abstract: Large language models (LLMs) increasingly deliver information through personas, but it is unclear whether correcting the facts also makes their framing consistent across identity labels. We audited four LLMs (GPT-5.4 mini, NVIDIA Nemotron 3 Nano, Llama 4 Scout, and Claude Haiku 4.5), which rated simulated affect on six dimensions (mood, anger, fear, confidence, perceived control, and mental state) in response to fact-checked false and true headlines presented without and with a veracity label. Experiment 1 evaluated 1,000 false and 1,000 true hea",
+      "title": "Incremental Predictive Value of LLM Tutoring Interactions for Student Performance",
+      "url": "https://arxiv.org/abs/2610.33488",
+      "summary": "arXiv:2610.33488v1 Announce Type: cross Abstract: We evaluate whether semester-level interaction features from a large language model tutor improve assignment-score prediction beyond constant baselines. StudyChat provides 16,851 student-assistant exchanges from two offerings of an undergraduate artificial intelligence course, with outcomes matched to 175 of 203 student-semester records. Six fitted estimators and training-fold mean and median baselines share repeated nested cross-validation. After averaging each student's held-out predictions across ten repeats, Gradient Boosting achieves mean ",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A pedagogically guided LLM framework for scaffolding human-AI cocreation and preserving learners' agency and creativity",
-      "url": "https://arxiv.org/abs/2610.33051",
-      "summary": "arXiv:2610.33051v1 Announce Type: new Abstract: Large language models (LLMs) can generate alternatives, elaborate ideas and supply rationales, overlapping with cognitive work learners are expected to perform. However, human-AI cocreation still lacks a mechanism for determining how AI can scaffold learners' creative decision-making. This study develops a cognitive-pedagogical framework for deriving the behaviour of a pedagogically constrained LLM from an educator-approved specification of each activity in a cocreative process in project-based learning. The creative-process phase supplies the ac",
+      "title": "FraudSociety: A Generative Agent-Based Society for the Financial-Fraud Economy",
+      "url": "https://arxiv.org/abs/2610.33536",
+      "summary": "arXiv:2610.33536v1 Announce Type: cross Abstract: Financial fraud caused over \\$15.9 billion in losses in the United States in 2025, according to the Federal Trade Commission~\\citep{ftc2026databook}. Understanding such large-scale harm requires jointly modeling informational and financial dynamics. Yet existing simulators typically capture only one side of this interaction, leaving a gap in modeling how fraud unfolds in the real world. To bridge this gap, we introduce \\textsc{FraudSociety}, the first LLM-agent-based simulator that jointly models these coupled dynamics. It integrates a dynamic ",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Learning by Collaborating in the Age of AI: Research Mentorship for Polymathic, Workflow-Centered Science",
-      "url": "https://arxiv.org/abs/2610.34606",
-      "summary": "arXiv:2610.34606v1 Announce Type: new Abstract: Artificial intelligence (AI) is changing how data-driven research is produced. As AI tools make information and technical execution more accessible, mentorship must concentrate on judgment, ethics, and the design of end-to-end AI-augmented workflows. Disciplinary experts need mentoring to adopt AI while preserving their expertise and human agency, and AI-native research trainees need mentoring to become polymathic workflow developers. This chapter proposes Everyone's Backyard, an interdisciplinary model in which disciplinary experts, trainees, an",
+      "title": "Data Governance for Generative and Agentic AI : Technology, Law, Economics, and Security",
+      "url": "https://arxiv.org/abs/2610.33605",
+      "summary": "arXiv:2610.33605v1 Announce Type: cross Abstract: This book develops a unified governance framework for systems that retrieve, generate, infer, remember and act on information from large language models and retrieval augmented pipelines to autonomous multi agent systems. Eleven chapters and eight appendices integrate three disciplinary lenses-technology, law and economics-across the full lifecycle: data quality, lineage and provenance; global data protection law and intellectual property; the economics of data governance; digital trust, cybersecurity and zero-trust architecture; ethics and res",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Being judged through the record: A Rosenhan-inspired test of psychiatric label sensitivity in large language models",
-      "url": "https://arxiv.org/abs/2610.35326",
-      "summary": "arXiv:2610.35326v1 Announce Type: new Abstract: The integration of large language models (LLMs) into clinical decision-making raises unresolved questions regarding diagnostic bias. We investigate whether a documented psychiatric history alters LLM recommendations when the current clinical evidence is identical. Using a counterfactual experiment inspired by Rosenhan's 1973 field study, we factorially varied diagnostic-history condition (no prior diagnosis stated vs. prior schizophrenia diagnosis) and current-evidence condition (voices ceased vs. voices persisted) within a clinical vignette. Acr",
+      "title": "Gender Associations in LLM-Mediated ADHD Self-Diagnosis",
+      "url": "https://arxiv.org/abs/2610.33697",
+      "summary": "arXiv:2610.33697v1 Announce Type: cross Abstract: Large Language Models (LLMs) are increasingly used for medical self-diagnosis. However, the way demographic cues shape outputs in these interactions remains poorly understood. This is particularly consequential for diagnoses like ADHD, where persistent gender disparities are not fully aligned with the clinical evidence. We adapt the Context Association Test (CAT) to evaluate whether GPT-4o responds to gendered ADHD associations in a zero-shot, self-diagnostic setting. We show that explicit cueing consistently amplifies certain ADHD subtype asso",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Cheap AI-Assisted Reverse Engineering and What It Will Do",
-      "url": "https://arxiv.org/abs/2610.35633",
-      "summary": "arXiv:2610.35633v1 Announce Type: new Abstract: Generative AI is putting the law of reverse engineering (RE) under severe strain. Existing IP and technology laws assume that RE is expensive and time-consuming, and that it requires specialized expertise. They generally allow it, but they rely on its difficulty as a filter to separate (permissible) RE from (impermissible) copying and theft. Generative AI is changing this equation by making \\RE much faster, cheaper, and easier. AI systems can identify hardware components, extract firmware, decompile object code, and clone entire apps. The resulti",
+      "title": "The Conditional Value of Costly Information in Collective-Risk Dilemmas",
+      "url": "https://arxiv.org/abs/2610.33895",
+      "summary": "arXiv:2610.33895v1 Announce Type: cross Abstract: Many high-stakes collective problems, e.g., climate mitigation and pandemic response, share a structure in which risk materializes unless a group threshold is met. This threshold is often uncertain, but uncertainty can be reduced at a cost. We study this information cost tradeoff in an evolutionary game theoretic model of social learning in the collective-risk dilemma, where individuals must cooperate to reach a possibly uncertain threshold to prevent collective loss. Individuals may pay a fixed cost to observe the threshold's true value and co",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Watchtower Imperative: Lifespan-Calibrated Evaluation for Frontier AI",
-      "url": "https://arxiv.org/abs/2610.35725",
-      "summary": "arXiv:2610.35725v1 Announce Type: new Abstract: The gap between AI capability deployment and safety assurance is structural and cannot be closed through internal evaluations alone. Analyzing documented harms (2017-2026) across the human lifespan reveals that disparate incidents --- from voice assistants endangering children to AI companions implicated in adolescent suicide and automated care denials for the elderly --- reflect a single failure: evaluating systems against an implicit adult user model. We introduce five developmental moderators structured into a Lifespan Vulnerability Matrix acr",
+      "title": "Fear Doesn't Go Viral, It Lingers: Spread, Affect, and Discourse of Food-Fear Content on TikTok",
+      "url": "https://arxiv.org/abs/2610.33898",
+      "summary": "arXiv:2610.33898v1 Announce Type: cross Abstract: TikTok has become a primary channel for nutrition information, and alongside evidence-based content, it hosts a growing stream of \\emph{fear-based} wellness messaging that frames ordinary foods as ``toxic,'' ``poison,'' or things to ``never eat.'' Prior work has extensively studied political and public-health misinformation and audited the accuracy of health videos, but to the best of our knowledge, no work has examined how everyday food-fear content spreads and how audiences respond to it. To investigate this, we collected 97,234 TikTok food a",
       "published": "2026-10-27T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
