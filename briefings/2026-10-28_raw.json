@@ -1,91 +1,83 @@
 {
   "date": "2026-10-28",
-  "articles_count": 11,
+  "articles_count": 10,
   "articles": [
     {
-      "title": "How Alex Lee became the first engineer at Magic Patterns",
-      "url": "https://www.ycombinator.com/blog/how-alex-lee-became-the-first-engineer-at-magic-patterns/",
-      "summary": "Alex Lee left his own startup to join Magic Patterns as founding engineer — and built a slide deck feature in a weekend.",
-      "published": "2026-10-28T02:59:08",
-      "source_name": "Y Combinator Blog",
-      "source_category": "ia-acteurs"
-    },
-    {
-      "title": "MUSE: Revealing Responsiveness Gaps of LLM Tutors on Multiple-Solution Programming Problems",
-      "url": "https://arxiv.org/abs/2610.36367",
-      "summary": "arXiv:2610.36367v1 Announce Type: new Abstract: When a problem admits multiple valid solutions, effective tutoring requires building on a student's strategy while introducing alternatives at appropriate points. However, whether LLM tutors can support this flexibility by appropriately responding to students' diverse solution approaches remains largely unexplored. In this work, we introduce MUSE: Multi-solution Understanding and Simulation Environment, a controlled environment for simulating student-tutor conversations on multiple-solution programming problems. Grounded in learning science on re",
+      "title": "Physiognomy Revisited: How Vision-Language Models Encode Sensitive Attributes Through Image Transformation",
+      "url": "https://arxiv.org/abs/2610.35910",
+      "summary": "arXiv:2610.35910v1 Announce Type: cross Abstract: Emergent generative AI technologies, while remarkably beneficial across several tasks and domains, can suffer from unforeseen vulnerabilities and difficult-to-anticipate failure modes. Such failure modes can disparately affect vulnerable communities. This paper investigates two well-known vision language models (VLMs) and inspects how these models encode protected identities while generating images. We show that when VLMs are requested to transform human face images to reflect race identities (e.g., Hispanic, Black, White, or Asian) and sexual ",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Multi-Scale Spatio-Temporal Exploratory Analysis of Urban Vehicle Theft",
-      "url": "https://arxiv.org/abs/2610.36478",
-      "summary": "arXiv:2610.36478v1 Announce Type: new Abstract: Vehicle theft is a persistent urban problem with large economic and social costs. We analyze 521,098 stolen-vehicle reports filed with the Los Angeles Police Department from 2000 to 2022, at scales from hours to decades and from 100 m grid cells to census tracts. Much of the work lies in making the administrative records fit for analysis: we separate thefts from recoveries and traffic reports filed in the same records, repair time fields, validate the geocoding, and harmonize census data across changing tract boundaries. Theft is strongly and per",
+      "title": "PolicyMediator: Multi-Regional Policy Learning through Mediation Agents with Evolving Skills in OPC Ecosystems",
+      "url": "https://arxiv.org/abs/2610.35997",
+      "summary": "arXiv:2610.35997v1 Announce Type: cross Abstract: One-person companies (OPCs) are emerging enterprises operated by individual entrepreneurs through digital platforms and LLM-based AI agents. These highly skilled entrepreneurs are characterized by being digital nomads, with limited reliance on local ecosystems. Governments in China use distinct regional support policies to attract mobile OPCs, turning local support into a cross-regional coordination problem. OPCs compare regions to maximize their own utility, but imperfect policy perceptions may cause them to reject otherwise suitable locations",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Governed Sovereign RAG for Public Administration: Tripartite Epistemic Routing, Facet-Guided Clarification, and Deterministic Numeric Verification in Citizen Services",
-      "url": "https://arxiv.org/abs/2610.36561",
-      "summary": "arXiv:2610.36561v1 Announce Type: new Abstract: Deploying conversational assistants at government service desks faces a tension between regulatory certainty (zero tolerance for invented fees), data sovereignty prohibiting commercial clouds, and high rates of underspecified or out-of-jurisdiction citizen queries. We present and evaluate a governed, sovereign Retrieval-Augmented Generation (RAG) architecture deployed on the official portal of the State of Tlaxcala, Mexico (tlaxcaladigital.gob.mx), covering 1,143 procedures and a decoupled directory of 924 offices. The system governs interactions",
+      "title": "Practice Makes Perfect: Tacit Knowledge, Generative AI, and Returns to Schooling and Experience",
+      "url": "https://arxiv.org/abs/2610.36008",
+      "summary": "arXiv:2610.36008v1 Announce Type: cross Abstract: Generative AI changes the scarcity of different forms of human capital. It makes codified knowledge cheaply available at the point of production, while judgment acquired through practice remains tied more closely to the worker. We ask what this does to two familiar prices in the wage structure: the return to schooling and the return to experience. In a short-run framework, machine-supplied codified knowledge substitutes directly for the codified component of worker human capital, lowering the schooling gradient. If codified and practice-based k",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Whether Is Not When: Separating Occurrence from Timing in Polymarket Prices",
-      "url": "https://arxiv.org/abs/2610.36639",
-      "summary": "arXiv:2610.36639v1 Announce Type: new Abstract: Prices formed by Web users on Polymarket, a blockchain-based prediction market, are now cited in the news and in a U.S. Army intelligence bulletin as early warnings of geopolitical events. However, it remains unclear whether these prices can serve as such warnings. This cannot be judged from accuracy, because most markets resolve No and accuracy can remain high even when many of the events that did happen are missed. In this paper, we study this question from two aspects, using all 1.24 billion on-chain trades in 2.37 million Polymarket markets t",
+      "title": "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction",
+      "url": "https://arxiv.org/abs/2610.36116",
+      "summary": "arXiv:2610.36116v1 Announce Type: cross Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \\emph{durable, collective human understanding of the world, pursued in service of human ends and values}. From this principle it derives a two-part test for when a research task can be delegated to AI. The first part, \\em",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Edhivo: An AI-Native Platform for Scalable Assessment and Instant Feedback in Higher Education",
-      "url": "https://arxiv.org/abs/2610.36654",
-      "summary": "arXiv:2610.36654v1 Announce Type: new Abstract: Scaling assessment in higher education faces two intertwined bottlenecks: the cognitive burden of authoring assessments and the inability to semantically evaluate open-ended responses, which together create a persistent feedback gap that hinders student learning outcomes. To address these challenges, we present Edhivo, an AI-native pedagogical platform that addresses both bottlenecks through a vertically integrated system for content delivery, assessment, and reporting. Edhivo employs a Dual-LLM pipeline: one model generates context-aware assessm",
+      "title": "Is the education gap in generative AI use smaller than the internet's was at a similar level of use? Evidence from 16 European countries",
+      "url": "https://arxiv.org/abs/2610.36181",
+      "summary": "arXiv:2610.36181v1 Announce Type: cross Abstract: New technologies are usually adopted first by people with more formal education. This paper asks whether the education gap in generative AI use in 2025 is smaller or larger than the internet's gap in the same country in the year when overall internet use was at a similar level. It uses public Eurostat survey data on ICT usage by individuals aged 16 to 74. Each country's 2025 rate of generative AI use in the last three months is matched to the internet year whose overall last-three-months use was closest, within 5 percentage points, and the gap ",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Conditional Values: The Contingent Foundations of Attitudes toward Artificial Intelligence",
-      "url": "https://arxiv.org/abs/2610.37197",
-      "summary": "arXiv:2610.37197v1 Announce Type: new Abstract: How do broader values shape whether people judge artificial intelligence (AI) as good or bad for humanity? This article analyzes provisional World Values Survey Wave 8 data from 40,960 respondents in 24 country samples using pooled and national prediction models, outcome-independent respondent profiles, and groups of countries. The analysis reveals a cross-country anchor: general optimism about science and technology is the strongest pooled predictor of favorable AI evaluation and recurs among the leading predictors in every national sample. Expe",
+      "title": "Bringing Hardware Security Education to All: A Seamless Curriculum Integration Approach",
+      "url": "https://arxiv.org/abs/2610.36219",
+      "summary": "arXiv:2610.36219v1 Announce Type: cross Abstract: Cybersecurity education has predominantly focused on software and network security, under the assumption that the underlying hardware is trustworthy. Threats introduced through the global semiconductor supply chain, together with vulnerabilities arising during design and integration, challenge the assumption that hardware can serve as an unquestioned root of trust. Sensor-enabled systems and machine-learning accelerators further expand the hardware attack surface. The undergraduate curriculum of electrical and computer engineering and computer ",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Uneven Use, Similar Trust Generative AI in Denmark and Romania",
-      "url": "https://arxiv.org/abs/2610.37348",
-      "summary": "arXiv:2610.37348v1 Announce Type: new Abstract: Generative AI (GenAI) has spread unevenly across Europe, and it is unclear whether higher use brings higher trust. This paper compares Denmark and Romania, the EU's highest and lowest GenAI users, and asks whether the difference in public and institutional trust between them corresponds to the difference in trust in AI. Drawing on trust, technology-acceptance and digital-divide theory, it is a descriptive, contrasting-case analysis of harmonised data: GenAI usage comes from Eurostat, trust in AI more generally from the KPMG/Melbourne global study",
+      "title": "No Tokenizer, Still a Gap: Cross-Lingual Fairness of Homoglyph and Invisible-Character Watermarking",
+      "url": "https://arxiv.org/abs/2610.36432",
+      "summary": "arXiv:2610.36432v1 Announce Type: cross Abstract: Homoglyph and invisible-character watermarks are edit-based watermarks. Instead of changing how a model generates text, they hide a signal in the text after it is written. They swap some characters for homoglyphs, which look the same, or very similar, but have different Unicode code points, or they insert characters that do not display, all without access to the model that wrote the text. Generation-time watermarks work less well for lower-resourced languages due to how tokenizers split their text. Because they work on individual characters, th",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Neighborhood Deprivation Shapes Post-Flood Population Losses in Pune and Bandung",
-      "url": "https://arxiv.org/abs/2610.37418",
-      "summary": "arXiv:2610.37418v1 Announce Type: new Abstract: Disaster research in high-income settings shows that better-resourced communities see population inflows and faster recovery, while disadvantaged communities suffer prolonged population loss. Whether this pattern holds in rapidly urbanizing cities of the Global South remains unclear. Here we show, using mobile phone data from Pune, India, and Bandung, Indonesia, how neighborhood-level changes in phone presence, a proxy for short-term population movement, relate to flooding and neighborhood deprivation. We combine satellite-derived flood maps with",
+      "title": "CogArena: Benchmarking Multimodal Agents on Interactive Behavioral Experiments",
+      "url": "https://arxiv.org/abs/2610.36484",
+      "summary": "arXiv:2610.36484v1 Announce Type: cross Abstract: Claims about the cognitive capabilities of large language models are typically tested by translating behavioral paradigms into text prompts, bypassing the visual interfaces and time pressure through which human participants actually engage with experiments. At the same time, AI agents can now complete online behavioral tasks and produce human-like data, which raises concerns that online datasets in the social and behavioral sciences are increasingly open to contamination. We introduce CogArena, a benchmark of ten experimental paradigms from the",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Extending the W3C Data Privacy Vocabulary to Cover the German Health Data Use Act - Lessons Learned",
-      "url": "https://arxiv.org/abs/2610.37527",
-      "summary": "arXiv:2610.37527v1 Announce Type: new Abstract: Finding, sharing, and reusing data requires common interoperable vocabularies to adequately describe machine-actionable data policies. Semantic Web standards are a proven way to express such information describing data access and reuse. Narrative descriptions get a stable and agreed meaning by formal definitions of terms that have a globally unique identifier. The Data Privacy Vocabulary (DPV) represents a community standard for privacy, data protection, and related topics. DPV uses modular namespaces to define jurisdictions, such as \"EU\", and to",
+      "title": "Counting by the Book: Verifying Alaska's Ranked-Choice Elections",
+      "url": "https://arxiv.org/abs/2610.36494",
+      "summary": "arXiv:2610.36494v1 Announce Type: cross Abstract: We present Alaska's ranked-choice elections as a case study in Formally Verified Democracy, a program to establish election results through formally checked proofs. We formalize an interpretation of Alaska's tabulation rules in Lean, verify its implementation, and prove election-specific results. Across 115 ranked-choice contests in Alaska since 2022, we identify 75 ballot records across 10 contests that were counted differently from this interpretation by a program reproducing the published results, without changing any winners. We trace these",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "People's Views on Smiley Emoji on WeChat Platform, Positive Emotion and Sarcasm",
-      "url": "https://arxiv.org/abs/2610.35908",
-      "summary": "arXiv:2610.35908v1 Announce Type: cross Abstract: Emoji can easily lead to misunderstanding. On WeChat, [Smile] is often used by the elderly to express positive emotions such as joy and praise, but young people often regard [Smile] as sarcasm. In this case, misunderstandings can easily occur. In order to confirm the existence of this phenomenon and analyze people's understanding of emoji, this study selected 20 smiley emoji on WeChat platform and directly asked people's opinions on these emoji through questionnaires, including whether they recommend others to use, and rating of emotion joy, pr",
+      "title": "The uneven rise of AI-generated web content",
+      "url": "https://arxiv.org/abs/2610.36631",
+      "summary": "arXiv:2610.36631v1 Announce Type: cross Abstract: In less than five years, generative artificial intelligence (AI) has dramatically reshaped the public-facing web. Using a sample of more than 5 million crawlable webpages, we demonstrate that the share containing AI-generated text has increased precipitously, but unevenly. Our analyses reveal substantial differences in AI composition across language and domain categories (e.g., .edu, .com, or .gov). A higher fraction of English-language webpages contain AI-generated text compared to pages in other languages, and prevalence is substantially lowe",
       "published": "2026-10-28T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
