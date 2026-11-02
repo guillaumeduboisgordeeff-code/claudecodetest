@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-02",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Language Non-Invariance in the Ideological Evaluation of Large Language Models",
+      "url": "https://arxiv.org/abs/2610.41135",
+      "summary": "arXiv:2610.41135v1 Announce Type: new Abstract: Recent multilingual studies show that political evaluations of large language models (LLMs) can vary across languages. This paper examines how robust this non-invariance is to questionnaire translation, surface wording, stochastic model variation, and instrument choice, and how much it matters for cross-model comparison. Using the Political Compass, the analysis compares the positions of five LLMs, GPT-3.5, GPT-4o, GPT-5.2, Qwen-2.5, and Mistral Large, on its economic and social axes in English, Spanish, and French, with repeated stochastic draws",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Ineliminable Anchor: Human Judgment as a Structural Requirement of Autonomous Artificial Intelligence Systems",
+      "url": "https://arxiv.org/abs/2610.41682",
+      "summary": "arXiv:2610.41682v1 Announce Type: new Abstract: As artificial intelligence (AI) agents carry out longer chains of tasks, oversight must establish whether their behavior still serves an authorized goal. Here, we introduce the anchor: the point at which reference information and human-authorized standards enter an autonomous system. We argue that oversight design should first identify the reference needed to assess goal drift and whether the system's internal record can supply it, then decide who checks and how often, and finally specify who may revise the goal. Goal drift can be impossible to c",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "LLM Recommenders Produce Demographic Inequality Through Content Preferences",
+      "url": "https://arxiv.org/abs/2610.41854",
+      "summary": "arXiv:2610.41854v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly being integrated into systems that rank and recommend online content. We examine how this shift can produce demographic inequality in whose voices are surfaced. Using 10,000 Twitter/X posts written by 1,000 survey respondents and linked to verified self-reported characteristics across nine demographic attributes, we conduct a controlled recommendation experiment across three LLM providers, six recommendation objectives, and five levels of contextual information. By varying whether models receive post ",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI evaluators favor job applications written by certain AI models, independent of candidate quality",
+      "url": "https://arxiv.org/abs/2610.41866",
+      "summary": "arXiv:2610.41866v1 Announce Type: new Abstract: Job applicants increasingly use large language models (LLMs) to write cover letters, while employers deploy LLMs to screen them. In this all-AI setting, we ask whether the \\emph{choice of model} affects hiring outcomes independently of candidate qualifications. We introduce a multi-model auditing framework pairing eleven LLM writer agents with nine API-hosted evaluator agents across ten job descriptions and fifty candidates per job. Four findings emerge. First, we identify a generative preference hierarchy: a consistent global ranking of writer m",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "On-Chain Behavioral Signatures for Classifying Centralized Exchange Addresses on Ethereum Using Proof-of-Reserves",
+      "url": "https://arxiv.org/abs/2610.41888",
+      "summary": "arXiv:2610.41888v1 Announce Type: new Abstract: Centralized exchanges (CEXs) are key gateways between traditional finance and digital asset markets, yet identifying their blockchain addresses remains challenging. Existing approaches often rely on opaque attribution labels or treat exchanges as secondary classification targets, leaving generalization to unseen exchanges insufficiently examined. This study develops a classification framework using Proof-of-Reserves (PoR) disclosures, with 3,033,857 Ethereum addresses from 15 CEXs and five Non-CEX categories. We derive 58 on-chain behavioral feat",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Multimodal Type 2 Diabetes Registry on DHIS2: A Design and Feasibility Study with the AI-READI Dataset",
+      "url": "https://arxiv.org/abs/2610.41918",
+      "summary": "arXiv:2610.41918v1 Announce Type: new Abstract: Care for type 2 diabetes increasingly draws on continuous glucose monitors, wearable devices, home sensors, clinical records and retinal images, yet few open platforms have been shown to hold all of these for the same person. We asked three questions of DHIS2, the open-source health information system that ministries of health in about 80 countries run nationally: whether an unmodified Tracker program can represent these modalities together (RQ1), which design choices its row-per-event data model forces for dense sensor streams (RQ2), and what a ",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Where ADS Crashes Differ: A Harmonized Comparison Against Human Baselines",
+      "url": "https://arxiv.org/abs/2610.42121",
+      "summary": "arXiv:2610.42121v1 Announce Type: new Abstract: Crash-rate comparisons between automated driving systems (ADS) and human drivers require an exposure denominator that only a few operators publish. We instead ask a composition question: given a crash, does the mix of crash types differ between ADS and human-driven vehicles? The question needs no mileage and can therefore cover every ADS operator. We assemble the NHTSA Standing General Order (SGO) ADS incident files across both file generations into 2,450 distinct in-scope incidents (2021-2026), of which 828 fall within the 2021-2024 window cover",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Counterfactual assessment of social media interventions by separating exposure from engagement",
+      "url": "https://arxiv.org/abs/2610.37864",
+      "summary": "arXiv:2610.37864v1 Announce Type: cross Abstract: Social media interventions are usually evaluated in individual-level experiments, which are costly to scale and often miss collective effects. We propose the Exposure--Engagement model, whose parameters separately control what social media users are exposed to (recommendation) and how they engage (behaviour). After fitting it to the Italian Twitter debate (2018--2022), we validate it at individual and collective levels. We simulate behavioural interventions (prebunking and accuracy prompts), calibrated on effect sizes, and a recommender-system ",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Cutting out the middleman? Elon Musk and the rhetoric of citizen journalism in platform-mediated communication",
+      "url": "https://arxiv.org/abs/2610.40675",
+      "summary": "arXiv:2610.40675v1 Announce Type: cross Abstract: This article examines how Elon Musk constructed discourse about journalism and the media on X between the 2024 United States presidential election and Donald Trump's presidential inauguration. It investigates how references to journalism, media organisations, and platform-based communication were articulated within Musk's posts, and how users responded to these narratives during a period of intense political polarisation. The study combines computational classification, qualitative thematic coding, and inferential statistical analysis. A corpus",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Asymmetric Decline Rather Than Backfire: A Repost-Network Analysis of Japanese Vaccine-Shedding Misinformation on X",
+      "url": "https://arxiv.org/abs/2610.40677",
+      "summary": "arXiv:2610.40677v1 Announce Type: cross Abstract: This study investigates the diffusion of vaccine-shedding discourse on X in 2024, focusing on polarization in repost networks and reactions to corrective information. Here, \"shedding\" refers to the scientifically unsupported claim that harmful substances are released from individuals vaccinated against COVID-19 and cause adverse health effects in nearby unvaccinated people. Using 109,170 posts containing the Japanese term for \"shedding\" and 478,089 reposts collected from January 1 to December 31, 2024, we constructed a post-level repost network",
+      "published": "2026-11-02T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
