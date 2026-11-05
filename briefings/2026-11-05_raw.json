@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "What Do We Mean When We Say 'F*ck AI'?: Moral Panic, Semantic Indeterminacy, and the Reification of Techno-Capitalism",
-      "url": "https://arxiv.org/abs/2611.05574",
-      "summary": "arXiv:2611.05574v1 Announce Type: new Abstract: Academic and (increasingly) public resistance to artificial intelligence (AI) often blurs the line between legitimate critique of techno-capitalist exploitation and (inflated) existential risk. Moreover, discourse around AI can sometimes resemble a \"moral panic\" where an apparently clear and identifiable scapegoat is targeted in lieu of the complex systemic problems that are causing (genuine and justified) social anxieties. However, AI is not a monolith. In this paper, we explore the environmental, political, and socio-technical consequences of t",
+      "title": "Using AI Predictions to Augment Rather Than Replace Surveys",
+      "url": "https://arxiv.org/abs/2611.06743",
+      "summary": "arXiv:2611.06743v1 Announce Type: new Abstract: LLMs can predict human survey responses with nontrivial accuracy. What this means for the future of social surveys remains hotly contested. Optimists anticipate a coming era of synthetic respondents; skeptics see a fragile and overhyped substitute. This article advocates a position: AI predictions cannot replace surveys, but they can augment them. Using prediction-powered inference (PPI), a statistical framework rooted in survey methodology and known in sociology as \"mixed subjects design\", the study tests whether AI predictions can improve the s",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Cibersapiens: Gamifying Cybersecurity Education to Engage Secondary Students",
-      "url": "https://arxiv.org/abs/2611.05587",
-      "summary": "arXiv:2611.05587v1 Announce Type: new Abstract: Cybersecurity education and awareness are often tailored for businesses, leaving general citizens, especially young people, unprepared. Despite the availability of educational resources, cybersecurity training is not provided equally to all individuals, particularly children and teenagers. As digital risks such as sexting, grooming, and cyberbullying, among others, increase, young users remain vulnerable. However, existing awareness efforts fail to engage them effectively and current content lacks the motivation needed to drive meaningful behavio",
+      "title": "U.S. State Guidance on AI in K-12 Education: A Comparative Content and Citation Analysis",
+      "url": "https://arxiv.org/abs/2611.06762",
+      "summary": "arXiv:2611.06762v1 Announce Type: new Abstract: In the years following the public release of ChatGPT in late 2022, more than half of U.S. states have published formal guidelines around AI usage in K-12 education, creating a record of largely independent state education departments responding to a shared technological disruption. In this work, we analyze publicly available AI usage guidance documents from 35 states in the U.S. and Puerto Rico. We compare the guidance in these documents across various dimensions, including pedagogy and instruction, audience, actionability, workforce and career r",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Male Abstraction Bias in Internet Culture and Large Language Models",
-      "url": "https://arxiv.org/abs/2611.05730",
-      "summary": "arXiv:2611.05730v1 Announce Type: new Abstract: Two foundational aspects of human cognition, abstractness and gender, are typically examined as separable. Here, we find they are systematically linked throughout the entire space of concepts spanning single (N = 40,000) and multi-word expressions (N = 67,000): across billions of words and millions of images on the internet -- and across numerous measurement techniques -- more abstract concepts are more associated with men, an effect which replicates in languages around the world. This pattern not only holds across conceptual domains, but it also",
+      "title": "Whose Transparency is it Anyway? Understanding Generative AI Transparency Needs and Gaps Across Stakeholders",
+      "url": "https://arxiv.org/abs/2611.05549",
+      "summary": "arXiv:2611.05549v1 Announce Type: cross Abstract: Transparency has become a central principle in AI governance, yet there is little agreement about what transparency means, for whom, and in what contexts. Drawing on interpretive flexibility within the Social Construction of Technology, this paper examines how different stakeholders understand and experience transparency in generative AI. This study draws from a global survey of 400 end-users, AI builders, and policymakers, complemented by a structured focus group with end-users, grounding the quantitative findings in qualitative insights from ",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Thick Alignment: A Social Framework for Values and AI Systems",
-      "url": "https://arxiv.org/abs/2611.05857",
-      "summary": "arXiv:2611.05857v1 Announce Type: new Abstract: Computer science research on the \"alignment\" of artificial intelligence (AI) systems treats human values as content to be specified and optimized. Decades of social science scholarship describe values differently, as enacted in ordinary practice, interpreted in social context, and contested across plural orders of evaluation and worth. We argue that the dominant alignment techniques, which we call \"thin alignment,\" convert situated moral or value judgments into one or a few metrics via devices of commensuration such as preference labeling, reward",
+      "title": "VIPBench: A Human-Aligned Benchmark for Voice Identity Perception in the Age of Voice Cloning",
+      "url": "https://arxiv.org/abs/2611.05638",
+      "summary": "arXiv:2611.05638v1 Announce Type: cross Abstract: Speaker-recognition benchmarks test how accurately a model recovers the speaker label of a recording, treating voice identity as a property of the person who produced it. However, these benchmarks do not evaluate how humans perceive voice identity. Whether a listener hears two voices as the same person has consequences for intellectual property rights, cybersecurity, and everyday life. We introduce the Voice Identity Perception benchmark (VIPBench), which contains 124,876 same-or-different judgments from 1,290 listeners on 9,800 recording pairs",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "FireOPS: A Human-Centric Emergency Operations Platform",
-      "url": "https://arxiv.org/abs/2611.06176",
-      "summary": "arXiv:2611.06176v1 Announce Type: new Abstract: Volunteer fire brigades rely on fragmented alerting channels and radio plus paper for situational awareness, hindering a shared common operational picture (COP). FireOPS integrates smartphone alerting, navigation, a live geospatial COP, a district resource-load overview and contextual manuals into a human-centric decision-support surface for commanders and responders, running on an edge + cloud architecture whose dual-channel provides source-level redundancy against failure of either the radio or the provincial server feed; delivery to smartphone",
+      "title": "Sure Enough to Share? Overconfidence in GenAI Video Discernment is Associated with Sharing Intentions",
+      "url": "https://arxiv.org/abs/2611.05844",
+      "summary": "arXiv:2611.05844v1 Announce Type: cross Abstract: Generative Artificial Intelligence (GenAI) is blurring the line between synthesized and recorded videos, but less is known about people's awareness of their discernment abilities and the consequences of miscalibration. This study examines three forms of overconfidence in GenAI video discernment (i.e., overestimation, overplacement, and overprecision) and their associations with source judgments and sharing intentions in an online study (N = 973). Participants evaluated videos depicting everyday scenes and achieved 62.5% accuracy. Three forms of",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Building a Method: Challenges and Lessons from Developing an Impact Evaluation Framework for Public Investment in Open Source Software",
-      "url": "https://arxiv.org/abs/2611.06281",
-      "summary": "arXiv:2611.06281v1 Announce Type: new Abstract: Modern societies and institutions depend on an invisible layer of open digital infrastructure: foundational, openly accessible digital technologies that support a broad range of social and economic activities. Open source software is a core component of this infrastructure, underpinning everyday technologies and critical systems in various critical sectors. As open source software becomes increasingly recognised, funded, and governed as open digital infrastructure, policymakers face growing demands for accountability, transparency, and credible e",
+      "title": "InterSim: Innovative Intersection Digital Twins for Human-in-the-Loop Driving Simulation",
+      "url": "https://arxiv.org/abs/2611.05968",
+      "summary": "arXiv:2611.05968v1 Announce Type: cross Abstract: Innovative intersection designs can improve roadway safety and operational efficiency, but their uncommon geometries may create challenges for driver comprehension during early deployment. Evaluating these designs through full-scale field implementation can also be costly. This paper presents InterSim, a Unity game engine-based human-in-the-loop (HITL) driving simulator that constructs digital twins of site-specific innovative intersections in a virtual environment. InterSim links the real world and the simulation world through two closed cycle",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Who Gets Counted? Large Language Models, Informative Refusal, and Downstream Bias in Name-Based Demographic Classification",
-      "url": "https://arxiv.org/abs/2611.06550",
-      "summary": "arXiv:2611.06550v1 Announce Type: new Abstract: Researchers routinely infer gender, race, and ethnicity from names, yet the standard tools used for this task misclassify the groups that diversity research most needs to measure. Large language models (LLMs) have been proposed as a remedy because they label diverse names accurately. We ask whether that accuracy carries over to the estimates researchers report. Across 10,000 Chinese names, 19,998 North Carolina voters with self-reported race, and 300 political science authors with human reference codes, we compare three LLMs with seven traditiona",
+      "title": "The Harness Is the Model: Agent Scaffolding Changes a Fixed LLM's Compliance with Banking Conduct Rules, Unevenly Across Models",
+      "url": "https://arxiv.org/abs/2611.06116",
+      "summary": "arXiv:2611.06116v1 Announce Type: cross Abstract: Banks validate language models, but they deploy systems: a model inside a harness that decides what it sees, which tools it can call and who checks its actions. We test whether that harness changes compliance with banking conduct rules when the model is held fixed. Four open-weight models each ran five harnesses (a pipeline that makes one structured decision, a ReAct-style tool loop, a loop in which the policy is reachable only through search, a loop with a long benign customer memory, and a loop with a same-model compliance reviewer) on 156 pr",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Does Personality Persuade? Investigating Personality Trait Prompting and Persuasion in Large Language Models",
-      "url": "https://arxiv.org/abs/2611.06572",
-      "summary": "arXiv:2611.06572v1 Announce Type: new Abstract: Large language models (LLMs) can be prompted to express different personality profiles, but it remains unclear how reliably they do so or whether personality affects their persuasiveness. We investigate these questions in two evaluations. First, we assess Big Five personality prompting using the IPIP-NEO-120, examining reproducibility, trait controllability, cross-trait effects, and unconditioned model profiles. Second, we conduct a within-subjects user study (N=32) in which participants discuss moral dilemmas with LLM agents whose personalities ",
+      "title": "Clear Human Web: Where a Person Vouches for Every Client",
+      "url": "https://arxiv.org/abs/2611.06286",
+      "summary": "arXiv:2611.06286v1 Announce Type: cross Abstract: The web cannot tell whether a request comes from a person or from a program. Sites have checked the network address and puzzles in its place, and both have given way: automated traffic exceeds human traffic, and puzzles are solved for pay and by agents. This paper proposes the Clear Human Web, the part of the public web that sites open only to clients a person vouches for. A person's wallet presents their person identification data (PID) to one issuer, the only party that registers as a relying party, and receives a bounded number of blind-sign",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond accuracy: what AI assurance needs to establish in public services",
-      "url": "https://arxiv.org/abs/2611.06655",
-      "summary": "arXiv:2611.06655v1 Announce Type: new Abstract: Public bodies increasingly rely on AI-produced evidence, including classifications, summaries and assessments. These outputs can inform policy decisions and service delivery, making their reliability a matter of public accountability. Establishing whether this evidence can be relied upon requires testing its outputs and examining how organisations decide whether those tests are sufficient. We combine technical evaluation with analysis of AI governance requirements, informed by measurement theory and management-based regulation. We compare eight G",
+      "title": "Today's Work, Tomorrow's Workforce: Incentivizing Learning in AI-Assisted Work",
+      "url": "https://arxiv.org/abs/2611.06346",
+      "summary": "arXiv:2611.06346v1 Announce Type: cross Abstract: At work, people develop skills through experience: novices acquire skills by completing tasks, while experts retain theirs through continued practice. AI assistance changes this process by offering workers a choice between solving tasks independently and accepting the AI's answers. While relying on AI saves immediate effort, it can also displace the practice needed to acquire and retain skills, including those required to oversee the AI. We extend an existing accept-or-solve model to a sequence of tasks in which workers' skills evolve through i",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond the principle-practice gap: Responsible AI as situated epistemic and ethical practice",
-      "url": "https://arxiv.org/abs/2611.06709",
-      "summary": "arXiv:2611.06709v1 Announce Type: new Abstract: Responsible AI scholarship has found that ethical principles are frequently not reflected in AI design and development. Conceptualised as a `gap' between principle and practice, this is framed as a problem of implementation, awareness or compliance, and by implication, a deficit of systems or individual behaviour. This paper sets out an alternative explanation. Drawing on fourteen semi-structured interviews with actors designing and governing AI-enabled anti-trafficking systems across law enforcement, commercial, research, and survivor-support co",
+      "title": "Amortized Optimization for Calibrating Stochastic Social Simulators",
+      "url": "https://arxiv.org/abs/2611.06623",
+      "summary": "arXiv:2611.06623v1 Announce Type: cross Abstract: Stochastic simulators need suitable parameter values to reproduce observed behaviour in complex systems. Searching for these values through repeated simulations makes frequent recalibration computationally expensive. We develop an amortized optimizer that uses simulations collected in advance to learn how to choose parameters that make simulated outcomes agree with observations. Once fitted, it maps new observations to feasible parameters without further simulator calls. The method retains alternative parameter settings that can explain similar",
       "published": "2026-11-05T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
