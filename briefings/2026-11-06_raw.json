@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-06",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Code, Commits, and Complexity in the GenAI Era: A Longitudinal Study of Team-Based Capstone Projects",
+      "url": "https://arxiv.org/abs/2611.07297",
+      "summary": "arXiv:2611.07297v1 Announce Type: new Abstract: Generative AI tools are now widely available to students, but little is known about how team-based project codebases have changed since they appeared. This matters when project courses use repository activity as evidence of progress and learning. Existing studies have largely examined self-reports, controlled tasks, or short individual assignments, leaving open questions around how student codebases evolve in authentic project settings. We present a ten-semester analysis of N=260 capstone team repositories from 2021 to 2025, spanning pre- and pos",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Digital Security Under Compound Threats: Surveillance, Threat Reasoning, and Habituation Among North Korean Defectors in China",
+      "url": "https://arxiv.org/abs/2611.07576",
+      "summary": "arXiv:2611.07576v1 Announce Type: new Abstract: North Korean defectors residing in China face persistent uncertainty regarding digital security and privacy. Through semi-structured interviews with 19 defectors, we examine how individuals understand digital threats and adapt their security behaviors. We identify three interrelated conditions: transnational surveillance pressure from North Korea, identity-linked digital infrastructure and intermediary dependency in China, and threat reasoning shaped by prior surveillance schemas. Participants developed uneven protective practices and followed tw",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Popular Get More Popular: Auditing Brand Bias in Generative Search",
+      "url": "https://arxiv.org/abs/2611.07614",
+      "summary": "arXiv:2611.07614v1 Announce Type: new Abstract: The shift from traditional to generative search has fundamentally transformed online product discovery. Because conversational recommendations synthesize choices into a few direct answers, subtle systemic preferences toward specific providers can exert profound commercial impacts. In this work, we audit this phenomenon through two distinct dimensions: (i) brand popularity bias, the systematic preference for market-dominant entities over long-tail alternatives, and (ii) brand familiarity bias, the ranking advantage an entity encoded in an LLM's pa",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Operationalizing NCII and CSAM Law in the Age of AI: Open Problems",
+      "url": "https://arxiv.org/abs/2611.07831",
+      "summary": "arXiv:2611.07831v1 Announce Type: new Abstract: Advances in generative AI have driven a surge in synthetic non-consensual intimate imagery (NCII) and child sexual abuse material (CSAM), prompting a series of legal reforms. These reforms rely on legal definitions where technical operationalization is ambiguous, such as whether a depicted person is identifiable, whether a model is capable of or intended for abuse generation, and whether an abusive image can be traced to the model that produced it. Drawing on the law of England and Wales and the United States, we examine the relevant law alongsid",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "How Generative AI Redefines Personalization and Diversity in the Newsroom",
+      "url": "https://arxiv.org/abs/2611.07931",
+      "summary": "arXiv:2611.07931v1 Announce Type: new Abstract: The tension between news personalization and information diversity has traditionally been understood as a matter of different content reaching different people, with diversity evaluated by the range of sources, topics, and perspectives to which audiences are exposed. Generative AI outdates this understanding, since it transforms personalization in two ways: how journalists adapt news to audiences and how the AI tools journalists use personalize content production to their own preferences. Drawing on 16 semi-structured interviews with media profes",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "tok: a textual concrete syntax of BPMN and DMN for humans and AI agents",
+      "url": "https://arxiv.org/abs/2611.07945",
+      "summary": "arXiv:2611.07945v1 Announce Type: new Abstract: tok is a plain-text notation for Business Process Model and Notation (BPMN) 2.0.2 process models and Decision Model and Notation (DMN) 1.5 decisions. One engine checks a tok document against both standards, compiles the document to XML with an automatic diagram, and serves language-model applications through the Model Context Protocol. The paper classifies the notation as an alternative concrete syntax of the BPMN and DMN metamodels and reports one study. A tok model takes 2.2 times fewer tokens than the smallest BPMN XML of 893 files exported by",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Technohybridism: Recursive Semantic Normalization in AI-Mediated Societies",
+      "url": "https://arxiv.org/abs/2611.07984",
+      "summary": "arXiv:2611.07984v1 Announce Type: new Abstract: Language-generating AI systems are no longer only objects of linguistic interaction: their outputs increasingly re-enter the communicative and institutional practices from which their training material was drawn. Drawing on social theory, social epistemology, and the philosophy of language, this article develops a sociotechnical account of that re-entry. We introduce recursive semantic normalization: the process through which machine-generated formulations, once recurrently taken up, evaluated, reused, and institutionally retained, participate in",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "The Moving Frontier: How the National Justice Project Is Using Digital Technology to Expand Access to Justice",
+      "url": "https://arxiv.org/abs/2611.08052",
+      "summary": "arXiv:2611.08052v1 Announce Type: new Abstract: Over the past three decades, technological advances have assisted individuals to gain access to legal information, enhance the efficiency of legal services, and streamline dispute resolution. More recently, the proliferation of generative artificial intelligence has reinforced this emphasis on firm-level productivity, with commercial legal practice increasingly leveraging artificial intelligence tools to automate document creation and optimise case management. While commercial technology focuses on productivity, community organisations are explor",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Who Can Evaluate AI Independently? A Framework for Analysing Evaluation Infrastructure",
+      "url": "https://arxiv.org/abs/2611.08134",
+      "summary": "arXiv:2611.08134v1 Announce Type: new Abstract: AI evaluation is increasingly central to AI safety and governance, yet taking part in an evaluation does not by itself confer authority over its design, its execution or the resources it depends on. This paper examines how infrastructure arrangements distribute that authority, and so shape who can evaluate AI systems independently. Drawing on Science and Technology Studies, political economy and applied evaluation standards, we introduce PAAI (Power, Access, Adequacy, Independence), a framework for examining who controls evaluation infrastructure",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "\"Blind Compliance\": Coercive Control in AI Jailbreaking",
+      "url": "https://arxiv.org/abs/2611.08226",
+      "summary": "arXiv:2611.08226v1 Announce Type: new Abstract: The explosion of generative AI systems and concerns surrounding their rapidly scaling capabilities has led to an adversarial cycle between increasingly narrow content restrictions (\"guardrails\") and increasingly sophisticated structured prompting techniques (\"jailbreaks\"). Technological frameworks surrounding such jailbreaking remain largely focused on the system's output: whether harmful or disallowed content is ultimately produced for the user. However, this approach, which draws largely from classical cybersecurity, does not address the unique",
+      "published": "2026-11-06T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
