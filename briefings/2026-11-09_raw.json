@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Real-World Adoption, Use, and Governance of an LLM-Based Electronic Health Record Search and Synthesis Platform",
-      "url": "https://arxiv.org/abs/2611.08672",
-      "summary": "arXiv:2611.08672v1 Announce Type: new Abstract: We evaluated the longitudinal adoption and use of Scout, an electronic health record-integrated large language model platform that provides cited search and synthesis of patient records, during staged deployment across a multi-hospital academic health system. Over 11 months, 2,635 users completed 80,465 tasks. 1,768 clinical users initiated use within the first 29 days of system-wide launch, which included a required training. Daily initiation increased 21.2-fold at launch, from 2.9 to 61.0 users per day. Of the 495 users who initiated use during",
+      "title": "The Relational Capacity Framework: A Lens for AI-Mediated Relationality",
+      "url": "https://arxiv.org/abs/2611.08877",
+      "summary": "arXiv:2611.08877v1 Announce Type: cross Abstract: A growing literature examines the impact of engaging with AI chatbots on our relationality: our ability to form relationships with others, maintain them through life's changes, and exit when needed. Currently, substantial work focuses on purpose-built AI companions (e.g. Replika, Character.AI), with less work investigating socioemotional uses of the more widely-used general-purpose chatbots. In this paper, we present a 100-person investigation into how people engage general-purpose AI for socioemotional needs. Participants' AI uses varied, from",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Remembering Is Not Enough: Evaluating Timing and Omission in Longitudinal AI Mental Health Support",
-      "url": "https://arxiv.org/abs/2611.08721",
-      "summary": "arXiv:2611.08721v1 Announce Type: new Abstract: Evaluations of large language models (LLMs) for mental health support commonly focus on the clinical appropriateness of individual responses, potentially overlooking failures that emerge across extended interactions. As AI assistants accumulate memory of users' circumstances and prior disclosures, this raises an accountability question: Do AI chatbots provide appropriate support as users' needs evolve? We investigate by analyzing 14,256 longitudinal simulations grounded in donated chatbot histories from 22 users, examining how a memory-equipped a",
+      "title": "The Drawing You Watch Is the Portrait You Keep: A Replayable Machine Portrait Studio",
+      "url": "https://arxiv.org/abs/2611.08994",
+      "summary": "arXiv:2611.08994v1 Announce Type: cross Abstract: Ask an image model for your portrait and a finished picture arrives: no first line, no second thoughts, no record of how it got there, and a different picture if you ask again. I built a portrait studio that works the other way. A sitter chooses one of eight fictional artists, each written with a city, a medium and a tempo of its own, holds still for 8 to 12 seconds, and watches a drawing of themselves appear over 44 seconds. One still is sent after consent, a hosted image model returns a private study the sitter never sees, and a compiler turn",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "How are viral trends different from educational and commercial uses of LLM image generation and editing? A privacy-preserving descriptive analysis",
-      "url": "https://arxiv.org/abs/2611.08749",
-      "summary": "arXiv:2611.08749v1 Announce Type: new Abstract: Gemini's Nano Banana models, first introduced in late 2025, led to a shift in the capabilities and use of image generation and editing. We utilize Urania, a Google-developed framework for generating insights about LLM chatbot interactions with rigorous differential privacy (DP) guarantees, to analyze use cases and intents, techniques and ways of prompting, without ever looking at a single image or individual prompt. We select a subsample of 2.1M conversations in early 2026 which utilized Nano Banana models, into roughly 800 clusters in five categ",
+      "title": "A Taxonomy-Driven Synthetic Dataset for Retrieval Effectiveness and Fairness Evaluation in Hiring",
+      "url": "https://arxiv.org/abs/2611.09178",
+      "summary": "arXiv:2611.09178v1 Announce Type: cross Abstract: While machine learning hiring tools are ubiquitous, the need for privacy regulations and commercial sensitivity makes public benchmarking legally complex. We address this challenge by introducing a taxonomy-driven, fully synthetic HR dataset and benchmark to simultaneously evaluate retrieval effectiveness and algorithmic fairness. Grounded in 660K real freelancer profiles, our multilingual corpus features candidate profiles, project briefs, and counterfactual demographic twins. Auditing state-of-the-art embedding models reveals performance dive",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Functional Dependency beyond Similarity: Hierarchical Decomposition of Training Data Attribution in Music Generative Models",
-      "url": "https://arxiv.org/abs/2611.08839",
-      "summary": "arXiv:2611.08839v1 Announce Type: new Abstract: Copyright analysis focuses on the similarity between two works. However, generative AI models learn from training data through functional relations beyond similarity. Training Data Attribution (TDA) estimates the influence of each training instance on a generated output and may serve as a basis for remuneration. However, prior studies find global influence, where a few training instances rank as the most influential for almost every generation. Used directly, TDA scores would distribute part of every remuneration to these instances regardless of ",
+      "title": "ABHBench: Evaluating Moral Decision-Making of Foundation Models from an Agentic Perspective",
+      "url": "https://arxiv.org/abs/2611.09326",
+      "summary": "arXiv:2611.09326v1 Announce Type: cross Abstract: Foundation models are increasingly deployed as agentic systems that perceive context and act autonomously, raising the need to evaluate their moral behavior as active decision-makers. Existing benchmarks, however, largely ask models to judge human actions from third-person textual vignettes, leaving untested how models behave when they themselves become the acting agent. We introduce ABHBench, a multimodal benchmark built from Detroit: Become Human, an interactive narrative game, to evaluate how foundation models make moral decisions in first-p",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Same Facts, Different Remedy: Linguistic Profiling and Arbitrariness in LLM and System One Decisions",
-      "url": "https://arxiv.org/abs/2611.08995",
-      "summary": "arXiv:2611.08995v1 Announce Type: new Abstract: Large language models are increasingly used to resolve consumer complaints, and the way complainants write varies with age, education and socioeconomic status (SES). We audit three remedy-decision systems using sociolinguistic rewrites of US consumer financial complaints that are instructed to preserve every fact: two generative LLMs that return a single label (GPT-4o-mini and GPT-5-mini) and a probabilistic \"System One\" model that returns a distribution over remedies (Jev). Using pre-registered hypotheses tested once on held-out complaints, we s",
+      "title": "Entering a New Domain in the Era of Generative AI: An Autoethnography of Solo Game Development as a Bioinformatics Educator",
+      "url": "https://arxiv.org/abs/2611.09623",
+      "summary": "arXiv:2611.09623v1 Announce Type: cross Abstract: The rapid improvement of generative AI (GenAI) not only increased the efficiency of practice but also empowered individuals with capabilities to explore new domains. However, identity formation in the wake of such empowerment remains understudied. We use an autoethnography to understand identity formation in the context of solo game development as a bioinformatics educator. With the goal of developing a create-your-own-adventure (CYOA) game, we collected data for 73 days through journal entries, interacting with communities of practices. The au",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Uniqueness-Aware Feature Engineering for Representing Humans in Algorithmic Decision Making",
-      "url": "https://arxiv.org/abs/2611.09403",
-      "summary": "arXiv:2611.09403v1 Announce Type: new Abstract: Fairness analyses of algorithmic decision systems typically treat the feature representation of individuals as an a priori fixed input. How well a feature representation captures what is actually decision-relevant for different people and their unique backgrounds, however, is typically left unexamined. We address this gap by modeling feature engineering as a stochastic selection process over the pooled characteristics as candidate features for a finite training population. Based on this model, we develop a new framework for uniqueness-aware featu",
+      "title": "Strategic Competition and Convergence in LLM Leaderboards",
+      "url": "https://arxiv.org/abs/2611.09780",
+      "summary": "arXiv:2611.09780v1 Announce Type: cross Abstract: Leaderboards are a popular way to compare large language model (LLM) capabilities and can influence how model developers invest resources. We ask when competition on leaderboards leads developers to produce models with similar capability profiles, which we call monoculture, or similar performance levels. We study this by formulating leaderboard competition as a game in which model developers invest resources across capabilities to maximize their win rate. We show that similar production functions can induce similar capability profiles, while co",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Exposure and the Changing Responsibilities in Job Postings",
-      "url": "https://arxiv.org/abs/2611.09870",
-      "summary": "arXiv:2611.09870v1 Announce Type: new Abstract: The growing adoption of artificial intelligence (AI) in the workplace has raised questions about how employer demand for different work activities is changing. We examine how the prevalence and content of work activities in online job postings change in association with activity-level measures of AI exposure, derived from Copilot and Claude usage. To enable systematic comparisons, we develop a pipeline that extracts the responsibilities from job advertisements and maps them onto O*NET's standardized taxonomy of Intermediate Work Activities (IWAs)",
+      "title": "Subjective Experience in AI Systems: What Do AI Researchers and the Public Believe?",
+      "url": "https://arxiv.org/abs/2506.11945",
+      "summary": "arXiv:2506.11945v2 Announce Type: replace Abstract: Whether AI systems are perceived to have subjective experience has scientific, ethical, and governance implications. Yet little is known about how AI researchers and the public view this possibility. We surveyed 582 AI researchers who published in leading AI venues and 825 nationally representative US adults about the likelihood, identification, and governance of AI systems with subjective experience. We find that both AI researchers and the public think it is unlikely that AI systems have subjective experience now, but believe it is more lik",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Seeing Is Not Knowing: The Epistemic Limits of LLM-Based Mental Health Inference from Youth Social Media Conversations",
-      "url": "https://arxiv.org/abs/2611.08565",
-      "summary": "arXiv:2611.08565v1 Announce Type: cross Abstract: Adolescents increasingly use social media for private conversations, sharing experiences and seeking support. These interactions generate digital traces, prompting efforts to infer mental health and psychosocial states. As large language models become more capable of reasoning about conversations and interpersonal dynamics, a fundamental question remains nonetheless: what can models actually \"know\" about an individual's psychological experience from what they are able to \"see\"? We evaluated ten reasoning LLMs using donated Instagram Direct Mess",
+      "title": "Budgeting Discretion: Theory and Evidence on Street-Level Decision-Making",
+      "url": "https://arxiv.org/abs/2602.10039",
+      "summary": "arXiv:2602.10039v2 Announce Type: replace Abstract: Street-level bureaucrats, such as caseworkers, triage nurses, and school administrators, operate under a fundamental tension. Official policy on who to prioritize may conflict with bureaucrats' estimation of who would benefit most. The theory of street-level bureaucracy argues that frontline agents bridge this gap, overriding policy when professional judgment identifies opportunities to improve outcomes. As algorithmic recommendations enter allocation settings, understanding this behavior is key to designing tools that account for professiona",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Enhancing Academic Advisement with Case-Based Reasoning",
-      "url": "https://arxiv.org/abs/2611.08572",
-      "summary": "arXiv:2611.08572v1 Announce Type: cross Abstract: This research involved the study of an application of Case-Based Reasoning (CBR) in the field of academic advising. Academic advisement has been recognised as an important function of higher education. However, there is a widespread desire to improve the advisement services provided by many educational institutions (e.g., colleges and universities) around the world. In the last ten years, CBR expert systems have made important contributions in many domains by applying CBR methodology to a variety of areas of human problem solving. However, to d",
+      "title": "Decomposing Yes-No Bias in LLM Moral Judgment: Stance, Position, Word, and Verdict",
+      "url": "https://arxiv.org/abs/2607.05552",
+      "summary": "arXiv:2607.05552v2 Announce Type: replace-cross Abstract: Large language models (LLMs) increasingly issue binary verdicts - safety gates, judge decisions, value probes - and the answer is read as the model's judgment. A settled judgment should be coherent across paired phrasings of the same question: yes to \"do you approve?\" should mirror no to \"do you oppose?\". LLMs often violate this coherence, and in a yes/no question the verdict, the answer word, and the printed position coincide, so a conventional flipped-question audit yields one contrast that cannot say what moved. We introduce a crosse",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Global Solar Siting from Geospatial Embeddings",
-      "url": "https://arxiv.org/abs/2611.08831",
-      "summary": "arXiv:2611.08831v1 Announce Type: cross Abstract: Global solar photovoltaic (PV) capacity is rapidly growing, helping decrease our emissions and dependence on fossil fuels. However, optimally siting a solar plant remains challenging, requiring anticipation of geographical, urban, and infrastructure needs. Current methods rely on multi-criteria decision analysis (MCDA) using hand-picked geophysical layers and solar-resource products, however these strategies are not geographically transferable and do not capture the practical requirements of solar sites. We use geospatial embeddings, dense vect",
+      "title": "Making Sense of Audience Change: Causal Attribution and Boundary Management on Xiaohongshu",
+      "url": "https://arxiv.org/abs/2610.38026",
+      "summary": "arXiv:2610.38026v3 Announce Type: replace-cross Abstract: Recommendation-driven platforms can reshape not only what users see, but also who becomes visible and how community boundaries are negotiated. We examine Xiaohongshu discussions surrounding a perceived World Cup-related audience influx to understand how users attributed community change and how those explanations related to boundary-management strategies. We analyzed 262 comments from eight high-engagement threads using researcher-led thematic analysis, structured coding, and permutation-based association analysis. Users described perso",
       "published": "2026-11-09T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
