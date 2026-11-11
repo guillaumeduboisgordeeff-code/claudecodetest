@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Understanding Computing Instructors' Perceptions of Student Sense of Belonging",
-      "url": "https://arxiv.org/abs/2611.13237",
-      "summary": "arXiv:2611.13237v1 Announce Type: new Abstract: Students' sense of belonging has been described as a feeling of community acceptance, respect, inclusion, and membership. In computing, student belonging is shaped by psychological, social, academic, and environmental factors, including their relationships with instructors. However, despite prior work emphasizing instructors' influence on student belonging, limited research has examined how computing instructors perceive, understand, and attempt to support belonging. Through nine semi-structured qualitative interviews with introductory computing ",
+      "title": "Understanding Students' Rationales for AI-Mediated Cheating: An Instructor Perspective from Online Forums Analysis",
+      "url": "https://arxiv.org/abs/2611.13358",
+      "summary": "arXiv:2611.13358v1 Announce Type: cross Abstract: The extensive adoption of AI has precipitated a crisis in academic integrity. While studies attempt to quantify cheating, less is known about the motivations instructors believe students have for using AI in prohibited ways. We analyze 2.01 million posts on r/Professors to understand how instructors perceive students' justifications for AI-mediated cheating. Our qualitative analyses reveal four primary themes: (1) Academic System Gaming, (2) Digital-Academic Literacy Gap, (3) Performance Anxiety, and (4) Normalization of Dishonesty.",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Developing an Operational Model for an Internet of Data Based Trusted Data Space for Vocational Education",
-      "url": "https://arxiv.org/abs/2611.13520",
-      "summary": "arXiv:2611.13520v1 Announce Type: new Abstract: Data circulation in vocational education has long been constrained by unclear ownership, a lack of trust, and insufficient incentives. The Internet of Data provides a new underlying technology for enabling trusted cross-domain data circulation. Building on an Internet of Data based trusted data space for vocational education, this paper develops a multi-stakeholder operational model encompassing a value network, a product portfolio, revenue allocation, and governance rules. Emphasizing data sovereignty protection and incentive compatibility, the ",
+      "title": "Mapping Instructors' Attitudes Towards Cheating with AI: An Exploratory Analysis Using Forum Analysis",
+      "url": "https://arxiv.org/abs/2611.13366",
+      "summary": "arXiv:2611.13366v1 Announce Type: cross Abstract: In teaching and learning environments, cheating and the violation of academic integrity have always been one of the challenges, involving different levels of concerns such as administrative, personal knowledge, learning, and equity. The introduction of large language models has brought cheating in dialogue to the forefront, given the apparent capabilities of these models to complete students' academic assignments. This study aims to leverage recent dialogues among university professors about cheating with Generative AI to better understand thei",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Repertoires of Contention: Building computational tools and infrastructures for community resistance to bitcoin mining",
-      "url": "https://arxiv.org/abs/2611.13527",
-      "summary": "arXiv:2611.13527v1 Announce Type: new Abstract: Recent work in human-computer interaction and allied fields has sought to engage community members as co-designers, facilitators, and decision makers to challenge structural power barriers and knowledge gaps. In this paper, we apply a diverse set of computational techniques to engage and address community concerns surrounding the socio-environmental impacts of the Greenidge Bitcoin mining power plant facility in upstate New York. Through collaborative interactions with community groups, addressing problems ranging from regulatory inertia to therm",
+      "title": "Inherited Weights: Measuring the Tokenization Premium and the Sovereignty Cost of Language Models for the Global South",
+      "url": "https://arxiv.org/abs/2611.13441",
+      "summary": "arXiv:2611.13441v1 Announce Type: cross Abstract: Most language models deployed outside the United States and China are fine-tuned descendants of a small number of pretrained families. We argue that fine-tuning leaves the decisive properties of a model inherited from its base: vocabulary, knowledge, cultural alignment, memorized data and license. We contribute (i) an updated, reproducible measurement of the tokenization premium across 31 languages and 7 tokenizers released in 2023-2024, on 27 articles of the Universal Declaration of Human Rights, with explicit correction for unknown-token coll",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Perspicacious: An Educational Intelligence Platform for Instructional Designers",
-      "url": "https://arxiv.org/abs/2611.13549",
-      "summary": "arXiv:2611.13549v1 Announce Type: new Abstract: Designing effective instruction requires instructional designers to create assessment questions aligned with clearly defined knowledge components (KCs). These KCs represent specific knowledge or skills that students must acquire. This process is often time-consuming and relies heavily on expert labor. Although AI for education research has produced a growing body of automated question-generation and KC-discovery methods, few have moved beyond research prototypes into user-friendly tools that instructional designers can readily use. To bridge the ",
+      "title": "EJAI: Judgment-Preserving Civic AI for Data Center Environmental Justice",
+      "url": "https://arxiv.org/abs/2611.13525",
+      "summary": "arXiv:2611.13525v1 Announce Type: cross Abstract: Communities in the United States and around the world are contesting data centers, the physical infrastructure of AI. These disputes pose environmental justice issues: residents must weigh unevenly distributed burdens using evidence scattered across metrics, corporate claims, policy documents, and public testimony. A formative study with 10 users showed that dashboards and single-agent AI can settle questions before people examine that evidence. Here we present EJAI, a source-grounded system that links an interactive map, retrieved evidence, mi",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Transparency Disclosures for Chain-of-Thought Monitorability",
-      "url": "https://arxiv.org/abs/2611.13873",
-      "summary": "arXiv:2611.13873v1 Announce Type: new Abstract: Chain-of-thought (CoT) monitoring is one of the most valuable tools for monitoring advanced AI systems, but it is under threat. We argue that frontier AI developers should report specific indicators to make these threats trackable and to better facilitate coordination to preserve CoT monitorability. We identify five indicators that are both highly relevant and reasonably feasible to disclose, one for each link in a five-step chain on which CoT monitoring depends. The first, third-party CoT access and base architecture specifications, also underpi",
+      "title": "Specify Privacy Yourself: Assessing Inference-Time Personalized Privacy Preservation Ability of Large Vision-Language Models",
+      "url": "https://arxiv.org/abs/2611.13997",
+      "summary": "arXiv:2611.13997v1 Announce Type: cross Abstract: Large Vision-Language Models (LVLMs) have demonstrated remarkable capabilities but raise significant privacy concerns due to their abilities to infer sensitive personal information from images with high precision. While current LVLMs are relatively well aligned to protect universal privacy, e.g., credit card data, we argue that privacy is inherently personalized and context-dependent. This work pivots towards a novel task: can LVLMs achieve Inference-Time Personalized Privacy Protection (ITP$^3$), allowing users to dynamically specify privacy b",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Advancing a Global Framework for AI Safety and Governance for the Well-being of Humanity",
-      "url": "https://arxiv.org/abs/2611.13968",
-      "summary": "arXiv:2611.13968v1 Announce Type: new Abstract: The Report \"Advancing a Global Framework for AI Safety and Governance for the Well-being of Humanity\" is an important outcome of the AI Safety and Governance Program of World Internet Conference Specialized Committee on Artificial Intelligence in 2025. This report provides a systematic review of current global explorations and practices in AI safety and governance, identifies key issues that need to be addressed, and draws upon multilateral governance experiences from other domains. Centered on mechanism design, it explores how to build a global ",
+      "title": "Uneven Self-Reported AI Use: An Embedded Case Study Across Eleven Teams in a Software Organization",
+      "url": "https://arxiv.org/abs/2611.14154",
+      "summary": "arXiv:2611.14154v1 Announce Type: cross Abstract: This paper presents a descriptive, embedded single-case study examining self-reported AI use within a software organization. The study draws on 98 structured interview records collected across 11 teams, using ten standardized team-level instruments (n = 65) and one instrument with distinct response anchors (n = 33). Among respondents assessed using standardized instruments, 36 of 65 (55.4%) reported AI-use frequency scores of 4 or 5 on a five-point scale. Team-level proportions varied from 20.0% (1/5) to 71.4% (5/7). A record-level cross-tabula",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Can AI be a 'Researcher Without Borders'? Auditing Bias in AI-Assisted Social Science Research about China and the US",
-      "url": "https://arxiv.org/abs/2611.14288",
-      "summary": "arXiv:2611.14288v1 Announce Type: new Abstract: Although large language models have demonstrated strong performance on algorithmic and mathematical tasks, their suitability as social science research assistants remains unclear, particularly because many social science questions lack agreed-upon, quantifiable benchmark answers. Evaluating this suitability is important since researchers and students increasingly rely on AI to generate research ideas. When questions concern the countries in which models were developed, bias may be exacerbated: Do AI models favour the countries where they were dev",
+      "title": "AI Isn't Getting Dumber, We're Getting Pickier: Rising Standards in Human Evaluation of Large Language Models",
+      "url": "https://arxiv.org/abs/2611.14333",
+      "summary": "arXiv:2611.14333v1 Announce Type: cross Abstract: Users often complain that AI assistants such as ChatGPT are getting worse. Some versions do change, but human evaluation leaves a second possibility untested: the people judging may change. We separate the two on Chatbot Arena, a public platform where people compare answers from two anonymous large language models (LLMs) and pick the better one or say both are bad. We study 1,260,967 blind votes cast from May 2023 to August 2024 on pairs of models whose versions are fixed: dated vendor snapshots and models with fixed open weights. For the same ",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Trust, but verify, audit and attribute: a human-in-the-loop framework for checking AI-produced research results",
-      "url": "https://arxiv.org/abs/2611.13042",
-      "summary": "arXiv:2611.13042v1 Announce Type: cross Abstract: Artificial intelligence (AI) systems now produce research results in bulk: in October 2026 a single laboratory released more than 700 AI-generated mathematics manuscripts, only part of them with machine-checked proofs. Such volumes will be checked mostly by AI agents that call specialised software. A passing check certifies only the artefact that was checked. For proofs translated into the proof assistant Lean, it has been shown that this artefact may state something other than the author's text, and that deciding whether a translation is faith",
+      "title": "A Computational Model of Teacher-Student Co-Adaptation",
+      "url": "https://arxiv.org/abs/2505.02853",
+      "summary": "arXiv:2505.02853v2 Announce Type: replace Abstract: Effective teaching involves mutual adaptation: teachers adjust instruction based on student responses, while students actively seek information to resolve uncertainty. Yet many computational models of teaching treat instruction as a one-way process. This paper presents a Bayesian computational framework for studying teacher-student co-adaptation under partial observability in a stylized concept-learning task. Students are organized in heterogeneous groups that differ in which features of a target concept they can observe, and the teacher infe",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Reliability of Claude Code as an Agentic AI Grading System for Handwritten University Exams",
-      "url": "https://arxiv.org/abs/2611.13217",
-      "summary": "arXiv:2611.13217v1 Announce Type: cross Abstract: This study examines the reliability of Claude Code, an agentic deployment of the Claude Opus 4.6 large language model, as a grading system for handwritten university exams. Four research questions addressed agreement with expert human grading on total scores (RQ1), agreement across five question types from multiple choice to evaluative judgement (RQ2), consistency across two independent grading sessions one week apart (RQ3), and the accuracy of AI-generated feedback (RQ4). Claude Code graded the 20-mark mid-term papers of 60 consenting students",
+      "title": "Epistemic Infrastructures of Science in AI Era Should Rebalance Costs of Generation and Verification",
+      "url": "https://arxiv.org/abs/2605.10425",
+      "summary": "arXiv:2605.10425v2 Announce Type: replace Abstract: AI systems can now cheaply generate plausible scientific artifacts such as papers, reviews, and surveys. This creates a risk of \\emph{epistemic pollution} in our scientific systems, where unreliable but plausible-looking artifacts can accumulate faster than the system can filter them out. The problem is structural: the epistemic infrastructure of science was calibrated to a world where producing a plausible artifact required substantial expertise, labor, and time, so generation cost itself served as a rough filter; AI weakens that filter with",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Measuring Definition Sensitivity in LLM Annotation of Social Science Concepts",
-      "url": "https://arxiv.org/abs/2611.13339",
-      "summary": "arXiv:2611.13339v1 Announce Type: cross Abstract: In social science research, text annotation is a fundamental task that is traditionally a costly, hard-to-scale manual process. Researchers have used large language models (LLMs) to perform annotation by writing a definition of a concept into a prompt - a rule that determines whether a label should be attributed to a text depending on its content. However, concepts such as hate speech, fake news, and terrorism typically have several theoretically defensible competing definitions. It is also unknown whether the model actually applied the definit",
+      "title": "Can Large Language Models Develop Gambling Addiction?",
+      "url": "https://arxiv.org/abs/2509.22818",
+      "summary": "arXiv:2509.22818v3 Announce Type: replace-cross Abstract: When do LLMs behave irrationally? This study identifies the conditions under which large language models drift into the choice patterns that clinical research labels pathological gambling. \"Addiction-like\" is a behavioural descriptor based on clinical gambling indicators. Across closed and open LLMs, two operational levers (letting the model choose its own bet size, and asking it to set its own profit goal) both amplify gambling-like risk-taking. Each survives its own control: once the maximum allowed bet is held equal, the bet-size eff",
       "published": "2026-11-11T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
