@@ -1,83 +1,35 @@
 {
   "date": "2026-11-16",
-  "articles_count": 10,
+  "articles_count": 4,
   "articles": [
     {
-      "title": "Auditing Chatbots for Incursion into Professional Legal Practice",
-      "url": "https://arxiv.org/abs/2611.17622",
-      "summary": "arXiv:2611.17622v1 Announce Type: new Abstract: The provision of legal advice has long been in the exclusive jurisdiction of licensed attorneys-a boundary that unauthorized practice of law (UPL) doctrine maintains to protect the public from incompetent counsel. We argue that this boundary is being redrawn, not by courts or bar authorities, but by frontier AI companies. While early chat models were trained to avoid dispensing legal advice, modern models have been reconfigured to reduce refusals and prioritize helpfulness. We ask whether chatbots increasingly do tasks that require a law degree a",
+      "title": "When evaluation becomes intervention in clinical AI",
+      "url": "https://arxiv.org/abs/2611.18297",
+      "summary": "arXiv:2611.18297v1 Announce Type: cross Abstract: AI judges, models that grade another system's output against a rubric, extend clinical review to the scale at which clinical AI writes. When teams use judge assessments to select a prompt or train a model, the judge becomes part of the intervention. Selection can then favor errors the judge overlooks. We describe what a judge's report must contain and the independent clinical test each judge-driven change needs.",
       "published": "2026-11-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "DOCKET: A Pluralistic Benchmark for Evaluating AI-Assisted Policy Feedback in U.S. Rulemaking",
-      "url": "https://arxiv.org/abs/2611.17914",
-      "summary": "arXiv:2611.17914v1 Announce Type: new Abstract: As AI models advance and impact deliberative democracies, there is a growing need to assess their support of pluralistic viewpoints. Most pluralism benchmarks are insufficient for this: they are not grounded in diversity (i.e., stakeholders across different frames, skills and needs), quality (i.e., rigorous and technical debates), and impact (i.e., invested deliberators and real-world outcomes). To address this, we first (i) curate DOCKET, the most comprehensive dataset of the U.S. Federal Notice & Comment process to date. DOCKET consists of 42.3",
+      "title": "Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI",
+      "url": "https://arxiv.org/abs/2611.16931",
+      "summary": "arXiv:2611.16931v2 Announce Type: replace Abstract: Generative AI has entered the workplace faster than organizations can govern it. Employees may use AI tools their employer has not sanctioned and conceal that use, but the psychology of this behavior remains poorly understood. We compare an exploratory-disposition account with one centered on reported use and habit. Using survey data from 510 employed adults reporting workplace generative-AI use during the preceding 12 months, we estimated the unique and relative contributions of workplace curiosity, habit, technology-acceptance beliefs, and ",
       "published": "2026-11-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Algorithmic Opacity as a Principal-Agent Problem",
-      "url": "https://arxiv.org/abs/2611.17980",
-      "summary": "arXiv:2611.17980v1 Announce Type: new Abstract: Concerns about gaming and trade secrecy, frequently invoked to justify algorithmic opacity, can also mask self-serving strategic behavior by decision-makers, who may prioritize private benefits over social welfare. We develop a principal-agent test for when algorithmic decision-making should trigger disclosure obligations even when concerns about gaming or trade secrecy exist. The test, which is anchored in decision quality, relies on two diagnostics that can be disclosed without enabling gaming or revealing trade secrets: the error profile (fals",
+      "title": "Curating Safe Spaces for Emotion Disclosure during Illness Recovery on Video-Sharing Platforms",
+      "url": "https://arxiv.org/abs/2502.20658",
+      "summary": "arXiv:2502.20658v2 Announce Type: replace-cross Abstract: The advent of video-sharing platforms has transformed self-expression, transcending entertainment to encompass sensitive disclosures and emotional revelations. In this submission, we discuss our study on emotional disclosure by individuals with Schizophrenia through YouTube vlogs and its implications for designing safe online spaces.",
       "published": "2026-11-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Measuring Public Participation in Local Government: An Audio-Based Instrument for Classifying Speakers in City Council Meetings",
-      "url": "https://arxiv.org/abs/2611.18072",
-      "summary": "arXiv:2611.18072v1 Announce Type: new Abstract: How much does the public actually speak in local government? Despite sustained interest in democratic participation, we lack large-scale measures of public voice at the local level, because the underlying record -- audio of open meetings -- has been prohibitively costly to convert into data. We contribute a measurement instrument: an audio-analysis pipeline that classifies each speaker in a city council meeting as an elected official or a member of the public directly from audio, and aggregates these labels into validated measures of participatio",
-      "published": "2026-11-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Large language models put existential risk from artificial intelligence at 10%",
-      "url": "https://arxiv.org/abs/2611.18219",
-      "summary": "arXiv:2611.18219v1 Announce Type: new Abstract: How likely is it that advanced artificial intelligence (AI) will cause human extinction or a similarly permanent disempowerment of humanity? Humans, including AI experts, frequently disagree on this question. Yet one important perspective is missing from this debate: that of AI systems themselves. We put the question to 241 large language models (LLMs) at every available reasoning setting. The models converged on a median risk of 10.0%, with the middle 90% of their estimates between 3.5% and 15.8%, far narrower than the spread among human experts",
-      "published": "2026-11-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Efficiency Gains in Social Science Research: A Prospective Silicon Sampling Protocol for Pre-Treatment and Code Optimization",
-      "url": "https://arxiv.org/abs/2611.18436",
-      "summary": "arXiv:2611.18436v1 Announce Type: new Abstract: This study evaluates the methodological potential of using large language models (LLMs) to generate synthetic datasets prior to real-world data collection, thereby streamlining subsequent processing and statistical analysis. The approach is applied to a survey conducted within the France Life Imaging (FLI) network, leveraging three distinct LLMs (Sonnet 4.6, GPT 5.3, and Kimi 2.6) to simulate responses and prepare data processing workflows. The findings demonstrate significant time savings in code development (85% to 90% reuse rate) and highlight",
-      "published": "2026-11-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Accounting for Trust and Safety: Bounding Content-Moderation Quality from Records You Already Hold",
-      "url": "https://arxiv.org/abs/2611.18437",
-      "summary": "arXiv:2611.18437v1 Announce Type: new Abstract: Platforms use expert audits to measure content-moderation quality. This paper develops a formal method for checking those claims using records platforms already maintain, such as appeal reversals and confirmed reports. These records provide one-sided bounds: they can show that a stated quality target was missed, but cannot prove that it was met. The paper presents the theory, limitations, constructed examples, and a prospective protocol for future evaluation. It reports no analysis of Meta operational data, no experiment, and no production result",
-      "published": "2026-11-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Between Obligations and Evidence: A Participatory Study of Translating the EU AI Act into Technical Requirements",
-      "url": "https://arxiv.org/abs/2611.18439",
-      "summary": "arXiv:2611.18439v1 Announce Type: new Abstract: The EU AI Act imposes technical and organizational requirements for high-risk AI systems, but applying these requirements involves contextual choices about what to measure and what evidence supports a compliance claim. We investigate these challenges through a participatory workshop involving 32 researchers, policymakers, and practitioners from different disciplines, using realistic scenarios in healthcare, recruitment, and public transport to examine how regulatory obligations are interpreted, translated into technical requirements, and evaluate",
-      "published": "2026-11-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Measured from the feed: the unsustainable growth of AI video generation",
-      "url": "https://arxiv.org/abs/2611.17938",
-      "summary": "arXiv:2611.17938v1 Announce Type: cross Abstract: Text-to-video generation runs at commercial scale, but its broader environmental impacts remain, to our knowledge, understudied. Providers rarely disclose video volumes or energy needs; we measured the yearly video output of two commercial platforms and built a prospective model of such services' absolute footprint from training to storage. Our projections suggest that reducing emissions depends on both limiting growth in video generation and achieving substantial efficiency gains. Under continued growth, emissions rise nearly seventy-five-fold",
-      "published": "2026-11-16T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "The Transformer Paradigm: Dynamic Processing and a New Principle of Inference",
-      "url": "https://arxiv.org/abs/2611.17953",
-      "summary": "arXiv:2611.17953v1 Announce Type: cross Abstract: We argue that the Transformer revolution is not adequately understood as a merely quantitative expansion of deep learning, but as the emergence of a new paradigm based on a different principle of inference. We interpret the Transformer as a system in which token representations are transformed by parameterized transformations, or transforming concepts. During inference, some of these transformations are dynamically constructed from the current input: previously acquired transformations are first adapted and then applied. At the mechanical-struc",
+      "title": "Toward Operationalizing Rasmussen in Evolving Software Systems",
+      "url": "https://arxiv.org/abs/2602.05483",
+      "summary": "arXiv:2602.05483v3 Announce Type: replace-cross Abstract: Rasmussen's qualitative drift model explains how successive, locally successful adaptations under efficiency pressures can move a system toward unacceptable operation. Brooker and Hochstein applied this perspective conceptually to software operations without specifying a quantitative procedure for observing drift. We take a step in this direction and propose a runtime observer that quantitatively operationalizes the model's observable part for evolving software. The proposed observer is intended to give engineers evidence for pausing or",
       "published": "2026-11-16T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
