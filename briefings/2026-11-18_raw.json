@@ -1,83 +1,35 @@
 {
   "date": "2026-11-18",
-  "articles_count": 10,
+  "articles_count": 4,
   "articles": [
     {
-      "title": "Anticipating or Speculating? Making Futures Pay in AI Ethics",
-      "url": "https://arxiv.org/abs/2611.22268",
-      "summary": "arXiv:2611.22268v1 Announce Type: new Abstract: Philosophers have recently been trying to develop uniform decision rules for instances in which physicians' judgments diverge from the recommendations of medical artificial intelligence (AI) systems. I argue that this effort is fatally flawed because the performance and appropriate use of algorithmic recommendation systems by physicians are highly context-specific, empirical medical matters rather than epistemological ones. In such instances, general decision rules can be stipulated only to the extent that they abstract away from relevant, indeed",
+      "title": "Worldviews in Large Language Models",
+      "url": "https://arxiv.org/abs/2611.22670",
+      "summary": "arXiv:2611.22670v1 Announce Type: cross Abstract: Large language models (LLMs) are often described in terms of personas and this framing has become central to alignment research. In this paper, we argue that there is a deeper level of description that lies in the agent's worldviews, i.e., its beliefs about what reality is and how it works. Treating LLMs as a population of subjects, we administer two worldview surveys from human psychology to eight models. We show that the models share many key worldview positions. For example, LLMs consistently describe the world as less good, safe, enticing, ",
       "published": "2026-11-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Ethics Suppression in AI Development: A Comparative Case Study of Responsible AI Under Competitive Pressure",
-      "url": "https://arxiv.org/abs/2611.21629",
-      "summary": "arXiv:2611.21629v1 Announce Type: cross Abstract: This study explores the governance tensions among Google, OpenAI, Meta, and Microsoft, focusing on how competitive AI development can lead to the ethics suppression. The study aims to examine how ethical oversight loses practical influence even when responsible AI structures are formally in place, especially during rapid technological competition. Despite the rapid growth of responsible AI frameworks and ethical principles in the tech sector, there has been less focus on how these concerns are actually applied when pressure to deploy increases.",
+      "title": "When VLMs 'Fix' Students: Identifying and Penalizing Over-Correction in the Evaluation of Multi-line Handwritten Math OCR",
+      "url": "https://arxiv.org/abs/2604.22774",
+      "summary": "arXiv:2604.22774v3 Announce Type: replace Abstract: Accurate transcription of handwritten mathematics is crucial for educational AI systems, yet current benchmarks fail to evaluate this capability properly. Most prior studies focus on single-line expressions and rely on lexical metrics such as BLEU, which fail to assess the semantic reasoning across multi-line student solutions. In this paper, we present the first systematic study of multi-line handwritten math Optical Character Recognition (OCR), revealing a critical failure mode of Vision-Language Models (VLMs): over-correction. Instead of f",
       "published": "2026-11-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Auditing Hyperstimulation at Scale in Child-Facing YouTube Videos",
-      "url": "https://arxiv.org/abs/2611.21637",
-      "summary": "arXiv:2611.21637v1 Announce Type: cross Abstract: Parents, pediatricians, and journalists have raised concern that child-facing videos are becoming increasingly overstimulating, but this concern rests mostly on ad hoc observation rather than systematic measurement. We present a large-scale audit of hyperstimulation patterns, which we refer to as content-independent production choices that may exceed young children's capacity to process comfortably. Drawing on parents' Reddit discussions and developmental psychology, we identify 12 hyperstimulation patterns and operationalize them as computatio",
+      "title": "Can AI Judge You? An Empirical Audit of Deployment Readiness in LLM-assisted Hiring Systems",
+      "url": "https://arxiv.org/abs/2611.20140",
+      "summary": "arXiv:2611.20140v2 Announce Type: replace Abstract: Delegating resume screening to large language models (LLMs) requires organizations to establish whether they can distinguish candidates by relevant qualifications while allowing only authorized users to change screening rules or approve exceptions. To this end, we develop a system architecture that separates candidate evidence, evaluation, permission controls, and assessment record, and empirically examine two complementary dimensions of its deployment readiness. First, we assess its operational readiness on four LLMs using a controlled exper",
       "published": "2026-11-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "ARC-2: Continuous Compliance Through Delta Management",
-      "url": "https://arxiv.org/abs/2611.21811",
-      "summary": "arXiv:2611.21811v1 Announce Type: cross Abstract: ARC 1 introduced a three-layer governance architecture for autonomous systems comprising model safety validation, cognitive certification (CRAB), and operational authorization (LEA). However, it did not address how compliance should be maintained after deployment. This paper introduces Delta Management, a continuous governance framework that measures deviations between a system's current operational state and its certified baseline, defined as a region rather than a fixed point. Compliance is assessed through continuous monitoring instead of st",
-      "published": "2026-11-18T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Urban Representation Learning for Identifying Potential Disparities in Crime Reporting",
-      "url": "https://arxiv.org/abs/2611.21825",
-      "summary": "arXiv:2611.21825v1 Announce Type: cross Abstract: Open crime data support urban safety analysis but reflect reported incidents rather than the complete distribution of criminal activity, potentially introducing spatial distortions in downstream analysis. We propose a self-supervised urban representation learning framework for identifying unusual reporting patterns relative to representation-similar peers using only georeferenced crime records. The method constructs complementary hourly, weekly, and static reporting profiles, learns scale-specific representations under geographic self-supervisi",
-      "published": "2026-11-18T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Knowing Which, Not How Much: Language Models Order Party Positions They Cannot Place",
-      "url": "https://arxiv.org/abs/2611.21878",
-      "summary": "arXiv:2611.21878v1 Announce Type: cross Abstract: Language models are increasingly asked where real actors stand: what a party's platform prioritises, what an institution has committed to. Such judgments are gradable, carrying both an order and a magnitude. Nearly every benchmark that tests them asks about one entity at a time, then reads that score as the model's knowledge of the domain. Order and magnitude, however, need not be acquired together. Text about social entities carries far more comparison than measurement, so a model may hold a dependable ordering with no anchored scale beneath i",
-      "published": "2026-11-18T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
-      "url": "https://arxiv.org/abs/2611.22033",
-      "summary": "arXiv:2611.22033v1 Announce Type: cross Abstract: Large language models (LLMs) are increasingly deployed as autonomous shopping agents that process multimodal product listings (consisting of visual and text data) and recommend purchases on behalf of consumers. Naturally, one might assume that models with more thinking power would make higher-quality purchasing decisions. To test this belief, we ask two questions about such agents: does asking a model to think harder make it choose better products, and does the confidence it reports tell us the likelihood it may be wrong? We benchmark ten front",
-      "published": "2026-11-18T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Beyond Acuity Accuracy: A Multidimensional Framework for Evaluating Patient-Facing Emergency Triage AI Tools",
-      "url": "https://arxiv.org/abs/2611.22045",
-      "summary": "arXiv:2611.22045v1 Announce Type: cross Abstract: Patient-facing AI triage tools may support care-seeking and emergency department prioritization, but require evaluation beyond acuity accuracy alone. We developed SAFE-Triage, a framework integrating human review, automated metrics, LLM-as-judge evaluation, and simulation testing across clinical performance, patient interaction, and clinician-facing summary quality. We applied SAFE-Triage to 40 MIMIC-IV-derived emergency vignettes and a 10,030-case acuity analysis comparing prompted LLM triage (PLT) with rule-augmented prompted LLM triage (rPLT",
-      "published": "2026-11-18T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "ReMoE: An Interpretable Mixture-of-Experts Framework for Human Mobility Recovery Forecasting Across Disasters",
-      "url": "https://arxiv.org/abs/2611.22133",
-      "summary": "arXiv:2611.22133v1 Announce Type: cross Abstract: Human mobility often declines sharply following disasters and subsequently exhibits complex recovery dynamics. Effective forecasting of this recovery is critical for timely assessment and resource allocation. However, existing approaches are often developed for individual events and operate as black boxes, limiting their transferability and interpretability beyond the events they were trained on. Recent studies have identified recurring post-disaster mobility recovery types across disasters, suggesting that recovery knowledge may be transferabl",
-      "published": "2026-11-18T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Fair Bubble Sort: Provably Optimal Fair Ranking with Continuous Sensitive Attributes",
-      "url": "https://arxiv.org/abs/2611.22352",
-      "summary": "arXiv:2611.22352v1 Announce Type: cross Abstract: Most fair-ranking methods assume categorical protected attributes, requiring continuous attributes such as age or income to be discretized into groups. This introduces arbitrary thresholds, loses fine-grained information, and ignores the natural ordering of the attribute. In this paper, we study the problem of fair ranking with continuous protected attributes without relying on thresholding. We introduce Continuous Pairwise Parity (CPP), a fairness notion based on Kendall correlation between ranking positions and the protected attribute, and se",
+      "title": "Humans and AI respond similarly to task difficulty when reasoning about content moderation dilemmas",
+      "url": "https://arxiv.org/abs/2508.20262",
+      "summary": "arXiv:2508.20262v3 Announce Type: replace-cross Abstract: Large reasoning models (LRMs) generate intermediate reasoning steps before producing answers, improving performance on challenging problems by iteratively developing solutions. There is evidence that LRMs expend more effort on the problems that take people longer to solve, but it is unclear whether these relationships hold on more subjective tasks without verifiable answers. This study addresses this issue through an experiment using a content moderation task, where task difficulty is manipulated by varying the relative offensiveness of",
       "published": "2026-11-18T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
