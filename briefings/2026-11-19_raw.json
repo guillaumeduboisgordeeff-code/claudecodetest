@@ -3,81 +3,81 @@
   "articles_count": 10,
   "articles": [
     {
-      "title": "Management of Behavioral Addictions via Artificial Intelligence based Digital Technologies",
-      "url": "https://arxiv.org/abs/2611.23341",
-      "summary": "arXiv:2611.23341v1 Announce Type: new Abstract: Behavioral addictions, such as problematic gaming, gambling, social media use, and online shopping, have emerged as a growing global concern with significant psychological, social, and economic consequences. Traditional assessment and treatment approaches, while clinically grounded, often struggle with scalability, accessibility, and long-term engagement. In recent years, advances in digital technologies and artificial intelligence (AI) have enabled the development of novel, data-driven solutions for the prevention, detection, treatment, and reco",
+      "title": "AllotNet: an Interpretable Mixture-of-Experts Choice Model for Moral Judgement in Humanitarian Aid Allocation, Validated against a Planted Synthetic Population",
+      "url": "https://arxiv.org/abs/2611.23474",
+      "summary": "arXiv:2611.23474v1 Announce Type: cross Abstract: Official development assistance fell by 23.1 per cent in 2025, and the decision of who is helped first when there is not enough for everyone is moving into software. A leading published machine-learning targeting system excluded 53 per cent of eligible households as deployed. If the rule of distribution ends up in code, it should carry the judgement of many cultures, and the machine should execute while a person judges. AllotNet is an interpretable mixture-of-experts conditional logit for the allocation judgements elicited by Allot, a pre-regis",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "RummiAlgebra: A Polynomial Representation Framework for Game-Based Algebra Learning with Jokers",
-      "url": "https://arxiv.org/abs/2611.23443",
-      "summary": "arXiv:2611.23443v1 Announce Type: new Abstract: Connecting symbolic expressions to manipulable objects is a recurring challenge in introductory algebra. This paper presents RummiAlgebra, a design-oriented framework and browser-based prototype that maps a Rummikub-style tile-rearrangement task to polynomial addition, common-factor extraction, finite geometric sums, and context-dependent substitution. A numbered colored tile is encoded as a monomial c x^v, while a physical joker is represented by a distinct symbol J_i whose algebraic role is fixed only for a particular candidate arrangement. We ",
+      "title": "From Arraignment to Resolution: Transformer Models of Court Cases",
+      "url": "https://arxiv.org/abs/2611.23518",
+      "summary": "arXiv:2611.23518v1 Announce Type: cross Abstract: The criminal legal system is composed of many complex decision points, such as which charges are pursued, how bond is determined, plea deal negotiations, and sentencing. Given the profound impact of such decisions, there is a growing need to increase the transparency within this system. While prior machine learning approaches have focused on modeling single decisions (e.g., recidivism), this paper proposes a transformer-based time series model to forecast the outcome of the next proceeding in a case (e.g., charges accepted, bond set, plea deal ",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction",
-      "url": "https://arxiv.org/abs/2611.23638",
-      "summary": "arXiv:2611.23638v1 Announce Type: new Abstract: Generative AI is increasingly used to assist with data science tasks, yet fundamental questions remain about its ability to correctly formulate analytical problems. We investigate how well large language models (LLMs) can formulate prediction problems when developing models for high-stakes decision making. We focus on one particular challenge to validity: decision dependency, which arises when historical decisions affect observed outcomes. We evaluate this aspect of problem formulation in LLM-generated code and explanations across child-welfare, ",
+      "title": "A Dual-SOM Learner Model of Instructional Efficiency within Cognitive Load Theory",
+      "url": "https://arxiv.org/abs/2611.23795",
+      "summary": "arXiv:2611.23795v1 Announce Type: cross Abstract: This paper presents a novel methodological framework, integrating a dual self-organising map (SOM) neural network architecture with Cognitive Load Theory (CLT), for assessing instructional efficiency within learning environments. By representing curriculum content as a directed acyclic graph of topic dependencies, the proposed model captures collective learning behaviour across two core dimensions: academic performance and subjective/introspective mental effort. During SOM training, representative data sets of successful learner trajectories ar",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Same Model, Different People: Numerical Execution Contracts and the Reproducibility of Fairness Audits",
-      "url": "https://arxiv.org/abs/2611.23657",
-      "summary": "arXiv:2611.23657v1 Announce Type: new Abstract: Fairness audits treat a trained model as a fixed decision function, but the arithmetic that evaluates it is part of that function. This study holds the model, records, threshold and audit code fixed and varies the numerical execution contract in two tiers. Tier 1 changes only how products and sums are computed, with the serialized weights byte-identical, and is the causal test of arithmetic. Tier 2 runs reduced-precision deployment configurations (BF16 compute, FP8 and 8-bit weights), which can also round weights and change engines and kernels, s",
+      "title": "What Majority Labels Hide: Annotator Disagreement and Model Errors in Multi-Dialect Arabic Sexism Detection",
+      "url": "https://arxiv.org/abs/2611.24383",
+      "summary": "arXiv:2611.24383v1 Announce Type: cross Abstract: Judgements of sexism are subjective and may vary across communities, yet sexism detection datasets usually reduce annotator judgements to a single majority label, obscuring disagreement and how models behave on contested cases. We introduce MuDAS, a dataset of YouTube comments in Saudi, Egyptian and Moroccan Arabic, each labelled by three native speakers of its dialect, with the individual annotations preserved. We use it to evaluate Arabic encoders fine-tuned with hard-label, soft-label and perspectivist objectives, GPT-5.6 Terra, and four Ara",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Decent Work Standards and Non-Conventional Work: Measurement Gaps and Uneven Capability Formation in Kenya's Online Platform Labour Markets",
-      "url": "https://arxiv.org/abs/2611.23757",
-      "summary": "arXiv:2611.23757v1 Announce Type: new Abstract: Online freelancing through digital platforms is a precarious but sought-after livelihood pathway in contexts with weaker conventional labour markets. This article examines how worker-level decent-work assessments intersect with livelihood strategies and outcomes among experienced online freelancers in Kenya. A convergent mixed-methods study combines survey indicators from 52 workers with interviews with 20 participants. Findings show relatively favourable assessments of work-life balance, inclusion, safety and skill development, alongside weak in",
+      "title": "Sex Differences in the Detection of Parkinson's Disease from Speech",
+      "url": "https://arxiv.org/abs/2611.24741",
+      "summary": "arXiv:2611.24741v1 Announce Type: cross Abstract: Parkinson's disease (PD) is the second most common neurodegenerative disease in the world, and 70\\% to 75\\% of PD patients suffer from speech disorders at some stage. Since PD affects men more frequently than women, previous publications tend to rely on unbalanced datasets that potentially introduce sex biases into trained models. This study investigates sex differences in PD detection from speech using deep learning and traditional machine learning approaches. We evaluated speech-based PD detection using embeddings from three pre-trained speec",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "AI Surge Accelerates the Transition to Liquid Cooling: Rethinking Energy and Water Use in Data Center Cooling",
-      "url": "https://arxiv.org/abs/2611.23903",
-      "summary": "arXiv:2611.23903v1 Announce Type: new Abstract: The power density of AI workloads is rapidly driving shifts to liquid cooling. This study rethinks and assesses the global impact on energy and water demand of this cooling transformation. Results suggest that liquid cooling can reduce cooling energy use by 25-56% relative to air cooling, offering substantial energy savings for GW-scale AI data centers. Best-practice PUE values could be as low as 1.07-1.08 for today's systems and 1.03-1.04 for emerging designs, and WUE values range from 0.38 to 2.63 L/kWh, depending on temperature conditions. We ",
+      "title": "\"I Don't Think It's a Scam\": A First Look at Family Intervention Barriers in Elder Abuse Discussions on Reddit and Baidu Tieba",
+      "url": "https://arxiv.org/abs/2611.24899",
+      "summary": "arXiv:2611.24899v1 Announce Type: cross Abstract: When older adults trust scammers despite warnings, families face obstacles to intervention. Complainants aged 60 and older reported \\$4.9 billion in losses in 2024 to the U.S. Internet Crime Complaint Center. To investigate family intervention barriers to elder scams, we collected 2M Reddit posts from May 2021 to June 2026 and 2B Baidu Tieba posts from 2007 to 2026. The final corpora contain 13,082 Reddit posts and 3,933 Baidu Tieba posts, labeled using platform-specific codebooks, manual reference annotations, and LLM coding. Through a mixed-m",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Human-LLM Cognitive Extension: A Framework for Studying Coupled Cognition",
-      "url": "https://arxiv.org/abs/2611.24149",
-      "summary": "arXiv:2611.24149v1 Announce Type: new Abstract: Recent research on the use of Large Language Models (LLMs) reports divergent cognitive outcomes, including improved assisted performance, limited transfer, and compromised unaided learning. Here, we argue that part of this seeming inconsistency arises because studies often assess different cognitive systems without making the unit of analysis explicit. Building on work in extended and distributed cognition, we propose the Human-LLM Cognitive Extension (HLCE) as a methodological framework for matching experimental designs, measures, and causal inf",
+      "title": "Meme Template Identification in the Wild: Comparing Methods for Semi-Open-Set Recognition",
+      "url": "https://arxiv.org/abs/2408.08126",
+      "summary": "arXiv:2408.08126v3 Announce Type: replace Abstract: Image-with-text memes are a dominant form of online communication, and much of their spread happens through meme templates which are recurring visual formats that users adapt with new text or imagery. Most prior work scores memes individually for engagement or harmful content, an approach that is structurally blind to templates. Templates might amplify these patterns and enable coordinated harassment, which becomes visible only when memes are grouped by shared template. We formalize meme template identification as a semi-open-set recognition ",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Hi Gemini, Who Should I Vote For? The Benefits (and Problems) of Using LLMs As Voting Advice Applications",
-      "url": "https://arxiv.org/abs/2611.24684",
-      "summary": "arXiv:2611.24684v1 Announce Type: new Abstract: Large language models (LLMs) can provide voters information about political issues, party positions, and even advise on which party to vote for. However, no previous study explores how well off-the-shelf LLMs function as voting advice applications (VAAs). In this article, we address this gap by examining how Gemini 3 Flash advises a sample of 6,022 German survey respondents on which party to vote for, based on their policy preferences and priorities alone. In brief, we find that for most respondents, following the LLM's advice would benefit voter",
+      "title": "From Defense to Advocacy: Empowering Users to Leverage the Blind Spot of AI Inference",
+      "url": "https://arxiv.org/abs/2601.11817",
+      "summary": "arXiv:2601.11817v2 Announce Type: replace Abstract: Most privacy regulations function as a passive defensive shield that users must wield themselves. Users are incessantly asked to \"opt-in\" or \"opt-out\" of data collection, forced to make defensive decisions whose consequences are increasingly difficult to predict. Viewed through the Johari Window, a psychological framework of self-awareness based on what is known and unknown to self and others, current policies require users to manage information in the Arena and shield the Fa\\c{c}ade through notice and consent. However, as organizations incre",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
-      "url": "https://arxiv.org/abs/2611.24927",
-      "summary": "arXiv:2611.24927v1 Announce Type: new Abstract: AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI. We motivate the examination of the organizational AI supply chain---highlighting concerns about concentration,",
+      "title": "A conceptual framework for ideology in online discourse beyond the left and right",
+      "url": "https://arxiv.org/abs/2603.18945",
+      "summary": "arXiv:2603.18945v3 Announce Type: replace Abstract: Computational social science (CSS) has largely operationalized ideology along a single left/right partisan axis when studying online discourse. This approach obscures how people interpret and engage with more specific ideological formations related to race, climate, gender, and other domains. We introduce a framework that instead conceptualizes ideology as a multi-level socio-cognitive concept network and then explain how this conceptual model of ideology can be linked to the study of online discourse. In doing so, our framework clarifies how",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Record Sufficiency: What a Decision Record Must Preserve When an Unsettled Claim Becomes an Operative Status",
-      "url": "https://arxiv.org/abs/2611.23422",
-      "summary": "arXiv:2611.23422v1 Announce Type: cross Abstract: Organisations keep evidence, logs and approvals, but often not the step by which an unsettled claim became an operative status, such as an accepted label or a released image, so later readers cannot tell what the status was allowed to mean. We call a decision record sufficient if it is true and a reader who has only the record and the items it cites can explain the status, bound it, re-derive it and challenge it. From these four uses we argue for ten questions a record must answer, map them onto the author's earlier JSON Schema for decision rec",
+      "title": "Disarranged Harmonization of Transparency Reporting by Social Media Platforms Under the Digital Services Act",
+      "url": "https://arxiv.org/abs/2605.17655",
+      "summary": "arXiv:2605.17655v2 Announce Type: replace Abstract: The European Commission recently introduced new regulation to harmonize transparency reporting of large online platforms under the Digital Services Act (DSA). Here, we present the first systematic evaluation of transparency reporting data quality after this normative change, for the eight largest social media platforms in the European Union. In detail, we run a set of large-scale quantitative analyses on key reporting dimensions, followed by a structured comparative assessment across platforms and reporting mechanisms. Among our findings is t",
       "published": "2026-11-19T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
