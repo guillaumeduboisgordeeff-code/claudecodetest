@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-19",
+  "articles_count": 10,
+  "articles": [
+    {
+      "title": "Management of Behavioral Addictions via Artificial Intelligence based Digital Technologies",
+      "url": "https://arxiv.org/abs/2611.23341",
+      "summary": "arXiv:2611.23341v1 Announce Type: new Abstract: Behavioral addictions, such as problematic gaming, gambling, social media use, and online shopping, have emerged as a growing global concern with significant psychological, social, and economic consequences. Traditional assessment and treatment approaches, while clinically grounded, often struggle with scalability, accessibility, and long-term engagement. In recent years, advances in digital technologies and artificial intelligence (AI) have enabled the development of novel, data-driven solutions for the prevention, detection, treatment, and reco",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "RummiAlgebra: A Polynomial Representation Framework for Game-Based Algebra Learning with Jokers",
+      "url": "https://arxiv.org/abs/2611.23443",
+      "summary": "arXiv:2611.23443v1 Announce Type: new Abstract: Connecting symbolic expressions to manipulable objects is a recurring challenge in introductory algebra. This paper presents RummiAlgebra, a design-oriented framework and browser-based prototype that maps a Rummikub-style tile-rearrangement task to polynomial addition, common-factor extraction, finite geometric sums, and context-dependent substitution. A numbered colored tile is encoded as a monomial c x^v, while a physical joker is represented by a distinct symbol J_i whose algebraic role is fixed only for a particular candidate arrangement. We ",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When Do LLMs Model the Right Target? Problem Formulation in High-Stakes Risk Prediction",
+      "url": "https://arxiv.org/abs/2611.23638",
+      "summary": "arXiv:2611.23638v1 Announce Type: new Abstract: Generative AI is increasingly used to assist with data science tasks, yet fundamental questions remain about its ability to correctly formulate analytical problems. We investigate how well large language models (LLMs) can formulate prediction problems when developing models for high-stakes decision making. We focus on one particular challenge to validity: decision dependency, which arises when historical decisions affect observed outcomes. We evaluate this aspect of problem formulation in LLM-generated code and explanations across child-welfare, ",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Same Model, Different People: Numerical Execution Contracts and the Reproducibility of Fairness Audits",
+      "url": "https://arxiv.org/abs/2611.23657",
+      "summary": "arXiv:2611.23657v1 Announce Type: new Abstract: Fairness audits treat a trained model as a fixed decision function, but the arithmetic that evaluates it is part of that function. This study holds the model, records, threshold and audit code fixed and varies the numerical execution contract in two tiers. Tier 1 changes only how products and sums are computed, with the serialized weights byte-identical, and is the causal test of arithmetic. Tier 2 runs reduced-precision deployment configurations (BF16 compute, FP8 and 8-bit weights), which can also round weights and change engines and kernels, s",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Decent Work Standards and Non-Conventional Work: Measurement Gaps and Uneven Capability Formation in Kenya's Online Platform Labour Markets",
+      "url": "https://arxiv.org/abs/2611.23757",
+      "summary": "arXiv:2611.23757v1 Announce Type: new Abstract: Online freelancing through digital platforms is a precarious but sought-after livelihood pathway in contexts with weaker conventional labour markets. This article examines how worker-level decent-work assessments intersect with livelihood strategies and outcomes among experienced online freelancers in Kenya. A convergent mixed-methods study combines survey indicators from 52 workers with interviews with 20 participants. Findings show relatively favourable assessments of work-life balance, inclusion, safety and skill development, alongside weak in",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Surge Accelerates the Transition to Liquid Cooling: Rethinking Energy and Water Use in Data Center Cooling",
+      "url": "https://arxiv.org/abs/2611.23903",
+      "summary": "arXiv:2611.23903v1 Announce Type: new Abstract: The power density of AI workloads is rapidly driving shifts to liquid cooling. This study rethinks and assesses the global impact on energy and water demand of this cooling transformation. Results suggest that liquid cooling can reduce cooling energy use by 25-56% relative to air cooling, offering substantial energy savings for GW-scale AI data centers. Best-practice PUE values could be as low as 1.07-1.08 for today's systems and 1.03-1.04 for emerging designs, and WUE values range from 0.38 to 2.63 L/kWh, depending on temperature conditions. We ",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Human-LLM Cognitive Extension: A Framework for Studying Coupled Cognition",
+      "url": "https://arxiv.org/abs/2611.24149",
+      "summary": "arXiv:2611.24149v1 Announce Type: new Abstract: Recent research on the use of Large Language Models (LLMs) reports divergent cognitive outcomes, including improved assisted performance, limited transfer, and compromised unaided learning. Here, we argue that part of this seeming inconsistency arises because studies often assess different cognitive systems without making the unit of analysis explicit. Building on work in extended and distributed cognition, we propose the Human-LLM Cognitive Extension (HLCE) as a methodological framework for matching experimental designs, measures, and causal inf",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Hi Gemini, Who Should I Vote For? The Benefits (and Problems) of Using LLMs As Voting Advice Applications",
+      "url": "https://arxiv.org/abs/2611.24684",
+      "summary": "arXiv:2611.24684v1 Announce Type: new Abstract: Large language models (LLMs) can provide voters information about political issues, party positions, and even advise on which party to vote for. However, no previous study explores how well off-the-shelf LLMs function as voting advice applications (VAAs). In this article, we address this gap by examining how Gemini 3 Flash advises a sample of 6,022 German survey respondents on which party to vote for, based on their policy preferences and priorities alone. In brief, we find that for most respondents, following the LLM's advice would benefit voter",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentration in the AI Ecosystem",
+      "url": "https://arxiv.org/abs/2611.24927",
+      "summary": "arXiv:2611.24927v1 Announce Type: new Abstract: AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus on the organizations that make up the AI supply chain: the complex network of actors that contribute to the development and deployment of AI. We motivate the examination of the organizational AI supply chain---highlighting concerns about concentration,",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Record Sufficiency: What a Decision Record Must Preserve When an Unsettled Claim Becomes an Operative Status",
+      "url": "https://arxiv.org/abs/2611.23422",
+      "summary": "arXiv:2611.23422v1 Announce Type: cross Abstract: Organisations keep evidence, logs and approvals, but often not the step by which an unsettled claim became an operative status, such as an accepted label or a released image, so later readers cannot tell what the status was allowed to mean. We call a decision record sufficient if it is true and a reader who has only the record and the items it cites can explain the status, bound it, re-derive it and challenge it. From these four uses we argue for ten questions a record must answer, map them onto the author's earlier JSON Schema for decision rec",
+      "published": "2026-11-19T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
