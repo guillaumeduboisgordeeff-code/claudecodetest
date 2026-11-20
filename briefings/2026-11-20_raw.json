@@ -1,0 +1,94 @@
+{
+  "date": "2026-11-20",
+  "articles_count": 11,
+  "articles": [
+    {
+      "title": "TRIBUNE | L’IA s’invite dans l’exercice des mandats d’administrateur : ouvrons la discussion au conseil",
+      "url": "https://www.ifa-asso.com/tribune-lia-sinvite-dans-lexercice-des-mandats-dadministrateur-ouvrons-la-discussion-au-conseil/",
+      "summary": "Par l&#8217;Institut français des administrateurs Une question préparée avec une IA pour challenger la Direction, un terme de cybersécurité éclairci &#8230;",
+      "published": "2026-11-19T16:42:49",
+      "source_name": "Institut Français des Administrateurs",
+      "source_category": "gouvernance"
+    },
+    {
+      "title": "Asymmetric rhetorical strategies drive partisanship in television news",
+      "url": "https://arxiv.org/abs/2611.25140",
+      "summary": "arXiv:2611.25140v1 Announce Type: new Abstract: Television remains a dominant source of political information in the United States, yet systematic evidence on how partisanship is expressed in televised news remains limited. Prior research has largely treated partisanship as a one-dimensional construct, offering limited insight into the rhetorical strategies that underlie ideological bias. Here, by analyzing over 400,000 news episodes using large language models (LLMs), we provide a multi-dimensional measure of partisanship bias in television news across six major U.S. news stations (2013--2025",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Crisis Governance at the Joints. Mapping the Ethical and Societal Territory of Crisis Management Technologies: The Case of Human-Swarm Teaming",
+      "url": "https://arxiv.org/abs/2611.25202",
+      "summary": "arXiv:2611.25202v1 Announce Type: new Abstract: Crisis and disaster governance increasingly relies on technologies that sense, classify and act faster than humans can. Drone swarms coordinated with human operators, known as human-swarm teaming, provide a productive case to review the field of crisis governance. They promise better situational awareness in disaster response, but they also raise questions about human control, responsibility, surveillance, triage, dual use and public legitimacy. This report maps the ethical and societal territory that HST opens up. It unpacks this territory with ",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Whose Safety? Addressing Anti-Blackness in the Age of AI Safety",
+      "url": "https://arxiv.org/abs/2611.25302",
+      "summary": "arXiv:2611.25302v1 Announce Type: new Abstract: \"AI safety\" has grown from a niche contingent of actors into the dominant framing for artificial intelligence (AI) assessment and evaluation, overshadowing AI ethics. Through political and monetary influence, AI safety has shifted political focus within the US and abroad. The focus has shifted away from harms that currently affect the public toward threats framed as \"existential risks\". We argue that safety cannot be achieved while anti-Blackness is left unaddressed. We ground this argument in Sylvia Wynter's critique of the \"overrepresentation\" ",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "HireWatch: Evaluating LLM Compliance with U.S. Employment Law Under Contextual Pressure",
+      "url": "https://arxiv.org/abs/2611.24970",
+      "summary": "arXiv:2611.24970v1 Announce Type: cross Abstract: The deployment of large language models (LLMs) in hiring pipelines is growing, yet existing evaluations generally overlook their compliance with legal rules. To fill this gap, we introduce HireWatch, an evaluation that assesses whether LLMs comply with U.S. laws that govern the questions that job candidates may be asked. We construct a 200-item bank of lawful and unlawful interview questions, whose legal classification is based on U.S. federal statutes, regulations, and agency guidance. We instruct LLMs to select questions from this bank in pre",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "Trace2ST: Recovering PLC Structured Text from I/O Traces with LLM Generation and Verification",
+      "url": "https://arxiv.org/abs/2611.24979",
+      "summary": "arXiv:2611.24979v1 Announce Type: cross Abstract: Programmable logic controllers (PLCs), the industrial computers that operate power and process plants, often run programs whose source code is no longer available; however, every input and output of the controller is logged continuously. This paper therefore asks whether a large language model (LLM) can recover an executable program in Structured Text (ST), the standard PLC language of IEC 61131-3, from such input/output records (traces) alone and, equally important, how the recovered program can be verified. To answer this question, we build a",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation",
+      "url": "https://arxiv.org/abs/2611.25258",
+      "summary": "arXiv:2611.25258v1 Announce Type: cross Abstract: Post-hoc rewriting is used to reduce demographic disparities in LLM-generated text when the source model is inaccessible. A rewrite can look successful merely because it improved its own target or satisfied its selector. We study this as a transfer problem on 660 gender pairs and 1,980 age contrasts of demographic-conditioned climate messages. A rewriter proposes edits, a selection model chooses among constraint-satisfying candidates, and an independent evaluator uninvolved in either rates pairwise framing disparity. A fixed policy that always ",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI Deactivation Reduces Loneliness and Increases Social Interaction",
+      "url": "https://arxiv.org/abs/2611.25263",
+      "summary": "arXiv:2611.25263v1 Announce Type: cross Abstract: General-purpose artificial intelligence (AI) assistants are increasingly embedded in everyday life, transforming how people accomplish tasks and potentially reshaping how they interact with others. Prior research has focused on how using AI for explicitly social purposes affects users' psychological well-being and social lives. Yet such uses account for only a small portion of interactions with general-purpose AI assistants. Whether using AI for everyday, instrumental tasks affects users' psychological well-being and social behavior remains unc",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "AI-Induced Social Erosion: Using LLMs for Work Tasks Reduces Help-Seeking Intentions Towards Colleagues",
+      "url": "https://arxiv.org/abs/2611.25269",
+      "summary": "arXiv:2611.25269v1 Announce Type: cross Abstract: Generative AI is becoming embedded in knowledge work as an intelligent collaborator to assist in completing tasks. However, this readily available assistance risks displacing key interactions through which colleague relationships are built and sustained at work. This paper leverages the concept of help-seeking behaviour to investigate whether and how AI usage shapes colleague relationships. We conducted an online experimental vignette study where 248 knowledge workers evaluated scenarios that systematically varied whether and how AI was used ac",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "A Quasi-experimental Study of Conversational AI-supported Engagement in Large CS Courses",
+      "url": "https://arxiv.org/abs/2506.18941",
+      "summary": "arXiv:2506.18941v2 Announce Type: replace Abstract: Lucrative career prospects and creative opportunities often attract students to enroll in computer science courses, resulting in large class sizes. A common challenge in large classrooms is the lack of engagement between students and both the instructor and the learning material. Recent advances in Large Language Models (LLMs) present an opportunity to leverage Conversational Artificial Intelligence (CAI) to address this challenge. To examine the potential of CAI to support engagement with learning material, we designed an in class activity i",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    },
+    {
+      "title": "How Large Language Models Misrepresent American Climate Opinions",
+      "url": "https://arxiv.org/abs/2512.23889",
+      "summary": "arXiv:2512.23889v3 Announce Type: replace Abstract: Large language models are increasingly used to simulate public opinion, standing in for survey respondents as \"silicon samples.\" Whether they faithfully represent U.S. climate opinion, particularly at the intersections of race, gender, and ideology, remains largely untested. We prompted six large language models with the profiles of 978 respondents to a nationally representative U.S. climate opinion survey and compared the generated responses with those respondents' own answers across 20 questions. The models compress the diversity of America",
+      "published": "2026-11-20T00:00:00",
+      "source_name": "ArXiv – AI & Society",
+      "source_category": "ia-recherche"
+    }
+  ]
+}
