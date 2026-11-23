@@ -1,83 +1,67 @@
 {
   "date": "2026-11-23",
-  "articles_count": 10,
+  "articles_count": 8,
   "articles": [
     {
-      "title": "Puzzles, People, and Publications: Measuring Shared Significance in Crosswords from 1942 to 2024",
-      "url": "https://arxiv.org/abs/2611.26677",
-      "summary": "arXiv:2611.26677v1 Announce Type: new Abstract: Crossword puzzles are cultural objects that encode shared significance. We use interpretable, large-scale computational methods to analyze how crossword constructors, editors, and publications have adopted and adapted language to convey significance. Focusing on approximately 2.4 million crossword clue/answer pairs published in The New York Times between 1942 and 2024, we find shifting significance and differing editorial practices to be quantitatively measurable. By computationally measuring shared significance over time in crossword puzzle prod",
+      "title": "What Does Matching a Human Intervention Effect Establish? Benchmark Checks for LLM Simulations",
+      "url": "https://arxiv.org/abs/2611.27186",
+      "summary": "arXiv:2611.27186v1 Announce Type: cross Abstract: LLM simulations are validated by equivalence with human effects, yet a zero reference passes whenever the human 90 percent interval lies inside the margin, as the human benchmark shows before simulation. When the zero reference fails, planned precision gives independent simulations the margin up to which passing is a 5 percent test of response. In an exploratory 70-experiment reanalysis, 72 percent of GPT-4's $\\pm$0.20 SD passes were zero-reference passes; GPT-4 passed 16 contrasts the zero reference failed (1.58 expected without response). In ",
       "published": "2026-11-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "The Illusion of Evaluation: Challenges in Agentic Product Evaluation Practice",
-      "url": "https://arxiv.org/abs/2611.26923",
-      "summary": "arXiv:2611.26923v1 Announce Type: new Abstract: Agentic products introduce risks that extend beyond those of their underlying models, arising from their tools, permissions, data access, safeguards, and operating conditions. Existing evaluation instruments provide useful evidence about model behavior and agents in defined harnesses, but their results do not necessarily transfer to deployed products or cover risks created by product configurations and interactions. Identifying and measuring such risks is especially difficult before deployment, when failure pathways, exposure, and outcome distrib",
+      "title": "No Perfect Guardrail & No Perfect Guard: On the Decidability of Output Policies for Large Language Models",
+      "url": "https://arxiv.org/abs/2611.27260",
+      "summary": "arXiv:2611.27260v1 Announce Type: cross Abstract: Expecting guardrails to provide a general guarantee of safety fails to recognize the limits of computational enforcement and policy specification. We argue that promising such perfection is an ethical failure of precision, and that invoking it to abdicate responsibility is a moral failure. Guardrails can support responsible action, but cannot relieve researchers, developers, policymakers, or users of their obligations to examine what they claim, permit, and prevent. We establish a precise computational boundary. If every finite string is a poss",
       "published": "2026-11-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Early Assessment Submission and Subsequent Course Outcome: A Day-30 Landmark Observational Analysis of OULAD with Explicit Weighting Diagnostics",
-      "url": "https://arxiv.org/abs/2611.27005",
-      "summary": "arXiv:2611.27005v1 Announce Type: new Abstract: We examined the association between submission of an assessment by day 30 and final course outcome in the Open University Learning Analytics Dataset (OULAD). To avoid classifying students who withdrew during the exposure window as comparable non-submitters, the main analysis was restricted to students enrolled at a day-30 landmark. In the CCC/2014J course presentation, 1,820 students remained after exclusions for missing covariates and unsupported exposure categories; 1,624 had submitted at least one non-banked assessment by day 30. The differenc",
+      "title": "Standard-Anchored Delegation in Teachers' Use of Generative AI",
+      "url": "https://arxiv.org/abs/2611.27533",
+      "summary": "arXiv:2611.27533v1 Announce Type: cross Abstract: Teachers who use generative AI must decide which parts of their work to hand over, while they remain accountable for what reaches students. We studied these decisions in Punjab, Pakistan, through a qualitatively driven mixed-methods study. We interviewed 13 teachers from government, private, NGO and vocational institutions, four administrators and one student, and coded each teacher's position on twelve educational tasks. Nine teachers accepted AI drafts or substantial assistance with lesson planning, but none accepted AI-drafted learning objec",
       "published": "2026-11-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Footprint-Sensitive Cross-GPU Timing Channel Through the Shared Host Memory Subsystem",
-      "url": "https://arxiv.org/abs/2611.27115",
-      "summary": "arXiv:2611.27115v1 Announce Type: new Abstract: Assigning tenants to separate GPUs does not isolate their host memory traffic. We identify an unprivileged timing channel between GPUs without NVLink: a co-tenant can detect contention by timing reads to its own pinned host buffer, without accessing victim data or using hardware performance counters. The signal tracks the number of distinct host pages the victim touches rather than its throughput. We demonstrate covert communication at 20 bit/s with near-zero error, LLM output-length inference at a held-out Spearman correlation of 0.99 across fiv",
+      "title": "How coalition size shapes bill cosponsorship in the U.S. Congress",
+      "url": "https://arxiv.org/abs/2611.27565",
+      "summary": "arXiv:2611.27565v1 Announce Type: cross Abstract: Legislation is built by coalitions, yet studied through pairwise ties. Using five decades of U.S. House and Senate cosponsorship (1973-2025), we represent each bill as a group. Prior ties to current members predict who joins better than ties to the sponsor, and group history (earlier co-appearance with pairs of those members) produces a larger likelihood gain than sponsor ties alone. Coalition formation therefore retains a social memory of earlier groups: cooperation is organized around relational histories embedded in the coalition already ass",
       "published": "2026-11-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "A Frugal AI Framework for India: Responsible and Right-sized AI",
-      "url": "https://arxiv.org/abs/2611.27189",
-      "summary": "arXiv:2611.27189v1 Announce Type: new Abstract: India's AI debate often swings between two insufficient options: replicating the compute-intensive, capital-heavy foundation-model programmes of the United States or China, or remaining a downstream adopter of foreign AI with localised interfaces and safeguards. Neither serves a country that must deliver AI to a very large, diverse population across uneven infrastructure and within constrained budgets. This white paper from the Centre for Responsible AI (CeRAI), IIT Madras, proposes a third path: Responsible Frugal AI, which applies principle-bas",
+      "title": "Synthetic Doubt and the Integrity of Digital Proof before the International Criminal Court",
+      "url": "https://arxiv.org/abs/2611.21455",
+      "summary": "arXiv:2611.21455v2 Announce Type: replace Abstract: Generative artificial intelligence complicates evidentiary assessment at the International Criminal Court by enabling fabricated audiovisual material and making authentic digital evidence easier to dismiss as fake. This article calls the latter problem synthetic doubt: an objection alleging that a digital item may be AI-generated or AI-manipulated. Existing scholarship addresses digital evidence, open-source investigations and deepfakes in the ICC context. Yet the question of when synthetic doubt should trigger enhanced reliability review und",
       "published": "2026-11-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Answering the persona, not the person: Over-determination in the construction of synthetic respondents",
-      "url": "https://arxiv.org/abs/2611.27449",
-      "summary": "arXiv:2611.27449v1 Announce Type: new Abstract: Persona-prompted large language models (LLMs) are increasingly used as synthetic survey respondents and digital twins. We examine how LLMs generate individual survey responses and why synthetic responses can show algorithmic fidelity in aggregate while tracking individual respondents poorly. We constructed 14,000 synthetic respondents from attributes of participants in Round 11 of the European Social Survey across 28 countries. Gemini 2.5 Flash and GPT-5-mini answered 15 attitude questions. We compared their outputs with each participant's answer",
+      "title": "OpinionGPT: Modelling Explicit Biases in Instruction-Tuned LLMs",
+      "url": "https://arxiv.org/abs/2309.03876",
+      "summary": "arXiv:2309.03876v2 Announce Type: replace-cross Abstract: Instruction-tuned Large Language Models (LLMs) have recently showcased remarkable ability to generate fitting responses to natural language instructions. However, an open research question concerns the inherent biases of trained models and their responses. For instance, if the data used to tune an LLM is dominantly written by persons with a specific political bias, we might expect generated answers to share this bias. Current research work seeks to de-bias such models, or suppress potentially biased answers. With this demonstration, we ",
       "published": "2026-11-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "On the Challenges of Using LLMs in High-Risk AI Recruitment: Guiding Questions for Legal Conformity with the AI Act",
-      "url": "https://arxiv.org/abs/2611.27462",
-      "summary": "arXiv:2611.27462v1 Announce Type: new Abstract: The EU Artificial Intelligence Act (AI Act) imposes detailed obligations on providers of high-risk AI systems but offers limited operational guidance, particularly when these systems integrate third-party General-Purpose AI (GPAI) models. This paper introduces a toolkit that fosters the development of legal-by-design AI-assisted recruitment systems by translating the core legal obligations of the AI Act's conformity assessment---specifically Articles 9--15 and Annex IV---into techno-normative requirements and corresponding guiding questions. Whil",
+      "title": "Bridging the Mobile Trust Gap: A Zero Trust Framework for Consumer-Facing Applications",
+      "url": "https://arxiv.org/abs/2508.16662",
+      "summary": "arXiv:2508.16662v2 Announce Type: replace-cross Abstract: Zero Trust Architecture (ZTA) has become a widely adopted model for securing enterprise environments, promoting continuous verification and minimal trust across systems. However, its application in mobile contexts remains limited, despite mobile applications now accounting for most global digital interactions and being increasingly targeted by sophisticated threats. Existing Zero Trust frameworks developed by organisations such as the National Institute of Standards and Technology (NIST) and the Cybersecurity and Infrastructure Security",
       "published": "2026-11-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Trajectories Through Parsons Problems: Making Student Difficulty Patterns Visible to Instructors",
-      "url": "https://arxiv.org/abs/2611.26799",
-      "summary": "arXiv:2611.26799v1 Announce Type: cross Abstract: Existing Parsons problem tools primarily focus on correctness, indicating whether a student solved a problem, but providing limited visibility into the underlying problem-solving process. Without that visibility, instructors cannot see which blocks caused repeated confusion or which distractors were consistently selected. We introduce Pulla, a Parsons problem tool that instruments programming assignments to capture fine-grained interaction data. We examine what these behavioral traces make visible to instructors, namely how long students take o",
-      "published": "2026-11-23T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Explain Your Code: AI-Based Examination at Class Scale",
-      "url": "https://arxiv.org/abs/2611.26836",
-      "summary": "arXiv:2611.26836v1 Announce Type: cross Abstract: Generative AI has weakened the link between working code and a student's understanding of it. Oral examination, the traditional test of that understanding, does not scale to large courses. We report the full-course deployment of a three-agent AI system that examines students on their own code. The first, the examiner, asks three questions anchored to specific lines of the submission, adapting difficulty to each answer, in a 16-minute text dialogue. The other two grade: a code reviewer that never sees the examination and a grader without direct ",
-      "published": "2026-11-23T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Modeling Attributional Style at Scale: A Dataset and Analysis for Psychological Attribution Assessment and Reframing",
-      "url": "https://arxiv.org/abs/2611.26900",
-      "summary": "arXiv:2611.26900v1 Announce Type: cross Abstract: According to the reformulated Learned Helplessness theory, repeated exposure to uncontrollable negative events can foster a depressogenic attributional style, increasing susceptibility to depression yet remaining a tractable target for cognitive therapy. Computational research on attributional cognition, however, is hampered by the lack of large-scale datasets and robust evaluation protocols. In this work, we introduce the Attributional Style Transfer Dataset (ASTD) along with dedicated evaluation metrics, the first benchmark designed to model,",
+      "title": "Improving Consistency in Retrieval-Augmented Systems with Group Similarity Rewards",
+      "url": "https://arxiv.org/abs/2510.04392",
+      "summary": "arXiv:2510.04392v2 Announce Type: replace-cross Abstract: Retrieval-Augmented Generation (RAG) systems are increasingly deployed in high-stakes domains where users expect outputs to be consistent across semantically equivalent queries. However, existing systems often exhibit significant inconsistencies due to variability in both the retriever and generator, undermining trust and reliability. In this work, we focus on information consistency, i.e., the requirement that generated outputs convey the same core content across semantically equivalent inputs. We introduce a principled evaluation fram",
       "published": "2026-11-23T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
