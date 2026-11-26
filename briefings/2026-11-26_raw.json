@@ -1,83 +1,43 @@
 {
   "date": "2026-11-26",
-  "articles_count": 10,
+  "articles_count": 5,
   "articles": [
     {
-      "title": "The AI Disclosure Paradox: Operational Disclosure and the Rise of Corporate AI Narratives",
-      "url": "https://arxiv.org/abs/2611.33201",
-      "summary": "arXiv:2611.33201v1 Announce Type: new Abstract: AI-related corporate disclosure can expand while becoming less concentrated on current use. Across U.S. SEC filings from 2017 to 2025, AI-related passage intensity increased 6.3-fold between 2017-2022 and 2023-2025, whereas corrected operational-disclosure intensity increased 3.3-fold. The operational share fell from 25.76% to 13.45%; approximately 89% of the net increase in passage intensity fell outside the operational category. The decline persists within sectors and filing types and in 10-K-only analysis. These estimates combine frozen langua",
+      "title": "United in Diversity? Contextual Biases in LLM-Based Predictions of the 2024 European Parliament Elections",
+      "url": "https://arxiv.org/abs/2409.09045",
+      "summary": "arXiv:2409.09045v3 Announce Type: replace Abstract: \"Silicon samples\" based on large language models (LLMs) have been argued to serve as efficient alternatives to surveys of humans, assuming that their training data includes information on human attitudes and behavior. However, LLM-generated survey data might exhibit biases, for example due to a lack of diversity in training and alignment processes, which risk reinforcing existing biases in research and policymaking. In this study, we examine to what extent LLM-based predictions of individual public opinion exhibit context-dependent biases by ",
       "published": "2026-11-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Unpacking Digital Sovereignty: A Three-Pillar Framework and a Research Agenda",
-      "url": "https://arxiv.org/abs/2611.33397",
-      "summary": "arXiv:2611.33397v1 Announce Type: new Abstract: Digital sovereignty has moved rapidly from policy jargon to global discourse, yet it lacks a solid conceptual foundation. Building on research from other disciplines, we propose a three-pillar framework (governance, infrastructure, and practice) to help IS scholars unpack how sovereignty is enacted, stabilized, or undermined across pillars. We argue that the most fruitful analytical work emerges at the intersections among the three pillars, where IS research is particularly well positioned to contribute. We introduce a local-distal axis that posi",
+      "title": "Prompt Engineer: Analyzing Hard and Soft Skill Requirements in the AI Job Market",
+      "url": "https://arxiv.org/abs/2506.00058",
+      "summary": "arXiv:2506.00058v3 Announce Type: replace Abstract: The rise of large language models (LLMs) has prompted speculation about a new job role: the prompt engineer. However, empirical evidence on how common such positions are and what skills employers expect of them remains scarce. In this paper, we present a data-driven analysis of a snapshot of LinkedIn job postings for data and AI roles taken in April 2025, after LLMs had entered everyday work but before LLM-based agents became widely adopted. We analyzed 20,662 job postings on LinkedIn for prompt engineers (72 postings) and four established da",
       "published": "2026-11-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Designing an Integrated Learning Ecosystem for Introductory Python Programming: Scaffolded Problem Solving, Tablet-Inspired Navigation, and AI-Enhanced Instruction",
-      "url": "https://arxiv.org/abs/2611.33471",
-      "summary": "arXiv:2611.33471v1 Announce Type: new Abstract: Introductory programming requires students to represent problems, develop and test programs, debug errors, and apply computational ideas in new contexts. In this paper, we present an artifact-centered design analysis of an integrated learning ecosystem developed for a 16-lab introductory Python course. The analyzed corpus comprises 18 instructional artifacts: the course syllabus, a tablet-inspired homepage, and Labs 1-16. We examined course navigation, problem representation, scaffolding, independent transfer, application development, debugging, ",
+      "title": "Frontier Open-Weight AI Risk Management Framework",
+      "url": "https://arxiv.org/abs/2611.28082",
+      "summary": "arXiv:2611.28082v2 Announce Type: replace Abstract: Open-weight models advance transparency, research, and innovation, and spread the benefits of AI more widely. They also carry distinct risks. A release cannot be undone, safeguards can be removed through fine-tuning, and no single party can monitor use or withdraw the model. Managing these risks therefore requires an approach tailored to open release. This framework addresses the governance challenge at the heart of that choice. Co-developed by Concordia AI and Z AI, it adapts the full risk management lifecycle, from risk assessment to mitiga",
       "published": "2026-11-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Beyond Disclosure: Compositional Privacy Harm in AI Systems",
-      "url": "https://arxiv.org/abs/2611.33847",
-      "summary": "arXiv:2611.33847v1 Announce Type: new Abstract: Privacy law attaches obligations to each stage of information processing, whether it be collection, use, storage, or disclosure. We examine how legally cognisable privacy harm emerges across this full lifecycle rather than at any single one of these points. We argue that privacy risk in AI systems is compositional, arising from the interaction of memorisation, extraction, inference and contextual transfer. Disclosure is therefore not the sole threshold of privacy harm: legally significant consequences may emerge even where no underlying record is",
+      "title": "Bias Cascade: Understanding the Gap Between Knowledge Alignment and Effect Replication in LLM-based Social Simulation",
+      "url": "https://arxiv.org/abs/2611.28854",
+      "summary": "arXiv:2611.28854v2 Announce Type: replace Abstract: Large language models (LLMs) are increasingly used to simulate participants in social experiments. Existing research has primarily focused on aligning social knowledge and isolated responses, while overlooking whether simulations can reproduce the collective effects of social interventions. This distinction is critical due to a failure mechanism we call a $bias$ $cascade$: similar individual states can lead to different actions, while agreement on isolated actions can still produce divergent outcomes through dynamic interactions. As a result,",
       "published": "2026-11-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
     },
     {
-      "title": "Language models call themselves AI but do not favor AI over people",
-      "url": "https://arxiv.org/abs/2611.33851",
-      "summary": "arXiv:2611.33851v1 Announce Type: new Abstract: Many fear that AI systems will side with one another against people. Social identity theory, which explains why people favor their own group, offers one way to examine this fear. Seen through this theory, AI would side with AI only if it treated AI as its group and favored AI over people. In three experiments, 24 language models favored a group they were assigned to, even a team of AI agents. With no group assigned, they gave a person more money and credit than an AI agent. Prompts that made them say they belong with AI changed their behavior muc",
-      "published": "2026-11-26T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "The Bundesrat corpus: A dataset of political discourse in the German Federal Council",
-      "url": "https://arxiv.org/abs/2611.33173",
-      "summary": "arXiv:2611.33173v1 Announce Type: cross Abstract: The Bundesrat is Germany's second legislative chamber and a constitutional veto player within its political system. The members of the Bundesrat are delegates of state governments. Tracing the political discourse in the Bundesrat is challenging as it has a limited machine-readable corpus available. To address this issue, we present a speaker-attributed corpus of 1,067 Bundesrat plenary sessions from the chamber's first session on 7 September 1949 to 10 July 2026. In this period, a total of 53,362 speeches by 2,473 individuals were delivered in ",
-      "published": "2026-11-26T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Learning the Platform, Not the Learner: Sequencing Shortcuts in the Offline Evaluation of Educational Recommender Systems and LLM Rankers",
-      "url": "https://arxiv.org/abs/2611.33240",
-      "summary": "arXiv:2611.33240v1 Announce Type: cross Abstract: Educational recommenders are usually compared offline, by how well they predict the next activity in logs of tutoring systems, learning applications and MOOCs, where the next activity is largely decided by the platform: teachers assign problem sets, tutors draw problems until mastery, engines select questions. On eight public datasets from five platforms, we compare four structural predictors, which use nothing about the learner beyond the last activity, with ten personalised recommenders and with open-weight LLM rankers from 0.5 to 7 billion p",
-      "published": "2026-11-26T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Using AI to Simulate the Behaviour of European Populations",
-      "url": "https://arxiv.org/abs/2611.33503",
-      "summary": "arXiv:2611.33503v1 Announce Type: cross Abstract: Language models can stand in for survey respondents, but leading approaches build their simulated people from interviews or individual records. We show that a model can learn how European population groups respond from published statistics, without interviews and without training on individual records. We fine-tune an open-weight language model on more than 12 million published group-level answer distributions from about 40 European countries, setting it up to predict each group's departure from a reference distribution. On opinion surveys from",
-      "published": "2026-11-26T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Before They Were Cool: Do Early Fans Abandon Artists Who Suddenly Become Popular? Evidence from Online Music Listening",
-      "url": "https://arxiv.org/abs/2611.33619",
-      "summary": "arXiv:2611.33619v1 Announce Type: cross Abstract: Identity-signalling theory, echoed in the hipster's \"I liked them before they were cool\", expects an artist's first fans to pull away once the artist becomes popular, by leaving or by avoiding what the newcomers play. A rival account expects the event that brings the crowd to renew existing listeners' attention to the artist. We test both in the Last.fm listening histories of 594,415 users (21.1 billion plays, 2005-2013), where every play appears on the user's profile. Study 1 detects 78 crowd arrivals: months in which the number of people disc",
-      "published": "2026-11-26T00:00:00",
-      "source_name": "ArXiv – AI & Society",
-      "source_category": "ia-recherche"
-    },
-    {
-      "title": "Refusal Is Not Scored: A Coverage Limit in Content-Based Bias Evaluation",
-      "url": "https://arxiv.org/abs/2611.33690",
-      "summary": "arXiv:2611.33690v1 Announce Type: cross Abstract: Bias audits of conversational models often discard refusals (responses such as \"I can't assist with that request\") before scoring, a filtering step which is rarely examined as a measurement decision even though it determines which responses an audit is capable of evaluating. This work examines what the step removes, applying seven bias-evaluation instruments spanning both deployed paradigms, three dictionary-based and four LLM-as-judge, to two intersectional datasets of 360 generated responses each. In both datasets, the filter removed a demogr",
+      "title": "Consumer Search and Social Learning in Agentic Markets",
+      "url": "https://arxiv.org/abs/2603.25893",
+      "summary": "arXiv:2603.25893v2 Announce Type: replace-cross Abstract: Motivated by agentic markets -- where AI tools facilitate search -- we propose a model of consumer search and market-wide learning. A sequence of consumers engage in costly search to acquire progressively refined signals of product fit prior to purchase. The market observes acquired signals and post-transaction feedback thereby impacting future searches. We solve for the per-consumer optimal search policy and characterize the steady-state of the learning dynamics. Search technologies (agentic or otherwise) that reduce costs at fixed ins",
       "published": "2026-11-26T00:00:00",
       "source_name": "ArXiv – AI & Society",
       "source_category": "ia-recherche"
